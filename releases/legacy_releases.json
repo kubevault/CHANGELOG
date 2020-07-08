@@ -1,0 +1,29 @@
+{
+  "ProductLine": "KubeVault",
+  "Releases": [
+    {
+      "Release": "v0.3.0",
+      "ReleaseDate": "2020-01-13T16:50:26Z",
+      "KubernetesVersion": "1.12.x+",
+      "ReleaseURL": "https://github.com/kubevault/operator/releases/tag/v0.3.0",
+      "ChangelogURL": "https://github.com/kubevault/operator/releases/tag/v0.3.0",
+      "DocsURL": "https://kubevault.com/docs/v0.3.0"
+    },
+    {
+      "Release": "0.2.0",
+      "ReleaseDate": "2019-03-01T10:50:26Z",
+      "KubernetesVersion": "1.11.x+",
+      "ReleaseURL": "https://github.com/kubevault/operator/releases/tag/0.2.0",
+      "ChangelogURL": "https://github.com/kubevault/operator/releases/tag/0.2.0",
+      "DocsURL": "https://kubevault.com/docs/0.2.0"
+    },
+    {
+      "Release": "0.1.0",
+      "ReleaseDate": "2019-03-01T10:49:06Z",
+      "KubernetesVersion": "1.11.x",
+      "ReleaseURL": "https://github.com/kubevault/operator/releases/tag/0.1.0",
+      "ChangelogURL": "https://github.com/kubevault/operator/releases/tag/0.1.0",
+      "DocsURL": "https://kubevault.com/docs/0.1.0"
+    }
+  ]
+}
