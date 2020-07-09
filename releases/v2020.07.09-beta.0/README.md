@@ -46,6 +46,26 @@
 
 
 
+## [kubevault/docs](https://github.com/kubevault/docs)
+
+### [v2020.07.09-beta.0](https://github.com/kubevault/docs/releases/tag/v2020.07.09-beta.0)
+
+- [2e11cb6](https://github.com/kubevault/docs/commit/2e11cb6) Prepare for release v2020.07.09-beta.0 (#77)
+- [c9f56bd](https://github.com/kubevault/docs/commit/c9f56bd) Update docs for kubevault/csi-driver@7da8c693 (#76)
+- [bcf2801](https://github.com/kubevault/docs/commit/bcf2801) Use pre-built liche binary (#75)
+- [62ee963](https://github.com/kubevault/docs/commit/62ee963) Update docs for kubevault/csi-driver@dad30c6d (#74)
+- [b97b62d](https://github.com/kubevault/docs/commit/b97b62d) Update docs for kubevault/cli@18ce00b2 (#73)
+- [7b4cc18](https://github.com/kubevault/docs/commit/7b4cc18) Open prs with auto merge label
+- [c7d64dd](https://github.com/kubevault/docs/commit/c7d64dd) Update docs for kubevault/operator@5ba6cfbc (#72)
+- [6097ecd](https://github.com/kubevault/docs/commit/6097ecd) Add script to open pr (#71)
+- [83c5be3](https://github.com/kubevault/docs/commit/83c5be3) Update update-release-tracker.sh
+- [7a479a8](https://github.com/kubevault/docs/commit/7a479a8) Update update-release-tracker.sh
+- [1935b60](https://github.com/kubevault/docs/commit/1935b60) Add script to update release tracker on pr merge (#70)
+- [1b67908](https://github.com/kubevault/docs/commit/1b67908) Create .kodiak.toml
+- [bc00968](https://github.com/kubevault/docs/commit/bc00968) Trigger the workflow on push or pull request
+
+
+
 ## [kubevault/installer](https://github.com/kubevault/installer)
 
 ### [v0.4.0-beta.0](https://github.com/kubevault/installer/releases/tag/v0.4.0-beta.0)

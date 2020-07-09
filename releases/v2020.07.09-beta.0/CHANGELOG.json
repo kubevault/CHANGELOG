@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2020.07.09-beta.0",
-  "release_date": "2020-07-09T12:57:54.097037338Z",
+  "release_date": "2020-07-09T13:31:43.508192289Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2020.07.09-beta.0",
   "kubernetes_version": "1.12+",
@@ -145,6 +145,68 @@
             {
               "SHA": "8933808b",
               "Subject": "Update CHANGELOG.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/docs",
+      "releases": [
+        {
+          "tag": "v2020.07.09-beta.0",
+          "commits": [
+            {
+              "SHA": "2e11cb6",
+              "Subject": "Prepare for release v2020.07.09-beta.0 (#77)"
+            },
+            {
+              "SHA": "c9f56bd",
+              "Subject": "Update docs for kubevault/csi-driver@7da8c693 (#76)"
+            },
+            {
+              "SHA": "bcf2801",
+              "Subject": "Use pre-built liche binary (#75)"
+            },
+            {
+              "SHA": "62ee963",
+              "Subject": "Update docs for kubevault/csi-driver@dad30c6d (#74)"
+            },
+            {
+              "SHA": "b97b62d",
+              "Subject": "Update docs for kubevault/cli@18ce00b2 (#73)"
+            },
+            {
+              "SHA": "7b4cc18",
+              "Subject": "Open prs with auto merge label"
+            },
+            {
+              "SHA": "c7d64dd",
+              "Subject": "Update docs for kubevault/operator@5ba6cfbc (#72)"
+            },
+            {
+              "SHA": "6097ecd",
+              "Subject": "Add script to open pr (#71)"
+            },
+            {
+              "SHA": "83c5be3",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "7a479a8",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "1935b60",
+              "Subject": "Add script to update release tracker on pr merge (#70)"
+            },
+            {
+              "SHA": "1b67908",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "bc00968",
+              "Subject": "Trigger the workflow on push or pull request"
             }
           ]
         }
