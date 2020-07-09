@@ -43,3 +43,23 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.4.0-beta.0](https://github.com/kubevault/unsealer/releases/tag/v0.4.0-beta.0)
+
+- [a9f2b9a9](https://github.com/kubevault/unsealer/commit/a9f2b9a9) Update to Kubernetes v1.18.3 (#42)
+- [e9a9c478](https://github.com/kubevault/unsealer/commit/e9a9c478) Add workflow to update docs (#41)
+- [9d14df87](https://github.com/kubevault/unsealer/commit/9d14df87) Update update-release-tracker.sh
+- [a3fcc93e](https://github.com/kubevault/unsealer/commit/a3fcc93e) Update update-release-tracker.sh
+- [082d563a](https://github.com/kubevault/unsealer/commit/082d563a) Add script to update release tracker on pr merge (#40)
+- [a34a3223](https://github.com/kubevault/unsealer/commit/a34a3223) Update .kodiak.toml
+- [9dec2281](https://github.com/kubevault/unsealer/commit/9dec2281) Update to Kubernetes v1.18.3 (#39)
+- [a14619ed](https://github.com/kubevault/unsealer/commit/a14619ed) Update to Kubernetes v1.18.3
+- [d75b330f](https://github.com/kubevault/unsealer/commit/d75b330f) Create .kodiak.toml
+- [25f62d13](https://github.com/kubevault/unsealer/commit/25f62d13) Create draft release from GitHub action (#38)
+- [6f034ad0](https://github.com/kubevault/unsealer/commit/6f034ad0) Update to Kubernetes v1.18.3 (#37)
+- [46026b28](https://github.com/kubevault/unsealer/commit/46026b28) Trigger the workflow on push or pull request
+- [d64ec4e8](https://github.com/kubevault/unsealer/commit/d64ec4e8) Update CHANGELOG.md
+
+
+

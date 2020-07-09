@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2020.07.09-beta.0",
-  "release_date": "2020-07-09T12:23:50.905052928Z",
+  "release_date": "2020-07-09T12:24:45.944030372Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2020.07.09-beta.0",
   "kubernetes_version": "1.12+",
@@ -150,6 +150,68 @@
             },
             {
               "SHA": "71c0a99f",
+              "Subject": "Update CHANGELOG.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.4.0-beta.0",
+          "commits": [
+            {
+              "SHA": "a9f2b9a9",
+              "Subject": "Update to Kubernetes v1.18.3 (#42)"
+            },
+            {
+              "SHA": "e9a9c478",
+              "Subject": "Add workflow to update docs (#41)"
+            },
+            {
+              "SHA": "9d14df87",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "a3fcc93e",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "082d563a",
+              "Subject": "Add script to update release tracker on pr merge (#40)"
+            },
+            {
+              "SHA": "a34a3223",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "9dec2281",
+              "Subject": "Update to Kubernetes v1.18.3 (#39)"
+            },
+            {
+              "SHA": "a14619ed",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "d75b330f",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "25f62d13",
+              "Subject": "Create draft release from GitHub action (#38)"
+            },
+            {
+              "SHA": "6f034ad0",
+              "Subject": "Update to Kubernetes v1.18.3 (#37)"
+            },
+            {
+              "SHA": "46026b28",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "d64ec4e8",
               "Subject": "Update CHANGELOG.md"
             }
           ]
