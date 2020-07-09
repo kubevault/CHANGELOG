@@ -1,11 +1,41 @@
 {
   "product_line": "KubeVault",
   "release": "v2020.07.09-beta.0",
-  "release_date": "2020-07-09T13:31:43.508192289Z",
+  "release_date": "2020-07-09T13:36:50.606276357Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2020.07.09-beta.0",
   "kubernetes_version": "1.12+",
   "projects": [
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2020.07.09-beta.0",
+          "commits": [
+            {
+              "SHA": "5e9d265",
+              "Subject": "Prepare for release v2020.07.09-beta.0 (#2)"
+            },
+            {
+              "SHA": "060dc50",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "27d921f",
+              "Subject": "Tag chart and app version as string for yq"
+            },
+            {
+              "SHA": "14c011d",
+              "Subject": "Add commands to update chart version"
+            },
+            {
+              "SHA": "4ddc117",
+              "Subject": "Add KubeVault bundles (#1)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubevault/cli",
       "releases": [
