@@ -22,6 +22,30 @@
 
 
 
+## [kubevault/csi-driver](https://github.com/kubevault/csi-driver)
+
+### [v0.4.0-beta.0](https://github.com/kubevault/csi-driver/releases/tag/v0.4.0-beta.0)
+
+- [7da8c693](https://github.com/kubevault/csi-driver/commit/7da8c693) Prepare for release v0.4.0-beta.0 (#82)
+- [e9d93f26](https://github.com/kubevault/csi-driver/commit/e9d93f26) Update to Kubernetes v1.18.3 (#81)
+- [dad30c6d](https://github.com/kubevault/csi-driver/commit/dad30c6d) Add workflow to update docs (#80)
+- [cacbb30f](https://github.com/kubevault/csi-driver/commit/cacbb30f) Update update-release-tracker.sh
+- [85b8f783](https://github.com/kubevault/csi-driver/commit/85b8f783) Update update-release-tracker.sh
+- [31d73eab](https://github.com/kubevault/csi-driver/commit/31d73eab) Add script to update release tracker on pr merge (#79)
+- [05f3068c](https://github.com/kubevault/csi-driver/commit/05f3068c) Update .kodiak.toml
+- [c5070b1b](https://github.com/kubevault/csi-driver/commit/c5070b1b) Update to Kubernetes v1.18.3 (#78)
+- [f1324880](https://github.com/kubevault/csi-driver/commit/f1324880) Update to Kubernetes v1.18.3
+- [76ebf994](https://github.com/kubevault/csi-driver/commit/76ebf994) Create .kodiak.toml
+- [1a25f254](https://github.com/kubevault/csi-driver/commit/1a25f254) Use CRD v1 for Kubernetes >= 1.16 (#77)
+- [7ba47be4](https://github.com/kubevault/csi-driver/commit/7ba47be4) Update to Kubernetes v1.18.3 (#76)
+- [f7c5e5d4](https://github.com/kubevault/csi-driver/commit/f7c5e5d4) Update api types (#75)
+- [c9caf000](https://github.com/kubevault/csi-driver/commit/c9caf000) Trigger the workflow on push or pull request
+- [a091b3d0](https://github.com/kubevault/csi-driver/commit/a091b3d0) Pass image pull secrets to helm chart
+- [460bdc7d](https://github.com/kubevault/csi-driver/commit/460bdc7d) Update README.md
+- [8933808b](https://github.com/kubevault/csi-driver/commit/8933808b) Update CHANGELOG.md
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.4.0-beta.0](https://github.com/kubevault/operator/releases/tag/v0.4.0-beta.0)
