@@ -1,6 +1,27 @@
 # KubeVault v2020.07.09-beta.0 (2020-07-09)
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.4.0-beta.0](https://github.com/kubevault/cli/releases/tag/v0.4.0-beta.0)
+
+- [d672d6d](https://github.com/kubevault/cli/commit/d672d6d) Prepare for release v0.4.0-beta.0 (#31)
+- [3795bce](https://github.com/kubevault/cli/commit/3795bce) Add request's phase from cli (#30)
+- [1e2bd37](https://github.com/kubevault/cli/commit/1e2bd37) Update workflow step name
+- [18ce00b](https://github.com/kubevault/cli/commit/18ce00b) Add workflow to update docs (#29)
+- [2767953](https://github.com/kubevault/cli/commit/2767953) Update update-release-tracker.sh
+- [8f3dbe9](https://github.com/kubevault/cli/commit/8f3dbe9) Update update-release-tracker.sh
+- [3a946a6](https://github.com/kubevault/cli/commit/3a946a6) Add script to update release tracker on pr merge (#28)
+- [0656f6d](https://github.com/kubevault/cli/commit/0656f6d) Make release non-draft
+- [cde187c](https://github.com/kubevault/cli/commit/cde187c) Update .kodiak.toml
+- [06626ea](https://github.com/kubevault/cli/commit/06626ea) Create .kodiak.toml
+- [724552d](https://github.com/kubevault/cli/commit/724552d) Add blank line after license header (#27)
+- [87f1090](https://github.com/kubevault/cli/commit/87f1090) Update dependencies (#26)
+- [11f6a44](https://github.com/kubevault/cli/commit/11f6a44) Update to Kubernetes v1.18.3 (#25)
+- [6024a30](https://github.com/kubevault/cli/commit/6024a30) Update api types (#24)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.4.0-beta.0](https://github.com/kubevault/operator/releases/tag/v0.4.0-beta.0)

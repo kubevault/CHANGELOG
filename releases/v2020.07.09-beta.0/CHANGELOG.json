@@ -1,11 +1,77 @@
 {
   "product_line": "KubeVault",
   "release": "v2020.07.09-beta.0",
-  "release_date": "2020-07-09T12:24:45.944030372Z",
+  "release_date": "2020-07-09T12:30:12.649547396Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2020.07.09-beta.0",
   "kubernetes_version": "1.12+",
   "projects": [
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.4.0-beta.0",
+          "commits": [
+            {
+              "SHA": "d672d6d",
+              "Subject": "Prepare for release v0.4.0-beta.0 (#31)"
+            },
+            {
+              "SHA": "3795bce",
+              "Subject": "Add request's phase from cli (#30)"
+            },
+            {
+              "SHA": "1e2bd37",
+              "Subject": "Update workflow step name"
+            },
+            {
+              "SHA": "18ce00b",
+              "Subject": "Add workflow to update docs (#29)"
+            },
+            {
+              "SHA": "2767953",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "8f3dbe9",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "3a946a6",
+              "Subject": "Add script to update release tracker on pr merge (#28)"
+            },
+            {
+              "SHA": "0656f6d",
+              "Subject": "Make release non-draft"
+            },
+            {
+              "SHA": "cde187c",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "06626ea",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "724552d",
+              "Subject": "Add blank line after license header (#27)"
+            },
+            {
+              "SHA": "87f1090",
+              "Subject": "Update dependencies (#26)"
+            },
+            {
+              "SHA": "11f6a44",
+              "Subject": "Update to Kubernetes v1.18.3 (#25)"
+            },
+            {
+              "SHA": "6024a30",
+              "Subject": "Update api types (#24)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubevault/operator",
       "releases": [
