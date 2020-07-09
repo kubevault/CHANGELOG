@@ -1,0 +1,45 @@
+# KubeVault v2020.07.09-beta.0 (2020-07-09)
+
+
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.4.0-beta.0](https://github.com/kubevault/operator/releases/tag/v0.4.0-beta.0)
+
+- [01289e5c](https://github.com/kubevault/operator/commit/01289e5c) Remove infinite loops from controllers (#274)
+- [ed9e4687](https://github.com/kubevault/operator/commit/ed9e4687) Update cloud credentials for e2e tests (#265)
+- [a194fec7](https://github.com/kubevault/operator/commit/a194fec7) Update to Kubernetes v1.18.3 (#273)
+- [80ddfc5b](https://github.com/kubevault/operator/commit/80ddfc5b) Update ci.yml
+- [b2878d97](https://github.com/kubevault/operator/commit/b2878d97) Update workflow name
+- [5ba6cfbc](https://github.com/kubevault/operator/commit/5ba6cfbc) Add workflow to update docs (#271)
+- [184a9c49](https://github.com/kubevault/operator/commit/184a9c49) Update update-release-tracker.sh
+- [892fad2d](https://github.com/kubevault/operator/commit/892fad2d) Update update-release-tracker.sh
+- [399f7635](https://github.com/kubevault/operator/commit/399f7635) Add script to update release tracker on pr merge (#270)
+- [23e10ff4](https://github.com/kubevault/operator/commit/23e10ff4) Update .kodiak.toml
+- [cb835798](https://github.com/kubevault/operator/commit/cb835798) Update to Kubernetes v1.18.3 (#268)
+- [92f8164c](https://github.com/kubevault/operator/commit/92f8164c) Use updated TransformSecret helpers
+- [286d641f](https://github.com/kubevault/operator/commit/286d641f) Update to Kubernetes v1.18.3
+- [10debf74](https://github.com/kubevault/operator/commit/10debf74) Create .kodiak.toml
+- [35355863](https://github.com/kubevault/operator/commit/35355863) Merge pull request #263 from kubevault/x7
+- [d76d8a10](https://github.com/kubevault/operator/commit/d76d8a10) Generate both v1beta1 and v1 CRD YAML
+- [991c9c28](https://github.com/kubevault/operator/commit/991c9c28) Fix unit tests
+- [b817c589](https://github.com/kubevault/operator/commit/b817c589) Fix linter warnings
+- [8a244c09](https://github.com/kubevault/operator/commit/8a244c09) Pass context to test methods
+- [50ee8778](https://github.com/kubevault/operator/commit/50ee8778) Merge status conditions
+- [9e4f5a8b](https://github.com/kubevault/operator/commit/9e4f5a8b) Pass context and rework status updates
+- [bdb39d0d](https://github.com/kubevault/operator/commit/bdb39d0d) Update to Kubernetes v1.18.3
+- [4e709413](https://github.com/kubevault/operator/commit/4e709413) Use standard conditions from kmodules (#261)
+- [9b92484b](https://github.com/kubevault/operator/commit/9b92484b) Fix Update***Status() helper methods (#260)
+- [9181770b](https://github.com/kubevault/operator/commit/9181770b) Update crazy-max/ghaction-docker-buildx flag
+- [3c4e3ce1](https://github.com/kubevault/operator/commit/3c4e3ce1) Use recommended kubernetes app labels (#259)
+- [36101fcc](https://github.com/kubevault/operator/commit/36101fcc) Update .env.example
+- [c754cb73](https://github.com/kubevault/operator/commit/c754cb73) Add Enum markers to api types
+- [5c25bc82](https://github.com/kubevault/operator/commit/5c25bc82) Trigger the workflow on push or pull request
+- [48f678d5](https://github.com/kubevault/operator/commit/48f678d5) Use updated operator labels in e2e tests
+- [c3e6caf1](https://github.com/kubevault/operator/commit/c3e6caf1) Use kubectl 1.17 in CI (#256)
+- [149dba20](https://github.com/kubevault/operator/commit/149dba20) Pass image pull secrets to helm chart
+- [e73e1afe](https://github.com/kubevault/operator/commit/e73e1afe) Add license scan report and status (#255)
+- [ffe6051a](https://github.com/kubevault/operator/commit/ffe6051a) Update README.md
+- [71c0a99f](https://github.com/kubevault/operator/commit/71c0a99f) Update CHANGELOG.md
+
+
+

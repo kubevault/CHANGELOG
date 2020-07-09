@@ -1,0 +1,160 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2020.07.09-beta.0",
+  "release_date": "2020-07-09T12:23:50.905052928Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2020.07.09-beta.0",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.4.0-beta.0",
+          "commits": [
+            {
+              "SHA": "01289e5c",
+              "Subject": "Remove infinite loops from controllers (#274)"
+            },
+            {
+              "SHA": "ed9e4687",
+              "Subject": "Update cloud credentials for e2e tests (#265)"
+            },
+            {
+              "SHA": "a194fec7",
+              "Subject": "Update to Kubernetes v1.18.3 (#273)"
+            },
+            {
+              "SHA": "80ddfc5b",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "b2878d97",
+              "Subject": "Update workflow name"
+            },
+            {
+              "SHA": "5ba6cfbc",
+              "Subject": "Add workflow to update docs (#271)"
+            },
+            {
+              "SHA": "184a9c49",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "892fad2d",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "399f7635",
+              "Subject": "Add script to update release tracker on pr merge (#270)"
+            },
+            {
+              "SHA": "23e10ff4",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "cb835798",
+              "Subject": "Update to Kubernetes v1.18.3 (#268)"
+            },
+            {
+              "SHA": "92f8164c",
+              "Subject": "Use updated TransformSecret helpers"
+            },
+            {
+              "SHA": "286d641f",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "10debf74",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "35355863",
+              "Subject": "Merge pull request #263 from kubevault/x7"
+            },
+            {
+              "SHA": "d76d8a10",
+              "Subject": "Generate both v1beta1 and v1 CRD YAML"
+            },
+            {
+              "SHA": "991c9c28",
+              "Subject": "Fix unit tests"
+            },
+            {
+              "SHA": "b817c589",
+              "Subject": "Fix linter warnings"
+            },
+            {
+              "SHA": "8a244c09",
+              "Subject": "Pass context to test methods"
+            },
+            {
+              "SHA": "50ee8778",
+              "Subject": "Merge status conditions"
+            },
+            {
+              "SHA": "9e4f5a8b",
+              "Subject": "Pass context and rework status updates"
+            },
+            {
+              "SHA": "bdb39d0d",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "4e709413",
+              "Subject": "Use standard conditions from kmodules (#261)"
+            },
+            {
+              "SHA": "9b92484b",
+              "Subject": "Fix Update***Status() helper methods (#260)"
+            },
+            {
+              "SHA": "9181770b",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "3c4e3ce1",
+              "Subject": "Use recommended kubernetes app labels (#259)"
+            },
+            {
+              "SHA": "36101fcc",
+              "Subject": "Update .env.example"
+            },
+            {
+              "SHA": "c754cb73",
+              "Subject": "Add Enum markers to api types"
+            },
+            {
+              "SHA": "5c25bc82",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "48f678d5",
+              "Subject": "Use updated operator labels in e2e tests"
+            },
+            {
+              "SHA": "c3e6caf1",
+              "Subject": "Use kubectl 1.17 in CI (#256)"
+            },
+            {
+              "SHA": "149dba20",
+              "Subject": "Pass image pull secrets to helm chart"
+            },
+            {
+              "SHA": "e73e1afe",
+              "Subject": "Add license scan report and status (#255)"
+            },
+            {
+              "SHA": "ffe6051a",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "71c0a99f",
+              "Subject": "Update CHANGELOG.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
