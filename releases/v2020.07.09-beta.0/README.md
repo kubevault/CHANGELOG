@@ -46,6 +46,36 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v0.4.0-beta.0](https://github.com/kubevault/installer/releases/tag/v0.4.0-beta.0)
+
+- [c2ecf31](https://github.com/kubevault/installer/commit/c2ecf31) Prepare for release v0.4.0-beta.0 (#45)
+- [c797b2c](https://github.com/kubevault/installer/commit/c797b2c) Publish to testing dir for alpha/beta releases
+- [b1a2107](https://github.com/kubevault/installer/commit/b1a2107) Add permission to delete services and secrets (#44)
+- [025425b](https://github.com/kubevault/installer/commit/025425b) Update to Kubernetes v1.18.3 (#43)
+- [0ca3cc1](https://github.com/kubevault/installer/commit/0ca3cc1) Update ci.yml
+- [e611b96](https://github.com/kubevault/installer/commit/e611b96) Tag chart and app version as string for yq
+- [71f5996](https://github.com/kubevault/installer/commit/71f5996) Update links (#42)
+- [3e96573](https://github.com/kubevault/installer/commit/3e96573) Update update-release-tracker.sh
+- [3f2e808](https://github.com/kubevault/installer/commit/3f2e808) Update update-release-tracker.sh
+- [1f9f83f](https://github.com/kubevault/installer/commit/1f9f83f) Update release.yml
+- [f8ae615](https://github.com/kubevault/installer/commit/f8ae615) Add script to update release tracker on pr merge (#41)
+- [8c94858](https://github.com/kubevault/installer/commit/8c94858) Update ci.yml
+- [8a90cf4](https://github.com/kubevault/installer/commit/8a90cf4) Update ci workflow
+- [31f593d](https://github.com/kubevault/installer/commit/31f593d) Revise update-charts rule (#40)
+- [acf626b](https://github.com/kubevault/installer/commit/acf626b) Add commands to update chart (#39)
+- [aa62d4a](https://github.com/kubevault/installer/commit/aa62d4a) Fix chart release process (#38)
+- [bcd1a52](https://github.com/kubevault/installer/commit/bcd1a52) Update .kodiak.toml
+- [82e7751](https://github.com/kubevault/installer/commit/82e7751) Update to Kubernetes v1.18.3 (#33)
+- [b5629e8](https://github.com/kubevault/installer/commit/b5629e8) Update to Kubernetes v1.18.3
+- [43b1ccd](https://github.com/kubevault/installer/commit/43b1ccd) Create .kodiak.toml
+- [3ba9834](https://github.com/kubevault/installer/commit/3ba9834) Permit configmap list/watch for delegated authentication (#31)
+- [8f5eb5e](https://github.com/kubevault/installer/commit/8f5eb5e) Update to Kubernetes v1.18.3 (#30)
+- [12d45b4](https://github.com/kubevault/installer/commit/12d45b4) Update catalog template file name
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.4.0-beta.0](https://github.com/kubevault/operator/releases/tag/v0.4.0-beta.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2020.07.09-beta.0",
-  "release_date": "2020-07-09T12:42:47.437687457Z",
+  "release_date": "2020-07-09T12:57:54.097037338Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2020.07.09-beta.0",
   "kubernetes_version": "1.12+",
@@ -145,6 +145,108 @@
             {
               "SHA": "8933808b",
               "Subject": "Update CHANGELOG.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v0.4.0-beta.0",
+          "commits": [
+            {
+              "SHA": "c2ecf31",
+              "Subject": "Prepare for release v0.4.0-beta.0 (#45)"
+            },
+            {
+              "SHA": "c797b2c",
+              "Subject": "Publish to testing dir for alpha/beta releases"
+            },
+            {
+              "SHA": "b1a2107",
+              "Subject": "Add permission to delete services and secrets (#44)"
+            },
+            {
+              "SHA": "025425b",
+              "Subject": "Update to Kubernetes v1.18.3 (#43)"
+            },
+            {
+              "SHA": "0ca3cc1",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "e611b96",
+              "Subject": "Tag chart and app version as string for yq"
+            },
+            {
+              "SHA": "71f5996",
+              "Subject": "Update links (#42)"
+            },
+            {
+              "SHA": "3e96573",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "3f2e808",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "1f9f83f",
+              "Subject": "Update release.yml"
+            },
+            {
+              "SHA": "f8ae615",
+              "Subject": "Add script to update release tracker on pr merge (#41)"
+            },
+            {
+              "SHA": "8c94858",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "8a90cf4",
+              "Subject": "Update ci workflow"
+            },
+            {
+              "SHA": "31f593d",
+              "Subject": "Revise update-charts rule (#40)"
+            },
+            {
+              "SHA": "acf626b",
+              "Subject": "Add commands to update chart (#39)"
+            },
+            {
+              "SHA": "aa62d4a",
+              "Subject": "Fix chart release process (#38)"
+            },
+            {
+              "SHA": "bcd1a52",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "82e7751",
+              "Subject": "Update to Kubernetes v1.18.3 (#33)"
+            },
+            {
+              "SHA": "b5629e8",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "43b1ccd",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "3ba9834",
+              "Subject": "Permit configmap list/watch for delegated authentication (#31)"
+            },
+            {
+              "SHA": "8f5eb5e",
+              "Subject": "Update to Kubernetes v1.18.3 (#30)"
+            },
+            {
+              "SHA": "12d45b4",
+              "Subject": "Update catalog template file name"
             }
           ]
         }
