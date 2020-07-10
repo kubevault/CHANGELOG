@@ -9,6 +9,7 @@
         "key": "vault-operator",
         "tag": "v0.4.0-beta.0",
         "chartNames": [
+          "vault-operator",
           "vault-catalog"
         ]
       }
@@ -26,14 +27,17 @@
     {
       "github.com/kubevault/csi-driver": {
         "key": "csi-vault",
-        "tag": "v0.4.0-beta.0"
+        "tag": "v0.4.0-beta.0",
+        "chartNames": [
+          "csi-vault"
+        ]
       }
     },
     {
       "github.com/kubevault/installer": {
         "tag": "v0.4.0-beta.0",
         "commands": [
-          "make update-charts CHART_VERSION=${TAG}"
+          "make update-charts CHART_VERSION=${TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}"
         ]
       }
     },
