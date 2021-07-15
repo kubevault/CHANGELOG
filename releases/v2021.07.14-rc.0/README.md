@@ -1,0 +1,357 @@
+# KubeVault v2021.07.14-rc.0 (2021-07-15)
+
+
+## [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
+
+### [v0.4.0-rc.0](https://github.com/kubevault/apimachinery/releases/tag/v0.4.0-rc.0)
+
+- [79228320](https://github.com/kubevault/apimachinery/commit/79228320) Update README.md
+- [c2cfc637](https://github.com/kubevault/apimachinery/commit/c2cfc637) Update README.md
+- [1c799056](https://github.com/kubevault/apimachinery/commit/1c799056) Only generate crd v1 yamls (#14)
+- [910a00b6](https://github.com/kubevault/apimachinery/commit/910a00b6) Add helper method for service template (#13)
+- [81f6642e](https://github.com/kubevault/apimachinery/commit/81f6642e) Add StatefulSet watcher (#12)
+- [880a2f1f](https://github.com/kubevault/apimachinery/commit/880a2f1f) Raft Vault Backend (#8)
+- [c6233d6b](https://github.com/kubevault/apimachinery/commit/c6233d6b) Update audit event publisher (#10)
+- [5ad33f62](https://github.com/kubevault/apimachinery/commit/5ad33f62) Update dependencies (#9)
+- [c7d4a289](https://github.com/kubevault/apimachinery/commit/c7d4a289) Replace go-bindata with //go:embed (#7)
+- [ee001880](https://github.com/kubevault/apimachinery/commit/ee001880) Add support for ES secret engine (#5)
+- [a0cc7d66](https://github.com/kubevault/apimachinery/commit/a0cc7d66) Update log dependency
+- [af048ed4](https://github.com/kubevault/apimachinery/commit/af048ed4) Cleanup log dependencies
+- [7e862b1e](https://github.com/kubevault/apimachinery/commit/7e862b1e) Use k8s 1.21.0 toolchain (#6)
+- [5a0081e2](https://github.com/kubevault/apimachinery/commit/5a0081e2) Revise VaultServer API
+- [09f53328](https://github.com/kubevault/apimachinery/commit/09f53328) Update crds via GitHub actions (#3)
+- [5738aa12](https://github.com/kubevault/apimachinery/commit/5738aa12) Update module path (#1)
+- [35b08605](https://github.com/kubevault/apimachinery/commit/35b08605) Add Raft Backend (#334)
+- [fc3c2168](https://github.com/kubevault/apimachinery/commit/fc3c2168) Use recommended Kubernetes app labels for offshoots (#336)
+- [6d8cc33f](https://github.com/kubevault/apimachinery/commit/6d8cc33f) feat: Key-Value Secret Engine Configuration (#306)
+- [93e3ddde](https://github.com/kubevault/apimachinery/commit/93e3ddde) fix: unify some tabs/spaces (#333)
+- [6731ec82](https://github.com/kubevault/apimachinery/commit/6731ec82) feat: bump vault/sdk (#332)
+- [549e710b](https://github.com/kubevault/apimachinery/commit/549e710b) Add auth ldap users/groups/oidc support (#269)
+- [217e2542](https://github.com/kubevault/apimachinery/commit/217e2542) AppRole support (#266)
+- [31984d48](https://github.com/kubevault/apimachinery/commit/31984d48) Update Kubernetes v1.18.9 dependencies (#328)
+- [354a8b9a](https://github.com/kubevault/apimachinery/commit/354a8b9a) Update repository config (#330)
+- [2b3ecef8](https://github.com/kubevault/apimachinery/commit/2b3ecef8) Update repository config (#329)
+- [2887094a](https://github.com/kubevault/apimachinery/commit/2887094a) Update Kubernetes v1.18.9 dependencies (#327)
+- [c6241f89](https://github.com/kubevault/apimachinery/commit/c6241f89) Update repository config (#326)
+- [193c9ab3](https://github.com/kubevault/apimachinery/commit/193c9ab3) Update Kubernetes v1.18.9 dependencies (#325)
+- [5e0397ac](https://github.com/kubevault/apimachinery/commit/5e0397ac) Update Kubernetes v1.18.9 dependencies (#324)
+- [1d8dc478](https://github.com/kubevault/apimachinery/commit/1d8dc478) Update repository config (#323)
+- [137ad084](https://github.com/kubevault/apimachinery/commit/137ad084) Update Kubernetes v1.18.9 dependencies (#322)
+- [7c8956d9](https://github.com/kubevault/apimachinery/commit/7c8956d9) Update Kubernetes v1.18.9 dependencies (#320)
+- [dd8bb6e5](https://github.com/kubevault/apimachinery/commit/dd8bb6e5) Update Kubernetes v1.18.9 dependencies (#319)
+- [a9918d81](https://github.com/kubevault/apimachinery/commit/a9918d81) Update Kubernetes v1.18.9 dependencies (#318)
+- [f1ec1261](https://github.com/kubevault/apimachinery/commit/f1ec1261) Update Kubernetes v1.18.9 dependencies (#316)
+- [145d00da](https://github.com/kubevault/apimachinery/commit/145d00da) Update Kubernetes v1.18.9 dependencies (#315)
+- [843635d5](https://github.com/kubevault/apimachinery/commit/843635d5) Update Kubernetes v1.18.9 dependencies (#314)
+- [f5331347](https://github.com/kubevault/apimachinery/commit/f5331347) Update Kubernetes v1.18.9 dependencies (#313)
+- [b502cc69](https://github.com/kubevault/apimachinery/commit/b502cc69) Update repository config (#312)
+- [356167c7](https://github.com/kubevault/apimachinery/commit/356167c7) Update repository config (#311)
+- [bd713135](https://github.com/kubevault/apimachinery/commit/bd713135) Update Kubernetes v1.18.9 dependencies (#309)
+- [1dd9ef58](https://github.com/kubevault/apimachinery/commit/1dd9ef58) Publish docker images to ghcr.io (#310)
+- [34faf04f](https://github.com/kubevault/apimachinery/commit/34faf04f) Update Kubernetes v1.18.9 dependencies (#307)
+- [fa7c4889](https://github.com/kubevault/apimachinery/commit/fa7c4889) feat: allow imagePullPolicy in server definition (#289)
+- [b4fe8ab9](https://github.com/kubevault/apimachinery/commit/b4fe8ab9) fix: conform to Kubernetes TLS key naming convention (#278)
+- [7251a54f](https://github.com/kubevault/apimachinery/commit/7251a54f) Update Kubernetes v1.18.9 dependencies (#305)
+- [311663bd](https://github.com/kubevault/apimachinery/commit/311663bd) Update Kubernetes v1.18.9 dependencies (#304)
+- [fbbfa73c](https://github.com/kubevault/apimachinery/commit/fbbfa73c) Update repository config (#303)
+- [a7e58a40](https://github.com/kubevault/apimachinery/commit/a7e58a40) Update repository config (#302)
+- [97898a69](https://github.com/kubevault/apimachinery/commit/97898a69) Update Kubernetes v1.18.9 dependencies (#301)
+- [659fd5a1](https://github.com/kubevault/apimachinery/commit/659fd5a1) Update Kubernetes v1.18.3 dependencies (#300)
+- [d17d0287](https://github.com/kubevault/apimachinery/commit/d17d0287) Update Kubernetes v1.18.3 dependencies (#299)
+- [a4d4271b](https://github.com/kubevault/apimachinery/commit/a4d4271b) Update Kubernetes v1.18.3 dependencies (#298)
+- [951c1404](https://github.com/kubevault/apimachinery/commit/951c1404) Update Kubernetes v1.18.3 dependencies (#297)
+- [da9d42fc](https://github.com/kubevault/apimachinery/commit/da9d42fc) Update Kubernetes v1.18.3 dependencies (#296)
+- [3cd1e5b4](https://github.com/kubevault/apimachinery/commit/3cd1e5b4) Update Kubernetes v1.18.3 dependencies (#295)
+- [87f6bc00](https://github.com/kubevault/apimachinery/commit/87f6bc00) Update Kubernetes v1.18.3 dependencies (#293)
+- [023a3037](https://github.com/kubevault/apimachinery/commit/023a3037) Update Kubernetes v1.18.3 dependencies (#291)
+- [3faaf3c6](https://github.com/kubevault/apimachinery/commit/3faaf3c6) Update Kubernetes v1.18.3 dependencies (#288)
+- [a9bc351f](https://github.com/kubevault/apimachinery/commit/a9bc351f) Allow configuring k8s version in e2e tests (#283)
+- [04c4ffb9](https://github.com/kubevault/apimachinery/commit/04c4ffb9) Update to Kubernetes v1.18.3 (#281)
+- [753a1232](https://github.com/kubevault/apimachinery/commit/753a1232) Trigger e2e tests on /ok-to-test command (#277)
+- [cb9a464d](https://github.com/kubevault/apimachinery/commit/cb9a464d) Update to Kubernetes v1.18.3 (#276)
+- [b9a522df](https://github.com/kubevault/apimachinery/commit/b9a522df) Update to Kubernetes v1.18.3 (#275)
+- [f333f964](https://github.com/kubevault/apimachinery/commit/f333f964) Update cloud credentials for e2e tests (#265)
+- [d54ac86b](https://github.com/kubevault/apimachinery/commit/d54ac86b) Update to Kubernetes v1.18.3 (#273)
+- [cec835f3](https://github.com/kubevault/apimachinery/commit/cec835f3) Update ci.yml
+- [17fa4d10](https://github.com/kubevault/apimachinery/commit/17fa4d10) Update workflow name
+- [692bf9da](https://github.com/kubevault/apimachinery/commit/692bf9da) Add workflow to update docs (#271)
+- [fb728188](https://github.com/kubevault/apimachinery/commit/fb728188) Update update-release-tracker.sh
+- [b8666d74](https://github.com/kubevault/apimachinery/commit/b8666d74) Update update-release-tracker.sh
+- [bc8db8e2](https://github.com/kubevault/apimachinery/commit/bc8db8e2) Add script to update release tracker on pr merge (#270)
+- [770eea2e](https://github.com/kubevault/apimachinery/commit/770eea2e) Update .kodiak.toml
+- [aa795b6f](https://github.com/kubevault/apimachinery/commit/aa795b6f) Update to Kubernetes v1.18.3 (#268)
+- [94711d90](https://github.com/kubevault/apimachinery/commit/94711d90) Update to Kubernetes v1.18.3
+- [e7b7bd8d](https://github.com/kubevault/apimachinery/commit/e7b7bd8d) Create .kodiak.toml
+- [abe7175e](https://github.com/kubevault/apimachinery/commit/abe7175e) Merge pull request #263 from kubevault/x7
+- [55586dac](https://github.com/kubevault/apimachinery/commit/55586dac) Generate both v1beta1 and v1 CRD YAML
+- [4c78651f](https://github.com/kubevault/apimachinery/commit/4c78651f) Merge status conditions
+- [0a19f991](https://github.com/kubevault/apimachinery/commit/0a19f991) Update to Kubernetes v1.18.3
+- [e1885647](https://github.com/kubevault/apimachinery/commit/e1885647) Use standard conditions from kmodules (#261)
+- [40d0d3b3](https://github.com/kubevault/apimachinery/commit/40d0d3b3) Fix Update***Status() helper methods (#260)
+- [3ec9291d](https://github.com/kubevault/apimachinery/commit/3ec9291d) Update crazy-max/ghaction-docker-buildx flag
+- [3bcbd919](https://github.com/kubevault/apimachinery/commit/3bcbd919) Use recommended kubernetes app labels (#259)
+- [6eae4b23](https://github.com/kubevault/apimachinery/commit/6eae4b23) Add Enum markers to api types
+- [32258c0a](https://github.com/kubevault/apimachinery/commit/32258c0a) Trigger the workflow on push or pull request
+- [5d8af5e6](https://github.com/kubevault/apimachinery/commit/5d8af5e6) Use updated operator labels in e2e tests
+- [1bf7785a](https://github.com/kubevault/apimachinery/commit/1bf7785a) Use kubectl 1.17 in CI (#256)
+- [db50345d](https://github.com/kubevault/apimachinery/commit/db50345d) Pass image pull secrets to helm chart
+- [13a38076](https://github.com/kubevault/apimachinery/commit/13a38076) Add license scan report and status (#255)
+- [76851156](https://github.com/kubevault/apimachinery/commit/76851156) Update README.md
+- [1c863530](https://github.com/kubevault/apimachinery/commit/1c863530) Prepare v0.3.0 release
+- [f0d78928](https://github.com/kubevault/apimachinery/commit/f0d78928) Prepare v0.3.0-rc.0 release (#254)
+- [8b5edb4c](https://github.com/kubevault/apimachinery/commit/8b5edb4c) Use Go 1.13.6
+- [158d84a8](https://github.com/kubevault/apimachinery/commit/158d84a8) Cleanup gendocs command (#253)
+- [b6001ad6](https://github.com/kubevault/apimachinery/commit/b6001ad6) Enable tests for K8s 1.11 (#252)
+- [8953ad57](https://github.com/kubevault/apimachinery/commit/8953ad57) Make volumeClaimTemplate field required (#250)
+- [659420c7](https://github.com/kubevault/apimachinery/commit/659420c7) Add volumeClaimTemplates to the filesystem backend (#248)
+- [073d2a43](https://github.com/kubevault/apimachinery/commit/073d2a43) Bring back support for k8s 1.11 (#249)
+- [9a4d315f](https://github.com/kubevault/apimachinery/commit/9a4d315f) Pass public auth config via AppBinding spec.parameters (#246)
+- [45495b1c](https://github.com/kubevault/apimachinery/commit/45495b1c) Update monitoring api (#247)
+- [bd9215e0](https://github.com/kubevault/apimachinery/commit/bd9215e0) Update vaultpolicybinding_types.go
+- [1647b4e6](https://github.com/kubevault/apimachinery/commit/1647b4e6) Use kind v0.6.1
+- [ba231cd6](https://github.com/kubevault/apimachinery/commit/ba231cd6) Stop uninstalling operation after e2e tests (#244)
+- [f90a6b8f](https://github.com/kubevault/apimachinery/commit/f90a6b8f) Change crd label to app=kubevault (#243)
+- [7e7d7c63](https://github.com/kubevault/apimachinery/commit/7e7d7c63) Delete installers and use Helm to install operator (#242)
+- [fe6e6042](https://github.com/kubevault/apimachinery/commit/fe6e6042) Mark optional fields in Installer crd (#241)
+- [37256833](https://github.com/kubevault/apimachinery/commit/37256833) charts/vault-operator: Allow specifying rather than generating c… (#238)
+- [f4b2b9f4](https://github.com/kubevault/apimachinery/commit/f4b2b9f4) Add additional printerColumn to role crds (#240)
+- [d70e550b](https://github.com/kubevault/apimachinery/commit/d70e550b) Use OwnerReference helpers from kmodules (#239)
+- [bf4a6165](https://github.com/kubevault/apimachinery/commit/bf4a6165) Add installer api CRD (#237)
+- [44746c7b](https://github.com/kubevault/apimachinery/commit/44746c7b) API review (#236)
+- [4bb0b5cb](https://github.com/kubevault/apimachinery/commit/4bb0b5cb) Update dependencies
+- [49c0bcf0](https://github.com/kubevault/apimachinery/commit/49c0bcf0) Run fuzz tests for generated API schemas (#235)
+- [415f44c0](https://github.com/kubevault/apimachinery/commit/415f44c0) Don't preserveUnknownFields (#234)
+- [7f046a7a](https://github.com/kubevault/apimachinery/commit/7f046a7a) Update client-go to kubernetes-1.16.3 (#231)
+- [d1718ca3](https://github.com/kubevault/apimachinery/commit/d1718ca3) Set namespace for cleaner job (#233)
+- [56d7b986](https://github.com/kubevault/apimachinery/commit/56d7b986) Properly handle empty image pull secret name in installer (#232)
+- [fb44d8a3](https://github.com/kubevault/apimachinery/commit/fb44d8a3) Add helper library for CRDs (#230)
+- [bc6db2ea](https://github.com/kubevault/apimachinery/commit/bc6db2ea) Use kubebuilder generated CRD yamls (#229)
+- [6cc02611](https://github.com/kubevault/apimachinery/commit/6cc02611) Use controller-tools@v0.2.2 to generate structural schema (#228)
+- [40568952](https://github.com/kubevault/apimachinery/commit/40568952) Generate protobuf files for api types (#227)
+- [74aa1714](https://github.com/kubevault/apimachinery/commit/74aa1714) Add newline after copyright header
+- [819025e0](https://github.com/kubevault/apimachinery/commit/819025e0) Test against multiple k8s versions (#224)
+- [4973481c](https://github.com/kubevault/apimachinery/commit/4973481c) Test installers (#223)
+- [7302432a](https://github.com/kubevault/apimachinery/commit/7302432a) Rename docker files
+- [fe4bb858](https://github.com/kubevault/apimachinery/commit/fe4bb858) Update Makefile
+- [bb2867cb](https://github.com/kubevault/apimachinery/commit/bb2867cb) Add license header to files (#222)
+- [976db2a9](https://github.com/kubevault/apimachinery/commit/976db2a9) Use vault-unsealer@v0.3.0 (#221)
+- [42b1b8ef](https://github.com/kubevault/apimachinery/commit/42b1b8ef) Split imports into 3 blocks (#220)
+- [90da68cc](https://github.com/kubevault/apimachinery/commit/90da68cc) Enable make ci (#219)
+- [0571dede](https://github.com/kubevault/apimachinery/commit/0571dede) Fix vault policy and policy binding (#217)
+- [34b60582](https://github.com/kubevault/apimachinery/commit/34b60582) Change status.observedGeneration to int64 (#218)
+- [34faa08b](https://github.com/kubevault/apimachinery/commit/34faa08b) Update ci.yml
+- [ff56571d](https://github.com/kubevault/apimachinery/commit/ff56571d) Verify generated files are up to date (#216)
+- [184bdc8c](https://github.com/kubevault/apimachinery/commit/184bdc8c) Use constants from kmodules.xyz/constants (#214)
+- [b219dd43](https://github.com/kubevault/apimachinery/commit/b219dd43) Update workflow trigger events (#213)
+- [036d2fbd](https://github.com/kubevault/apimachinery/commit/036d2fbd) Update Makefile
+- [874b0f99](https://github.com/kubevault/apimachinery/commit/874b0f99) Generate swagger.json (#212)
+- [4f0072f7](https://github.com/kubevault/apimachinery/commit/4f0072f7) Update release.yml
+- [504b7b7e](https://github.com/kubevault/apimachinery/commit/504b7b7e) Add release workflow (#211)
+- [d789a8ab](https://github.com/kubevault/apimachinery/commit/d789a8ab) Update Makefile
+- [2cec9fca](https://github.com/kubevault/apimachinery/commit/2cec9fca) Use helper methods for loading cloud credentials (#210)
+- [a4f0189b](https://github.com/kubevault/apimachinery/commit/a4f0189b) Run e2e tests using GitHub actions (#209)
+- [4fcb2239](https://github.com/kubevault/apimachinery/commit/4fcb2239) Update go.yml
+- [0cc4c6f8](https://github.com/kubevault/apimachinery/commit/0cc4c6f8) Download onessl version v0.13.1 for Kubernetes 1.16 fix (#208)
+- [160ba2d8](https://github.com/kubevault/apimachinery/commit/160ba2d8) Enable GitHub actions
+- [c8ace563](https://github.com/kubevault/apimachinery/commit/c8ace563) Link to the correct developer guide in docs repo (#205)
+- [48076ab2](https://github.com/kubevault/apimachinery/commit/48076ab2) Major API Revision (#204)
+- [d20edbb2](https://github.com/kubevault/apimachinery/commit/d20edbb2) Add SSmKeyPrefix option (#203)
+- [c6ca898f](https://github.com/kubevault/apimachinery/commit/c6ca898f) Fix comments
+- [15fce08f](https://github.com/kubevault/apimachinery/commit/15fce08f) Apply label to CRD yamls
+- [4ba4d39e](https://github.com/kubevault/apimachinery/commit/4ba4d39e) Add naming patterns for CRDs
+- [328a9529](https://github.com/kubevault/apimachinery/commit/328a9529) Use api folder like using kubebuilder
+- [7bd9da99](https://github.com/kubevault/apimachinery/commit/7bd9da99) Use kubebuilder to generate crd yamls (#201)
+- [1b010063](https://github.com/kubevault/apimachinery/commit/1b010063) Rename authManagerRef -> ref (#200)
+- [bd5d1b95](https://github.com/kubevault/apimachinery/commit/bd5d1b95) Make api fields consistent (#199)
+- [671c76ca](https://github.com/kubevault/apimachinery/commit/671c76ca) Update kubedb.dev/apimachinery paths (#198)
+- [9fc37cd0](https://github.com/kubevault/apimachinery/commit/9fc37cd0) Update .travis.yml (#197)
+- [f180c3db](https://github.com/kubevault/apimachinery/commit/f180c3db) Change package path to kubevault.dev/operator (#195)
+- [1f4ef4dd](https://github.com/kubevault/apimachinery/commit/1f4ef4dd) Add license header to Makefiles (#194)
+- [efe4cff6](https://github.com/kubevault/apimachinery/commit/efe4cff6) Set default securityContext.fsGroup to 65535 (#193)
+- [36f4658b](https://github.com/kubevault/apimachinery/commit/36f4658b) Add make install, uninstall, purge commands (#192)
+- [964bd5d3](https://github.com/kubevault/apimachinery/commit/964bd5d3) Allow mounting VolumeSource into vault container (#191)
+- [f238768c](https://github.com/kubevault/apimachinery/commit/f238768c) Add Makefile (#190)
+- [2192623d](https://github.com/kubevault/apimachinery/commit/2192623d) Add azure secret engine (#186)
+- [a3ea6d6e](https://github.com/kubevault/apimachinery/commit/a3ea6d6e) Add azure role crd and crd controller (#185)
+- [d698287d](https://github.com/kubevault/apimachinery/commit/d698287d) Add azure auth method (#181)
+- [03543ee9](https://github.com/kubevault/apimachinery/commit/03543ee9) Use github.com/kubedb/apimachinery@0.12.0
+- [6fcb8816](https://github.com/kubevault/apimachinery/commit/6fcb8816) Update to k8s 1.14.0 client libraries using go.mod (#184)
+- [d1ab12e8](https://github.com/kubevault/apimachinery/commit/d1ab12e8) Change different name for validators & mutators from CRD (#182)
+- [363b9bf4](https://github.com/kubevault/apimachinery/commit/363b9bf4) Add GCP secret engine
+- [deb98060](https://github.com/kubevault/apimachinery/commit/deb98060) Add GCPRole CRD Controller
+- [a0827c22](https://github.com/kubevault/apimachinery/commit/a0827c22) Add Consul Backend Support
+- [620915e8](https://github.com/kubevault/apimachinery/commit/620915e8) Add gcp auth support
+- [65ae7670](https://github.com/kubevault/apimachinery/commit/65ae7670) Update kubedb client (#180)
+- [f1e53b38](https://github.com/kubevault/apimachinery/commit/f1e53b38) Update Kubernetes client libraries to 1.13.5
+- [e870bd3b](https://github.com/kubevault/apimachinery/commit/e870bd3b) Update README.md
+- [9997a562](https://github.com/kubevault/apimachinery/commit/9997a562) Update README.md
+- [d69cb6f4](https://github.com/kubevault/apimachinery/commit/d69cb6f4) Prepare for 0.2.0 release (#174)
+- [2ca2cdcc](https://github.com/kubevault/apimachinery/commit/2ca2cdcc) Update Kubernetes client libraries to 1.13.0 (#173)
+- [3d3d33a6](https://github.com/kubevault/apimachinery/commit/3d3d33a6) Use kmodules packages directly.
+- [98051f00](https://github.com/kubevault/apimachinery/commit/98051f00) Pass pod annotation to deployment (#172)
+- [c574415f](https://github.com/kubevault/apimachinery/commit/c574415f) Don't use priority class when operator namespace is not kube-system (#171)
+- [e525b8fa](https://github.com/kubevault/apimachinery/commit/e525b8fa) Use onessl 0.10.0 (#170)
+- [572f25d2](https://github.com/kubevault/apimachinery/commit/572f25d2) Fix the case for deploying using MINGW64 for windows (#169)
+- [e4e536e9](https://github.com/kubevault/apimachinery/commit/e4e536e9) Update KubeDB dependencies to 0.10.0 (#168)
+- [1f115cef](https://github.com/kubevault/apimachinery/commit/1f115cef) Add mutating webhook for VaultServer (#166)
+- [542e1345](https://github.com/kubevault/apimachinery/commit/542e1345) Update Catalog (#165)
+- [ed2ac669](https://github.com/kubevault/apimachinery/commit/ed2ac669) Add cluster name flag in hack/deploy (#164)
+- [9afcac92](https://github.com/kubevault/apimachinery/commit/9afcac92) Create stats service for vault server (#160)
+- [824e623c](https://github.com/kubevault/apimachinery/commit/824e623c) Add appbinding user roles (#161)
+- [98ca423d](https://github.com/kubevault/apimachinery/commit/98ca423d) Remove insecureSkipTLSVerify from Unsealer (#159)
+- [d29c556f](https://github.com/kubevault/apimachinery/commit/d29c556f) Update copyright year (#158)
+- [91a13cc2](https://github.com/kubevault/apimachinery/commit/91a13cc2) Apply various fixes to chart
+- [a34761bb](https://github.com/kubevault/apimachinery/commit/a34761bb) Templatize service monitor name in chart
+- [d5c458fb](https://github.com/kubevault/apimachinery/commit/d5c458fb) Add hooks for user roles to vault operator
+- [fbda3acb](https://github.com/kubevault/apimachinery/commit/fbda3acb) Fix secret type in installer
+- [5d6c9aa4](https://github.com/kubevault/apimachinery/commit/5d6c9aa4) Rename servicemonitor template installer
+- [672dd867](https://github.com/kubevault/apimachinery/commit/672dd867) Fix service monitor template in chart
+- [8046976f](https://github.com/kubevault/apimachinery/commit/8046976f) Use vault-operator.labels template in chart (#157)
+- [12cc995a](https://github.com/kubevault/apimachinery/commit/12cc995a) Create apiserver cert before applying prometheus annotations in installer
+- [bd30a17d](https://github.com/kubevault/apimachinery/commit/bd30a17d) Fix prometheus scrape annotations (#156)
+- [6d8e444b](https://github.com/kubevault/apimachinery/commit/6d8e444b) Rename --monitor-operator variable in installer script (#155)
+- [ea44041e](https://github.com/kubevault/apimachinery/commit/ea44041e) Various cleanup of installer script (#154)
+- [4a5295fb](https://github.com/kubevault/apimachinery/commit/4a5295fb) Permit specifying compute resources for the operator container. (#153)
+- [265d5cbb](https://github.com/kubevault/apimachinery/commit/265d5cbb) Use ca as CN for ca cert (#152)
+- [ed16b1da](https://github.com/kubevault/apimachinery/commit/ed16b1da) Use cluster name flag to support multi-cluster setup (#149)
+- [70794877](https://github.com/kubevault/apimachinery/commit/70794877) Add monitoring options to script installation (#147)
+- [7cf0c2bd](https://github.com/kubevault/apimachinery/commit/7cf0c2bd) Add certificate health checker (#148)
+- [254fa392](https://github.com/kubevault/apimachinery/commit/254fa392) Remove category all from VaultServerVersion crd (#146)
+- [75fbec10](https://github.com/kubevault/apimachinery/commit/75fbec10) Add monitoring on helm installation (#145)
+- [8420cc5b](https://github.com/kubevault/apimachinery/commit/8420cc5b) Fix rbac (#143)
+- [f7328ba1](https://github.com/kubevault/apimachinery/commit/f7328ba1) Handle credential and connection url via db appbinding (#142)
+- [1f1fe5c6](https://github.com/kubevault/apimachinery/commit/1f1fe5c6) Add dependency to kubedb/apimachinery to glide.yaml (#141)
+- [f313def7](https://github.com/kubevault/apimachinery/commit/f313def7) Update webhook error message format for Kubernetes 1.13+ (#140)
+- [b620b2e7](https://github.com/kubevault/apimachinery/commit/b620b2e7) Generate reference in docs repository (#139)
+- [1eedc579](https://github.com/kubevault/apimachinery/commit/1eedc579) Merge commit '0da60ddec6a0719bfbb8a2b08a2ecff85e97fefb'
+- [621fa5fb](https://github.com/kubevault/apimachinery/commit/621fa5fb) Remove openshift libraries from glide.yaml (#137)
+- [3ac9f8d2](https://github.com/kubevault/apimachinery/commit/3ac9f8d2) Add AWSAccessKeyRequest validator (#136)
+- [c449a437](https://github.com/kubevault/apimachinery/commit/c449a437) Add validation webhook xray (#135)
+- [e2c009d9](https://github.com/kubevault/apimachinery/commit/e2c009d9) Update README.md
+- [2b42b979](https://github.com/kubevault/apimachinery/commit/2b42b979) Rename api group secretengine to engine (#134)
+- [909607ff](https://github.com/kubevault/apimachinery/commit/909607ff) Use flags.DumpAll (#133)
+- [9f1859f5](https://github.com/kubevault/apimachinery/commit/9f1859f5) Add AWSAccessKeyRequest controller (#132)
+- [e91aa997](https://github.com/kubevault/apimachinery/commit/e91aa997) Add AWSRole controller (#131)
+- [dc23979f](https://github.com/kubevault/apimachinery/commit/dc23979f) Moved docs to kubevault/docs repo (#130)
+- [69ad2c94](https://github.com/kubevault/apimachinery/commit/69ad2c94) Set periodic analytics (#128)
+- [cad54833](https://github.com/kubevault/apimachinery/commit/cad54833) Update hack/deploy and add test for HA vault cluster (#125)
+- [2ffba1bf](https://github.com/kubevault/apimachinery/commit/2ffba1bf) Delete vaultserverversions.catalog.kubevault.com.yaml
+- [02627468](https://github.com/kubevault/apimachinery/commit/02627468) Revendor dependencies (#124)
+- [70d60d3b](https://github.com/kubevault/apimachinery/commit/70d60d3b) Merge DB manager (#123)
+- [738abbc8](https://github.com/kubevault/apimachinery/commit/738abbc8) Update README.md
+- [3236183c](https://github.com/kubevault/apimachinery/commit/3236183c) Use Kubevault exporter image (#122)
+- [9914c3fd](https://github.com/kubevault/apimachinery/commit/9914c3fd) Add Prometheus monitoring support via statsd_exporter (#118)
+- [3238a562](https://github.com/kubevault/apimachinery/commit/3238a562) Fix e2e and unit test (#120)
+- [81729d38](https://github.com/kubevault/apimachinery/commit/81729d38) Add Auth method controller (#119)
+- [04660532](https://github.com/kubevault/apimachinery/commit/04660532) Add support for auth methods enabled in different path (#117)
+- [de2a6fac](https://github.com/kubevault/apimachinery/commit/de2a6fac) Update kubernetes client libraries to 1.12.0 (#116)
+- [35bc8c8c](https://github.com/kubevault/apimachinery/commit/35bc8c8c) Add controller for VaultPolicyBinding (#115)
+- [f6dac864](https://github.com/kubevault/apimachinery/commit/f6dac864) Fix comment in chart (#114)
+- [b22e707d](https://github.com/kubevault/apimachinery/commit/b22e707d) Use LogLevel in chart (#113)
+- [6acdb331](https://github.com/kubevault/apimachinery/commit/6acdb331) Add controller for VaultPolicy (#112)
+- [405cf0d5](https://github.com/kubevault/apimachinery/commit/405cf0d5) Enable webhooks by default in chart (#111)
+- [edcbf7ba](https://github.com/kubevault/apimachinery/commit/edcbf7ba) Fix purging of VaultVersions xref: https://github.com/kubedb/cli/pull/311
+- [06695980](https://github.com/kubevault/apimachinery/commit/06695980) Add rbac permissions for catalog.kubevault.com (#110)
+- [696db781](https://github.com/kubevault/apimachinery/commit/696db781) Move ***Version crds to catalog.kubedb.com apigroup (#108)
+- [96171829](https://github.com/kubevault/apimachinery/commit/96171829) Update installation instructions for GKE (#107)
+- [403c419f](https://github.com/kubevault/apimachinery/commit/403c419f) Add docs - part 1 (#52)
+- [6682b293](https://github.com/kubevault/apimachinery/commit/6682b293) Update chart (#106)
+- [3c5354dd](https://github.com/kubevault/apimachinery/commit/3c5354dd) Add validation webhook (#105)
+- [a1303a6a](https://github.com/kubevault/apimachinery/commit/a1303a6a) Update docker image name
+- [400ea34d](https://github.com/kubevault/apimachinery/commit/400ea34d) Add vault server version crd (#104)
+- [efd464e2](https://github.com/kubevault/apimachinery/commit/efd464e2) Add init container for vault configuration (#103)
+- [e84e321b](https://github.com/kubevault/apimachinery/commit/e84e321b) Add ensure operation, cleaup unused code (#101)
+- [9c751fda](https://github.com/kubevault/apimachinery/commit/9c751fda) Use kubernetes-1.11.3 (#102)
+- [36f2fa8f](https://github.com/kubevault/apimachinery/commit/36f2fa8f) Add revendor() to make.py
+- [66c87791](https://github.com/kubevault/apimachinery/commit/66c87791) Generate crd yamls with fixed IntHash schema (#100)
+- [bf71b91a](https://github.com/kubevault/apimachinery/commit/bf71b91a) Use IntHash as status.observedGeneration (#99)
+- [30fa01b4](https://github.com/kubevault/apimachinery/commit/30fa01b4) Various improvements (#89)
+- [93cc5d79](https://github.com/kubevault/apimachinery/commit/93cc5d79) Add support for swift storage (#98)
+- [5b547c6c](https://github.com/kubevault/apimachinery/commit/5b547c6c) fix github status (#97)
+- [3a71a8db](https://github.com/kubevault/apimachinery/commit/3a71a8db) Update pipeline (#96)
+- [7f883c9f](https://github.com/kubevault/apimachinery/commit/7f883c9f) Add concourse configs (#95)
+- [494fdb7c](https://github.com/kubevault/apimachinery/commit/494fdb7c) Improve Helm chart options (#94)
+- [355170f7](https://github.com/kubevault/apimachinery/commit/355170f7) Merge commit '6c666ad3915a8d74e77e3c37a0e884824be06413'
+- [94ce5f21](https://github.com/kubevault/apimachinery/commit/94ce5f21) Merge commit 'dd395466e617771a7c63e28583df5188609ccf38'
+- [231fa24a](https://github.com/kubevault/apimachinery/commit/231fa24a) Enable status sub resource for crd yamls (#92)
+- [2f7c46b0](https://github.com/kubevault/apimachinery/commit/2f7c46b0) Retry UpdateStatus calls (#91)
+- [57f92a3c](https://github.com/kubevault/apimachinery/commit/57f92a3c) Move crds to api folder (#90)
+- [3bf99494](https://github.com/kubevault/apimachinery/commit/3bf99494) Update README.md
+- [ec9f028b](https://github.com/kubevault/apimachinery/commit/ec9f028b) Correctly handle ignored openapi prefixes (#87)
+- [7dfe0cf7](https://github.com/kubevault/apimachinery/commit/7dfe0cf7) Add option for user provided tls (#86)
+- [7bc8bcb2](https://github.com/kubevault/apimachinery/commit/7bc8bcb2) Set generated binary name to vault-operator (#85)
+- [6a6b435d](https://github.com/kubevault/apimachinery/commit/6a6b435d) Use version and additional columns for crds (#83)
+- [112e477e](https://github.com/kubevault/apimachinery/commit/112e477e) Add support for dynamoDB (#82)
+- [0efdfc78](https://github.com/kubevault/apimachinery/commit/0efdfc78) Enable status subresource for crds (#81)
+- [a173c80c](https://github.com/kubevault/apimachinery/commit/a173c80c) Format shell script (#80)
+- [4ae31315](https://github.com/kubevault/apimachinery/commit/4ae31315) Merge commit '15621162a444c42ef3ac412966b9c0dd71cba919'
+- [e04ef052](https://github.com/kubevault/apimachinery/commit/e04ef052) Update client-go to v8.0.0 (#79)
+- [d7ed647e](https://github.com/kubevault/apimachinery/commit/d7ed647e) Add filesystem storage, add test and add filesystem spec doc (#78)
+- [96f99f01](https://github.com/kubevault/apimachinery/commit/96f99f01) Add mySQL storage, add test and add mySQL spec doc (#77)
+- [cecbf6dc](https://github.com/kubevault/apimachinery/commit/cecbf6dc) Add support for postgresSQL (#76)
+- [fedd1a30](https://github.com/kubevault/apimachinery/commit/fedd1a30) Support for azure storage backend and azure key vault unsealer (#71)
+- [832b29f5](https://github.com/kubevault/apimachinery/commit/832b29f5) Add aws s3 storage spec, awsKmsSsm unsealer, test and doc (#70)
+- [c00690b0](https://github.com/kubevault/apimachinery/commit/c00690b0) Update email in swagger.json
+- [76717072](https://github.com/kubevault/apimachinery/commit/76717072) Fix installer (#69)
+- [76679c4d](https://github.com/kubevault/apimachinery/commit/76679c4d) Rename org to kubevault from kube-vault (#68)
+- [a4217bf7](https://github.com/kubevault/apimachinery/commit/a4217bf7) Apply validation rules to vault server names (#67)
+- [d697272e](https://github.com/kubevault/apimachinery/commit/d697272e) Move openapi-spec to api package (#66)
+- [e8f143f9](https://github.com/kubevault/apimachinery/commit/e8f143f9) Add gcs backend storage, google kms gcs unsealer, test and doc (#65)
+- [390e7d3c](https://github.com/kubevault/apimachinery/commit/390e7d3c) Add unsealer Spec (#64)
+- [a39064a0](https://github.com/kubevault/apimachinery/commit/a39064a0) Fix badges (#62)
+- [95bdc758](https://github.com/kubevault/apimachinery/commit/95bdc758) Merge commit '0c5a3e4064e0af66b622d7db546cfb94882932e8'
+- [601cc304](https://github.com/kubevault/apimachinery/commit/601cc304) Update package path to github.com/kube-vault/operator (#61)
+- [98c1b00c](https://github.com/kubevault/apimachinery/commit/98c1b00c) Add vault controller (#53)
+- [8bed1bbc](https://github.com/kubevault/apimachinery/commit/8bed1bbc) Don't panic if admission options is nil (#59)
+- [36a590a4](https://github.com/kubevault/apimachinery/commit/36a590a4) Update rbac permissions (#56)
+- [0634165d](https://github.com/kubevault/apimachinery/commit/0634165d) Add Update***Status helpers (#55)
+- [8fc3ab23](https://github.com/kubevault/apimachinery/commit/8fc3ab23) Update client-go to v7.0.0 (#54)
+- [339e45c8](https://github.com/kubevault/apimachinery/commit/339e45c8) Update workload library (#51)
+- [a97f4f81](https://github.com/kubevault/apimachinery/commit/a97f4f81) Improve installer (#50)
+- [8f82a2b7](https://github.com/kubevault/apimachinery/commit/8f82a2b7) Fix installer (#49)
+- [8c02c897](https://github.com/kubevault/apimachinery/commit/8c02c897) Update workload client (#48)
+- [cfdb7ee3](https://github.com/kubevault/apimachinery/commit/cfdb7ee3) Update workload client (#47)
+- [fafef7c5](https://github.com/kubevault/apimachinery/commit/fafef7c5) Update workload client (#46)
+- [32a9d870](https://github.com/kubevault/apimachinery/commit/32a9d870) Add vault api (#45)
+- [a6bfb7ca](https://github.com/kubevault/apimachinery/commit/a6bfb7ca) Update workload api (#44)
+- [e915fafe](https://github.com/kubevault/apimachinery/commit/e915fafe) Switch to mutating webhook (#43)
+- [ee00b369](https://github.com/kubevault/apimachinery/commit/ee00b369) Update vault deployment (#42)
+- [d0080c2f](https://github.com/kubevault/apimachinery/commit/d0080c2f) Rename Secret to VaultSecret (#41)
+- [f6690733](https://github.com/kubevault/apimachinery/commit/f6690733) Add installer scripts (#40)
+- [16bdc1a5](https://github.com/kubevault/apimachinery/commit/16bdc1a5) Compress vault operator binary (#39)
+- [0798cbfc](https://github.com/kubevault/apimachinery/commit/0798cbfc) Rename --analytics flag (#38)
+- [845e981b](https://github.com/kubevault/apimachinery/commit/845e981b) Update docker build script (#37)
+- [cf8337d1](https://github.com/kubevault/apimachinery/commit/cf8337d1) Merge commit '37ffb4e1649bb8bcbef55ddb79c1f0faf1c5dc5c'
+- [3598a5ec](https://github.com/kubevault/apimachinery/commit/3598a5ec) Update .gitignore (#36)
+- [f843d168](https://github.com/kubevault/apimachinery/commit/f843d168) Rename api types (#35)
+- [8e7bab88](https://github.com/kubevault/apimachinery/commit/8e7bab88) Clone apis (#34)
+- [effa39fd](https://github.com/kubevault/apimachinery/commit/effa39fd) Update links (#33)
+- [72b59fc3](https://github.com/kubevault/apimachinery/commit/72b59fc3) Update chart (#32)
+- [ab2708d3](https://github.com/kubevault/apimachinery/commit/ab2708d3) Update package path (#31)
+- [615c5609](https://github.com/kubevault/apimachinery/commit/615c5609) Add travis yaml (#29)
+- [488f9c61](https://github.com/kubevault/apimachinery/commit/488f9c61) Use NewUpsertHandler
+- [ba58c573](https://github.com/kubevault/apimachinery/commit/ba58c573) Use shared informer factory (#28)
+- [58404f33](https://github.com/kubevault/apimachinery/commit/58404f33) Update release.sh
+- [ced844ed](https://github.com/kubevault/apimachinery/commit/ced844ed) Set analytics id
+- [30382e5c](https://github.com/kubevault/apimachinery/commit/30382e5c) Merge commit 'a4eda21f482d329b4dc6619a3aaa29c0db0d161a'
+- [e6509d38](https://github.com/kubevault/apimachinery/commit/e6509d38) Update client-go to v6.0.0 (#27)
+- [00a9697d](https://github.com/kubevault/apimachinery/commit/00a9697d) Add front matter for steward cli (#25)
+- [fa1d9b80](https://github.com/kubevault/apimachinery/commit/fa1d9b80) Cleanup release.sh script
+- [d2c03588](https://github.com/kubevault/apimachinery/commit/d2c03588) Merge commit '4d8375ee9a3d5a55348e628f4f1166e412e8c677'
+- [9785efad](https://github.com/kubevault/apimachinery/commit/9785efad) Add chart (#21)
+- [924a1f20](https://github.com/kubevault/apimachinery/commit/924a1f20) Revendor kutil
+- [8d858cd0](https://github.com/kubevault/apimachinery/commit/8d858cd0) Use client-go 5.x (#23)
+- [f6fd476a](https://github.com/kubevault/apimachinery/commit/f6fd476a) Update vault to 0.8.3
+- [9047e975](https://github.com/kubevault/apimachinery/commit/9047e975) Update README.md
+- [ea0006a6](https://github.com/kubevault/apimachinery/commit/ea0006a6) Update README.md
+- [e6bea69d](https://github.com/kubevault/apimachinery/commit/e6bea69d) Renew token periodically (#19)
+- [897c55e8](https://github.com/kubevault/apimachinery/commit/897c55e8) Add initializer for Controllers (#14)
+- [26e64e14](https://github.com/kubevault/apimachinery/commit/26e64e14) Revise initializers (#12)
+- [37e82399](https://github.com/kubevault/apimachinery/commit/37e82399) Fix initializers (#10)
+- [46c98ce3](https://github.com/kubevault/apimachinery/commit/46c98ce3) Implement pod initializer and finalizer (#9)
+- [f9e0fcf6](https://github.com/kubevault/apimachinery/commit/f9e0fcf6) Create vault secret for service account. (#8)
+- [7135e3b2](https://github.com/kubevault/apimachinery/commit/7135e3b2) Initial skeleton (#1)
+- [4d019d09](https://github.com/kubevault/apimachinery/commit/4d019d09) Merge commit '2b55cbba083cd47abad70528485c7c5319d071c9' as 'hack/libbuild'
+
+
+
