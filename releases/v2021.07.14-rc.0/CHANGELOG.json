@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2021.07.14-rc.0",
-  "release_date": "2021-07-15T04:53:44.993781205Z",
+  "release_date": "2021-07-15T09:45:59.588436742Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2021.07.14-rc.0",
   "kubernetes_version": "1.16+",
@@ -2327,6 +2327,404 @@
             {
               "SHA": "8933808b",
               "Subject": "Update CHANGELOG.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2021.07.14-rc.0",
+          "commits": [
+            {
+              "SHA": "54977c2",
+              "Subject": "Prepare for release v2021.07.14-rc.0 (#111)"
+            },
+            {
+              "SHA": "bb0767c",
+              "Subject": "Update kubevault operator tag"
+            },
+            {
+              "SHA": "b93e426",
+              "Subject": "Use helm v3.6.2"
+            },
+            {
+              "SHA": "1660cdd",
+              "Subject": "Fix installer chart (#110)"
+            },
+            {
+              "SHA": "1850085",
+              "Subject": "Create combined kubevault chart (#109)"
+            },
+            {
+              "SHA": "63f21b9",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "cf38d33",
+              "Subject": "Stop using deprecated admissionregistration.k8s.io/v1beta1 api (#108)"
+            },
+            {
+              "SHA": "da8e9a0",
+              "Subject": "Only use crd v1 version (#107)"
+            },
+            {
+              "SHA": "d8d9df6",
+              "Subject": "Update crds (#105)"
+            },
+            {
+              "SHA": "bd3512b",
+              "Subject": "Update CSI driver sidecar images (#104)"
+            },
+            {
+              "SHA": "060c70d",
+              "Subject": "Remove reference to DB"
+            },
+            {
+              "SHA": "05e435c",
+              "Subject": "Add support for Vault Server version upto 1.7.3 (#101)"
+            },
+            {
+              "SHA": "4bfd90e",
+              "Subject": "Sort crd YAMLs by GK"
+            },
+            {
+              "SHA": "dd0bb3f",
+              "Subject": "Merge metrics chart into crds chart"
+            },
+            {
+              "SHA": "0b6ba4b",
+              "Subject": "Require Kubernetes 1.16+"
+            },
+            {
+              "SHA": "aac5360",
+              "Subject": "Add registryFQDN and kubevault namespace (#103)"
+            },
+            {
+              "SHA": "04fa310",
+              "Subject": "Rename user-roles.yaml to metrics-user-roles.yaml"
+            },
+            {
+              "SHA": "bc8678e",
+              "Subject": "Add kubevault-metrics chart (#102)"
+            },
+            {
+              "SHA": "776d9fe",
+              "Subject": "Update chart description"
+            },
+            {
+              "SHA": "9e19129",
+              "Subject": "Fix build (#100)"
+            },
+            {
+              "SHA": "48cc7c9",
+              "Subject": "Add license verifier (#99)"
+            },
+            {
+              "SHA": "30442cb",
+              "Subject": "Revert \"Add permissions for flowcontrol API (#98)\""
+            },
+            {
+              "SHA": "6be5c12",
+              "Subject": "Add permissions for flowcontrol API (#98)"
+            },
+            {
+              "SHA": "911d375",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#97)"
+            },
+            {
+              "SHA": "87e3ec7",
+              "Subject": "Generate crd YAML file"
+            },
+            {
+              "SHA": "91d69c8",
+              "Subject": "Auto download api repo to update crds (#96)"
+            },
+            {
+              "SHA": "f840087",
+              "Subject": "Add ct.sh script (#95)"
+            },
+            {
+              "SHA": "5236ab1",
+              "Subject": "make ct (#93)"
+            },
+            {
+              "SHA": "50eb642",
+              "Subject": "Remove unused templates from chart"
+            },
+            {
+              "SHA": "155025d",
+              "Subject": "Update repository config (#92)"
+            },
+            {
+              "SHA": "e957191",
+              "Subject": "Update crds for kubevault/apimachinery@09f53328 (#91)"
+            },
+            {
+              "SHA": "61d3086",
+              "Subject": "Add open-pr.sh script (#90)"
+            },
+            {
+              "SHA": "11c5c45",
+              "Subject": "Add kubevault-crds chart (#89)"
+            },
+            {
+              "SHA": "cb16b7f",
+              "Subject": "Rename kubevault chart to kubevault-community (#88)"
+            },
+            {
+              "SHA": "d924ba6",
+              "Subject": "Skip generating YAMLs not needed for install command (#86)"
+            },
+            {
+              "SHA": "d60efde",
+              "Subject": "Update repository config (#85)"
+            },
+            {
+              "SHA": "9f01ff5",
+              "Subject": "Use AppsCode Community License (#83)"
+            },
+            {
+              "SHA": "b910712",
+              "Subject": "Update repository config (#84)"
+            },
+            {
+              "SHA": "be28b6b",
+              "Subject": "Use Statefulsets instead of deployments as Vault pods (#82)"
+            },
+            {
+              "SHA": "9cd700b",
+              "Subject": "Fix vault-operator chart"
+            },
+            {
+              "SHA": "ac8b3a4",
+              "Subject": "Speed up schema generation process (#81)"
+            },
+            {
+              "SHA": "7995678",
+              "Subject": "Update repository config (#80)"
+            },
+            {
+              "SHA": "243ecd3",
+              "Subject": "Update repository config (#79)"
+            },
+            {
+              "SHA": "6f86355",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#78)"
+            },
+            {
+              "SHA": "92ab8b7",
+              "Subject": "Use apiregistration.k8s.io/v1 (#77)"
+            },
+            {
+              "SHA": "0467764",
+              "Subject": "Update repository config (#76)"
+            },
+            {
+              "SHA": "4b71f9e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#75)"
+            },
+            {
+              "SHA": "cf86b08",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#74)"
+            },
+            {
+              "SHA": "cb0f47b",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#73)"
+            },
+            {
+              "SHA": "e177169",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#72)"
+            },
+            {
+              "SHA": "f5adf3d",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#70)"
+            },
+            {
+              "SHA": "bc7cd99",
+              "Subject": "Update repository config (#69)"
+            },
+            {
+              "SHA": "91b238c",
+              "Subject": "Update repository config (#68)"
+            },
+            {
+              "SHA": "3e39e9f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#67)"
+            },
+            {
+              "SHA": "44e18ae",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#66)"
+            },
+            {
+              "SHA": "1e172ee",
+              "Subject": "Update repository config (#65)"
+            },
+            {
+              "SHA": "42789bf",
+              "Subject": "Update repository config (#64)"
+            },
+            {
+              "SHA": "6eae6f1",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#63)"
+            },
+            {
+              "SHA": "2e0ac6a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#62)"
+            },
+            {
+              "SHA": "98ed7e5",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#61)"
+            },
+            {
+              "SHA": "65b5017",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#60)"
+            },
+            {
+              "SHA": "8e30a29",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#59)"
+            },
+            {
+              "SHA": "0fcfda6",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#58)"
+            },
+            {
+              "SHA": "0d51ba6",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#57)"
+            },
+            {
+              "SHA": "a1195df",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#55)"
+            },
+            {
+              "SHA": "63fa4c1",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#54)"
+            },
+            {
+              "SHA": "fcc714f",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#53)"
+            },
+            {
+              "SHA": "2399dd6",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#52)"
+            },
+            {
+              "SHA": "da88d4d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#51)"
+            },
+            {
+              "SHA": "b860089",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#50)"
+            },
+            {
+              "SHA": "ad6d2c2",
+              "Subject": "Update to Kubernetes v1.18.3 (#48)"
+            },
+            {
+              "SHA": "8e514f8",
+              "Subject": "Update to Kubernetes v1.18.3 (#47)"
+            },
+            {
+              "SHA": "7f8018f",
+              "Subject": "Update to Kubernetes v1.18.3 (#46)"
+            },
+            {
+              "SHA": "7591486",
+              "Subject": "Make chart registry configurable"
+            },
+            {
+              "SHA": "c2ecf31",
+              "Subject": "Prepare for release v0.4.0-beta.0 (#45)"
+            },
+            {
+              "SHA": "c797b2c",
+              "Subject": "Publish to testing dir for alpha/beta releases"
+            },
+            {
+              "SHA": "b1a2107",
+              "Subject": "Add permission to delete services and secrets (#44)"
+            },
+            {
+              "SHA": "025425b",
+              "Subject": "Update to Kubernetes v1.18.3 (#43)"
+            },
+            {
+              "SHA": "0ca3cc1",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "e611b96",
+              "Subject": "Tag chart and app version as string for yq"
+            },
+            {
+              "SHA": "71f5996",
+              "Subject": "Update links (#42)"
+            },
+            {
+              "SHA": "3e96573",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "3f2e808",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "1f9f83f",
+              "Subject": "Update release.yml"
+            },
+            {
+              "SHA": "f8ae615",
+              "Subject": "Add script to update release tracker on pr merge (#41)"
+            },
+            {
+              "SHA": "8c94858",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "8a90cf4",
+              "Subject": "Update ci workflow"
+            },
+            {
+              "SHA": "31f593d",
+              "Subject": "Revise update-charts rule (#40)"
+            },
+            {
+              "SHA": "acf626b",
+              "Subject": "Add commands to update chart (#39)"
+            },
+            {
+              "SHA": "aa62d4a",
+              "Subject": "Fix chart release process (#38)"
+            },
+            {
+              "SHA": "bcd1a52",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "82e7751",
+              "Subject": "Update to Kubernetes v1.18.3 (#33)"
+            },
+            {
+              "SHA": "b5629e8",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "43b1ccd",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "3ba9834",
+              "Subject": "Permit configmap list/watch for delegated authentication (#31)"
+            },
+            {
+              "SHA": "8f5eb5e",
+              "Subject": "Update to Kubernetes v1.18.3 (#30)"
+            },
+            {
+              "SHA": "12d45b4",
+              "Subject": "Update catalog template file name"
             }
           ]
         }
