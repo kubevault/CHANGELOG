@@ -355,6 +355,25 @@
 
 
 
+## [kubevault/bundles](https://github.com/kubevault/bundles)
+
+### [v2020.07.09-rc.0](https://github.com/kubevault/bundles/releases/tag/v2020.07.09-rc.0)
+
+- [00f98f6](https://github.com/kubevault/bundles/commit/00f98f6) Prepare for release v2020.07.09-rc.0 (#8)
+- [b1b384b](https://github.com/kubevault/bundles/commit/b1b384b) Update repository config (#7)
+- [46c05ab](https://github.com/kubevault/bundles/commit/46c05ab) Update repository config (#6)
+- [7ba4329](https://github.com/kubevault/bundles/commit/7ba4329) Update repository config (#5)
+- [350b6e8](https://github.com/kubevault/bundles/commit/350b6e8) Update repository config (#4)
+- [ec4a91e](https://github.com/kubevault/bundles/commit/ec4a91e) Update repository config (#3)
+- [82d0c35](https://github.com/kubevault/bundles/commit/82d0c35) Use testing repo for alpha/beta releases
+- [5e9d265](https://github.com/kubevault/bundles/commit/5e9d265) Prepare for release v2020.07.09-beta.0 (#2)
+- [060dc50](https://github.com/kubevault/bundles/commit/060dc50) Update ci.yml
+- [27d921f](https://github.com/kubevault/bundles/commit/27d921f) Tag chart and app version as string for yq
+- [14c011d](https://github.com/kubevault/bundles/commit/14c011d) Add commands to update chart version
+- [4ddc117](https://github.com/kubevault/bundles/commit/4ddc117) Add KubeVault bundles (#1)
+
+
+
 ## [kubevault/cli](https://github.com/kubevault/cli)
 
 ### [v0.4.0-rc.0](https://github.com/kubevault/cli/releases/tag/v0.4.0-rc.0)
