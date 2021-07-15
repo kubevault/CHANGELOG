@@ -485,6 +485,129 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.4.0-rc.0](https://github.com/kubevault/operator/releases/tag/v0.4.0-rc.0)
+
+- [c21f2ea9](https://github.com/kubevault/operator/commit/c21f2ea9) Prepare for release v0.4.0-rc.0 (#1)
+- [80b30ab0](https://github.com/kubevault/operator/commit/80b30ab0) Update readme
+- [60512f3c](https://github.com/kubevault/operator/commit/60512f3c) Fix repetitive patch of Statefulset (#356)
+- [d9e50519](https://github.com/kubevault/operator/commit/d9e50519) Add VaultServer Phases (#355)
+- [619d38bf](https://github.com/kubevault/operator/commit/619d38bf) Add support for terminationPolicy (#354)
+- [5decf23f](https://github.com/kubevault/operator/commit/5decf23f) Add Support for Vault Raft Storage Backend (#349)
+- [90686c44](https://github.com/kubevault/operator/commit/90686c44) Use kubevault namespace
+- [2f1bce13](https://github.com/kubevault/operator/commit/2f1bce13) Update audit lib (#353)
+- [05d34f43](https://github.com/kubevault/operator/commit/05d34f43) Send audit events when analytics are enabled (#352)
+- [efc8dac7](https://github.com/kubevault/operator/commit/efc8dac7) Create auditor if license file is provided (#351)
+- [0d895890](https://github.com/kubevault/operator/commit/0d895890) Publish audit events (#350)
+- [470b3aa2](https://github.com/kubevault/operator/commit/470b3aa2) Add support for ES secret engine (#347)
+- [8bd884b5](https://github.com/kubevault/operator/commit/8bd884b5) Update Kubernetes toolchain to v1.21.0 (#348)
+- [2a7da741](https://github.com/kubevault/operator/commit/2a7da741) Revise vaultserver API
+- [af4b66e8](https://github.com/kubevault/operator/commit/af4b66e8) Update repository config (#345)
+- [53c96da8](https://github.com/kubevault/operator/commit/53c96da8) Update repository config (#344)
+- [290cfb28](https://github.com/kubevault/operator/commit/290cfb28) Update Kubernetes v1.18.9 dependencies (#343)
+- [3f84dcf8](https://github.com/kubevault/operator/commit/3f84dcf8) Update Kubernetes v1.18.9 dependencies (#342)
+- [915b7af6](https://github.com/kubevault/operator/commit/915b7af6) Update repository config (#341)
+- [b998b5be](https://github.com/kubevault/operator/commit/b998b5be) Update repository config (#340)
+- [6f2b94aa](https://github.com/kubevault/operator/commit/6f2b94aa) Update Kubernetes v1.18.9 dependencies (#339)
+- [ebb9afa3](https://github.com/kubevault/operator/commit/ebb9afa3) Use AppsCode Community License (#337)
+- [0c80fdb4](https://github.com/kubevault/operator/commit/0c80fdb4) Add Raft Backend (#334)
+- [d4f5575d](https://github.com/kubevault/operator/commit/d4f5575d) Use recommended Kubernetes app labels for offshoots (#336)
+- [78556275](https://github.com/kubevault/operator/commit/78556275) Fix build (#335)
+- [14db9b72](https://github.com/kubevault/operator/commit/14db9b72) feat: Key-Value Secret Engine Configuration (#306)
+- [3bf9e1f4](https://github.com/kubevault/operator/commit/3bf9e1f4) fix: searching for token secret explicitly (#294)
+- [c5293adf](https://github.com/kubevault/operator/commit/c5293adf) fix: ClusterRoleBinding has no name(space) (#292)
+- [d2016771](https://github.com/kubevault/operator/commit/d2016771) feat: expose cacert into vault container (#287)
+- [e64d4df7](https://github.com/kubevault/operator/commit/e64d4df7) fix: unify some tabs/spaces (#333)
+- [3bbe2035](https://github.com/kubevault/operator/commit/3bbe2035) feat: bump vault/sdk (#332)
+- [3e26ad02](https://github.com/kubevault/operator/commit/3e26ad02) Add auth ldap users/groups/oidc support (#269)
+- [8709dae0](https://github.com/kubevault/operator/commit/8709dae0) AppRole support (#266)
+- [9693a2f1](https://github.com/kubevault/operator/commit/9693a2f1) Update Kubernetes v1.18.9 dependencies (#328)
+- [f5e532bc](https://github.com/kubevault/operator/commit/f5e532bc) Add support for providing custom readiness probe to vault container (#331)
+- [e64d588e](https://github.com/kubevault/operator/commit/e64d588e) Update repository config (#330)
+- [4aba3771](https://github.com/kubevault/operator/commit/4aba3771) Update repository config (#329)
+- [439739c0](https://github.com/kubevault/operator/commit/439739c0) Update Kubernetes v1.18.9 dependencies (#327)
+- [b4cb94d9](https://github.com/kubevault/operator/commit/b4cb94d9) Update repository config (#326)
+- [6499483e](https://github.com/kubevault/operator/commit/6499483e) Update Kubernetes v1.18.9 dependencies (#325)
+- [e9a7f535](https://github.com/kubevault/operator/commit/e9a7f535) Update Kubernetes v1.18.9 dependencies (#324)
+- [1694a955](https://github.com/kubevault/operator/commit/1694a955) Update repository config (#323)
+- [42267151](https://github.com/kubevault/operator/commit/42267151) Update Kubernetes v1.18.9 dependencies (#322)
+- [9a99e8ac](https://github.com/kubevault/operator/commit/9a99e8ac) Update Kubernetes v1.18.9 dependencies (#320)
+- [e4d9e635](https://github.com/kubevault/operator/commit/e4d9e635) Update Kubernetes v1.18.9 dependencies (#319)
+- [c733f5c0](https://github.com/kubevault/operator/commit/c733f5c0) Update Kubernetes v1.18.9 dependencies (#318)
+- [72084fb8](https://github.com/kubevault/operator/commit/72084fb8) Update Kubernetes v1.18.9 dependencies (#316)
+- [c768168a](https://github.com/kubevault/operator/commit/c768168a) Update Kubernetes v1.18.9 dependencies (#315)
+- [38577f01](https://github.com/kubevault/operator/commit/38577f01) Update Kubernetes v1.18.9 dependencies (#314)
+- [bdfb38b5](https://github.com/kubevault/operator/commit/bdfb38b5) Update Kubernetes v1.18.9 dependencies (#313)
+- [b46a651f](https://github.com/kubevault/operator/commit/b46a651f) Update repository config (#312)
+- [51ba0a04](https://github.com/kubevault/operator/commit/51ba0a04) Update repository config (#311)
+- [60cfdc68](https://github.com/kubevault/operator/commit/60cfdc68) Update Kubernetes v1.18.9 dependencies (#309)
+- [9e4a58a8](https://github.com/kubevault/operator/commit/9e4a58a8) Publish docker images to ghcr.io (#310)
+- [71e4ac48](https://github.com/kubevault/operator/commit/71e4ac48) Update repository config (#308)
+- [7d63715d](https://github.com/kubevault/operator/commit/7d63715d) Update Kubernetes v1.18.9 dependencies (#307)
+- [95560663](https://github.com/kubevault/operator/commit/95560663) feat: allow imagePullPolicy in server definition (#289)
+- [559c59b3](https://github.com/kubevault/operator/commit/559c59b3) vault: add more env (#284)
+- [b480b9fb](https://github.com/kubevault/operator/commit/b480b9fb) feat: refactor of big if/elif (#285)
+- [2feb7a64](https://github.com/kubevault/operator/commit/2feb7a64) fix: conform to Kubernetes TLS key naming convention (#278)
+- [bec8bb5d](https://github.com/kubevault/operator/commit/bec8bb5d) fix: typo in package name (#280)
+- [ad8ba4f5](https://github.com/kubevault/operator/commit/ad8ba4f5) fix: typo (#290)
+- [3ada572a](https://github.com/kubevault/operator/commit/3ada572a) Update Kubernetes v1.18.9 dependencies (#305)
+- [d832cef4](https://github.com/kubevault/operator/commit/d832cef4) Update Kubernetes v1.18.9 dependencies (#304)
+- [fd58a720](https://github.com/kubevault/operator/commit/fd58a720) Update repository config (#303)
+- [dc428bb5](https://github.com/kubevault/operator/commit/dc428bb5) Update repository config (#302)
+- [a281c7be](https://github.com/kubevault/operator/commit/a281c7be) Update Kubernetes v1.18.9 dependencies (#301)
+- [304bd4bc](https://github.com/kubevault/operator/commit/304bd4bc) Update Kubernetes v1.18.3 dependencies (#300)
+- [2012acbb](https://github.com/kubevault/operator/commit/2012acbb) Update Kubernetes v1.18.3 dependencies (#299)
+- [4c02e68b](https://github.com/kubevault/operator/commit/4c02e68b) Update Kubernetes v1.18.3 dependencies (#298)
+- [1082eec3](https://github.com/kubevault/operator/commit/1082eec3) Update Kubernetes v1.18.3 dependencies (#297)
+- [961720bf](https://github.com/kubevault/operator/commit/961720bf) Update Kubernetes v1.18.3 dependencies (#296)
+- [ddf7e176](https://github.com/kubevault/operator/commit/ddf7e176) Update Kubernetes v1.18.3 dependencies (#295)
+- [2381604f](https://github.com/kubevault/operator/commit/2381604f) Update Kubernetes v1.18.3 dependencies (#293)
+- [09aecb6c](https://github.com/kubevault/operator/commit/09aecb6c) Update Kubernetes v1.18.3 dependencies (#291)
+- [abdd7c58](https://github.com/kubevault/operator/commit/abdd7c58) Update Kubernetes v1.18.3 dependencies (#288)
+- [e2e2e49b](https://github.com/kubevault/operator/commit/e2e2e49b) Allow configuring k8s version in e2e tests (#283)
+- [f0dd2069](https://github.com/kubevault/operator/commit/f0dd2069) Update to Kubernetes v1.18.3 (#281)
+- [e86d96fa](https://github.com/kubevault/operator/commit/e86d96fa) Trigger e2e tests on /ok-to-test command (#277)
+- [bedc14da](https://github.com/kubevault/operator/commit/bedc14da) Update to Kubernetes v1.18.3 (#276)
+- [f4bb52b7](https://github.com/kubevault/operator/commit/f4bb52b7) Update to Kubernetes v1.18.3 (#275)
+- [01289e5c](https://github.com/kubevault/operator/commit/01289e5c) Remove infinite loops from controllers (#274)
+- [ed9e4687](https://github.com/kubevault/operator/commit/ed9e4687) Update cloud credentials for e2e tests (#265)
+- [a194fec7](https://github.com/kubevault/operator/commit/a194fec7) Update to Kubernetes v1.18.3 (#273)
+- [80ddfc5b](https://github.com/kubevault/operator/commit/80ddfc5b) Update ci.yml
+- [b2878d97](https://github.com/kubevault/operator/commit/b2878d97) Update workflow name
+- [5ba6cfbc](https://github.com/kubevault/operator/commit/5ba6cfbc) Add workflow to update docs (#271)
+- [184a9c49](https://github.com/kubevault/operator/commit/184a9c49) Update update-release-tracker.sh
+- [892fad2d](https://github.com/kubevault/operator/commit/892fad2d) Update update-release-tracker.sh
+- [399f7635](https://github.com/kubevault/operator/commit/399f7635) Add script to update release tracker on pr merge (#270)
+- [23e10ff4](https://github.com/kubevault/operator/commit/23e10ff4) Update .kodiak.toml
+- [cb835798](https://github.com/kubevault/operator/commit/cb835798) Update to Kubernetes v1.18.3 (#268)
+- [92f8164c](https://github.com/kubevault/operator/commit/92f8164c) Use updated TransformSecret helpers
+- [286d641f](https://github.com/kubevault/operator/commit/286d641f) Update to Kubernetes v1.18.3
+- [10debf74](https://github.com/kubevault/operator/commit/10debf74) Create .kodiak.toml
+- [35355863](https://github.com/kubevault/operator/commit/35355863) Merge pull request #263 from kubevault/x7
+- [d76d8a10](https://github.com/kubevault/operator/commit/d76d8a10) Generate both v1beta1 and v1 CRD YAML
+- [991c9c28](https://github.com/kubevault/operator/commit/991c9c28) Fix unit tests
+- [b817c589](https://github.com/kubevault/operator/commit/b817c589) Fix linter warnings
+- [8a244c09](https://github.com/kubevault/operator/commit/8a244c09) Pass context to test methods
+- [50ee8778](https://github.com/kubevault/operator/commit/50ee8778) Merge status conditions
+- [9e4f5a8b](https://github.com/kubevault/operator/commit/9e4f5a8b) Pass context and rework status updates
+- [bdb39d0d](https://github.com/kubevault/operator/commit/bdb39d0d) Update to Kubernetes v1.18.3
+- [4e709413](https://github.com/kubevault/operator/commit/4e709413) Use standard conditions from kmodules (#261)
+- [9b92484b](https://github.com/kubevault/operator/commit/9b92484b) Fix Update***Status() helper methods (#260)
+- [9181770b](https://github.com/kubevault/operator/commit/9181770b) Update crazy-max/ghaction-docker-buildx flag
+- [3c4e3ce1](https://github.com/kubevault/operator/commit/3c4e3ce1) Use recommended kubernetes app labels (#259)
+- [36101fcc](https://github.com/kubevault/operator/commit/36101fcc) Update .env.example
+- [c754cb73](https://github.com/kubevault/operator/commit/c754cb73) Add Enum markers to api types
+- [5c25bc82](https://github.com/kubevault/operator/commit/5c25bc82) Trigger the workflow on push or pull request
+- [48f678d5](https://github.com/kubevault/operator/commit/48f678d5) Use updated operator labels in e2e tests
+- [c3e6caf1](https://github.com/kubevault/operator/commit/c3e6caf1) Use kubectl 1.17 in CI (#256)
+- [149dba20](https://github.com/kubevault/operator/commit/149dba20) Pass image pull secrets to helm chart
+- [e73e1afe](https://github.com/kubevault/operator/commit/e73e1afe) Add license scan report and status (#255)
+- [ffe6051a](https://github.com/kubevault/operator/commit/ffe6051a) Update README.md
+- [71c0a99f](https://github.com/kubevault/operator/commit/71c0a99f) Update CHANGELOG.md
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.4.0-rc.0](https://github.com/kubevault/unsealer/releases/tag/v0.4.0-rc.0)
