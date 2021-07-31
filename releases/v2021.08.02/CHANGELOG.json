@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2021.08.02",
-  "release_date": "2021-07-31T05:50:30.713635955Z",
+  "release_date": "2021-07-31T06:17:41.390736494Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2021.08.02",
   "kubernetes_version": "1.16+",
@@ -2299,6 +2299,456 @@
             {
               "SHA": "12d45b4",
               "Subject": "Update catalog template file name"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2021.08.02",
+          "commits": [
+            {
+              "SHA": "49e6336",
+              "Subject": "Prepare for release v2021.08.02 (#365)"
+            },
+            {
+              "SHA": "7b30554",
+              "Subject": "Remove csi driver installer docs and add warning to user guides (#364)"
+            },
+            {
+              "SHA": "03d0697",
+              "Subject": "Update Kubevault docs (#362)"
+            },
+            {
+              "SHA": "184dc2a",
+              "Subject": "Use latest helm cli (#363)"
+            },
+            {
+              "SHA": "7fa60cb",
+              "Subject": "Prepare for release v2020.07.09-rc.0 (#361)"
+            },
+            {
+              "SHA": "6b30074",
+              "Subject": "Update docs for kubevault/unsealer@63103de9 (#360)"
+            },
+            {
+              "SHA": "7be9cba",
+              "Subject": "Update docs for kubevault/unsealer@a2a37db2 (#359)"
+            },
+            {
+              "SHA": "e5f1c7d",
+              "Subject": "Update docs for kubevault/cli@92ad95d1 (#358)"
+            },
+            {
+              "SHA": "6e37f9f",
+              "Subject": "Update docs for kubevault/operator@80b30ab0 (#357)"
+            },
+            {
+              "SHA": "e6f4307",
+              "Subject": "Add readme"
+            },
+            {
+              "SHA": "275df98",
+              "Subject": "update vault docs (#200)"
+            },
+            {
+              "SHA": "99498b8",
+              "Subject": "Update preview-website.yml"
+            },
+            {
+              "SHA": "53e0e6c",
+              "Subject": "Pass google custom search engine api token"
+            },
+            {
+              "SHA": "f4cf03b",
+              "Subject": "Enable website preview for pull requests (#178)"
+            },
+            {
+              "SHA": "6f6629c",
+              "Subject": "Check codespan schema (#177)"
+            },
+            {
+              "SHA": "9726b19",
+              "Subject": "Update kv csi driver page (#83)"
+            },
+            {
+              "SHA": "8023e7e",
+              "Subject": "Update link to charts source code in installer repo (#109)"
+            },
+            {
+              "SHA": "1ff3bc1",
+              "Subject": "Update labels to recommended k8s labels (#176)"
+            },
+            {
+              "SHA": "20141d8",
+              "Subject": "Update docs for kubevault/csi-driver@93b97b48 (#175)"
+            },
+            {
+              "SHA": "7e8d311",
+              "Subject": "Update docs for kubevault/csi-driver@9f8e4b9b (#163)"
+            },
+            {
+              "SHA": "05decba",
+              "Subject": "Update docs for kubevault/csi-driver@c501c8b0 (#162)"
+            },
+            {
+              "SHA": "52ece05",
+              "Subject": "Update docs for kubevault/csi-driver@f4dc93a8 (#161)"
+            },
+            {
+              "SHA": "e3855fa",
+              "Subject": "Update docs for kubevault/csi-driver@a821055c (#160)"
+            },
+            {
+              "SHA": "43241ba",
+              "Subject": "Update docs for kubevault/csi-driver@2cc2d037 (#159)"
+            },
+            {
+              "SHA": "aff0d7e",
+              "Subject": "Update docs for kubevault/csi-driver@cc63443e (#158)"
+            },
+            {
+              "SHA": "58a8a80",
+              "Subject": "Update docs for kubevault/csi-driver@5863fd24 (#157)"
+            },
+            {
+              "SHA": "d93e143",
+              "Subject": "Update docs for kubevault/csi-driver@ef0eb40a (#156)"
+            },
+            {
+              "SHA": "117c431",
+              "Subject": "Update docs for kubevault/csi-driver@132e7714 (#155)"
+            },
+            {
+              "SHA": "04c2c2c",
+              "Subject": "Update docs for kubevault/csi-driver@e40c045d (#154)"
+            },
+            {
+              "SHA": "6f1b7bb",
+              "Subject": "Update docs for kubevault/csi-driver@4020c9d9 (#153)"
+            },
+            {
+              "SHA": "4f48c46",
+              "Subject": "Update docs for kubevault/csi-driver@17802cea (#152)"
+            },
+            {
+              "SHA": "3447dab",
+              "Subject": "Update docs for kubevault/csi-driver@6d430966 (#151)"
+            },
+            {
+              "SHA": "f74cc1c",
+              "Subject": "Update docs for kubevault/csi-driver@1ed36be3 (#150)"
+            },
+            {
+              "SHA": "a8b40a9",
+              "Subject": "Update docs for kubevault/csi-driver@dfcbbac4 (#149)"
+            },
+            {
+              "SHA": "426066b",
+              "Subject": "Update docs for kubevault/csi-driver@70cfec70 (#148)"
+            },
+            {
+              "SHA": "3128838",
+              "Subject": "Update docs for kubevault/csi-driver@1936a36d (#147)"
+            },
+            {
+              "SHA": "d4bf0af",
+              "Subject": "Update docs for kubevault/csi-driver@d2680695 (#146)"
+            },
+            {
+              "SHA": "a87de9f",
+              "Subject": "Update docs for kubevault/csi-driver@2f044126 (#145)"
+            },
+            {
+              "SHA": "f42dfd4",
+              "Subject": "Update docs for kubevault/csi-driver@9bc0047a (#144)"
+            },
+            {
+              "SHA": "cb4d452",
+              "Subject": "Update docs for kubevault/csi-driver@66d27909 (#143)"
+            },
+            {
+              "SHA": "fc5868f",
+              "Subject": "Update docs for kubevault/csi-driver@904f989b (#142)"
+            },
+            {
+              "SHA": "b100c84",
+              "Subject": "Update docs for kubevault/csi-driver@f887799d (#141)"
+            },
+            {
+              "SHA": "e7b4ff1",
+              "Subject": "Update docs for kubevault/csi-driver@e91b82a2 (#140)"
+            },
+            {
+              "SHA": "d951d97",
+              "Subject": "Update docs for kubevault/csi-driver@9c87414d (#138)"
+            },
+            {
+              "SHA": "f0eba81",
+              "Subject": "Update docs for kubevault/csi-driver@78faf6f1 (#139)"
+            },
+            {
+              "SHA": "624ac17",
+              "Subject": "Update docs for kubevault/csi-driver@b03e559d (#137)"
+            },
+            {
+              "SHA": "d8c7593",
+              "Subject": "Update docs for kubevault/csi-driver@7a4231ed (#136)"
+            },
+            {
+              "SHA": "8173baa",
+              "Subject": "Update docs for kubevault/csi-driver@c47631ef (#135)"
+            },
+            {
+              "SHA": "e6d9c1e",
+              "Subject": "Update docs for kubevault/csi-driver@5d2c7806 (#134)"
+            },
+            {
+              "SHA": "7a66de4",
+              "Subject": "Update docs for kubevault/csi-driver@93bc3231 (#133)"
+            },
+            {
+              "SHA": "317d859",
+              "Subject": "Update docs for kubevault/csi-driver@3c017799 (#132)"
+            },
+            {
+              "SHA": "f053e9b",
+              "Subject": "Update docs for kubevault/csi-driver@b644cefb (#131)"
+            },
+            {
+              "SHA": "1a96ede",
+              "Subject": "Update docs for kubevault/csi-driver@8b5a49bf (#130)"
+            },
+            {
+              "SHA": "d7ad4d4",
+              "Subject": "Update docs for kubevault/csi-driver@58aaa332 (#129)"
+            },
+            {
+              "SHA": "41e97e5",
+              "Subject": "Update docs for kubevault/operator@e4d9e635 (#128)"
+            },
+            {
+              "SHA": "9cfb0a0",
+              "Subject": "Update docs for kubevault/unsealer@bdb094fa (#127)"
+            },
+            {
+              "SHA": "3ecba52",
+              "Subject": "Update docs for kubevault/csi-driver@de8f17ef (#126)"
+            },
+            {
+              "SHA": "5173354",
+              "Subject": "Update docs for kubevault/cli@b2cb424d (#125)"
+            },
+            {
+              "SHA": "c38a901",
+              "Subject": "Update docs for kubevault/csi-driver@929db682 (#124)"
+            },
+            {
+              "SHA": "b7a0063",
+              "Subject": "Update docs for kubevault/csi-driver@87792ad6 (#123)"
+            },
+            {
+              "SHA": "31bcc0c",
+              "Subject": "Update docs for kubevault/csi-driver@74bdab56 (#122)"
+            },
+            {
+              "SHA": "66a144d",
+              "Subject": "Update docs for kubevault/csi-driver@6b713492 (#121)"
+            },
+            {
+              "SHA": "aef2f22",
+              "Subject": "Update docs for kubevault/csi-driver@32f30df5 (#120)"
+            },
+            {
+              "SHA": "17d4c01",
+              "Subject": "Update docs for kubevault/csi-driver@b4fd21bc (#119)"
+            },
+            {
+              "SHA": "68f868e",
+              "Subject": "Update docs for kubevault/csi-driver@a16bf77f (#118)"
+            },
+            {
+              "SHA": "d60f42e",
+              "Subject": "Update docs for kubevault/csi-driver@1dac2d38 (#117)"
+            },
+            {
+              "SHA": "b725096",
+              "Subject": "Update docs for kubevault/csi-driver@4fe93430 (#116)"
+            },
+            {
+              "SHA": "fd90a12",
+              "Subject": "Update docs for kubevault/csi-driver@ba023341 (#115)"
+            },
+            {
+              "SHA": "5eb5a9a",
+              "Subject": "Update docs for kubevault/csi-driver@9ed82704 (#114)"
+            },
+            {
+              "SHA": "ef769fe",
+              "Subject": "Update docs for kubevault/csi-driver@0106b72e (#113)"
+            },
+            {
+              "SHA": "5c4d4e2",
+              "Subject": "Update repository config (#112)"
+            },
+            {
+              "SHA": "53224da",
+              "Subject": "Update docs for kubevault/csi-driver@b770fbb4 (#111)"
+            },
+            {
+              "SHA": "2ea94ba",
+              "Subject": "Update docs for kubevault/csi-driver@1ee8c3cc (#110)"
+            },
+            {
+              "SHA": "3358b4d",
+              "Subject": "Update docs for kubevault/csi-driver@a8dc0965 (#107)"
+            },
+            {
+              "SHA": "c0dd2c2",
+              "Subject": "Update docs for kubevault/csi-driver@21be7a63 (#106)"
+            },
+            {
+              "SHA": "89d47f5",
+              "Subject": "Update docs for kubevault/csi-driver@f46245ed (#105)"
+            },
+            {
+              "SHA": "883a455",
+              "Subject": "Update docs for kubevault/csi-driver@bce9789f (#104)"
+            },
+            {
+              "SHA": "a985aa6",
+              "Subject": "Update docs for kubevault/cli@cd5a4ddf (#103)"
+            },
+            {
+              "SHA": "213d707",
+              "Subject": "Update docs for kubevault/csi-driver@cf6451cb (#102)"
+            },
+            {
+              "SHA": "f5d2241",
+              "Subject": "Update docs for kubevault/csi-driver@2256c39b (#101)"
+            },
+            {
+              "SHA": "e00d445",
+              "Subject": "Update docs for kubevault/csi-driver@b9cfd37e (#100)"
+            },
+            {
+              "SHA": "00154d7",
+              "Subject": "Update docs for kubevault/csi-driver@daa978d4 (#99)"
+            },
+            {
+              "SHA": "4272f96",
+              "Subject": "Update docs for kubevault/csi-driver@b3c8ee91 (#98)"
+            },
+            {
+              "SHA": "6ebee5c",
+              "Subject": "Update docs for kubevault/csi-driver@b7236c41 (#97)"
+            },
+            {
+              "SHA": "d85a4f4",
+              "Subject": "Update docs for kubevault/csi-driver@dd754ac2 (#96)"
+            },
+            {
+              "SHA": "240d08c",
+              "Subject": "Update docs for kubevault/csi-driver@c2fe16f6 (#95)"
+            },
+            {
+              "SHA": "3022f19",
+              "Subject": "Update docs for kubevault/csi-driver@836ff706 (#94)"
+            },
+            {
+              "SHA": "ef57507",
+              "Subject": "Update docs for kubevault/csi-driver@26c78e75 (#93)"
+            },
+            {
+              "SHA": "26e535c",
+              "Subject": "Update docs for kubevault/csi-driver@92a6d3d1 (#92)"
+            },
+            {
+              "SHA": "4fcf213",
+              "Subject": "Update docs for kubevault/csi-driver@05dbb6d2 (#91)"
+            },
+            {
+              "SHA": "b0b3d3c",
+              "Subject": "Update docs for kubevault/csi-driver@56ab84c1 (#90)"
+            },
+            {
+              "SHA": "13f56b8",
+              "Subject": "Update docs for kubevault/csi-driver@293efbfd (#89)"
+            },
+            {
+              "SHA": "78f0b27",
+              "Subject": "Update docs for kubevault/csi-driver@9bc28ac1 (#88)"
+            },
+            {
+              "SHA": "296bcb8",
+              "Subject": "Update docs for kubevault/csi-driver@b8e9ae1f (#87)"
+            },
+            {
+              "SHA": "326c25e",
+              "Subject": "Update docs for kubevault/csi-driver@c910de41 (#86)"
+            },
+            {
+              "SHA": "91e7061",
+              "Subject": "Update docs for kubevault/csi-driver@8ced55fa (#85)"
+            },
+            {
+              "SHA": "c5245b8",
+              "Subject": "Skip checking GitHub urls (#84)"
+            },
+            {
+              "SHA": "2e11cb6",
+              "Subject": "Prepare for release v2020.07.09-beta.0 (#77)"
+            },
+            {
+              "SHA": "c9f56bd",
+              "Subject": "Update docs for kubevault/csi-driver@7da8c693 (#76)"
+            },
+            {
+              "SHA": "bcf2801",
+              "Subject": "Use pre-built liche binary (#75)"
+            },
+            {
+              "SHA": "62ee963",
+              "Subject": "Update docs for kubevault/csi-driver@dad30c6d (#74)"
+            },
+            {
+              "SHA": "b97b62d",
+              "Subject": "Update docs for kubevault/cli@18ce00b2 (#73)"
+            },
+            {
+              "SHA": "7b4cc18",
+              "Subject": "Open prs with auto merge label"
+            },
+            {
+              "SHA": "c7d64dd",
+              "Subject": "Update docs for kubevault/operator@5ba6cfbc (#72)"
+            },
+            {
+              "SHA": "6097ecd",
+              "Subject": "Add script to open pr (#71)"
+            },
+            {
+              "SHA": "83c5be3",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "7a479a8",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "1935b60",
+              "Subject": "Add script to update release tracker on pr merge (#70)"
+            },
+            {
+              "SHA": "1b67908",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "bc00968",
+              "Subject": "Trigger the workflow on push or pull request"
             }
           ]
         }
