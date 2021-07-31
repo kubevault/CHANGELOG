@@ -476,6 +476,119 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2021.08.02](https://github.com/kubevault/installer/releases/tag/v2021.08.02)
+
+- [7e69ed8](https://github.com/kubevault/installer/commit/7e69ed8) Prepare for release v2021.08.02 (#119)
+- [8cadeb5](https://github.com/kubevault/installer/commit/8cadeb5) Update dependencies (#118)
+- [ce56c90](https://github.com/kubevault/installer/commit/ce56c90) Update permission for deleting ClusterRoleBinding (#117)
+- [6544c9f](https://github.com/kubevault/installer/commit/6544c9f) Remove csi-vault chart
+- [eac9ec7](https://github.com/kubevault/installer/commit/eac9ec7) Remove csi-vault installer chart (#116)
+- [caab141](https://github.com/kubevault/installer/commit/caab141) Update vault unsealer images (#114)
+- [5657185](https://github.com/kubevault/installer/commit/5657185) Update chart docs
+- [1bf5f20](https://github.com/kubevault/installer/commit/1bf5f20) Update kubevault chart dependencies via Makefile (#113)
+- [a19a644](https://github.com/kubevault/installer/commit/a19a644) Use latest helm cli (#112)
+- [54977c2](https://github.com/kubevault/installer/commit/54977c2) Prepare for release v2021.07.14-rc.0 (#111)
+- [bb0767c](https://github.com/kubevault/installer/commit/bb0767c) Update kubevault operator tag
+- [b93e426](https://github.com/kubevault/installer/commit/b93e426) Use helm v3.6.2
+- [1660cdd](https://github.com/kubevault/installer/commit/1660cdd) Fix installer chart (#110)
+- [1850085](https://github.com/kubevault/installer/commit/1850085) Create combined kubevault chart (#109)
+- [63f21b9](https://github.com/kubevault/installer/commit/63f21b9) Update README.md
+- [cf38d33](https://github.com/kubevault/installer/commit/cf38d33) Stop using deprecated admissionregistration.k8s.io/v1beta1 api (#108)
+- [da8e9a0](https://github.com/kubevault/installer/commit/da8e9a0) Only use crd v1 version (#107)
+- [d8d9df6](https://github.com/kubevault/installer/commit/d8d9df6) Update crds (#105)
+- [bd3512b](https://github.com/kubevault/installer/commit/bd3512b) Update CSI driver sidecar images (#104)
+- [060c70d](https://github.com/kubevault/installer/commit/060c70d) Remove reference to DB
+- [05e435c](https://github.com/kubevault/installer/commit/05e435c) Add support for Vault Server version upto 1.7.3 (#101)
+- [4bfd90e](https://github.com/kubevault/installer/commit/4bfd90e) Sort crd YAMLs by GK
+- [dd0bb3f](https://github.com/kubevault/installer/commit/dd0bb3f) Merge metrics chart into crds chart
+- [0b6ba4b](https://github.com/kubevault/installer/commit/0b6ba4b) Require Kubernetes 1.16+
+- [aac5360](https://github.com/kubevault/installer/commit/aac5360) Add registryFQDN and kubevault namespace (#103)
+- [04fa310](https://github.com/kubevault/installer/commit/04fa310) Rename user-roles.yaml to metrics-user-roles.yaml
+- [bc8678e](https://github.com/kubevault/installer/commit/bc8678e) Add kubevault-metrics chart (#102)
+- [776d9fe](https://github.com/kubevault/installer/commit/776d9fe) Update chart description
+- [9e19129](https://github.com/kubevault/installer/commit/9e19129) Fix build (#100)
+- [48cc7c9](https://github.com/kubevault/installer/commit/48cc7c9) Add license verifier (#99)
+- [30442cb](https://github.com/kubevault/installer/commit/30442cb) Revert "Add permissions for flowcontrol API (#98)"
+- [6be5c12](https://github.com/kubevault/installer/commit/6be5c12) Add permissions for flowcontrol API (#98)
+- [911d375](https://github.com/kubevault/installer/commit/911d375) Update Kubernetes toolchain to v1.21.0 (#97)
+- [87e3ec7](https://github.com/kubevault/installer/commit/87e3ec7) Generate crd YAML file
+- [91d69c8](https://github.com/kubevault/installer/commit/91d69c8) Auto download api repo to update crds (#96)
+- [f840087](https://github.com/kubevault/installer/commit/f840087) Add ct.sh script (#95)
+- [5236ab1](https://github.com/kubevault/installer/commit/5236ab1) make ct (#93)
+- [50eb642](https://github.com/kubevault/installer/commit/50eb642) Remove unused templates from chart
+- [155025d](https://github.com/kubevault/installer/commit/155025d) Update repository config (#92)
+- [e957191](https://github.com/kubevault/installer/commit/e957191) Update crds for kubevault/apimachinery@09f53328 (#91)
+- [61d3086](https://github.com/kubevault/installer/commit/61d3086) Add open-pr.sh script (#90)
+- [11c5c45](https://github.com/kubevault/installer/commit/11c5c45) Add kubevault-crds chart (#89)
+- [cb16b7f](https://github.com/kubevault/installer/commit/cb16b7f) Rename kubevault chart to kubevault-community (#88)
+- [d924ba6](https://github.com/kubevault/installer/commit/d924ba6) Skip generating YAMLs not needed for install command (#86)
+- [d60efde](https://github.com/kubevault/installer/commit/d60efde) Update repository config (#85)
+- [9f01ff5](https://github.com/kubevault/installer/commit/9f01ff5) Use AppsCode Community License (#83)
+- [b910712](https://github.com/kubevault/installer/commit/b910712) Update repository config (#84)
+- [be28b6b](https://github.com/kubevault/installer/commit/be28b6b) Use Statefulsets instead of deployments as Vault pods (#82)
+- [9cd700b](https://github.com/kubevault/installer/commit/9cd700b) Fix vault-operator chart
+- [ac8b3a4](https://github.com/kubevault/installer/commit/ac8b3a4) Speed up schema generation process (#81)
+- [7995678](https://github.com/kubevault/installer/commit/7995678) Update repository config (#80)
+- [243ecd3](https://github.com/kubevault/installer/commit/243ecd3) Update repository config (#79)
+- [6f86355](https://github.com/kubevault/installer/commit/6f86355) Update Kubernetes v1.18.9 dependencies (#78)
+- [92ab8b7](https://github.com/kubevault/installer/commit/92ab8b7) Use apiregistration.k8s.io/v1 (#77)
+- [0467764](https://github.com/kubevault/installer/commit/0467764) Update repository config (#76)
+- [4b71f9e](https://github.com/kubevault/installer/commit/4b71f9e) Update Kubernetes v1.18.9 dependencies (#75)
+- [cf86b08](https://github.com/kubevault/installer/commit/cf86b08) Update Kubernetes v1.18.9 dependencies (#74)
+- [cb0f47b](https://github.com/kubevault/installer/commit/cb0f47b) Update Kubernetes v1.18.9 dependencies (#73)
+- [e177169](https://github.com/kubevault/installer/commit/e177169) Update Kubernetes v1.18.9 dependencies (#72)
+- [f5adf3d](https://github.com/kubevault/installer/commit/f5adf3d) Update Kubernetes v1.18.9 dependencies (#70)
+- [bc7cd99](https://github.com/kubevault/installer/commit/bc7cd99) Update repository config (#69)
+- [91b238c](https://github.com/kubevault/installer/commit/91b238c) Update repository config (#68)
+- [3e39e9f](https://github.com/kubevault/installer/commit/3e39e9f) Update Kubernetes v1.18.9 dependencies (#67)
+- [44e18ae](https://github.com/kubevault/installer/commit/44e18ae) Update Kubernetes v1.18.9 dependencies (#66)
+- [1e172ee](https://github.com/kubevault/installer/commit/1e172ee) Update repository config (#65)
+- [42789bf](https://github.com/kubevault/installer/commit/42789bf) Update repository config (#64)
+- [6eae6f1](https://github.com/kubevault/installer/commit/6eae6f1) Update Kubernetes v1.18.9 dependencies (#63)
+- [2e0ac6a](https://github.com/kubevault/installer/commit/2e0ac6a) Update Kubernetes v1.18.3 dependencies (#62)
+- [98ed7e5](https://github.com/kubevault/installer/commit/98ed7e5) Update Kubernetes v1.18.3 dependencies (#61)
+- [65b5017](https://github.com/kubevault/installer/commit/65b5017) Update Kubernetes v1.18.3 dependencies (#60)
+- [8e30a29](https://github.com/kubevault/installer/commit/8e30a29) Update Kubernetes v1.18.3 dependencies (#59)
+- [0fcfda6](https://github.com/kubevault/installer/commit/0fcfda6) Update Kubernetes v1.18.3 dependencies (#58)
+- [0d51ba6](https://github.com/kubevault/installer/commit/0d51ba6) Update Kubernetes v1.18.3 dependencies (#57)
+- [a1195df](https://github.com/kubevault/installer/commit/a1195df) Update Kubernetes v1.18.3 dependencies (#55)
+- [63fa4c1](https://github.com/kubevault/installer/commit/63fa4c1) Update Kubernetes v1.18.3 dependencies (#54)
+- [fcc714f](https://github.com/kubevault/installer/commit/fcc714f) Update Kubernetes v1.18.3 dependencies (#53)
+- [2399dd6](https://github.com/kubevault/installer/commit/2399dd6) Update Kubernetes v1.18.3 dependencies (#52)
+- [da88d4d](https://github.com/kubevault/installer/commit/da88d4d) Update Kubernetes v1.18.3 dependencies (#51)
+- [b860089](https://github.com/kubevault/installer/commit/b860089) Update Kubernetes v1.18.3 dependencies (#50)
+- [ad6d2c2](https://github.com/kubevault/installer/commit/ad6d2c2) Update to Kubernetes v1.18.3 (#48)
+- [8e514f8](https://github.com/kubevault/installer/commit/8e514f8) Update to Kubernetes v1.18.3 (#47)
+- [7f8018f](https://github.com/kubevault/installer/commit/7f8018f) Update to Kubernetes v1.18.3 (#46)
+- [7591486](https://github.com/kubevault/installer/commit/7591486) Make chart registry configurable
+- [c2ecf31](https://github.com/kubevault/installer/commit/c2ecf31) Prepare for release v0.4.0-beta.0 (#45)
+- [c797b2c](https://github.com/kubevault/installer/commit/c797b2c) Publish to testing dir for alpha/beta releases
+- [b1a2107](https://github.com/kubevault/installer/commit/b1a2107) Add permission to delete services and secrets (#44)
+- [025425b](https://github.com/kubevault/installer/commit/025425b) Update to Kubernetes v1.18.3 (#43)
+- [0ca3cc1](https://github.com/kubevault/installer/commit/0ca3cc1) Update ci.yml
+- [e611b96](https://github.com/kubevault/installer/commit/e611b96) Tag chart and app version as string for yq
+- [71f5996](https://github.com/kubevault/installer/commit/71f5996) Update links (#42)
+- [3e96573](https://github.com/kubevault/installer/commit/3e96573) Update update-release-tracker.sh
+- [3f2e808](https://github.com/kubevault/installer/commit/3f2e808) Update update-release-tracker.sh
+- [1f9f83f](https://github.com/kubevault/installer/commit/1f9f83f) Update release.yml
+- [f8ae615](https://github.com/kubevault/installer/commit/f8ae615) Add script to update release tracker on pr merge (#41)
+- [8c94858](https://github.com/kubevault/installer/commit/8c94858) Update ci.yml
+- [8a90cf4](https://github.com/kubevault/installer/commit/8a90cf4) Update ci workflow
+- [31f593d](https://github.com/kubevault/installer/commit/31f593d) Revise update-charts rule (#40)
+- [acf626b](https://github.com/kubevault/installer/commit/acf626b) Add commands to update chart (#39)
+- [aa62d4a](https://github.com/kubevault/installer/commit/aa62d4a) Fix chart release process (#38)
+- [bcd1a52](https://github.com/kubevault/installer/commit/bcd1a52) Update .kodiak.toml
+- [82e7751](https://github.com/kubevault/installer/commit/82e7751) Update to Kubernetes v1.18.3 (#33)
+- [b5629e8](https://github.com/kubevault/installer/commit/b5629e8) Update to Kubernetes v1.18.3
+- [43b1ccd](https://github.com/kubevault/installer/commit/43b1ccd) Create .kodiak.toml
+- [3ba9834](https://github.com/kubevault/installer/commit/3ba9834) Permit configmap list/watch for delegated authentication (#31)
+- [8f5eb5e](https://github.com/kubevault/installer/commit/8f5eb5e) Update to Kubernetes v1.18.3 (#30)
+- [12d45b4](https://github.com/kubevault/installer/commit/12d45b4) Update catalog template file name
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.4.0](https://github.com/kubevault/operator/releases/tag/v0.4.0)
