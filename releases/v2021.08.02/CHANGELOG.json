@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2021.08.02",
-  "release_date": "2021-07-31T05:35:21.001228792Z",
+  "release_date": "2021-07-31T05:40:22.112456661Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2021.08.02",
   "kubernetes_version": "1.16+",
@@ -1419,6 +1419,528 @@
             {
               "SHA": "4d019d09",
               "Subject": "Merge commit '2b55cbba083cd47abad70528485c7c5319d071c9' as 'hack/libbuild'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "ad15b48a",
+              "Subject": "Prepare for release v0.4.0 (#12)"
+            },
+            {
+              "SHA": "0087d972",
+              "Subject": "Update VaultServer mutator to set default values (#10)"
+            },
+            {
+              "SHA": "fe5a3b7d",
+              "Subject": "Update dependencies (#9)"
+            },
+            {
+              "SHA": "f7fb9565",
+              "Subject": "Fix stats-service, vaultpolicybinding patching & ClusterRoleBinding deletion issue (#8)"
+            },
+            {
+              "SHA": "e1a6d3e5",
+              "Subject": "Use client certs in exporter sidecar (#7)"
+            },
+            {
+              "SHA": "9e4d02b5",
+              "Subject": "Use certificate file paths in exporter sidecar (#6)"
+            },
+            {
+              "SHA": "368b84f5",
+              "Subject": "Make license optional for dev builds (#5)"
+            },
+            {
+              "SHA": "ead1c672",
+              "Subject": "Return nil if cert secrets are created successfully (#4)"
+            },
+            {
+              "SHA": "63285306",
+              "Subject": "Restrict to default namespace for community license (#3)"
+            },
+            {
+              "SHA": "374554d4",
+              "Subject": "Install Go in release workflow"
+            },
+            {
+              "SHA": "f4f176f6",
+              "Subject": "Stop using deprecated apis (#2)"
+            },
+            {
+              "SHA": "c4c0f934",
+              "Subject": "Fix make install command"
+            },
+            {
+              "SHA": "c21f2ea9",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#1)"
+            },
+            {
+              "SHA": "80b30ab0",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "60512f3c",
+              "Subject": "Fix repetitive patch of Statefulset (#356)"
+            },
+            {
+              "SHA": "d9e50519",
+              "Subject": "Add VaultServer Phases (#355)"
+            },
+            {
+              "SHA": "619d38bf",
+              "Subject": "Add support for terminationPolicy (#354)"
+            },
+            {
+              "SHA": "5decf23f",
+              "Subject": "Add Support for Vault Raft Storage Backend (#349)"
+            },
+            {
+              "SHA": "90686c44",
+              "Subject": "Use kubevault namespace"
+            },
+            {
+              "SHA": "2f1bce13",
+              "Subject": "Update audit lib (#353)"
+            },
+            {
+              "SHA": "05d34f43",
+              "Subject": "Send audit events when analytics are enabled (#352)"
+            },
+            {
+              "SHA": "efc8dac7",
+              "Subject": "Create auditor if license file is provided (#351)"
+            },
+            {
+              "SHA": "0d895890",
+              "Subject": "Publish audit events (#350)"
+            },
+            {
+              "SHA": "470b3aa2",
+              "Subject": "Add support for ES secret engine (#347)"
+            },
+            {
+              "SHA": "8bd884b5",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#348)"
+            },
+            {
+              "SHA": "2a7da741",
+              "Subject": "Revise vaultserver API"
+            },
+            {
+              "SHA": "af4b66e8",
+              "Subject": "Update repository config (#345)"
+            },
+            {
+              "SHA": "53c96da8",
+              "Subject": "Update repository config (#344)"
+            },
+            {
+              "SHA": "290cfb28",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#343)"
+            },
+            {
+              "SHA": "3f84dcf8",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#342)"
+            },
+            {
+              "SHA": "915b7af6",
+              "Subject": "Update repository config (#341)"
+            },
+            {
+              "SHA": "b998b5be",
+              "Subject": "Update repository config (#340)"
+            },
+            {
+              "SHA": "6f2b94aa",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#339)"
+            },
+            {
+              "SHA": "ebb9afa3",
+              "Subject": "Use AppsCode Community License (#337)"
+            },
+            {
+              "SHA": "0c80fdb4",
+              "Subject": "Add Raft Backend (#334)"
+            },
+            {
+              "SHA": "d4f5575d",
+              "Subject": "Use recommended Kubernetes app labels for offshoots (#336)"
+            },
+            {
+              "SHA": "78556275",
+              "Subject": "Fix build (#335)"
+            },
+            {
+              "SHA": "14db9b72",
+              "Subject": "feat: Key-Value Secret Engine Configuration (#306)"
+            },
+            {
+              "SHA": "3bf9e1f4",
+              "Subject": "fix: searching for token secret explicitly (#294)"
+            },
+            {
+              "SHA": "c5293adf",
+              "Subject": "fix: ClusterRoleBinding has no name(space) (#292)"
+            },
+            {
+              "SHA": "d2016771",
+              "Subject": "feat: expose cacert into vault container (#287)"
+            },
+            {
+              "SHA": "e64d4df7",
+              "Subject": "fix: unify some tabs/spaces (#333)"
+            },
+            {
+              "SHA": "3bbe2035",
+              "Subject": "feat: bump vault/sdk (#332)"
+            },
+            {
+              "SHA": "3e26ad02",
+              "Subject": "Add auth ldap users/groups/oidc support (#269)"
+            },
+            {
+              "SHA": "8709dae0",
+              "Subject": "AppRole support (#266)"
+            },
+            {
+              "SHA": "9693a2f1",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#328)"
+            },
+            {
+              "SHA": "f5e532bc",
+              "Subject": "Add support for providing custom readiness probe to vault container (#331)"
+            },
+            {
+              "SHA": "e64d588e",
+              "Subject": "Update repository config (#330)"
+            },
+            {
+              "SHA": "4aba3771",
+              "Subject": "Update repository config (#329)"
+            },
+            {
+              "SHA": "439739c0",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#327)"
+            },
+            {
+              "SHA": "b4cb94d9",
+              "Subject": "Update repository config (#326)"
+            },
+            {
+              "SHA": "6499483e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#325)"
+            },
+            {
+              "SHA": "e9a7f535",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#324)"
+            },
+            {
+              "SHA": "1694a955",
+              "Subject": "Update repository config (#323)"
+            },
+            {
+              "SHA": "42267151",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#322)"
+            },
+            {
+              "SHA": "9a99e8ac",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#320)"
+            },
+            {
+              "SHA": "e4d9e635",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#319)"
+            },
+            {
+              "SHA": "c733f5c0",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#318)"
+            },
+            {
+              "SHA": "72084fb8",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#316)"
+            },
+            {
+              "SHA": "c768168a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#315)"
+            },
+            {
+              "SHA": "38577f01",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#314)"
+            },
+            {
+              "SHA": "bdfb38b5",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#313)"
+            },
+            {
+              "SHA": "b46a651f",
+              "Subject": "Update repository config (#312)"
+            },
+            {
+              "SHA": "51ba0a04",
+              "Subject": "Update repository config (#311)"
+            },
+            {
+              "SHA": "60cfdc68",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#309)"
+            },
+            {
+              "SHA": "9e4a58a8",
+              "Subject": "Publish docker images to ghcr.io (#310)"
+            },
+            {
+              "SHA": "71e4ac48",
+              "Subject": "Update repository config (#308)"
+            },
+            {
+              "SHA": "7d63715d",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#307)"
+            },
+            {
+              "SHA": "95560663",
+              "Subject": "feat: allow imagePullPolicy in server definition (#289)"
+            },
+            {
+              "SHA": "559c59b3",
+              "Subject": "vault: add more env (#284)"
+            },
+            {
+              "SHA": "b480b9fb",
+              "Subject": "feat: refactor of big if/elif (#285)"
+            },
+            {
+              "SHA": "2feb7a64",
+              "Subject": "fix: conform to Kubernetes TLS key naming convention (#278)"
+            },
+            {
+              "SHA": "bec8bb5d",
+              "Subject": "fix: typo in package name (#280)"
+            },
+            {
+              "SHA": "ad8ba4f5",
+              "Subject": "fix: typo (#290)"
+            },
+            {
+              "SHA": "3ada572a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#305)"
+            },
+            {
+              "SHA": "d832cef4",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#304)"
+            },
+            {
+              "SHA": "fd58a720",
+              "Subject": "Update repository config (#303)"
+            },
+            {
+              "SHA": "dc428bb5",
+              "Subject": "Update repository config (#302)"
+            },
+            {
+              "SHA": "a281c7be",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#301)"
+            },
+            {
+              "SHA": "304bd4bc",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#300)"
+            },
+            {
+              "SHA": "2012acbb",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#299)"
+            },
+            {
+              "SHA": "4c02e68b",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#298)"
+            },
+            {
+              "SHA": "1082eec3",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#297)"
+            },
+            {
+              "SHA": "961720bf",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#296)"
+            },
+            {
+              "SHA": "ddf7e176",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#295)"
+            },
+            {
+              "SHA": "2381604f",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#293)"
+            },
+            {
+              "SHA": "09aecb6c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#291)"
+            },
+            {
+              "SHA": "abdd7c58",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#288)"
+            },
+            {
+              "SHA": "e2e2e49b",
+              "Subject": "Allow configuring k8s version in e2e tests (#283)"
+            },
+            {
+              "SHA": "f0dd2069",
+              "Subject": "Update to Kubernetes v1.18.3 (#281)"
+            },
+            {
+              "SHA": "e86d96fa",
+              "Subject": "Trigger e2e tests on /ok-to-test command (#277)"
+            },
+            {
+              "SHA": "bedc14da",
+              "Subject": "Update to Kubernetes v1.18.3 (#276)"
+            },
+            {
+              "SHA": "f4bb52b7",
+              "Subject": "Update to Kubernetes v1.18.3 (#275)"
+            },
+            {
+              "SHA": "01289e5c",
+              "Subject": "Remove infinite loops from controllers (#274)"
+            },
+            {
+              "SHA": "ed9e4687",
+              "Subject": "Update cloud credentials for e2e tests (#265)"
+            },
+            {
+              "SHA": "a194fec7",
+              "Subject": "Update to Kubernetes v1.18.3 (#273)"
+            },
+            {
+              "SHA": "80ddfc5b",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "b2878d97",
+              "Subject": "Update workflow name"
+            },
+            {
+              "SHA": "5ba6cfbc",
+              "Subject": "Add workflow to update docs (#271)"
+            },
+            {
+              "SHA": "184a9c49",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "892fad2d",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "399f7635",
+              "Subject": "Add script to update release tracker on pr merge (#270)"
+            },
+            {
+              "SHA": "23e10ff4",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "cb835798",
+              "Subject": "Update to Kubernetes v1.18.3 (#268)"
+            },
+            {
+              "SHA": "92f8164c",
+              "Subject": "Use updated TransformSecret helpers"
+            },
+            {
+              "SHA": "286d641f",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "10debf74",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "35355863",
+              "Subject": "Merge pull request #263 from kubevault/x7"
+            },
+            {
+              "SHA": "d76d8a10",
+              "Subject": "Generate both v1beta1 and v1 CRD YAML"
+            },
+            {
+              "SHA": "991c9c28",
+              "Subject": "Fix unit tests"
+            },
+            {
+              "SHA": "b817c589",
+              "Subject": "Fix linter warnings"
+            },
+            {
+              "SHA": "8a244c09",
+              "Subject": "Pass context to test methods"
+            },
+            {
+              "SHA": "50ee8778",
+              "Subject": "Merge status conditions"
+            },
+            {
+              "SHA": "9e4f5a8b",
+              "Subject": "Pass context and rework status updates"
+            },
+            {
+              "SHA": "bdb39d0d",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "4e709413",
+              "Subject": "Use standard conditions from kmodules (#261)"
+            },
+            {
+              "SHA": "9b92484b",
+              "Subject": "Fix Update***Status() helper methods (#260)"
+            },
+            {
+              "SHA": "9181770b",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "3c4e3ce1",
+              "Subject": "Use recommended kubernetes app labels (#259)"
+            },
+            {
+              "SHA": "36101fcc",
+              "Subject": "Update .env.example"
+            },
+            {
+              "SHA": "c754cb73",
+              "Subject": "Add Enum markers to api types"
+            },
+            {
+              "SHA": "5c25bc82",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "48f678d5",
+              "Subject": "Use updated operator labels in e2e tests"
+            },
+            {
+              "SHA": "c3e6caf1",
+              "Subject": "Use kubectl 1.17 in CI (#256)"
+            },
+            {
+              "SHA": "149dba20",
+              "Subject": "Pass image pull secrets to helm chart"
+            },
+            {
+              "SHA": "e73e1afe",
+              "Subject": "Add license scan report and status (#255)"
+            },
+            {
+              "SHA": "ffe6051a",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "71c0a99f",
+              "Subject": "Update CHANGELOG.md"
             }
           ]
         }
