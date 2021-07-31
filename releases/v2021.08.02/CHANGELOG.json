@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2021.08.02",
-  "release_date": "2021-07-31T06:17:41.390736494Z",
+  "release_date": "2021-07-31T06:22:44.674765294Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2021.08.02",
   "kubernetes_version": "1.16+",
@@ -1419,6 +1419,72 @@
             {
               "SHA": "4d019d09",
               "Subject": "Merge commit '2b55cbba083cd47abad70528485c7c5319d071c9' as 'hack/libbuild'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2021.08.02",
+          "commits": [
+            {
+              "SHA": "487ee72",
+              "Subject": "Prepare for release v2021.08.02 (#10)"
+            },
+            {
+              "SHA": "66144c0",
+              "Subject": "Update repository config (#9)"
+            },
+            {
+              "SHA": "00f98f6",
+              "Subject": "Prepare for release v2020.07.09-rc.0 (#8)"
+            },
+            {
+              "SHA": "b1b384b",
+              "Subject": "Update repository config (#7)"
+            },
+            {
+              "SHA": "46c05ab",
+              "Subject": "Update repository config (#6)"
+            },
+            {
+              "SHA": "7ba4329",
+              "Subject": "Update repository config (#5)"
+            },
+            {
+              "SHA": "350b6e8",
+              "Subject": "Update repository config (#4)"
+            },
+            {
+              "SHA": "ec4a91e",
+              "Subject": "Update repository config (#3)"
+            },
+            {
+              "SHA": "82d0c35",
+              "Subject": "Use testing repo for alpha/beta releases"
+            },
+            {
+              "SHA": "5e9d265",
+              "Subject": "Prepare for release v2020.07.09-beta.0 (#2)"
+            },
+            {
+              "SHA": "060dc50",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "27d921f",
+              "Subject": "Tag chart and app version as string for yq"
+            },
+            {
+              "SHA": "14c011d",
+              "Subject": "Add commands to update chart version"
+            },
+            {
+              "SHA": "4ddc117",
+              "Subject": "Add KubeVault bundles (#1)"
             }
           ]
         }
