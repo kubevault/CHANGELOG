@@ -6,21 +6,21 @@
   "projects": [
     {
       "github.com/kubevault/apimachinery": {
-        "tag": "v0.4.1"
+        "tag": "v0.4.0"
       },
       "github.com/kubevault/unsealer": {
         "key": "kubevault-unsealer",
-        "tag": "v0.4.1"
+        "tag": "v0.4.0"
       }
     },
     {
       "github.com/kubevault/cli": {
         "key": "kubevault-cli",
-        "tag": "v0.4.1"
+        "tag": "v0.4.0"
       },
       "github.com/kubevault/operator": {
         "key": "kubevault-operator",
-        "tag": "v0.4.1",
+        "tag": "v0.4.0",
         "chartNames": [
           "kubevault-operator"
         ]
