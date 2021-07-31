@@ -360,6 +360,122 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.4.0](https://github.com/kubevault/cli/releases/tag/v0.4.0)
+
+- [d6b8eed](https://github.com/kubevault/cli/commit/d6b8eed) Prepare for release v0.4.0 (#118)
+- [b5dedb1](https://github.com/kubevault/cli/commit/b5dedb1) Update repository config (#117)
+- [85dbd4f](https://github.com/kubevault/cli/commit/85dbd4f) Update repository config (#116)
+- [7e65654](https://github.com/kubevault/cli/commit/7e65654) Update dependencies (#115)
+- [b975866](https://github.com/kubevault/cli/commit/b975866) Fix build target
+- [39dd95d](https://github.com/kubevault/cli/commit/39dd95d) Prepare for release v0.4.0-rc.0 (#114)
+- [92ad95d](https://github.com/kubevault/cli/commit/92ad95d) Update README.md
+- [8be750f](https://github.com/kubevault/cli/commit/8be750f) Update README.md
+- [c1aab98](https://github.com/kubevault/cli/commit/c1aab98) Use kglog helpers
+- [8a35eac](https://github.com/kubevault/cli/commit/8a35eac) Clean up depdenecies
+- [f3c24c2](https://github.com/kubevault/cli/commit/f3c24c2) Use Kubernetes v1.21.0 toolchain (#113)
+- [48d3ed9](https://github.com/kubevault/cli/commit/48d3ed9) Use Kubernetes v1.21.0 toolchain (#112)
+- [76c709c](https://github.com/kubevault/cli/commit/76c709c) Use Kubernetes v1.21.0 toolchain (#111)
+- [f23be1a](https://github.com/kubevault/cli/commit/f23be1a) Use Kubernetes v1.21.0 toolchain (#110)
+- [f80b5dc](https://github.com/kubevault/cli/commit/f80b5dc) Use Kubernetes v1.21.0 toolchain (#109)
+- [48dcb2b](https://github.com/kubevault/cli/commit/48dcb2b) Use Kubernetes v1.21.0 toolchain (#108)
+- [062a763](https://github.com/kubevault/cli/commit/062a763) Update Kubernetes toolchain to v1.21.0 (#107)
+- [a35db64](https://github.com/kubevault/cli/commit/a35db64) Update Kubernetes v1.18.9 dependencies (#106)
+- [9a568de](https://github.com/kubevault/cli/commit/9a568de) Update Kubernetes v1.18.9 dependencies (#105)
+- [9c5446a](https://github.com/kubevault/cli/commit/9c5446a) Update Kubernetes v1.18.9 dependencies (#104)
+- [cfa9361](https://github.com/kubevault/cli/commit/cfa9361) Use kubevault.dev/apimachinery (#103)
+- [9b2017f](https://github.com/kubevault/cli/commit/9b2017f) Use AppsCode Community License (#102)
+- [03f21dd](https://github.com/kubevault/cli/commit/03f21dd) Update Kubernetes v1.18.9 dependencies (#101)
+- [d339c04](https://github.com/kubevault/cli/commit/d339c04) Update Kubernetes v1.18.9 dependencies (#100)
+- [716792b](https://github.com/kubevault/cli/commit/716792b) Update Kubernetes v1.18.9 dependencies (#99)
+- [9bb9b59](https://github.com/kubevault/cli/commit/9bb9b59) Update Kubernetes v1.18.9 dependencies (#98)
+- [af468d3](https://github.com/kubevault/cli/commit/af468d3) Update Kubernetes v1.18.9 dependencies (#97)
+- [955654a](https://github.com/kubevault/cli/commit/955654a) Update Kubernetes v1.18.9 dependencies (#96)
+- [8dd2afd](https://github.com/kubevault/cli/commit/8dd2afd) Update Kubernetes v1.18.9 dependencies (#95)
+- [95b0884](https://github.com/kubevault/cli/commit/95b0884) Update Kubernetes v1.18.9 dependencies (#94)
+- [610a54e](https://github.com/kubevault/cli/commit/610a54e) Update Kubernetes v1.18.9 dependencies (#93)
+- [d24b2c9](https://github.com/kubevault/cli/commit/d24b2c9) Update Kubernetes v1.18.9 dependencies (#92)
+- [fec50d3](https://github.com/kubevault/cli/commit/fec50d3) Update Kubernetes v1.18.9 dependencies (#91)
+- [5e94b81](https://github.com/kubevault/cli/commit/5e94b81) Update Kubernetes v1.18.9 dependencies (#90)
+- [fd95d33](https://github.com/kubevault/cli/commit/fd95d33) Update Kubernetes v1.18.9 dependencies (#89)
+- [8628ae0](https://github.com/kubevault/cli/commit/8628ae0) Update Kubernetes v1.18.9 dependencies (#88)
+- [c215e85](https://github.com/kubevault/cli/commit/c215e85) Update Kubernetes v1.18.9 dependencies (#87)
+- [6bae8ca](https://github.com/kubevault/cli/commit/6bae8ca) Update Kubernetes v1.18.9 dependencies (#86)
+- [a23403f](https://github.com/kubevault/cli/commit/a23403f) Update Kubernetes v1.18.9 dependencies (#85)
+- [d7e5025](https://github.com/kubevault/cli/commit/d7e5025) Update Kubernetes v1.18.9 dependencies (#84)
+- [3bf6d80](https://github.com/kubevault/cli/commit/3bf6d80) Update Kubernetes v1.18.9 dependencies (#83)
+- [5484173](https://github.com/kubevault/cli/commit/5484173) Update Kubernetes v1.18.9 dependencies (#82)
+- [f7476da](https://github.com/kubevault/cli/commit/f7476da) Update Kubernetes v1.18.9 dependencies (#81)
+- [a1879e6](https://github.com/kubevault/cli/commit/a1879e6) Update Kubernetes v1.18.9 dependencies (#80)
+- [9564d53](https://github.com/kubevault/cli/commit/9564d53) Update Kubernetes v1.18.9 dependencies (#79)
+- [d911de7](https://github.com/kubevault/cli/commit/d911de7) Update Kubernetes v1.18.9 dependencies (#78)
+- [b1207ec](https://github.com/kubevault/cli/commit/b1207ec) Update Kubernetes v1.18.9 dependencies (#77)
+- [1b453f8](https://github.com/kubevault/cli/commit/1b453f8) Update Kubernetes v1.18.9 dependencies (#76)
+- [7512363](https://github.com/kubevault/cli/commit/7512363) Update Kubernetes v1.18.9 dependencies (#75)
+- [2d69fa4](https://github.com/kubevault/cli/commit/2d69fa4) Update Kubernetes v1.18.9 dependencies (#74)
+- [ce26d68](https://github.com/kubevault/cli/commit/ce26d68) Update Kubernetes v1.18.9 dependencies (#73)
+- [5f7e5db](https://github.com/kubevault/cli/commit/5f7e5db) Update Kubernetes v1.18.9 dependencies (#72)
+- [561a39f](https://github.com/kubevault/cli/commit/561a39f) Update Kubernetes v1.18.9 dependencies (#71)
+- [f470dd7](https://github.com/kubevault/cli/commit/f470dd7) Update Kubernetes v1.18.9 dependencies (#70)
+- [77f4192](https://github.com/kubevault/cli/commit/77f4192) Update Kubernetes v1.18.9 dependencies (#69)
+- [bd18155](https://github.com/kubevault/cli/commit/bd18155) Update Kubernetes v1.18.9 dependencies (#68)
+- [dabf444](https://github.com/kubevault/cli/commit/dabf444) Update Kubernetes v1.18.9 dependencies (#67)
+- [83a5f18](https://github.com/kubevault/cli/commit/83a5f18) Update Kubernetes v1.18.9 dependencies (#66)
+- [5a3cbc4](https://github.com/kubevault/cli/commit/5a3cbc4) Update Kubernetes v1.18.9 dependencies (#65)
+- [43e7e13](https://github.com/kubevault/cli/commit/43e7e13) Update Kubernetes v1.18.9 dependencies (#64)
+- [870a9d4](https://github.com/kubevault/cli/commit/870a9d4) Update Kubernetes v1.18.9 dependencies (#63)
+- [c4e9023](https://github.com/kubevault/cli/commit/c4e9023) Update Kubernetes v1.18.9 dependencies (#62)
+- [1143d99](https://github.com/kubevault/cli/commit/1143d99) Update Kubernetes v1.18.9 dependencies (#61)
+- [ebfe0aa](https://github.com/kubevault/cli/commit/ebfe0aa) Update Kubernetes v1.18.9 dependencies (#60)
+- [958ffb5](https://github.com/kubevault/cli/commit/958ffb5) Update Kubernetes v1.18.9 dependencies (#59)
+- [b687a25](https://github.com/kubevault/cli/commit/b687a25) Update Kubernetes v1.18.9 dependencies (#58)
+- [1b1f9bc](https://github.com/kubevault/cli/commit/1b1f9bc) Update Kubernetes v1.18.9 dependencies (#57)
+- [82f0bad](https://github.com/kubevault/cli/commit/82f0bad) Update Kubernetes v1.18.9 dependencies (#56)
+- [7adf75a](https://github.com/kubevault/cli/commit/7adf75a) Update Kubernetes v1.18.9 dependencies (#55)
+- [d686179](https://github.com/kubevault/cli/commit/d686179) Update Kubernetes v1.18.9 dependencies (#54)
+- [23e85e1](https://github.com/kubevault/cli/commit/23e85e1) Update Kubernetes v1.18.9 dependencies (#53)
+- [b2cb424](https://github.com/kubevault/cli/commit/b2cb424) Update Kubernetes v1.18.9 dependencies (#52)
+- [8eb2556](https://github.com/kubevault/cli/commit/8eb2556) Update Kubernetes v1.18.9 dependencies (#51)
+- [e69feec](https://github.com/kubevault/cli/commit/e69feec) Update Kubernetes v1.18.9 dependencies (#50)
+- [350ec36](https://github.com/kubevault/cli/commit/350ec36) Update Kubernetes v1.18.9 dependencies (#49)
+- [77b7367](https://github.com/kubevault/cli/commit/77b7367) Update Kubernetes v1.18.9 dependencies (#48)
+- [b3175a7](https://github.com/kubevault/cli/commit/b3175a7) Update Kubernetes v1.18.9 dependencies (#47)
+- [47bd336](https://github.com/kubevault/cli/commit/47bd336) Update Kubernetes v1.18.9 dependencies (#46)
+- [3f720a8](https://github.com/kubevault/cli/commit/3f720a8) Update Kubernetes v1.18.9 dependencies (#45)
+- [a67af01](https://github.com/kubevault/cli/commit/a67af01) Update Kubernetes v1.18.9 dependencies (#44)
+- [0661132](https://github.com/kubevault/cli/commit/0661132) Update Kubernetes v1.18.9 dependencies (#43)
+- [232dea1](https://github.com/kubevault/cli/commit/232dea1) Update Kubernetes v1.18.9 dependencies (#42)
+- [2591d7d](https://github.com/kubevault/cli/commit/2591d7d) Update Kubernetes v1.18.9 dependencies (#41)
+- [72f4933](https://github.com/kubevault/cli/commit/72f4933) Update Kubernetes v1.18.9 dependencies (#40)
+- [b96918d](https://github.com/kubevault/cli/commit/b96918d) Update Kubernetes v1.18.9 dependencies (#39)
+- [6ec8c36](https://github.com/kubevault/cli/commit/6ec8c36) Update Kubernetes v1.18.9 dependencies (#38)
+- [29324c0](https://github.com/kubevault/cli/commit/29324c0) Update Kubernetes v1.18.9 dependencies (#37)
+- [e1893db](https://github.com/kubevault/cli/commit/e1893db) Update Kubernetes v1.18.9 dependencies (#36)
+- [40f6162](https://github.com/kubevault/cli/commit/40f6162) Update Kubernetes v1.18.9 dependencies (#35)
+- [cca7ff7](https://github.com/kubevault/cli/commit/cca7ff7) Update Kubernetes v1.18.9 dependencies (#33)
+- [e7b3f41](https://github.com/kubevault/cli/commit/e7b3f41) Fix release workflow for plugin
+- [f29598c](https://github.com/kubevault/cli/commit/f29598c) Fix license file extension
+- [65fa01a](https://github.com/kubevault/cli/commit/65fa01a) Publish to krew index (#34)
+- [cd5a4dd](https://github.com/kubevault/cli/commit/cd5a4dd) Add completion command (#32)
+- [1f43dc9](https://github.com/kubevault/cli/commit/1f43dc9) Use actions/upload-artifact@v2
+- [d672d6d](https://github.com/kubevault/cli/commit/d672d6d) Prepare for release v0.4.0-beta.0 (#31)
+- [3795bce](https://github.com/kubevault/cli/commit/3795bce) Add request's phase from cli (#30)
+- [1e2bd37](https://github.com/kubevault/cli/commit/1e2bd37) Update workflow step name
+- [18ce00b](https://github.com/kubevault/cli/commit/18ce00b) Add workflow to update docs (#29)
+- [2767953](https://github.com/kubevault/cli/commit/2767953) Update update-release-tracker.sh
+- [8f3dbe9](https://github.com/kubevault/cli/commit/8f3dbe9) Update update-release-tracker.sh
+- [3a946a6](https://github.com/kubevault/cli/commit/3a946a6) Add script to update release tracker on pr merge (#28)
+- [0656f6d](https://github.com/kubevault/cli/commit/0656f6d) Make release non-draft
+- [cde187c](https://github.com/kubevault/cli/commit/cde187c) Update .kodiak.toml
+- [06626ea](https://github.com/kubevault/cli/commit/06626ea) Create .kodiak.toml
+- [724552d](https://github.com/kubevault/cli/commit/724552d) Add blank line after license header (#27)
+- [87f1090](https://github.com/kubevault/cli/commit/87f1090) Update dependencies (#26)
+- [11f6a44](https://github.com/kubevault/cli/commit/11f6a44) Update to Kubernetes v1.18.3 (#25)
+- [6024a30](https://github.com/kubevault/cli/commit/6024a30) Update api types (#24)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.4.0](https://github.com/kubevault/operator/releases/tag/v0.4.0)
