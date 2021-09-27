@@ -1,0 +1,316 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2021.09.27",
+  "release_date": "2021-09-27T18:20:49.395622608Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2021.09.27",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "8dc3a9f4",
+              "Subject": "Add support for SecretRoleBinding CRD (#31)"
+            },
+            {
+              "SHA": "d97bec7d",
+              "Subject": "Update SecretEgnine helper methods (#30)"
+            },
+            {
+              "SHA": "98e1db0b",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#29)"
+            },
+            {
+              "SHA": "d2e0997d",
+              "Subject": "Redesign secret engine crds for self-service mode (#26)"
+            },
+            {
+              "SHA": "7e6e3086",
+              "Subject": "Update repository config (#27)"
+            },
+            {
+              "SHA": "34f98762",
+              "Subject": "Update dependencies (#25)"
+            },
+            {
+              "SHA": "2deacced",
+              "Subject": "Update dependencies (#24)"
+            },
+            {
+              "SHA": "19bbdbb1",
+              "Subject": "Update dependencies (#23)"
+            },
+            {
+              "SHA": "9d6b8fcd",
+              "Subject": "Update dependencies (#22)"
+            },
+            {
+              "SHA": "13c9a6d4",
+              "Subject": "Update repository config (#21)"
+            },
+            {
+              "SHA": "4dfb3d8d",
+              "Subject": "Update repository config (#20)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2021.09.27",
+          "commits": [
+            {
+              "SHA": "de8a587",
+              "Subject": "Prepare for release v2021.09.27 (#14)"
+            },
+            {
+              "SHA": "f1d42b7",
+              "Subject": "Update repository config (#13)"
+            },
+            {
+              "SHA": "fe5be32",
+              "Subject": "Update repository config (#12)"
+            },
+            {
+              "SHA": "ac579e6",
+              "Subject": "Update repository config (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "1ed8475",
+              "Subject": "Prepare for release v0.5.0 (#128)"
+            },
+            {
+              "SHA": "d2c65bb",
+              "Subject": "Add support for SecretAccessRequest approval or denial (#125)"
+            },
+            {
+              "SHA": "317a8b4",
+              "Subject": "Update dependencies (#126)"
+            },
+            {
+              "SHA": "d652e30",
+              "Subject": "Update dependencies (#124)"
+            },
+            {
+              "SHA": "65ea792",
+              "Subject": "Update repository config (#123)"
+            },
+            {
+              "SHA": "a92fa68",
+              "Subject": "Update dependencies (#122)"
+            },
+            {
+              "SHA": "ee676a6",
+              "Subject": "Update dependencies (#121)"
+            },
+            {
+              "SHA": "12a46f3",
+              "Subject": "Update dependencies (#120)"
+            },
+            {
+              "SHA": "d9bd71a",
+              "Subject": "Update dependencies (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2021.09.27",
+          "commits": [
+            {
+              "SHA": "aeb3345",
+              "Subject": "Prepare for release v2021.09.27 (#130)"
+            },
+            {
+              "SHA": "ffe303a",
+              "Subject": "Add support for Vault v1.8.2 (#129)"
+            },
+            {
+              "SHA": "4f5bff4",
+              "Subject": "Redesign secret engine crds for self-service mode (#127)"
+            },
+            {
+              "SHA": "9d0296f",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#128)"
+            },
+            {
+              "SHA": "c47f4d3",
+              "Subject": "Update dependencies (#126)"
+            },
+            {
+              "SHA": "f6511e7",
+              "Subject": "Update repository config (#125)"
+            },
+            {
+              "SHA": "3e1b217",
+              "Subject": "Update dependencies (#124)"
+            },
+            {
+              "SHA": "fdfceb0",
+              "Subject": "Update dependencies (#123)"
+            },
+            {
+              "SHA": "2c428d6",
+              "Subject": "Update dependencies (#122)"
+            },
+            {
+              "SHA": "dfaa322",
+              "Subject": "Update repository config (#121)"
+            },
+            {
+              "SHA": "9dfd255",
+              "Subject": "Update repository config (#120)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2021.09.27",
+          "commits": [
+            {
+              "SHA": "d8957f0",
+              "Subject": "Prepare for release v2021.09.27 (#371)"
+            },
+            {
+              "SHA": "be97393",
+              "Subject": "update changes for new CRD (#370)"
+            },
+            {
+              "SHA": "74b949a",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "cc2d9e0",
+              "Subject": "Update docs for v2021.08.02 release (#367)"
+            },
+            {
+              "SHA": "8e7ba39",
+              "Subject": "Update repository config (#369)"
+            },
+            {
+              "SHA": "a6c3d63",
+              "Subject": "Update repository config (#368)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "1217e228",
+              "Subject": "Prepare for release v0.5.0 (#24)"
+            },
+            {
+              "SHA": "f4c86dfb",
+              "Subject": "Add support for SecretRoleBinding controller (#23)"
+            },
+            {
+              "SHA": "58b39012",
+              "Subject": "Redesign secret engine controllers for self-service mode (#19)"
+            },
+            {
+              "SHA": "7895759b",
+              "Subject": "Update dependencies (#20)"
+            },
+            {
+              "SHA": "a70cfbc5",
+              "Subject": "Update repository config (#17)"
+            },
+            {
+              "SHA": "1ec90fe0",
+              "Subject": "Update dependencies (#18)"
+            },
+            {
+              "SHA": "f244a0b6",
+              "Subject": "Update dependencies (#16)"
+            },
+            {
+              "SHA": "a1a8f5d7",
+              "Subject": "Restrict to demo namespace for Community Edition (#15)"
+            },
+            {
+              "SHA": "c48266d8",
+              "Subject": "Update repository config (#14)"
+            },
+            {
+              "SHA": "930f0245",
+              "Subject": "Update repository config (#13)"
+            },
+            {
+              "SHA": "ddd838a2",
+              "Subject": "Update repository config (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "8bcfdf58",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#105)"
+            },
+            {
+              "SHA": "e6c69d86",
+              "Subject": "Update dependencies (#104)"
+            },
+            {
+              "SHA": "a27f954a",
+              "Subject": "Update repository config (#103)"
+            },
+            {
+              "SHA": "1e2c9f1f",
+              "Subject": "Update dependencies (#102)"
+            },
+            {
+              "SHA": "694b1f39",
+              "Subject": "Update dependencies (#101)"
+            },
+            {
+              "SHA": "7448e6b3",
+              "Subject": "Update dependencies (#100)"
+            },
+            {
+              "SHA": "17da6e49",
+              "Subject": "Update repository config (#99)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
