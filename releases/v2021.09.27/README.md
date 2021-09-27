@@ -19,6 +19,17 @@
 
 
 
+## [kubevault/bundles](https://github.com/kubevault/bundles)
+
+### [v2021.09.27](https://github.com/kubevault/bundles/releases/tag/v2021.09.27)
+
+- [de8a587](https://github.com/kubevault/bundles/commit/de8a587) Prepare for release v2021.09.27 (#14)
+- [f1d42b7](https://github.com/kubevault/bundles/commit/f1d42b7) Update repository config (#13)
+- [fe5be32](https://github.com/kubevault/bundles/commit/fe5be32) Update repository config (#12)
+- [ac579e6](https://github.com/kubevault/bundles/commit/ac579e6) Update repository config (#11)
+
+
+
 ## [kubevault/cli](https://github.com/kubevault/cli)
 
 ### [v0.5.0](https://github.com/kubevault/cli/releases/tag/v0.5.0)
