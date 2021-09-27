@@ -19,3 +19,17 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.5.0](https://github.com/kubevault/unsealer/releases/tag/v0.5.0)
+
+- [8bcfdf58](https://github.com/kubevault/unsealer/commit/8bcfdf58) Log warning if Community License is used with non-demo namespace (#105)
+- [e6c69d86](https://github.com/kubevault/unsealer/commit/e6c69d86) Update dependencies (#104)
+- [a27f954a](https://github.com/kubevault/unsealer/commit/a27f954a) Update repository config (#103)
+- [1e2c9f1f](https://github.com/kubevault/unsealer/commit/1e2c9f1f) Update dependencies (#102)
+- [694b1f39](https://github.com/kubevault/unsealer/commit/694b1f39) Update dependencies (#101)
+- [7448e6b3](https://github.com/kubevault/unsealer/commit/7448e6b3) Update dependencies (#100)
+- [17da6e49](https://github.com/kubevault/unsealer/commit/17da6e49) Update repository config (#99)
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2021.09.27",
-  "release_date": "2021-09-27T17:11:08.566725003Z",
+  "release_date": "2021-09-27T17:11:16.135459148Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2021.09.27",
   "kubernetes_version": "1.16+",
@@ -55,6 +55,44 @@
             {
               "SHA": "4dfb3d8d",
               "Subject": "Update repository config (#20)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "8bcfdf58",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#105)"
+            },
+            {
+              "SHA": "e6c69d86",
+              "Subject": "Update dependencies (#104)"
+            },
+            {
+              "SHA": "a27f954a",
+              "Subject": "Update repository config (#103)"
+            },
+            {
+              "SHA": "1e2c9f1f",
+              "Subject": "Update dependencies (#102)"
+            },
+            {
+              "SHA": "694b1f39",
+              "Subject": "Update dependencies (#101)"
+            },
+            {
+              "SHA": "7448e6b3",
+              "Subject": "Update dependencies (#100)"
+            },
+            {
+              "SHA": "17da6e49",
+              "Subject": "Update repository config (#99)"
             }
           ]
         }
