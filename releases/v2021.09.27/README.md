@@ -1,0 +1,21 @@
+# KubeVault v2021.09.27 (2021-09-27)
+
+
+## [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
+
+### [v0.5.0](https://github.com/kubevault/apimachinery/releases/tag/v0.5.0)
+
+- [8dc3a9f4](https://github.com/kubevault/apimachinery/commit/8dc3a9f4) Add support for SecretRoleBinding CRD (#31)
+- [d97bec7d](https://github.com/kubevault/apimachinery/commit/d97bec7d) Update SecretEgnine helper methods (#30)
+- [98e1db0b](https://github.com/kubevault/apimachinery/commit/98e1db0b) Log warning if Community License is used with non-demo namespace (#29)
+- [d2e0997d](https://github.com/kubevault/apimachinery/commit/d2e0997d) Redesign secret engine crds for self-service mode (#26)
+- [7e6e3086](https://github.com/kubevault/apimachinery/commit/7e6e3086) Update repository config (#27)
+- [34f98762](https://github.com/kubevault/apimachinery/commit/34f98762) Update dependencies (#25)
+- [2deacced](https://github.com/kubevault/apimachinery/commit/2deacced) Update dependencies (#24)
+- [19bbdbb1](https://github.com/kubevault/apimachinery/commit/19bbdbb1) Update dependencies (#23)
+- [9d6b8fcd](https://github.com/kubevault/apimachinery/commit/9d6b8fcd) Update dependencies (#22)
+- [13c9a6d4](https://github.com/kubevault/apimachinery/commit/13c9a6d4) Update repository config (#21)
+- [4dfb3d8d](https://github.com/kubevault/apimachinery/commit/4dfb3d8d) Update repository config (#20)
+
+
+
