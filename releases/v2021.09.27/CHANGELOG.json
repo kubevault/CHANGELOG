@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2021.09.27",
-  "release_date": "2021-09-27T17:18:16.896822573Z",
+  "release_date": "2021-09-27T17:27:31.134135322Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2021.09.27",
   "kubernetes_version": "1.16+",
@@ -101,6 +101,60 @@
             {
               "SHA": "d9bd71a",
               "Subject": "Update dependencies (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "1217e228",
+              "Subject": "Prepare for release v0.5.0 (#24)"
+            },
+            {
+              "SHA": "f4c86dfb",
+              "Subject": "Add support for SecretRoleBinding controller (#23)"
+            },
+            {
+              "SHA": "58b39012",
+              "Subject": "Redesign secret engine controllers for self-service mode (#19)"
+            },
+            {
+              "SHA": "7895759b",
+              "Subject": "Update dependencies (#20)"
+            },
+            {
+              "SHA": "a70cfbc5",
+              "Subject": "Update repository config (#17)"
+            },
+            {
+              "SHA": "1ec90fe0",
+              "Subject": "Update dependencies (#18)"
+            },
+            {
+              "SHA": "f244a0b6",
+              "Subject": "Update dependencies (#16)"
+            },
+            {
+              "SHA": "a1a8f5d7",
+              "Subject": "Restrict to demo namespace for Community Edition (#15)"
+            },
+            {
+              "SHA": "c48266d8",
+              "Subject": "Update repository config (#14)"
+            },
+            {
+              "SHA": "930f0245",
+              "Subject": "Update repository config (#13)"
+            },
+            {
+              "SHA": "ddd838a2",
+              "Subject": "Update repository config (#11)"
             }
           ]
         }

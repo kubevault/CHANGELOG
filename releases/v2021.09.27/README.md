@@ -35,6 +35,24 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.5.0](https://github.com/kubevault/operator/releases/tag/v0.5.0)
+
+- [1217e228](https://github.com/kubevault/operator/commit/1217e228) Prepare for release v0.5.0 (#24)
+- [f4c86dfb](https://github.com/kubevault/operator/commit/f4c86dfb) Add support for SecretRoleBinding controller (#23)
+- [58b39012](https://github.com/kubevault/operator/commit/58b39012) Redesign secret engine controllers for self-service mode (#19)
+- [7895759b](https://github.com/kubevault/operator/commit/7895759b) Update dependencies (#20)
+- [a70cfbc5](https://github.com/kubevault/operator/commit/a70cfbc5) Update repository config (#17)
+- [1ec90fe0](https://github.com/kubevault/operator/commit/1ec90fe0) Update dependencies (#18)
+- [f244a0b6](https://github.com/kubevault/operator/commit/f244a0b6) Update dependencies (#16)
+- [a1a8f5d7](https://github.com/kubevault/operator/commit/a1a8f5d7) Restrict to demo namespace for Community Edition (#15)
+- [c48266d8](https://github.com/kubevault/operator/commit/c48266d8) Update repository config (#14)
+- [930f0245](https://github.com/kubevault/operator/commit/930f0245) Update repository config (#13)
+- [ddd838a2](https://github.com/kubevault/operator/commit/ddd838a2) Update repository config (#11)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.5.0](https://github.com/kubevault/unsealer/releases/tag/v0.5.0)
