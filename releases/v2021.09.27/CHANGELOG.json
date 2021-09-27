@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2021.09.27",
-  "release_date": "2021-09-27T17:11:16.135459148Z",
+  "release_date": "2021-09-27T17:18:16.896822573Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2021.09.27",
   "kubernetes_version": "1.16+",
@@ -55,6 +55,52 @@
             {
               "SHA": "4dfb3d8d",
               "Subject": "Update repository config (#20)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "1ed8475",
+              "Subject": "Prepare for release v0.5.0 (#128)"
+            },
+            {
+              "SHA": "d2c65bb",
+              "Subject": "Add support for SecretAccessRequest approval or denial (#125)"
+            },
+            {
+              "SHA": "317a8b4",
+              "Subject": "Update dependencies (#126)"
+            },
+            {
+              "SHA": "d652e30",
+              "Subject": "Update dependencies (#124)"
+            },
+            {
+              "SHA": "65ea792",
+              "Subject": "Update repository config (#123)"
+            },
+            {
+              "SHA": "a92fa68",
+              "Subject": "Update dependencies (#122)"
+            },
+            {
+              "SHA": "ee676a6",
+              "Subject": "Update dependencies (#121)"
+            },
+            {
+              "SHA": "12a46f3",
+              "Subject": "Update dependencies (#120)"
+            },
+            {
+              "SHA": "d9bd71a",
+              "Subject": "Update dependencies (#119)"
             }
           ]
         }

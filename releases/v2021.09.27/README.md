@@ -19,6 +19,22 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.5.0](https://github.com/kubevault/cli/releases/tag/v0.5.0)
+
+- [1ed8475](https://github.com/kubevault/cli/commit/1ed8475) Prepare for release v0.5.0 (#128)
+- [d2c65bb](https://github.com/kubevault/cli/commit/d2c65bb) Add support for SecretAccessRequest approval or denial (#125)
+- [317a8b4](https://github.com/kubevault/cli/commit/317a8b4) Update dependencies (#126)
+- [d652e30](https://github.com/kubevault/cli/commit/d652e30) Update dependencies (#124)
+- [65ea792](https://github.com/kubevault/cli/commit/65ea792) Update repository config (#123)
+- [a92fa68](https://github.com/kubevault/cli/commit/a92fa68) Update dependencies (#122)
+- [ee676a6](https://github.com/kubevault/cli/commit/ee676a6) Update dependencies (#121)
+- [12a46f3](https://github.com/kubevault/cli/commit/12a46f3) Update dependencies (#120)
+- [d9bd71a](https://github.com/kubevault/cli/commit/d9bd71a) Update dependencies (#119)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.5.0](https://github.com/kubevault/unsealer/releases/tag/v0.5.0)
