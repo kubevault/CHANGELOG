@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2021.09.27",
-  "release_date": "2021-09-27T17:49:12.942209755Z",
+  "release_date": "2021-09-27T18:05:28.614926661Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2021.09.27",
   "kubernetes_version": "1.16+",
@@ -155,6 +155,40 @@
             {
               "SHA": "9dfd255",
               "Subject": "Update repository config (#120)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2021.09.27",
+          "commits": [
+            {
+              "SHA": "d8957f0",
+              "Subject": "Prepare for release v2021.09.27 (#371)"
+            },
+            {
+              "SHA": "be97393",
+              "Subject": "update changes for new CRD (#370)"
+            },
+            {
+              "SHA": "74b949a",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "cc2d9e0",
+              "Subject": "Update docs for v2021.08.02 release (#367)"
+            },
+            {
+              "SHA": "8e7ba39",
+              "Subject": "Update repository config (#369)"
+            },
+            {
+              "SHA": "a6c3d63",
+              "Subject": "Update repository config (#368)"
             }
           ]
         }

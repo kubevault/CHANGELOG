@@ -53,6 +53,19 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2021.09.27](https://github.com/kubevault/kubevault/releases/tag/v2021.09.27)
+
+- [d8957f0](https://github.com/kubevault/kubevault/commit/d8957f0) Prepare for release v2021.09.27 (#371)
+- [be97393](https://github.com/kubevault/kubevault/commit/be97393) update changes for new CRD (#370)
+- [74b949a](https://github.com/kubevault/kubevault/commit/74b949a) Update ci.yml
+- [cc2d9e0](https://github.com/kubevault/kubevault/commit/cc2d9e0) Update docs for v2021.08.02 release (#367)
+- [8e7ba39](https://github.com/kubevault/kubevault/commit/8e7ba39) Update repository config (#369)
+- [a6c3d63](https://github.com/kubevault/kubevault/commit/a6c3d63) Update repository config (#368)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.5.0](https://github.com/kubevault/operator/releases/tag/v0.5.0)
