@@ -35,6 +35,24 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2021.09.27](https://github.com/kubevault/installer/releases/tag/v2021.09.27)
+
+- [aeb3345](https://github.com/kubevault/installer/commit/aeb3345) Prepare for release v2021.09.27 (#130)
+- [ffe303a](https://github.com/kubevault/installer/commit/ffe303a) Add support for Vault v1.8.2 (#129)
+- [4f5bff4](https://github.com/kubevault/installer/commit/4f5bff4) Redesign secret engine crds for self-service mode (#127)
+- [9d0296f](https://github.com/kubevault/installer/commit/9d0296f) Log warning if Community License is used with non-demo namespace (#128)
+- [c47f4d3](https://github.com/kubevault/installer/commit/c47f4d3) Update dependencies (#126)
+- [f6511e7](https://github.com/kubevault/installer/commit/f6511e7) Update repository config (#125)
+- [3e1b217](https://github.com/kubevault/installer/commit/3e1b217) Update dependencies (#124)
+- [fdfceb0](https://github.com/kubevault/installer/commit/fdfceb0) Update dependencies (#123)
+- [2c428d6](https://github.com/kubevault/installer/commit/2c428d6) Update dependencies (#122)
+- [dfaa322](https://github.com/kubevault/installer/commit/dfaa322) Update repository config (#121)
+- [9dfd255](https://github.com/kubevault/installer/commit/9dfd255) Update repository config (#120)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.5.0](https://github.com/kubevault/operator/releases/tag/v0.5.0)

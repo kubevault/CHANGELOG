@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2021.09.27",
-  "release_date": "2021-09-27T17:27:31.134135322Z",
+  "release_date": "2021-09-27T17:49:12.942209755Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2021.09.27",
   "kubernetes_version": "1.16+",
@@ -101,6 +101,60 @@
             {
               "SHA": "d9bd71a",
               "Subject": "Update dependencies (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2021.09.27",
+          "commits": [
+            {
+              "SHA": "aeb3345",
+              "Subject": "Prepare for release v2021.09.27 (#130)"
+            },
+            {
+              "SHA": "ffe303a",
+              "Subject": "Add support for Vault v1.8.2 (#129)"
+            },
+            {
+              "SHA": "4f5bff4",
+              "Subject": "Redesign secret engine crds for self-service mode (#127)"
+            },
+            {
+              "SHA": "9d0296f",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#128)"
+            },
+            {
+              "SHA": "c47f4d3",
+              "Subject": "Update dependencies (#126)"
+            },
+            {
+              "SHA": "f6511e7",
+              "Subject": "Update repository config (#125)"
+            },
+            {
+              "SHA": "3e1b217",
+              "Subject": "Update dependencies (#124)"
+            },
+            {
+              "SHA": "fdfceb0",
+              "Subject": "Update dependencies (#123)"
+            },
+            {
+              "SHA": "2c428d6",
+              "Subject": "Update dependencies (#122)"
+            },
+            {
+              "SHA": "dfaa322",
+              "Subject": "Update repository config (#121)"
+            },
+            {
+              "SHA": "9dfd255",
+              "Subject": "Update repository config (#120)"
             }
           ]
         }
