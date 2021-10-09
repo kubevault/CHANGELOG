@@ -13,6 +13,19 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.5.1](https://github.com/kubevault/cli/releases/tag/v0.5.1)
+
+- [5b920e6](https://github.com/kubevault/cli/commit/5b920e6) Prepare for release v0.5.1 (#135)
+- [fc8b65e](https://github.com/kubevault/cli/commit/fc8b65e) Fix jwt-go security vulnerability (#133)
+- [cf732f0](https://github.com/kubevault/cli/commit/cf732f0) Fix jwt-go security vulnerability (#132)
+- [235e696](https://github.com/kubevault/cli/commit/235e696) Use nats.go v1.13.0 (#131)
+- [ef9d509](https://github.com/kubevault/cli/commit/ef9d509) Update dependencies to publish SiteInfo (#130)
+- [161aab3](https://github.com/kubevault/cli/commit/161aab3) Update dependencies to publish SiteInfo (#129)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.5.1](https://github.com/kubevault/operator/releases/tag/v0.5.1)
