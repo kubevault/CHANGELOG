@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2021.10.11",
-  "release_date": "2021-10-09T22:51:44.923454779Z",
+  "release_date": "2021-10-09T22:57:35.210077978Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2021.10.11",
   "kubernetes_version": "1.16+",
@@ -31,6 +31,36 @@
             {
               "SHA": "3f0dfa49",
               "Subject": "Update repository config (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.5.1",
+          "commits": [
+            {
+              "SHA": "2d051c00",
+              "Subject": "Prepare for release v0.5.1 (#29)"
+            },
+            {
+              "SHA": "288a34b1",
+              "Subject": "Fix jwt-go security vulnerability (#28)"
+            },
+            {
+              "SHA": "afbd65b7",
+              "Subject": "Use nats.go v1.13.0 (#27)"
+            },
+            {
+              "SHA": "8d808837",
+              "Subject": "Setup SiteInfo publisher (#26)"
+            },
+            {
+              "SHA": "4fa90b65",
+              "Subject": "Update dependencies to publish SiteInfo (#25)"
             }
           ]
         }

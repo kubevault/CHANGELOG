@@ -13,6 +13,18 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.5.1](https://github.com/kubevault/operator/releases/tag/v0.5.1)
+
+- [2d051c00](https://github.com/kubevault/operator/commit/2d051c00) Prepare for release v0.5.1 (#29)
+- [288a34b1](https://github.com/kubevault/operator/commit/288a34b1) Fix jwt-go security vulnerability (#28)
+- [afbd65b7](https://github.com/kubevault/operator/commit/afbd65b7) Use nats.go v1.13.0 (#27)
+- [8d808837](https://github.com/kubevault/operator/commit/8d808837) Setup SiteInfo publisher (#26)
+- [4fa90b65](https://github.com/kubevault/operator/commit/4fa90b65) Update dependencies to publish SiteInfo (#25)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.5.1](https://github.com/kubevault/unsealer/releases/tag/v0.5.1)
