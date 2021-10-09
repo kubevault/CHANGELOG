@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2021.10.11",
-  "release_date": "2021-10-09T23:28:15.992831677Z",
+  "release_date": "2021-10-09T23:34:36.645073544Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2021.10.11",
   "kubernetes_version": "1.16+",
@@ -31,6 +31,24 @@
             {
               "SHA": "3f0dfa49",
               "Subject": "Update repository config (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2021.10.11",
+          "commits": [
+            {
+              "SHA": "ed4da17",
+              "Subject": "Prepare for release v2021.10.11 (#16)"
+            },
+            {
+              "SHA": "29d5a94",
+              "Subject": "Update repository config (#15)"
             }
           ]
         }

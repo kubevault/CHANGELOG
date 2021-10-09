@@ -13,6 +13,15 @@
 
 
 
+## [kubevault/bundles](https://github.com/kubevault/bundles)
+
+### [v2021.10.11](https://github.com/kubevault/bundles/releases/tag/v2021.10.11)
+
+- [ed4da17](https://github.com/kubevault/bundles/commit/ed4da17) Prepare for release v2021.10.11 (#16)
+- [29d5a94](https://github.com/kubevault/bundles/commit/29d5a94) Update repository config (#15)
+
+
+
 ## [kubevault/cli](https://github.com/kubevault/cli)
 
 ### [v0.5.1](https://github.com/kubevault/cli/releases/tag/v0.5.1)
