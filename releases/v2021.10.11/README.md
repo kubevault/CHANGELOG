@@ -42,6 +42,15 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2021.10.11](https://github.com/kubevault/kubevault/releases/tag/v2021.10.11)
+
+- [a907276](https://github.com/kubevault/kubevault/commit/a907276) Prepare for release v2021.10.11 (#374)
+- [e0684a2](https://github.com/kubevault/kubevault/commit/e0684a2) Update docs for v2021.09.27 release (#373)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.5.1](https://github.com/kubevault/operator/releases/tag/v0.5.1)
