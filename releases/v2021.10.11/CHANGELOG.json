@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2021.10.11",
-  "release_date": "2021-10-09T23:00:16.318466953Z",
+  "release_date": "2021-10-09T23:10:11.079243672Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2021.10.11",
   "kubernetes_version": "1.16+",
@@ -65,6 +65,52 @@
             {
               "SHA": "161aab3",
               "Subject": "Update dependencies to publish SiteInfo (#129)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2021.10.11",
+          "commits": [
+            {
+              "SHA": "55910e0",
+              "Subject": "Prepare for release v2021.10.11 (#137)"
+            },
+            {
+              "SHA": "12f8428",
+              "Subject": "Add vault 0.11.5 to catalog (#136)"
+            },
+            {
+              "SHA": "b80479f",
+              "Subject": "Use kubevault/vault-exporter:v0.1.1"
+            },
+            {
+              "SHA": "91bbf45",
+              "Subject": "Fix jwt-go security vulnerability (#135)"
+            },
+            {
+              "SHA": "fa92ac0",
+              "Subject": "Fix jwt-go security vulnerability (#134)"
+            },
+            {
+              "SHA": "b1688c6",
+              "Subject": "Add SiteInfo publisher permission"
+            },
+            {
+              "SHA": "1ac171c",
+              "Subject": "Update dependencies to publish SiteInfo (#133)"
+            },
+            {
+              "SHA": "4dd5e18",
+              "Subject": "Add kubevault-metrics chart (#132)"
+            },
+            {
+              "SHA": "275c39d",
+              "Subject": "Update repository config (#131)"
             }
           ]
         }

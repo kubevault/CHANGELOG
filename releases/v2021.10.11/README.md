@@ -26,6 +26,22 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2021.10.11](https://github.com/kubevault/installer/releases/tag/v2021.10.11)
+
+- [55910e0](https://github.com/kubevault/installer/commit/55910e0) Prepare for release v2021.10.11 (#137)
+- [12f8428](https://github.com/kubevault/installer/commit/12f8428) Add vault 0.11.5 to catalog (#136)
+- [b80479f](https://github.com/kubevault/installer/commit/b80479f) Use kubevault/vault-exporter:v0.1.1
+- [91bbf45](https://github.com/kubevault/installer/commit/91bbf45) Fix jwt-go security vulnerability (#135)
+- [fa92ac0](https://github.com/kubevault/installer/commit/fa92ac0) Fix jwt-go security vulnerability (#134)
+- [b1688c6](https://github.com/kubevault/installer/commit/b1688c6) Add SiteInfo publisher permission
+- [1ac171c](https://github.com/kubevault/installer/commit/1ac171c) Update dependencies to publish SiteInfo (#133)
+- [4dd5e18](https://github.com/kubevault/installer/commit/4dd5e18) Add kubevault-metrics chart (#132)
+- [275c39d](https://github.com/kubevault/installer/commit/275c39d) Update repository config (#131)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.5.1](https://github.com/kubevault/operator/releases/tag/v0.5.1)
