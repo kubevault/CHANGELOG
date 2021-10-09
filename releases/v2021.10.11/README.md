@@ -13,3 +13,14 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.5.1](https://github.com/kubevault/unsealer/releases/tag/v0.5.1)
+
+- [63a431ab](https://github.com/kubevault/unsealer/commit/63a431ab) Fix jwt-go security vulnerability (#109)
+- [2449ab5d](https://github.com/kubevault/unsealer/commit/2449ab5d) Fix jwt-go security vulnerability (#108)
+- [ae44d44a](https://github.com/kubevault/unsealer/commit/ae44d44a) Update dependencies to publish SiteInfo (#107)
+- [e310123c](https://github.com/kubevault/unsealer/commit/e310123c) Update repository config (#106)
+
+
+
