@@ -1,0 +1,40 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2021.10.11",
+  "release_date": "2021-10-09T22:47:08.494522176Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2021.10.11",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.5.1",
+          "commits": [
+            {
+              "SHA": "311cc741",
+              "Subject": "Fix jwt-go security vulnerability (#36)"
+            },
+            {
+              "SHA": "6857c738",
+              "Subject": "Fix jwt-go security vulnerability (#35)"
+            },
+            {
+              "SHA": "90b49fc8",
+              "Subject": "Update dependencies to publish SiteInfo (#34)"
+            },
+            {
+              "SHA": "11f1fc54",
+              "Subject": "Update dependencies to publish SiteInfo (#33)"
+            },
+            {
+              "SHA": "3f0dfa49",
+              "Subject": "Update repository config (#32)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
