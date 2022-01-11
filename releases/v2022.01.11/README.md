@@ -27,6 +27,20 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2022.01.11](https://github.com/kubevault/installer/releases/tag/v2022.01.11)
+
+- [d8ff86b](https://github.com/kubevault/installer/commit/d8ff86b) Prepare for release v2022.01.11 (#144)
+- [5370acd](https://github.com/kubevault/installer/commit/5370acd) Add support for vault:1.9.2 (#143)
+- [ff98bf5](https://github.com/kubevault/installer/commit/ff98bf5) Update repository config (#142)
+- [d5b4bb3](https://github.com/kubevault/installer/commit/d5b4bb3) Add permissions for cert-manager CRs (#141)
+- [57e4d3c](https://github.com/kubevault/installer/commit/57e4d3c) Update repository config (#140)
+- [90b3051](https://github.com/kubevault/installer/commit/90b3051) Update dependencies (#139)
+- [665e185](https://github.com/kubevault/installer/commit/665e185) Fix satori/go.uuid security vulnerability (#138)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.6.0](https://github.com/kubevault/operator/releases/tag/v0.6.0)
