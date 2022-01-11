@@ -14,6 +14,16 @@
 
 
 
+## [kubevault/bundles](https://github.com/kubevault/bundles)
+
+### [v2022.01.11](https://github.com/kubevault/bundles/releases/tag/v2022.01.11)
+
+- [a77f4c0](https://github.com/kubevault/bundles/commit/a77f4c0) Prepare for release v2022.01.11 (#19)
+- [758019c](https://github.com/kubevault/bundles/commit/758019c) Update repository config (#18)
+- [380b709](https://github.com/kubevault/bundles/commit/380b709) Update repository config (#17)
+
+
+
 ## [kubevault/cli](https://github.com/kubevault/cli)
 
 ### [v0.6.0](https://github.com/kubevault/cli/releases/tag/v0.6.0)
