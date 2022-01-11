@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.01.11",
-  "release_date": "2022-01-11T12:41:38.2945351Z",
+  "release_date": "2022-01-11T12:41:45.294651958Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.01.11",
   "kubernetes_version": "1.16+",
@@ -35,6 +35,36 @@
             {
               "SHA": "3aba09bb",
               "Subject": "Fix satori/go.uuid security vulnerability (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "e4382c74",
+              "Subject": "Add cluster-name flag (#114)"
+            },
+            {
+              "SHA": "e4a7e133",
+              "Subject": "Fix unseal keys conflict (#113)"
+            },
+            {
+              "SHA": "b04cc1a6",
+              "Subject": "Update repository config (#112)"
+            },
+            {
+              "SHA": "e0f4000b",
+              "Subject": "Update dependencies (#111)"
+            },
+            {
+              "SHA": "629984be",
+              "Subject": "Fix satori/go.uuid security vulnerability (#110)"
             }
           ]
         }

@@ -14,3 +14,15 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.6.0](https://github.com/kubevault/unsealer/releases/tag/v0.6.0)
+
+- [e4382c74](https://github.com/kubevault/unsealer/commit/e4382c74) Add cluster-name flag (#114)
+- [e4a7e133](https://github.com/kubevault/unsealer/commit/e4a7e133) Fix unseal keys conflict (#113)
+- [b04cc1a6](https://github.com/kubevault/unsealer/commit/b04cc1a6) Update repository config (#112)
+- [e0f4000b](https://github.com/kubevault/unsealer/commit/e0f4000b) Update dependencies (#111)
+- [629984be](https://github.com/kubevault/unsealer/commit/629984be) Fix satori/go.uuid security vulnerability (#110)
+
+
+
