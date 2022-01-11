@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.01.11",
-  "release_date": "2022-01-11T12:41:45.294651958Z",
+  "release_date": "2022-01-11T12:49:33.63684365Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.01.11",
   "kubernetes_version": "1.16+",
@@ -35,6 +35,60 @@
             {
               "SHA": "3aba09bb",
               "Subject": "Fix satori/go.uuid security vulnerability (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "24359467",
+              "Subject": "Prepare for release v0.6.0 (#42)"
+            },
+            {
+              "SHA": "b7ebc457",
+              "Subject": "Reworks on operator codebase (#37)"
+            },
+            {
+              "SHA": "b8121081",
+              "Subject": "Run trivy scanner (#41)"
+            },
+            {
+              "SHA": "cc00d749",
+              "Subject": "Update repository config (#38)"
+            },
+            {
+              "SHA": "18307b26",
+              "Subject": "Remove repository directories before cloning them in CI (#40)"
+            },
+            {
+              "SHA": "ad2a4d1a",
+              "Subject": "Delete existing cluster in CI"
+            },
+            {
+              "SHA": "6e25e142",
+              "Subject": "Always run e2e tests (#39)"
+            },
+            {
+              "SHA": "3bd270c6",
+              "Subject": "Update repository config (#34)"
+            },
+            {
+              "SHA": "ccf31742",
+              "Subject": "Remove global variable for preconditions (#33)"
+            },
+            {
+              "SHA": "4497bf40",
+              "Subject": "Update dependencies (#31)"
+            },
+            {
+              "SHA": "37b6030a",
+              "Subject": "Fix satori/go.uuid security vulnerability (#30)"
             }
           ]
         }
