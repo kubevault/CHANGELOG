@@ -1,0 +1,256 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2022.01.11",
+  "release_date": "2022-01-11T13:40:56.391963207Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2022.01.11",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "2fa206cc",
+              "Subject": "Add support for clusterID and sAccessReq phase (#39)"
+            },
+            {
+              "SHA": "51ba1dca",
+              "Subject": "Update repository config (#42)"
+            },
+            {
+              "SHA": "9de92d2a",
+              "Subject": "Update Makefile for controller-tools@v0.7.0"
+            },
+            {
+              "SHA": "3889ec70",
+              "Subject": "Update repository config (#41)"
+            },
+            {
+              "SHA": "2a9d350c",
+              "Subject": "Update dependencies (#40)"
+            },
+            {
+              "SHA": "3aba09bb",
+              "Subject": "Fix satori/go.uuid security vulnerability (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2022.01.11",
+          "commits": [
+            {
+              "SHA": "a77f4c0",
+              "Subject": "Prepare for release v2022.01.11 (#19)"
+            },
+            {
+              "SHA": "758019c",
+              "Subject": "Update repository config (#18)"
+            },
+            {
+              "SHA": "380b709",
+              "Subject": "Update repository config (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "ba4befc",
+              "Subject": "Prepare for release v0.6.0 (#140)"
+            },
+            {
+              "SHA": "8e0a33b",
+              "Subject": "Add support for --vault-ca-cert-path flag (#139)"
+            },
+            {
+              "SHA": "0117b31",
+              "Subject": "Add support for Generate, Revoke command (#138)"
+            },
+            {
+              "SHA": "6214e4c",
+              "Subject": "Add support for get-root-token command (#134)"
+            },
+            {
+              "SHA": "9781501",
+              "Subject": "Update dependencies (#137)"
+            },
+            {
+              "SHA": "70743de",
+              "Subject": "Fix satori/go.uuid security vulnerability (#136)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2022.01.11",
+          "commits": [
+            {
+              "SHA": "d8ff86b",
+              "Subject": "Prepare for release v2022.01.11 (#144)"
+            },
+            {
+              "SHA": "5370acd",
+              "Subject": "Add support for vault:1.9.2 (#143)"
+            },
+            {
+              "SHA": "ff98bf5",
+              "Subject": "Update repository config (#142)"
+            },
+            {
+              "SHA": "d5b4bb3",
+              "Subject": "Add permissions for cert-manager CRs (#141)"
+            },
+            {
+              "SHA": "57e4d3c",
+              "Subject": "Update repository config (#140)"
+            },
+            {
+              "SHA": "90b3051",
+              "Subject": "Update dependencies (#139)"
+            },
+            {
+              "SHA": "665e185",
+              "Subject": "Fix satori/go.uuid security vulnerability (#138)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2022.01.11",
+          "commits": [
+            {
+              "SHA": "835a579",
+              "Subject": "Prepare for release v2022.01.11 (#382)"
+            },
+            {
+              "SHA": "f83cae2",
+              "Subject": "Update docs for kubevault/cli@8e0a33b1 (#381)"
+            },
+            {
+              "SHA": "eae8712",
+              "Subject": "Add VaultServer TLS configuration documentation (#375)"
+            },
+            {
+              "SHA": "53b841c",
+              "Subject": "Update docs for kubevault/unsealer@e4382c74 (#379)"
+            },
+            {
+              "SHA": "6e9284e",
+              "Subject": "Update docs for kubevault/cli@0117b31b (#378)"
+            },
+            {
+              "SHA": "3febcb2",
+              "Subject": "Update docs for kubevault/unsealer@e4a7e133 (#376)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "24359467",
+              "Subject": "Prepare for release v0.6.0 (#42)"
+            },
+            {
+              "SHA": "b7ebc457",
+              "Subject": "Reworks on operator codebase (#37)"
+            },
+            {
+              "SHA": "b8121081",
+              "Subject": "Run trivy scanner (#41)"
+            },
+            {
+              "SHA": "cc00d749",
+              "Subject": "Update repository config (#38)"
+            },
+            {
+              "SHA": "18307b26",
+              "Subject": "Remove repository directories before cloning them in CI (#40)"
+            },
+            {
+              "SHA": "ad2a4d1a",
+              "Subject": "Delete existing cluster in CI"
+            },
+            {
+              "SHA": "6e25e142",
+              "Subject": "Always run e2e tests (#39)"
+            },
+            {
+              "SHA": "3bd270c6",
+              "Subject": "Update repository config (#34)"
+            },
+            {
+              "SHA": "ccf31742",
+              "Subject": "Remove global variable for preconditions (#33)"
+            },
+            {
+              "SHA": "4497bf40",
+              "Subject": "Update dependencies (#31)"
+            },
+            {
+              "SHA": "37b6030a",
+              "Subject": "Fix satori/go.uuid security vulnerability (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "e4382c74",
+              "Subject": "Add cluster-name flag (#114)"
+            },
+            {
+              "SHA": "e4a7e133",
+              "Subject": "Fix unseal keys conflict (#113)"
+            },
+            {
+              "SHA": "b04cc1a6",
+              "Subject": "Update repository config (#112)"
+            },
+            {
+              "SHA": "e0f4000b",
+              "Subject": "Update dependencies (#111)"
+            },
+            {
+              "SHA": "629984be",
+              "Subject": "Fix satori/go.uuid security vulnerability (#110)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
