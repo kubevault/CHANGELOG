@@ -1,0 +1,44 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2022.01.11",
+  "release_date": "2022-01-11T12:41:38.2945351Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2022.01.11",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "2fa206cc",
+              "Subject": "Add support for clusterID and sAccessReq phase (#39)"
+            },
+            {
+              "SHA": "51ba1dca",
+              "Subject": "Update repository config (#42)"
+            },
+            {
+              "SHA": "9de92d2a",
+              "Subject": "Update Makefile for controller-tools@v0.7.0"
+            },
+            {
+              "SHA": "3889ec70",
+              "Subject": "Update repository config (#41)"
+            },
+            {
+              "SHA": "2a9d350c",
+              "Subject": "Update dependencies (#40)"
+            },
+            {
+              "SHA": "3aba09bb",
+              "Subject": "Fix satori/go.uuid security vulnerability (#37)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
