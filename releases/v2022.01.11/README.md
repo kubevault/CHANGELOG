@@ -41,6 +41,19 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2022.01.11](https://github.com/kubevault/kubevault/releases/tag/v2022.01.11)
+
+- [835a579](https://github.com/kubevault/kubevault/commit/835a579) Prepare for release v2022.01.11 (#382)
+- [f83cae2](https://github.com/kubevault/kubevault/commit/f83cae2) Update docs for kubevault/cli@8e0a33b1 (#381)
+- [eae8712](https://github.com/kubevault/kubevault/commit/eae8712) Add VaultServer TLS configuration documentation (#375)
+- [53b841c](https://github.com/kubevault/kubevault/commit/53b841c) Update docs for kubevault/unsealer@e4382c74 (#379)
+- [6e9284e](https://github.com/kubevault/kubevault/commit/6e9284e) Update docs for kubevault/cli@0117b31b (#378)
+- [3febcb2](https://github.com/kubevault/kubevault/commit/3febcb2) Update docs for kubevault/unsealer@e4a7e133 (#376)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.6.0](https://github.com/kubevault/operator/releases/tag/v0.6.0)

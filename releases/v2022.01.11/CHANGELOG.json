@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.01.11",
-  "release_date": "2022-01-11T13:15:14.610517461Z",
+  "release_date": "2022-01-11T13:34:28.70494291Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.01.11",
   "kubernetes_version": "1.16+",
@@ -107,6 +107,40 @@
             {
               "SHA": "665e185",
               "Subject": "Fix satori/go.uuid security vulnerability (#138)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2022.01.11",
+          "commits": [
+            {
+              "SHA": "835a579",
+              "Subject": "Prepare for release v2022.01.11 (#382)"
+            },
+            {
+              "SHA": "f83cae2",
+              "Subject": "Update docs for kubevault/cli@8e0a33b1 (#381)"
+            },
+            {
+              "SHA": "eae8712",
+              "Subject": "Add VaultServer TLS configuration documentation (#375)"
+            },
+            {
+              "SHA": "53b841c",
+              "Subject": "Update docs for kubevault/unsealer@e4382c74 (#379)"
+            },
+            {
+              "SHA": "6e9284e",
+              "Subject": "Update docs for kubevault/cli@0117b31b (#378)"
+            },
+            {
+              "SHA": "3febcb2",
+              "Subject": "Update docs for kubevault/unsealer@e4a7e133 (#376)"
             }
           ]
         }
