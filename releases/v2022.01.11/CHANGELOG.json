@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.01.11",
-  "release_date": "2022-01-11T12:49:33.63684365Z",
+  "release_date": "2022-01-11T12:52:03.501053778Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.01.11",
   "kubernetes_version": "1.16+",
@@ -35,6 +35,40 @@
             {
               "SHA": "3aba09bb",
               "Subject": "Fix satori/go.uuid security vulnerability (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "ba4befc",
+              "Subject": "Prepare for release v0.6.0 (#140)"
+            },
+            {
+              "SHA": "8e0a33b",
+              "Subject": "Add support for --vault-ca-cert-path flag (#139)"
+            },
+            {
+              "SHA": "0117b31",
+              "Subject": "Add support for Generate, Revoke command (#138)"
+            },
+            {
+              "SHA": "6214e4c",
+              "Subject": "Add support for get-root-token command (#134)"
+            },
+            {
+              "SHA": "9781501",
+              "Subject": "Update dependencies (#137)"
+            },
+            {
+              "SHA": "70743de",
+              "Subject": "Fix satori/go.uuid security vulnerability (#136)"
             }
           ]
         }

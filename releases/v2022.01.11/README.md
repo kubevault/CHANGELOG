@@ -14,6 +14,19 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.6.0](https://github.com/kubevault/cli/releases/tag/v0.6.0)
+
+- [ba4befc](https://github.com/kubevault/cli/commit/ba4befc) Prepare for release v0.6.0 (#140)
+- [8e0a33b](https://github.com/kubevault/cli/commit/8e0a33b) Add support for --vault-ca-cert-path flag (#139)
+- [0117b31](https://github.com/kubevault/cli/commit/0117b31) Add support for Generate, Revoke command (#138)
+- [6214e4c](https://github.com/kubevault/cli/commit/6214e4c) Add support for get-root-token command (#134)
+- [9781501](https://github.com/kubevault/cli/commit/9781501) Update dependencies (#137)
+- [70743de](https://github.com/kubevault/cli/commit/70743de) Fix satori/go.uuid security vulnerability (#136)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.6.0](https://github.com/kubevault/operator/releases/tag/v0.6.0)
