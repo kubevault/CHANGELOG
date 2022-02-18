@@ -12,3 +12,11 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.7.0](https://github.com/kubevault/unsealer/releases/tag/v0.7.0)
+
+- [d1e13106](https://github.com/kubevault/unsealer/commit/d1e13106) Publish GenericResource (#115)
+
+
+
