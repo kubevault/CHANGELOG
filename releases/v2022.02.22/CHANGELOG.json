@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T07:23:46.058770547Z",
+  "release_date": "2022-02-18T07:29:21.634638898Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -27,6 +27,28 @@
             {
               "SHA": "a2ece4cc",
               "Subject": "Update repository config (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "e2c0537",
+              "Subject": "Prepare for release v2022.02.22 (#22)"
+            },
+            {
+              "SHA": "69a1d25",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#21)"
+            },
+            {
+              "SHA": "2e9b8c2",
+              "Subject": "Update repository config (#20)"
             }
           ]
         }

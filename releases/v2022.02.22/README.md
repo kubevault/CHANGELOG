@@ -12,6 +12,16 @@
 
 
 
+## [kubevault/bundles](https://github.com/kubevault/bundles)
+
+### [v2022.02.22](https://github.com/kubevault/bundles/releases/tag/v2022.02.22)
+
+- [e2c0537](https://github.com/kubevault/bundles/commit/e2c0537) Prepare for release v2022.02.22 (#22)
+- [69a1d25](https://github.com/kubevault/bundles/commit/69a1d25) Cancel concurrent CI runs for same pr/commit (#21)
+- [2e9b8c2](https://github.com/kubevault/bundles/commit/2e9b8c2) Update repository config (#20)
+
+
+
 ## [kubevault/cli](https://github.com/kubevault/cli)
 
 ### [v0.7.0](https://github.com/kubevault/cli/releases/tag/v0.7.0)
