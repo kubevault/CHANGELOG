@@ -40,6 +40,16 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2022.02.22](https://github.com/kubevault/kubevault/releases/tag/v2022.02.22)
+
+- [176ddc2](https://github.com/kubevault/kubevault/commit/176ddc2) Prepare for release v2022.02.22 (#385)
+- [a043dec](https://github.com/kubevault/kubevault/commit/a043dec) Cancel concurrent CI runs for same pr/commit (#384)
+- [e153a9f](https://github.com/kubevault/kubevault/commit/e153a9f) Update docs for kubevault/cli@af8810e2 (#383)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.7.0](https://github.com/kubevault/operator/releases/tag/v0.7.0)

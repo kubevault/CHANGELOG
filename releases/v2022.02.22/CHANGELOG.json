@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T06:42:16.644953226Z",
+  "release_date": "2022-02-18T07:23:46.058770547Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -103,6 +103,28 @@
             {
               "SHA": "53a096a",
               "Subject": "Add permission to list namespace (#145)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "176ddc2",
+              "Subject": "Prepare for release v2022.02.22 (#385)"
+            },
+            {
+              "SHA": "a043dec",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#384)"
+            },
+            {
+              "SHA": "e153a9f",
+              "Subject": "Update docs for kubevault/cli@af8810e2 (#383)"
             }
           ]
         }
