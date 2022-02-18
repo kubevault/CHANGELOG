@@ -26,6 +26,19 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.7.0](https://github.com/kubevault/operator/releases/tag/v0.7.0)
+
+- [638a2c60](https://github.com/kubevault/operator/commit/638a2c60) Prepare for release v0.7.0 (#49)
+- [705a39ea](https://github.com/kubevault/operator/commit/705a39ea) Update UID generation for GenericResource (#48)
+- [f7bf562f](https://github.com/kubevault/operator/commit/f7bf562f) Update SiteInfo (#47)
+- [4cc99f5a](https://github.com/kubevault/operator/commit/4cc99f5a) Publish GenericResource (#46)
+- [f1d9dee4](https://github.com/kubevault/operator/commit/f1d9dee4) Update repository config (#44)
+- [6bc100d3](https://github.com/kubevault/operator/commit/6bc100d3) Fix matchlabels ns list bug (#45)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.7.0](https://github.com/kubevault/unsealer/releases/tag/v0.7.0)
