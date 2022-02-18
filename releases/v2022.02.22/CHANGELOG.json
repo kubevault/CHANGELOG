@@ -1,0 +1,204 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2022.02.22",
+  "release_date": "2022-02-18T07:29:21.634638898Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2022.02.22",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "1831b006",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#46)"
+            },
+            {
+              "SHA": "29e4aefe",
+              "Subject": "Update SiteInfo (#45)"
+            },
+            {
+              "SHA": "6125f9ff",
+              "Subject": "Publish GenericResource (#44)"
+            },
+            {
+              "SHA": "a2ece4cc",
+              "Subject": "Update repository config (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "e2c0537",
+              "Subject": "Prepare for release v2022.02.22 (#22)"
+            },
+            {
+              "SHA": "69a1d25",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#21)"
+            },
+            {
+              "SHA": "2e9b8c2",
+              "Subject": "Update repository config (#20)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "53c42c4",
+              "Subject": "Prepare for release v0.7.0 (#147)"
+            },
+            {
+              "SHA": "d9b7e37",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#146)"
+            },
+            {
+              "SHA": "4a36f36",
+              "Subject": "Update UID generation for GenericResource (#145)"
+            },
+            {
+              "SHA": "5b3984e",
+              "Subject": "Update SiteInfo (#144)"
+            },
+            {
+              "SHA": "cfe2193",
+              "Subject": "Publish GenericResource (#143)"
+            },
+            {
+              "SHA": "796b9b6",
+              "Subject": "Release cli for darwin/arm64 (#142)"
+            },
+            {
+              "SHA": "af8810e",
+              "Subject": "Add get, set, delete, and list methods for root-token & unseal-keys (#141)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "d2d0af7",
+              "Subject": "Prepare for release v2022.02.22 (#151)"
+            },
+            {
+              "SHA": "51e1f6c",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#150)"
+            },
+            {
+              "SHA": "78c5444",
+              "Subject": "Update repository config (#149)"
+            },
+            {
+              "SHA": "10a50a5",
+              "Subject": "Use well-known os label (#148)"
+            },
+            {
+              "SHA": "642e53e",
+              "Subject": "Publish GenericResource (#147)"
+            },
+            {
+              "SHA": "5b68f85",
+              "Subject": "Update repository config (#146)"
+            },
+            {
+              "SHA": "53a096a",
+              "Subject": "Add permission to list namespace (#145)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "176ddc2",
+              "Subject": "Prepare for release v2022.02.22 (#385)"
+            },
+            {
+              "SHA": "a043dec",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#384)"
+            },
+            {
+              "SHA": "e153a9f",
+              "Subject": "Update docs for kubevault/cli@af8810e2 (#383)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "638a2c60",
+              "Subject": "Prepare for release v0.7.0 (#49)"
+            },
+            {
+              "SHA": "705a39ea",
+              "Subject": "Update UID generation for GenericResource (#48)"
+            },
+            {
+              "SHA": "f7bf562f",
+              "Subject": "Update SiteInfo (#47)"
+            },
+            {
+              "SHA": "4cc99f5a",
+              "Subject": "Publish GenericResource (#46)"
+            },
+            {
+              "SHA": "f1d9dee4",
+              "Subject": "Update repository config (#44)"
+            },
+            {
+              "SHA": "6bc100d3",
+              "Subject": "Fix matchlabels ns list bug (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "d1e13106",
+              "Subject": "Publish GenericResource (#115)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
