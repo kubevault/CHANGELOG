@@ -26,6 +26,20 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2022.02.22](https://github.com/kubevault/installer/releases/tag/v2022.02.22)
+
+- [d2d0af7](https://github.com/kubevault/installer/commit/d2d0af7) Prepare for release v2022.02.22 (#151)
+- [51e1f6c](https://github.com/kubevault/installer/commit/51e1f6c) Cancel concurrent CI runs for same pr/commit (#150)
+- [78c5444](https://github.com/kubevault/installer/commit/78c5444) Update repository config (#149)
+- [10a50a5](https://github.com/kubevault/installer/commit/10a50a5) Use well-known os label (#148)
+- [642e53e](https://github.com/kubevault/installer/commit/642e53e) Publish GenericResource (#147)
+- [5b68f85](https://github.com/kubevault/installer/commit/5b68f85) Update repository config (#146)
+- [53a096a](https://github.com/kubevault/installer/commit/53a096a) Add permission to list namespace (#145)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.7.0](https://github.com/kubevault/operator/releases/tag/v0.7.0)
