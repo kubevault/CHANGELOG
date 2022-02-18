@@ -1,0 +1,36 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2022.02.22",
+  "release_date": "2022-02-18T06:06:35.793305963Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2022.02.22",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "1831b006",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#46)"
+            },
+            {
+              "SHA": "29e4aefe",
+              "Subject": "Update SiteInfo (#45)"
+            },
+            {
+              "SHA": "6125f9ff",
+              "Subject": "Publish GenericResource (#44)"
+            },
+            {
+              "SHA": "a2ece4cc",
+              "Subject": "Update repository config (#43)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
