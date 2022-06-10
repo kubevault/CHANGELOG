@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.06.16",
-  "release_date": "2022-06-10T10:29:20.524714486Z",
+  "release_date": "2022-06-10T10:52:29.768662102Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.06.16",
   "kubernetes_version": "1.16+",
@@ -175,6 +175,60 @@
             {
               "SHA": "427e146",
               "Subject": "Use webhooks suffix for webhook resources (#152)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2022.06.16",
+          "commits": [
+            {
+              "SHA": "46da897",
+              "Subject": "Prepare for release v2022.06.16 (#398)"
+            },
+            {
+              "SHA": "715d101",
+              "Subject": "Update docs for kubevault/cli@e41268d7 (#397)"
+            },
+            {
+              "SHA": "31756be",
+              "Subject": "Update docs for kubevault/unsealer@2b05c29b (#396)"
+            },
+            {
+              "SHA": "68be67f",
+              "Subject": "Update docs for kubevault/cli@b684e2b9 (#394)"
+            },
+            {
+              "SHA": "96074c3",
+              "Subject": "Update docs for kubevault/operator@26197fe0 (#393)"
+            },
+            {
+              "SHA": "7662332",
+              "Subject": "Update docs for kubevault/operator@d6f03739 (#392)"
+            },
+            {
+              "SHA": "2099344",
+              "Subject": "Test against Kubernetes 1.24.0 (#391)"
+            },
+            {
+              "SHA": "9b2adb4",
+              "Subject": "Update docs for kubevault/operator@f225c385 (#389)"
+            },
+            {
+              "SHA": "f17e642",
+              "Subject": "Use Go 1.18 (#388)"
+            },
+            {
+              "SHA": "a4a1ed6",
+              "Subject": "make fmt (#387)"
+            },
+            {
+              "SHA": "0d2efbd",
+              "Subject": "make fmt (#386)"
             }
           ]
         }

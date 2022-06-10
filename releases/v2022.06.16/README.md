@@ -58,6 +58,24 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2022.06.16](https://github.com/kubevault/kubevault/releases/tag/v2022.06.16)
+
+- [46da897](https://github.com/kubevault/kubevault/commit/46da897) Prepare for release v2022.06.16 (#398)
+- [715d101](https://github.com/kubevault/kubevault/commit/715d101) Update docs for kubevault/cli@e41268d7 (#397)
+- [31756be](https://github.com/kubevault/kubevault/commit/31756be) Update docs for kubevault/unsealer@2b05c29b (#396)
+- [68be67f](https://github.com/kubevault/kubevault/commit/68be67f) Update docs for kubevault/cli@b684e2b9 (#394)
+- [96074c3](https://github.com/kubevault/kubevault/commit/96074c3) Update docs for kubevault/operator@26197fe0 (#393)
+- [7662332](https://github.com/kubevault/kubevault/commit/7662332) Update docs for kubevault/operator@d6f03739 (#392)
+- [2099344](https://github.com/kubevault/kubevault/commit/2099344) Test against Kubernetes 1.24.0 (#391)
+- [9b2adb4](https://github.com/kubevault/kubevault/commit/9b2adb4) Update docs for kubevault/operator@f225c385 (#389)
+- [f17e642](https://github.com/kubevault/kubevault/commit/f17e642) Use Go 1.18 (#388)
+- [a4a1ed6](https://github.com/kubevault/kubevault/commit/a4a1ed6) make fmt (#387)
+- [0d2efbd](https://github.com/kubevault/kubevault/commit/0d2efbd) make fmt (#386)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.8.0](https://github.com/kubevault/operator/releases/tag/v0.8.0)
