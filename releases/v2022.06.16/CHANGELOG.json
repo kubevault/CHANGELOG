@@ -1,0 +1,364 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2022.06.16",
+  "release_date": "2022-06-10T11:02:52.330623847Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2022.06.16",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "6cbcd6ed",
+              "Subject": "Update to k8s 1.24 toolchain (#60)"
+            },
+            {
+              "SHA": "2970666d",
+              "Subject": "Add support for JWT/OIDC auth method (#58)"
+            },
+            {
+              "SHA": "885da664",
+              "Subject": "Test against Kubernetes 1.24.0 (#59)"
+            },
+            {
+              "SHA": "da0750a7",
+              "Subject": "v1alpha2 api conversion (#52)"
+            },
+            {
+              "SHA": "716f6fa7",
+              "Subject": "Use Go 1.18 (#55)"
+            },
+            {
+              "SHA": "831710c9",
+              "Subject": "Use Go 1.18 (#53)"
+            },
+            {
+              "SHA": "78081ee6",
+              "Subject": "Add kubevault.com/v1alpha2 api (#50)"
+            },
+            {
+              "SHA": "33b160d7",
+              "Subject": "make fmt (#48)"
+            },
+            {
+              "SHA": "6c189049",
+              "Subject": "Add Kind() methods (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2022.06.16",
+          "commits": [
+            {
+              "SHA": "7c0e0ab",
+              "Subject": "Prepare for release v2022.06.16 (#25)"
+            },
+            {
+              "SHA": "6b08d08",
+              "Subject": "Test against Kubernetes 1.24.0 (#24)"
+            },
+            {
+              "SHA": "912523b",
+              "Subject": "Use Go 1.18 (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "e41268d7",
+              "Subject": "Prepare for release v0.8.0 (#155)"
+            },
+            {
+              "SHA": "2b54317e",
+              "Subject": "Update to k8s 1.24 toolchain (#154)"
+            },
+            {
+              "SHA": "b684e2b9",
+              "Subject": "Add v1alpha2 changes (#153)"
+            },
+            {
+              "SHA": "c338ec82",
+              "Subject": "Use Go 1.18 (#152)"
+            },
+            {
+              "SHA": "60b63920",
+              "Subject": "Use Go 1.18 (#150)"
+            },
+            {
+              "SHA": "6b7ec5ef",
+              "Subject": "make fmt (#149)"
+            },
+            {
+              "SHA": "4e5ce4c9",
+              "Subject": "Update UID generation for GenericResource (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2022.06.16",
+          "commits": [
+            {
+              "SHA": "43feb59",
+              "Subject": "Prepare for release v2022.06.16 (#171)"
+            },
+            {
+              "SHA": "b2ac521",
+              "Subject": "Update registry templates to support custom default registry (ghcr.io) (#170)"
+            },
+            {
+              "SHA": "0b0c419",
+              "Subject": "Don't set tag in values files"
+            },
+            {
+              "SHA": "cd242d6",
+              "Subject": "Add support for vault:1.10.3 (#167)"
+            },
+            {
+              "SHA": "530db29",
+              "Subject": "Add secrets-store-reader chart (#169)"
+            },
+            {
+              "SHA": "98e19e5",
+              "Subject": "Test against Kubernetes 1.24.0 (#168)"
+            },
+            {
+              "SHA": "f212b1b",
+              "Subject": "Get operator tag from .Chart.AppVersion (#166)"
+            },
+            {
+              "SHA": "9db93b4",
+              "Subject": "Test against Kubernetes 1.24.0 (#165)"
+            },
+            {
+              "SHA": "f07c0de",
+              "Subject": "Test operator monitoring (#164)"
+            },
+            {
+              "SHA": "9f7011e",
+              "Subject": "Add apiservice get permission for crd conversion webhook config (#163)"
+            },
+            {
+              "SHA": "1a01910",
+              "Subject": "Change MY_POD_ env fix to POD_"
+            },
+            {
+              "SHA": "ce24272",
+              "Subject": "Clean up monitoring values from chart (#161)"
+            },
+            {
+              "SHA": "3cf0088",
+              "Subject": "Remove unimplemented webhook config"
+            },
+            {
+              "SHA": "5937bbc",
+              "Subject": "Remove validators.policy.kubevault.com apiservice"
+            },
+            {
+              "SHA": "d3084e5",
+              "Subject": "Add webhook & kubevault-operator permission (#160)"
+            },
+            {
+              "SHA": "19e0a9b",
+              "Subject": "Split into operator and webhook chart (#158)"
+            },
+            {
+              "SHA": "2b8b424",
+              "Subject": "Use Go 1.18 (#157)"
+            },
+            {
+              "SHA": "0bc3634",
+              "Subject": "Use Go 1.18 (#156)"
+            },
+            {
+              "SHA": "e18357e",
+              "Subject": "make fmt (#154)"
+            },
+            {
+              "SHA": "427e146",
+              "Subject": "Use webhooks suffix for webhook resources (#152)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2022.06.16",
+          "commits": [
+            {
+              "SHA": "46da897",
+              "Subject": "Prepare for release v2022.06.16 (#398)"
+            },
+            {
+              "SHA": "715d101",
+              "Subject": "Update docs for kubevault/cli@e41268d7 (#397)"
+            },
+            {
+              "SHA": "31756be",
+              "Subject": "Update docs for kubevault/unsealer@2b05c29b (#396)"
+            },
+            {
+              "SHA": "68be67f",
+              "Subject": "Update docs for kubevault/cli@b684e2b9 (#394)"
+            },
+            {
+              "SHA": "96074c3",
+              "Subject": "Update docs for kubevault/operator@26197fe0 (#393)"
+            },
+            {
+              "SHA": "7662332",
+              "Subject": "Update docs for kubevault/operator@d6f03739 (#392)"
+            },
+            {
+              "SHA": "2099344",
+              "Subject": "Test against Kubernetes 1.24.0 (#391)"
+            },
+            {
+              "SHA": "9b2adb4",
+              "Subject": "Update docs for kubevault/operator@f225c385 (#389)"
+            },
+            {
+              "SHA": "f17e642",
+              "Subject": "Use Go 1.18 (#388)"
+            },
+            {
+              "SHA": "a4a1ed6",
+              "Subject": "make fmt (#387)"
+            },
+            {
+              "SHA": "0d2efbd",
+              "Subject": "make fmt (#386)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "06ad2e3a",
+              "Subject": "Prepare for release v0.8.0 (#63)"
+            },
+            {
+              "SHA": "26197fe0",
+              "Subject": "Update to k8s 1.24 toolchain (#62)"
+            },
+            {
+              "SHA": "d6f03739",
+              "Subject": "Add support for JWT/OIDC auth method, Fix Vault resources sync (#56)"
+            },
+            {
+              "SHA": "58e1cf81",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "6cad6340",
+              "Subject": "Disable trivy scanner"
+            },
+            {
+              "SHA": "8932662a",
+              "Subject": "Use CI hosts with label ubuntu-latest"
+            },
+            {
+              "SHA": "28c4829d",
+              "Subject": "Test against Kubernetes 1.24.0 (#61)"
+            },
+            {
+              "SHA": "f195aaad",
+              "Subject": "Enable CI checks"
+            },
+            {
+              "SHA": "2c14f4d8",
+              "Subject": "Run e2e tests (#60)"
+            },
+            {
+              "SHA": "0361cecd",
+              "Subject": "Fix CI (#59)"
+            },
+            {
+              "SHA": "f225c385",
+              "Subject": "Introduce separate commands for operator and webhook (#58)"
+            },
+            {
+              "SHA": "935b7ce5",
+              "Subject": "Use sefl-hosted runner (#57)"
+            },
+            {
+              "SHA": "c677d9ae",
+              "Subject": "Use Go 1.18 (#54)"
+            },
+            {
+              "SHA": "90f0ab47",
+              "Subject": "make fmt (#52)"
+            },
+            {
+              "SHA": "17593e4c",
+              "Subject": "Use webhooks suffix for webhook resources (#51)"
+            },
+            {
+              "SHA": "41bbd827",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#50)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "2b05c29b",
+              "Subject": "Update to k8s 1.24 toolchain (#120)"
+            },
+            {
+              "SHA": "085df87a",
+              "Subject": "Use Go 1.18 (#119)"
+            },
+            {
+              "SHA": "f70eb944",
+              "Subject": "Use Go 1.18 (#118)"
+            },
+            {
+              "SHA": "41d67ef4",
+              "Subject": "make fmt (#117)"
+            },
+            {
+              "SHA": "7ff0f673",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#116)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
