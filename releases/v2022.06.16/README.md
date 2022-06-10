@@ -31,6 +31,33 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2022.06.16](https://github.com/kubevault/installer/releases/tag/v2022.06.16)
+
+- [43feb59](https://github.com/kubevault/installer/commit/43feb59) Prepare for release v2022.06.16 (#171)
+- [b2ac521](https://github.com/kubevault/installer/commit/b2ac521) Update registry templates to support custom default registry (ghcr.io) (#170)
+- [0b0c419](https://github.com/kubevault/installer/commit/0b0c419) Don't set tag in values files
+- [cd242d6](https://github.com/kubevault/installer/commit/cd242d6) Add support for vault:1.10.3 (#167)
+- [530db29](https://github.com/kubevault/installer/commit/530db29) Add secrets-store-reader chart (#169)
+- [98e19e5](https://github.com/kubevault/installer/commit/98e19e5) Test against Kubernetes 1.24.0 (#168)
+- [f212b1b](https://github.com/kubevault/installer/commit/f212b1b) Get operator tag from .Chart.AppVersion (#166)
+- [9db93b4](https://github.com/kubevault/installer/commit/9db93b4) Test against Kubernetes 1.24.0 (#165)
+- [f07c0de](https://github.com/kubevault/installer/commit/f07c0de) Test operator monitoring (#164)
+- [9f7011e](https://github.com/kubevault/installer/commit/9f7011e) Add apiservice get permission for crd conversion webhook config (#163)
+- [1a01910](https://github.com/kubevault/installer/commit/1a01910) Change MY_POD_ env fix to POD_
+- [ce24272](https://github.com/kubevault/installer/commit/ce24272) Clean up monitoring values from chart (#161)
+- [3cf0088](https://github.com/kubevault/installer/commit/3cf0088) Remove unimplemented webhook config
+- [5937bbc](https://github.com/kubevault/installer/commit/5937bbc) Remove validators.policy.kubevault.com apiservice
+- [d3084e5](https://github.com/kubevault/installer/commit/d3084e5) Add webhook & kubevault-operator permission (#160)
+- [19e0a9b](https://github.com/kubevault/installer/commit/19e0a9b) Split into operator and webhook chart (#158)
+- [2b8b424](https://github.com/kubevault/installer/commit/2b8b424) Use Go 1.18 (#157)
+- [0bc3634](https://github.com/kubevault/installer/commit/0bc3634) Use Go 1.18 (#156)
+- [e18357e](https://github.com/kubevault/installer/commit/e18357e) make fmt (#154)
+- [427e146](https://github.com/kubevault/installer/commit/427e146) Use webhooks suffix for webhook resources (#152)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.8.0](https://github.com/kubevault/operator/releases/tag/v0.8.0)

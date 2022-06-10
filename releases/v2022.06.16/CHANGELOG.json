@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.06.16",
-  "release_date": "2022-06-10T07:46:56.446363002Z",
+  "release_date": "2022-06-10T10:29:20.524714486Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.06.16",
   "kubernetes_version": "1.16+",
@@ -85,6 +85,96 @@
             {
               "SHA": "4e5ce4c9",
               "Subject": "Update UID generation for GenericResource (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2022.06.16",
+          "commits": [
+            {
+              "SHA": "43feb59",
+              "Subject": "Prepare for release v2022.06.16 (#171)"
+            },
+            {
+              "SHA": "b2ac521",
+              "Subject": "Update registry templates to support custom default registry (ghcr.io) (#170)"
+            },
+            {
+              "SHA": "0b0c419",
+              "Subject": "Don't set tag in values files"
+            },
+            {
+              "SHA": "cd242d6",
+              "Subject": "Add support for vault:1.10.3 (#167)"
+            },
+            {
+              "SHA": "530db29",
+              "Subject": "Add secrets-store-reader chart (#169)"
+            },
+            {
+              "SHA": "98e19e5",
+              "Subject": "Test against Kubernetes 1.24.0 (#168)"
+            },
+            {
+              "SHA": "f212b1b",
+              "Subject": "Get operator tag from .Chart.AppVersion (#166)"
+            },
+            {
+              "SHA": "9db93b4",
+              "Subject": "Test against Kubernetes 1.24.0 (#165)"
+            },
+            {
+              "SHA": "f07c0de",
+              "Subject": "Test operator monitoring (#164)"
+            },
+            {
+              "SHA": "9f7011e",
+              "Subject": "Add apiservice get permission for crd conversion webhook config (#163)"
+            },
+            {
+              "SHA": "1a01910",
+              "Subject": "Change MY_POD_ env fix to POD_"
+            },
+            {
+              "SHA": "ce24272",
+              "Subject": "Clean up monitoring values from chart (#161)"
+            },
+            {
+              "SHA": "3cf0088",
+              "Subject": "Remove unimplemented webhook config"
+            },
+            {
+              "SHA": "5937bbc",
+              "Subject": "Remove validators.policy.kubevault.com apiservice"
+            },
+            {
+              "SHA": "d3084e5",
+              "Subject": "Add webhook & kubevault-operator permission (#160)"
+            },
+            {
+              "SHA": "19e0a9b",
+              "Subject": "Split into operator and webhook chart (#158)"
+            },
+            {
+              "SHA": "2b8b424",
+              "Subject": "Use Go 1.18 (#157)"
+            },
+            {
+              "SHA": "0bc3634",
+              "Subject": "Use Go 1.18 (#156)"
+            },
+            {
+              "SHA": "e18357e",
+              "Subject": "make fmt (#154)"
+            },
+            {
+              "SHA": "427e146",
+              "Subject": "Use webhooks suffix for webhook resources (#152)"
             }
           ]
         }
