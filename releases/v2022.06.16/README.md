@@ -31,6 +31,29 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.8.0](https://github.com/kubevault/operator/releases/tag/v0.8.0)
+
+- [06ad2e3a](https://github.com/kubevault/operator/commit/06ad2e3a) Prepare for release v0.8.0 (#63)
+- [26197fe0](https://github.com/kubevault/operator/commit/26197fe0) Update to k8s 1.24 toolchain (#62)
+- [d6f03739](https://github.com/kubevault/operator/commit/d6f03739) Add support for JWT/OIDC auth method, Fix Vault resources sync (#56)
+- [58e1cf81](https://github.com/kubevault/operator/commit/58e1cf81) Update ci.yml
+- [6cad6340](https://github.com/kubevault/operator/commit/6cad6340) Disable trivy scanner
+- [8932662a](https://github.com/kubevault/operator/commit/8932662a) Use CI hosts with label ubuntu-latest
+- [28c4829d](https://github.com/kubevault/operator/commit/28c4829d) Test against Kubernetes 1.24.0 (#61)
+- [f195aaad](https://github.com/kubevault/operator/commit/f195aaad) Enable CI checks
+- [2c14f4d8](https://github.com/kubevault/operator/commit/2c14f4d8) Run e2e tests (#60)
+- [0361cecd](https://github.com/kubevault/operator/commit/0361cecd) Fix CI (#59)
+- [f225c385](https://github.com/kubevault/operator/commit/f225c385) Introduce separate commands for operator and webhook (#58)
+- [935b7ce5](https://github.com/kubevault/operator/commit/935b7ce5) Use sefl-hosted runner (#57)
+- [c677d9ae](https://github.com/kubevault/operator/commit/c677d9ae) Use Go 1.18 (#54)
+- [90f0ab47](https://github.com/kubevault/operator/commit/90f0ab47) make fmt (#52)
+- [17593e4c](https://github.com/kubevault/operator/commit/17593e4c) Use webhooks suffix for webhook resources (#51)
+- [41bbd827](https://github.com/kubevault/operator/commit/41bbd827) Cancel concurrent CI runs for same pr/commit (#50)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.8.0](https://github.com/kubevault/unsealer/releases/tag/v0.8.0)

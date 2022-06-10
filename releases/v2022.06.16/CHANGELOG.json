@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.06.16",
-  "release_date": "2022-06-10T07:34:26.309082211Z",
+  "release_date": "2022-06-10T07:46:56.446363002Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.06.16",
   "kubernetes_version": "1.16+",
@@ -85,6 +85,80 @@
             {
               "SHA": "4e5ce4c9",
               "Subject": "Update UID generation for GenericResource (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "06ad2e3a",
+              "Subject": "Prepare for release v0.8.0 (#63)"
+            },
+            {
+              "SHA": "26197fe0",
+              "Subject": "Update to k8s 1.24 toolchain (#62)"
+            },
+            {
+              "SHA": "d6f03739",
+              "Subject": "Add support for JWT/OIDC auth method, Fix Vault resources sync (#56)"
+            },
+            {
+              "SHA": "58e1cf81",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "6cad6340",
+              "Subject": "Disable trivy scanner"
+            },
+            {
+              "SHA": "8932662a",
+              "Subject": "Use CI hosts with label ubuntu-latest"
+            },
+            {
+              "SHA": "28c4829d",
+              "Subject": "Test against Kubernetes 1.24.0 (#61)"
+            },
+            {
+              "SHA": "f195aaad",
+              "Subject": "Enable CI checks"
+            },
+            {
+              "SHA": "2c14f4d8",
+              "Subject": "Run e2e tests (#60)"
+            },
+            {
+              "SHA": "0361cecd",
+              "Subject": "Fix CI (#59)"
+            },
+            {
+              "SHA": "f225c385",
+              "Subject": "Introduce separate commands for operator and webhook (#58)"
+            },
+            {
+              "SHA": "935b7ce5",
+              "Subject": "Use sefl-hosted runner (#57)"
+            },
+            {
+              "SHA": "c677d9ae",
+              "Subject": "Use Go 1.18 (#54)"
+            },
+            {
+              "SHA": "90f0ab47",
+              "Subject": "make fmt (#52)"
+            },
+            {
+              "SHA": "17593e4c",
+              "Subject": "Use webhooks suffix for webhook resources (#51)"
+            },
+            {
+              "SHA": "41bbd827",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#50)"
             }
           ]
         }
