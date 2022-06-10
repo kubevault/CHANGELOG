@@ -1,0 +1,56 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2022.06.16",
+  "release_date": "2022-06-10T07:24:43.270947983Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2022.06.16",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "6cbcd6ed",
+              "Subject": "Update to k8s 1.24 toolchain (#60)"
+            },
+            {
+              "SHA": "2970666d",
+              "Subject": "Add support for JWT/OIDC auth method (#58)"
+            },
+            {
+              "SHA": "885da664",
+              "Subject": "Test against Kubernetes 1.24.0 (#59)"
+            },
+            {
+              "SHA": "da0750a7",
+              "Subject": "v1alpha2 api conversion (#52)"
+            },
+            {
+              "SHA": "716f6fa7",
+              "Subject": "Use Go 1.18 (#55)"
+            },
+            {
+              "SHA": "831710c9",
+              "Subject": "Use Go 1.18 (#53)"
+            },
+            {
+              "SHA": "78081ee6",
+              "Subject": "Add kubevault.com/v1alpha2 api (#50)"
+            },
+            {
+              "SHA": "33b160d7",
+              "Subject": "make fmt (#48)"
+            },
+            {
+              "SHA": "6c189049",
+              "Subject": "Add Kind() methods (#47)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
