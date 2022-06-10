@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.06.16",
-  "release_date": "2022-06-10T07:24:43.270947983Z",
+  "release_date": "2022-06-10T07:24:51.366297618Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.06.16",
   "kubernetes_version": "1.16+",
@@ -47,6 +47,36 @@
             {
               "SHA": "6c189049",
               "Subject": "Add Kind() methods (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "2b05c29b",
+              "Subject": "Update to k8s 1.24 toolchain (#120)"
+            },
+            {
+              "SHA": "085df87a",
+              "Subject": "Use Go 1.18 (#119)"
+            },
+            {
+              "SHA": "f70eb944",
+              "Subject": "Use Go 1.18 (#118)"
+            },
+            {
+              "SHA": "41d67ef4",
+              "Subject": "make fmt (#117)"
+            },
+            {
+              "SHA": "7ff0f673",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#116)"
             }
           ]
         }

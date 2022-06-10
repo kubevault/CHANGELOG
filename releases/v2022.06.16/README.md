@@ -17,3 +17,15 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.8.0](https://github.com/kubevault/unsealer/releases/tag/v0.8.0)
+
+- [2b05c29b](https://github.com/kubevault/unsealer/commit/2b05c29b) Update to k8s 1.24 toolchain (#120)
+- [085df87a](https://github.com/kubevault/unsealer/commit/085df87a) Use Go 1.18 (#119)
+- [f70eb944](https://github.com/kubevault/unsealer/commit/f70eb944) Use Go 1.18 (#118)
+- [41d67ef4](https://github.com/kubevault/unsealer/commit/41d67ef4) make fmt (#117)
+- [7ff0f673](https://github.com/kubevault/unsealer/commit/7ff0f673) Cancel concurrent CI runs for same pr/commit (#116)
+
+
+
