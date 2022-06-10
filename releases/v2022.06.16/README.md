@@ -17,6 +17,20 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.8.0](https://github.com/kubevault/cli/releases/tag/v0.8.0)
+
+- [e41268d7](https://github.com/kubevault/cli/commit/e41268d7) Prepare for release v0.8.0 (#155)
+- [2b54317e](https://github.com/kubevault/cli/commit/2b54317e) Update to k8s 1.24 toolchain (#154)
+- [b684e2b9](https://github.com/kubevault/cli/commit/b684e2b9) Add v1alpha2 changes (#153)
+- [c338ec82](https://github.com/kubevault/cli/commit/c338ec82) Use Go 1.18 (#152)
+- [60b63920](https://github.com/kubevault/cli/commit/60b63920) Use Go 1.18 (#150)
+- [6b7ec5ef](https://github.com/kubevault/cli/commit/6b7ec5ef) make fmt (#149)
+- [4e5ce4c9](https://github.com/kubevault/cli/commit/4e5ce4c9) Update UID generation for GenericResource (#148)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.8.0](https://github.com/kubevault/unsealer/releases/tag/v0.8.0)

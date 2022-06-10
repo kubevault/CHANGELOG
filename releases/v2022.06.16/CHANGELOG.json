@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.06.16",
-  "release_date": "2022-06-10T07:24:51.366297618Z",
+  "release_date": "2022-06-10T07:34:26.309082211Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.06.16",
   "kubernetes_version": "1.16+",
@@ -47,6 +47,44 @@
             {
               "SHA": "6c189049",
               "Subject": "Add Kind() methods (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "e41268d7",
+              "Subject": "Prepare for release v0.8.0 (#155)"
+            },
+            {
+              "SHA": "2b54317e",
+              "Subject": "Update to k8s 1.24 toolchain (#154)"
+            },
+            {
+              "SHA": "b684e2b9",
+              "Subject": "Add v1alpha2 changes (#153)"
+            },
+            {
+              "SHA": "c338ec82",
+              "Subject": "Use Go 1.18 (#152)"
+            },
+            {
+              "SHA": "60b63920",
+              "Subject": "Use Go 1.18 (#150)"
+            },
+            {
+              "SHA": "6b7ec5ef",
+              "Subject": "make fmt (#149)"
+            },
+            {
+              "SHA": "4e5ce4c9",
+              "Subject": "Update UID generation for GenericResource (#148)"
             }
           ]
         }
