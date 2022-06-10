@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.06.16",
-  "release_date": "2022-06-10T10:52:29.768662102Z",
+  "release_date": "2022-06-10T11:02:52.330623847Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.06.16",
   "kubernetes_version": "1.16+",
@@ -47,6 +47,28 @@
             {
               "SHA": "6c189049",
               "Subject": "Add Kind() methods (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2022.06.16",
+          "commits": [
+            {
+              "SHA": "7c0e0ab",
+              "Subject": "Prepare for release v2022.06.16 (#25)"
+            },
+            {
+              "SHA": "6b08d08",
+              "Subject": "Test against Kubernetes 1.24.0 (#24)"
+            },
+            {
+              "SHA": "912523b",
+              "Subject": "Use Go 1.18 (#23)"
             }
           ]
         }

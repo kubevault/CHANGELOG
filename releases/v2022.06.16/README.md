@@ -17,6 +17,16 @@
 
 
 
+## [kubevault/bundles](https://github.com/kubevault/bundles)
+
+### [v2022.06.16](https://github.com/kubevault/bundles/releases/tag/v2022.06.16)
+
+- [7c0e0ab](https://github.com/kubevault/bundles/commit/7c0e0ab) Prepare for release v2022.06.16 (#25)
+- [6b08d08](https://github.com/kubevault/bundles/commit/6b08d08) Test against Kubernetes 1.24.0 (#24)
+- [912523b](https://github.com/kubevault/bundles/commit/912523b) Use Go 1.18 (#23)
+
+
+
 ## [kubevault/cli](https://github.com/kubevault/cli)
 
 ### [v0.8.0](https://github.com/kubevault/cli/releases/tag/v0.8.0)
