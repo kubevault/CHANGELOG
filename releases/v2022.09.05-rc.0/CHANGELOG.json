@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.09.05-rc.0",
-  "release_date": "2022-09-06T04:58:56.962486116Z",
+  "release_date": "2022-09-06T05:10:34.251441992Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.09.05-rc.0",
   "kubernetes_version": "1.16+",
@@ -33,6 +33,32 @@
             {
               "SHA": "932bb02e",
               "Subject": "Add command for generating & rotating vault root token (#156)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2022.09.05-rc.0",
+          "commits": [
+            {
+              "SHA": "f07cba4",
+              "Subject": "Prepare for release v2022.09.05-rc.0 (#175)"
+            },
+            {
+              "SHA": "79473f3",
+              "Subject": "Add recommendation engine flags & values (#174)"
+            },
+            {
+              "SHA": "9e14119",
+              "Subject": "Update installer for vault ops-request (#172)"
+            },
+            {
+              "SHA": "1f3e429",
+              "Subject": "Add permission for license-proxyserver (#173)"
             }
           ]
         }

@@ -18,6 +18,17 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2022.09.05-rc.0](https://github.com/kubevault/installer/releases/tag/v2022.09.05-rc.0)
+
+- [f07cba4](https://github.com/kubevault/installer/commit/f07cba4) Prepare for release v2022.09.05-rc.0 (#175)
+- [79473f3](https://github.com/kubevault/installer/commit/79473f3) Add recommendation engine flags & values (#174)
+- [9e14119](https://github.com/kubevault/installer/commit/9e14119) Update installer for vault ops-request (#172)
+- [1f3e429](https://github.com/kubevault/installer/commit/1f3e429) Add permission for license-proxyserver (#173)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.9.0-rc.0](https://github.com/kubevault/operator/releases/tag/v0.9.0-rc.0)
