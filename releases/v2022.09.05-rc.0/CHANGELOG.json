@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.09.05-rc.0",
-  "release_date": "2022-09-06T05:56:33.868055052Z",
+  "release_date": "2022-09-06T06:03:02.230273661Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.09.05-rc.0",
   "kubernetes_version": "1.16+",
@@ -15,6 +15,20 @@
             {
               "SHA": "857a5c01",
               "Subject": "Add vault ops-request API (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2022.09.05-rc.0",
+          "commits": [
+            {
+              "SHA": "44d6dab",
+              "Subject": "Prepare for release v2022.09.05-rc.0 (#26)"
             }
           ]
         }
