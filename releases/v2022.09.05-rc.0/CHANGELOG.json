@@ -1,0 +1,143 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2022.09.05-rc.0",
+  "release_date": "2022-09-06T06:03:02.230273661Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2022.09.05-rc.0",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.0",
+          "commits": [
+            {
+              "SHA": "857a5c01",
+              "Subject": "Add vault ops-request API (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2022.09.05-rc.0",
+          "commits": [
+            {
+              "SHA": "44d6dab",
+              "Subject": "Prepare for release v2022.09.05-rc.0 (#26)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a80515e1",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#157)"
+            },
+            {
+              "SHA": "932bb02e",
+              "Subject": "Add command for generating & rotating vault root token (#156)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2022.09.05-rc.0",
+          "commits": [
+            {
+              "SHA": "f07cba4",
+              "Subject": "Prepare for release v2022.09.05-rc.0 (#175)"
+            },
+            {
+              "SHA": "79473f3",
+              "Subject": "Add recommendation engine flags & values (#174)"
+            },
+            {
+              "SHA": "9e14119",
+              "Subject": "Update installer for vault ops-request (#172)"
+            },
+            {
+              "SHA": "1f3e429",
+              "Subject": "Add permission for license-proxyserver (#173)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2022.09.05-rc.0",
+          "commits": [
+            {
+              "SHA": "9c41b08",
+              "Subject": "Prepare for release v2022.09.05-rc.0 (#403)"
+            },
+            {
+              "SHA": "a1e68a2",
+              "Subject": "Update docs for kubevault/cli@a80515e1 (#402)"
+            },
+            {
+              "SHA": "37f6726",
+              "Subject": "Update docs for kubevault/operator@b3e7e701 (#400)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.0",
+          "commits": [
+            {
+              "SHA": "69442f24",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#70)"
+            },
+            {
+              "SHA": "b3e7e701",
+              "Subject": "Add recommendation engine for vault server (#68)"
+            },
+            {
+              "SHA": "1264f212",
+              "Subject": "Add support for RotateTLS and Restart Ops-Request (#66)"
+            },
+            {
+              "SHA": "a7968a97",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#69)"
+            },
+            {
+              "SHA": "81a8f84f",
+              "Subject": "Acquire license from license-proxyserver if available (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.0",
+          "commits": null
+        }
+      ]
+    }
+  ]
+}
