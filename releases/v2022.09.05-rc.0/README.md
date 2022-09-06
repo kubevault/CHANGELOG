@@ -29,6 +29,16 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2022.09.05-rc.0](https://github.com/kubevault/kubevault/releases/tag/v2022.09.05-rc.0)
+
+- [9c41b08](https://github.com/kubevault/kubevault/commit/9c41b08) Prepare for release v2022.09.05-rc.0 (#403)
+- [a1e68a2](https://github.com/kubevault/kubevault/commit/a1e68a2) Update docs for kubevault/cli@a80515e1 (#402)
+- [37f6726](https://github.com/kubevault/kubevault/commit/37f6726) Update docs for kubevault/operator@b3e7e701 (#400)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.9.0-rc.0](https://github.com/kubevault/operator/releases/tag/v0.9.0-rc.0)

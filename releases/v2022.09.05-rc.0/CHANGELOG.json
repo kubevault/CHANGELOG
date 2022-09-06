@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.09.05-rc.0",
-  "release_date": "2022-09-06T05:10:34.251441992Z",
+  "release_date": "2022-09-06T05:56:33.868055052Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.09.05-rc.0",
   "kubernetes_version": "1.16+",
@@ -59,6 +59,28 @@
             {
               "SHA": "1f3e429",
               "Subject": "Add permission for license-proxyserver (#173)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2022.09.05-rc.0",
+          "commits": [
+            {
+              "SHA": "9c41b08",
+              "Subject": "Prepare for release v2022.09.05-rc.0 (#403)"
+            },
+            {
+              "SHA": "a1e68a2",
+              "Subject": "Update docs for kubevault/cli@a80515e1 (#402)"
+            },
+            {
+              "SHA": "37f6726",
+              "Subject": "Update docs for kubevault/operator@b3e7e701 (#400)"
             }
           ]
         }
