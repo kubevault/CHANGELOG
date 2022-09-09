@@ -1,0 +1,28 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2022.09.09",
+  "release_date": "2022-09-09T04:06:48.392404351Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2022.09.09",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "0c82c982",
+              "Subject": "Update offshoot api (#62)"
+            },
+            {
+              "SHA": "857a5c01",
+              "Subject": "Add vault ops-request API (#61)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
