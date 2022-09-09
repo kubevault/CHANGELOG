@@ -10,6 +10,16 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.9.0](https://github.com/kubevault/cli/releases/tag/v0.9.0)
+
+- [bf9241eb](https://github.com/kubevault/cli/commit/bf9241eb) Prepare for release v0.9.0 (#158)
+- [a80515e1](https://github.com/kubevault/cli/commit/a80515e1) Prepare for release v0.9.0-rc.0 (#157)
+- [932bb02e](https://github.com/kubevault/cli/commit/932bb02e) Add command for generating & rotating vault root token (#156)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.9.0](https://github.com/kubevault/operator/releases/tag/v0.9.0)

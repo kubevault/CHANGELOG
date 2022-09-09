@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.09.09",
-  "release_date": "2022-09-09T04:14:25.551688362Z",
+  "release_date": "2022-09-09T04:18:58.964380735Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.09.09",
   "kubernetes_version": "1.16+",
@@ -19,6 +19,28 @@
             {
               "SHA": "857a5c01",
               "Subject": "Add vault ops-request API (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "bf9241eb",
+              "Subject": "Prepare for release v0.9.0 (#158)"
+            },
+            {
+              "SHA": "a80515e1",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#157)"
+            },
+            {
+              "SHA": "932bb02e",
+              "Subject": "Add command for generating & rotating vault root token (#156)"
             }
           ]
         }
