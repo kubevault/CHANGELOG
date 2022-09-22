@@ -1,0 +1,156 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2022.09.22",
+  "release_date": "2022-09-22T09:23:16.535150668Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2022.09.22",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "d0491184",
+              "Subject": "Fix conversion (#63)"
+            },
+            {
+              "SHA": "42a9f95c",
+              "Subject": "Fix K8s version"
+            },
+            {
+              "SHA": "d8e6f760",
+              "Subject": "Use Go 1.19 (#65)"
+            },
+            {
+              "SHA": "7fce2029",
+              "Subject": "Use k8s 1.25.1 libs (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2022.09.22",
+          "commits": [
+            {
+              "SHA": "3531b7a",
+              "Subject": "Prepare for release v2022.09.22 (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "5372dba7",
+              "Subject": "Prepare for release v0.10.0 (#161)"
+            },
+            {
+              "SHA": "015176a9",
+              "Subject": "Use Go 1.19 (#160)"
+            },
+            {
+              "SHA": "67ec5d36",
+              "Subject": "Use k8s 1.25.1 libs (#159)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2022.09.22",
+          "commits": [
+            {
+              "SHA": "bbbc40a",
+              "Subject": "Prepare for release v2022.09.22 (#180)"
+            },
+            {
+              "SHA": "ca42d02",
+              "Subject": "Update crds (#178)"
+            },
+            {
+              "SHA": "f1c6c62",
+              "Subject": "Test against k8s 1.25.0 (#179)"
+            },
+            {
+              "SHA": "bb28027",
+              "Subject": "Use Go 1.19 (#177)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2022.09.22",
+          "commits": [
+            {
+              "SHA": "12b86ab",
+              "Subject": "Prepare for release v2022.09.22 (#406)"
+            },
+            {
+              "SHA": "5f09999",
+              "Subject": "Remove slack links (#405)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "10e80edb",
+              "Subject": "Prepare for release v0.10.0 (#76)"
+            },
+            {
+              "SHA": "4411a557",
+              "Subject": "Fix Sealed phase calculation (#73)"
+            },
+            {
+              "SHA": "38c5a35b",
+              "Subject": "Use Go 1.19 (#75)"
+            },
+            {
+              "SHA": "bd9e7124",
+              "Subject": "Use k8s 1.25.1 libs (#74)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "c1711c20",
+              "Subject": "Use Go 1.19 (#121)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
