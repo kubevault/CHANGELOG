@@ -22,6 +22,17 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.10.0](https://github.com/kubevault/operator/releases/tag/v0.10.0)
+
+- [10e80edb](https://github.com/kubevault/operator/commit/10e80edb) Prepare for release v0.10.0 (#76)
+- [4411a557](https://github.com/kubevault/operator/commit/4411a557) Fix Sealed phase calculation (#73)
+- [38c5a35b](https://github.com/kubevault/operator/commit/38c5a35b) Use Go 1.19 (#75)
+- [bd9e7124](https://github.com/kubevault/operator/commit/bd9e7124) Use k8s 1.25.1 libs (#74)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.10.0](https://github.com/kubevault/unsealer/releases/tag/v0.10.0)
