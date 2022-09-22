@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.09.22",
-  "release_date": "2022-09-22T08:59:04.615668394Z",
+  "release_date": "2022-09-22T09:15:08.793336826Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.09.22",
   "kubernetes_version": "1.16+",
@@ -75,6 +75,24 @@
             {
               "SHA": "bb28027",
               "Subject": "Use Go 1.19 (#177)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2022.09.22",
+          "commits": [
+            {
+              "SHA": "12b86ab",
+              "Subject": "Prepare for release v2022.09.22 (#406)"
+            },
+            {
+              "SHA": "5f09999",
+              "Subject": "Remove slack links (#405)"
             }
           ]
         }

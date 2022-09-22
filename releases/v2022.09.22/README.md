@@ -33,6 +33,15 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2022.09.22](https://github.com/kubevault/kubevault/releases/tag/v2022.09.22)
+
+- [12b86ab](https://github.com/kubevault/kubevault/commit/12b86ab) Prepare for release v2022.09.22 (#406)
+- [5f09999](https://github.com/kubevault/kubevault/commit/5f09999) Remove slack links (#405)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.10.0](https://github.com/kubevault/operator/releases/tag/v0.10.0)
