@@ -22,6 +22,17 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2022.09.22](https://github.com/kubevault/installer/releases/tag/v2022.09.22)
+
+- [bbbc40a](https://github.com/kubevault/installer/commit/bbbc40a) Prepare for release v2022.09.22 (#180)
+- [ca42d02](https://github.com/kubevault/installer/commit/ca42d02) Update crds (#178)
+- [f1c6c62](https://github.com/kubevault/installer/commit/f1c6c62) Test against k8s 1.25.0 (#179)
+- [bb28027](https://github.com/kubevault/installer/commit/bb28027) Use Go 1.19 (#177)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.10.0](https://github.com/kubevault/operator/releases/tag/v0.10.0)
