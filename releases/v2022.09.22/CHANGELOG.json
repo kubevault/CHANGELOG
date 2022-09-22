@@ -1,0 +1,36 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2022.09.22",
+  "release_date": "2022-09-22T07:59:01.7706672Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2022.09.22",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "d0491184",
+              "Subject": "Fix conversion (#63)"
+            },
+            {
+              "SHA": "42a9f95c",
+              "Subject": "Fix K8s version"
+            },
+            {
+              "SHA": "d8e6f760",
+              "Subject": "Use Go 1.19 (#65)"
+            },
+            {
+              "SHA": "7fce2029",
+              "Subject": "Use k8s 1.25.1 libs (#64)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
