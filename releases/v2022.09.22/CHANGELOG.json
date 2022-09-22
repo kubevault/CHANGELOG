@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.09.22",
-  "release_date": "2022-09-22T09:15:08.793336826Z",
+  "release_date": "2022-09-22T09:23:16.535150668Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.09.22",
   "kubernetes_version": "1.16+",
@@ -27,6 +27,20 @@
             {
               "SHA": "7fce2029",
               "Subject": "Use k8s 1.25.1 libs (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2022.09.22",
+          "commits": [
+            {
+              "SHA": "3531b7a",
+              "Subject": "Prepare for release v2022.09.22 (#28)"
             }
           ]
         }
