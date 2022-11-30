@@ -13,3 +13,11 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.11.0](https://github.com/kubevault/unsealer/releases/tag/v0.11.0)
+
+- [88f9ae0e](https://github.com/kubevault/unsealer/commit/88f9ae0e) Test against Kubernetes 1.25.0 (#122)
+
+
+
