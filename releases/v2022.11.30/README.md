@@ -13,6 +13,15 @@
 
 
 
+## [kubevault/bundles](https://github.com/kubevault/bundles)
+
+### [v2022.11.30](https://github.com/kubevault/bundles/releases/tag/v2022.11.30)
+
+- [a8408c6](https://github.com/kubevault/bundles/commit/a8408c6) Prepare for release v2022.11.30 (#30)
+- [5c41037](https://github.com/kubevault/bundles/commit/5c41037) Test against Kubernetes 1.25.0 (#29)
+
+
+
 ## [kubevault/cli](https://github.com/kubevault/cli)
 
 ### [v0.11.0](https://github.com/kubevault/cli/releases/tag/v0.11.0)

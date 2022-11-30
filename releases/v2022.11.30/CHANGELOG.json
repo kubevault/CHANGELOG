@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.11.30",
-  "release_date": "2022-11-30T09:31:48.152205773Z",
+  "release_date": "2022-11-30T09:37:02.116890144Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.11.30",
   "kubernetes_version": "1.16+",
@@ -31,6 +31,24 @@
             {
               "SHA": "8b47cc1b",
               "Subject": "Test against Kubernetes 1.25.0 (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2022.11.30",
+          "commits": [
+            {
+              "SHA": "a8408c6",
+              "Subject": "Prepare for release v2022.11.30 (#30)"
+            },
+            {
+              "SHA": "5c41037",
+              "Subject": "Test against Kubernetes 1.25.0 (#29)"
             }
           ]
         }
