@@ -30,6 +30,15 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2022.11.30](https://github.com/kubevault/kubevault/releases/tag/v2022.11.30)
+
+- [3c5487d](https://github.com/kubevault/kubevault/commit/3c5487d) Prepare for release v2022.11.30 (#409)
+- [4f70181](https://github.com/kubevault/kubevault/commit/4f70181) Update Vault Documentation (#408)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.11.0](https://github.com/kubevault/operator/releases/tag/v0.11.0)
