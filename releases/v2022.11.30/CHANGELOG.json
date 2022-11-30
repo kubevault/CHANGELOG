@@ -1,0 +1,40 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2022.11.30",
+  "release_date": "2022-11-30T08:33:34.495487469Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2022.11.30",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "6d5535a8",
+              "Subject": "Update VaultServerConfig with BackupSecret (#68)"
+            },
+            {
+              "SHA": "e2b451c5",
+              "Subject": "Update testing lib"
+            },
+            {
+              "SHA": "ffe70235",
+              "Subject": "Use gomodules.xyz/testing"
+            },
+            {
+              "SHA": "c5e99527",
+              "Subject": "Rename ACLTokenSecretName to ACLTokenSecretRef (#67)"
+            },
+            {
+              "SHA": "8b47cc1b",
+              "Subject": "Test against Kubernetes 1.25.0 (#66)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
