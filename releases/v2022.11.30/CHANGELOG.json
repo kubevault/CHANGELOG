@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.11.30",
-  "release_date": "2022-11-30T08:44:11.982850822Z",
+  "release_date": "2022-11-30T08:46:11.475056546Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.11.30",
   "kubernetes_version": "1.16+",
@@ -45,6 +45,32 @@
             {
               "SHA": "ec9eba04",
               "Subject": "Prepare for release v0.11.0 (#164)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "c2e9a825",
+              "Subject": "Prepare for release v0.11.0 (#81)"
+            },
+            {
+              "SHA": "1ef7298b",
+              "Subject": "Configure Vault Backup (#79)"
+            },
+            {
+              "SHA": "e7da2b32",
+              "Subject": "Acquire license from proxyserver (#80)"
+            },
+            {
+              "SHA": "fbaa897b",
+              "Subject": "Rename ACLTokenSecretName to ACLTokenSecretRef (#78)"
             }
           ]
         }

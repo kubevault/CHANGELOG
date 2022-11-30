@@ -21,6 +21,17 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.11.0](https://github.com/kubevault/operator/releases/tag/v0.11.0)
+
+- [c2e9a825](https://github.com/kubevault/operator/commit/c2e9a825) Prepare for release v0.11.0 (#81)
+- [1ef7298b](https://github.com/kubevault/operator/commit/1ef7298b) Configure Vault Backup (#79)
+- [e7da2b32](https://github.com/kubevault/operator/commit/e7da2b32) Acquire license from proxyserver (#80)
+- [fbaa897b](https://github.com/kubevault/operator/commit/fbaa897b) Rename ACLTokenSecretName to ACLTokenSecretRef (#78)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.11.0](https://github.com/kubevault/unsealer/releases/tag/v0.11.0)
