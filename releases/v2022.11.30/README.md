@@ -21,6 +21,15 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2022.11.30](https://github.com/kubevault/installer/releases/tag/v2022.11.30)
+
+- [fb40772](https://github.com/kubevault/installer/commit/fb40772) Prepare for release v2022.11.30 (#184)
+- [2ca1152](https://github.com/kubevault/installer/commit/2ca1152) Add Vault Versions v1.11.5, v1.12.1 (#183)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.11.0](https://github.com/kubevault/operator/releases/tag/v0.11.0)
