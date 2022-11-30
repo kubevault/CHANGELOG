@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.11.30",
-  "release_date": "2022-11-30T08:33:43.175239152Z",
+  "release_date": "2022-11-30T08:44:11.982850822Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.11.30",
   "kubernetes_version": "1.16+",
@@ -31,6 +31,20 @@
             {
               "SHA": "8b47cc1b",
               "Subject": "Test against Kubernetes 1.25.0 (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "ec9eba04",
+              "Subject": "Prepare for release v0.11.0 (#164)"
             }
           ]
         }

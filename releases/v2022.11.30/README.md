@@ -13,6 +13,14 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.11.0](https://github.com/kubevault/cli/releases/tag/v0.11.0)
+
+- [ec9eba04](https://github.com/kubevault/cli/commit/ec9eba04) Prepare for release v0.11.0 (#164)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.11.0](https://github.com/kubevault/unsealer/releases/tag/v0.11.0)
