@@ -19,6 +19,16 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.12.0](https://github.com/kubevault/operator/releases/tag/v0.12.0)
+
+- [7a55dc9b](https://github.com/kubevault/operator/commit/7a55dc9b) Prepare for release v0.12.0 (#84)
+- [2019e0c2](https://github.com/kubevault/operator/commit/2019e0c2) Update AppBinding with Unsealer & Backend info (#82)
+- [7c2f651a](https://github.com/kubevault/operator/commit/7c2f651a) Run GH actions on ubuntu-20.04 (#83)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.12.0](https://github.com/kubevault/unsealer/releases/tag/v0.12.0)
