@@ -19,6 +19,15 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2022.12.09](https://github.com/kubevault/installer/releases/tag/v2022.12.09)
+
+- [df5997d](https://github.com/kubevault/installer/commit/df5997d) Prepare for release v2022.12.09 (#186)
+- [a62af67](https://github.com/kubevault/installer/commit/a62af67) Run GH actions on ubuntu-20.04 (#185)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.12.0](https://github.com/kubevault/operator/releases/tag/v0.12.0)

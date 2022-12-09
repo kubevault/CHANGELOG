@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.12.09",
-  "release_date": "2022-12-09T15:01:57.976014162Z",
+  "release_date": "2022-12-09T15:22:31.74724325Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.12.09",
   "kubernetes_version": "1.18+",
@@ -37,6 +37,24 @@
             {
               "SHA": "0ca1aff0",
               "Subject": "Run GH actions on ubuntu-20.04 (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2022.12.09",
+          "commits": [
+            {
+              "SHA": "df5997d",
+              "Subject": "Prepare for release v2022.12.09 (#186)"
+            },
+            {
+              "SHA": "a62af67",
+              "Subject": "Run GH actions on ubuntu-20.04 (#185)"
             }
           ]
         }
