@@ -10,6 +10,15 @@
 
 
 
+## [kubevault/bundles](https://github.com/kubevault/bundles)
+
+### [v2022.12.09](https://github.com/kubevault/bundles/releases/tag/v2022.12.09)
+
+- [da48463](https://github.com/kubevault/bundles/commit/da48463) Prepare for release v2022.12.09 (#32)
+- [541450f](https://github.com/kubevault/bundles/commit/541450f) Run GH actions on ubuntu-20.04 (#31)
+
+
+
 ## [kubevault/cli](https://github.com/kubevault/cli)
 
 ### [v0.12.0](https://github.com/kubevault/cli/releases/tag/v0.12.0)
