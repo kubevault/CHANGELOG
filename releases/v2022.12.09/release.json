@@ -1,0 +1,105 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2022.12.09",
+  "docs_url_template": "https://kubevault.com/docs/%s",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "github.com/kubevault/apimachinery": {
+        "tag": "v0.12.0"
+      },
+      "github.com/kubevault/unsealer": {
+        "key": "kubevault-unsealer",
+        "tag": "v0.12.0"
+      }
+    },
+    {
+      "github.com/kubevault/cli": {
+        "key": "kubevault-cli",
+        "tag": "v0.12.0"
+      },
+      "github.com/kubevault/operator": {
+        "key": "kubevault-operator",
+        "tag": "v0.12.0",
+        "chartNames": [
+          "kubevault-operator"
+        ]
+      }
+    },
+    {
+      "github.com/kubevault/installer": {
+        "key": "kubevault-installer",
+        "tag": "v2022.12.09",
+        "chartNames": [
+          "kubevault-crds",
+          "kubevault-catalog",
+          "kubevault"
+        ],
+        "commands": [
+          "./hack/scripts/import-crds.sh",
+          "go run ./hack/fmt/main.go --update-spec=spec.unsealer.image=kubevault/vault-unsealer:${KUBEVAULT_UNSEALER_TAG}",
+          "make update-charts CHART_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubevault-operator CHART_VERSION=${KUBEVAULT_OPERATOR_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubevault-webhook-server CHART_VERSION=${KUBEVAULT_OPERATOR_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "./hack/scripts/update-chart-dependencies.sh"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/appscode/charts": {
+        "charts": [
+          "github.com/kubevault/installer"
+        ],
+        "changelog": "Skip"
+      }
+    },
+    {
+      "github.com/appscode/static-assets": {
+        "commands": [
+          "release-automaton update-assets --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE}"
+        ],
+        "changelog": "StandaloneWebsite"
+      }
+    },
+    {
+      "github.com/kubevault/kubevault": {
+        "key": "kubevault",
+        "tag": "v2022.12.09",
+        "commands": [
+          "mv ${SCRIPT_ROOT}/releases/${RELEASE}/docs_changelog.md ${WORKSPACE}/docs/CHANGELOG-${RELEASE}.md"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/kubevault/website": {
+        "tag": "v2022.12.09",
+        "commands": [
+          "make set-assets-repo ASSETS_REPO_URL=https://github.com/appscode/static-assets",
+          "make docs",
+          "make set-version VERSION=${TAG}"
+        ],
+        "release_branch": "master",
+        "changelog": "Skip"
+      }
+    },
+    {
+      "github.com/kubevault/bundles": {
+        "tag": "v2022.12.09",
+        "commands": [
+          "release-automaton update-bundles --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE} --charts-dir=charts"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/bytebuilders/bundle-registry": {
+        "charts": [
+          "github.com/kubevault/bundles"
+        ],
+        "changelog": "Skip"
+      }
+    }
+  ]
+}
