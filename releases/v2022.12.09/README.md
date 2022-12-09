@@ -28,6 +28,16 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2022.12.09](https://github.com/kubevault/kubevault/releases/tag/v2022.12.09)
+
+- [a08fd27](https://github.com/kubevault/kubevault/commit/a08fd27) Prepare for release v2022.12.09 (#413)
+- [c431139](https://github.com/kubevault/kubevault/commit/c431139) Run GH actions on ubuntu-20.04 (#411)
+- [8e9d432](https://github.com/kubevault/kubevault/commit/8e9d432) Update docs for kubevault/cli@56cc5750 (#412)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.12.0](https://github.com/kubevault/operator/releases/tag/v0.12.0)
