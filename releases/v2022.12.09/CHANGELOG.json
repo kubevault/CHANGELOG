@@ -1,0 +1,19 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2022.12.09",
+  "release_date": "2022-12-09T09:00:07.586553218Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2022.12.09",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": null
+        }
+      ]
+    }
+  ]
+}
