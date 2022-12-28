@@ -26,6 +26,17 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2022.12.28](https://github.com/kubevault/kubevault/releases/tag/v2022.12.28)
+
+- [d5b9658](https://github.com/kubevault/kubevault/commit/d5b9658) Prepare for release v2022.12.28 (#416)
+- [b8e1947](https://github.com/kubevault/kubevault/commit/b8e1947) Update docs for kubevault/cli@66fccc56 (#415)
+- [f42097d](https://github.com/kubevault/kubevault/commit/f42097d) Add Redis Secret Engine Doc (#414)
+- [124635a](https://github.com/kubevault/kubevault/commit/124635a) Update docs for Ops & Backup (#410)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.13.0](https://github.com/kubevault/operator/releases/tag/v0.13.0)
