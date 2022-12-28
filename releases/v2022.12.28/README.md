@@ -1,6 +1,14 @@
 # KubeVault v2022.12.28 (2022-12-28)
 
 
+## [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
+
+### [v0.13.0](https://github.com/kubevault/apimachinery/releases/tag/v0.13.0)
+
+- [3e0d8ee9](https://github.com/kubevault/apimachinery/commit/3e0d8ee9) Add Redis Secret Engine APIs (#72)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.13.0](https://github.com/kubevault/unsealer/releases/tag/v0.13.0)
