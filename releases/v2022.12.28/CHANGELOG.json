@@ -1,0 +1,136 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2022.12.28",
+  "release_date": "2022-12-28T12:42:56.311055361Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2022.12.28",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "3e0d8ee9",
+              "Subject": "Add Redis Secret Engine APIs (#72)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2022.12.28",
+          "commits": [
+            {
+              "SHA": "319c4d6",
+              "Subject": "Prepare for release v2022.12.28 (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "85d3fa76",
+              "Subject": "Prepare for release v0.13.0 (#169)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2022.12.28",
+          "commits": [
+            {
+              "SHA": "6f187f3",
+              "Subject": "Prepare for release v2022.12.28 (#188)"
+            },
+            {
+              "SHA": "de77c42",
+              "Subject": "Add Redis Secret Engine (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2022.12.28",
+          "commits": [
+            {
+              "SHA": "d5b9658",
+              "Subject": "Prepare for release v2022.12.28 (#416)"
+            },
+            {
+              "SHA": "b8e1947",
+              "Subject": "Update docs for kubevault/cli@66fccc56 (#415)"
+            },
+            {
+              "SHA": "f42097d",
+              "Subject": "Add Redis Secret Engine Doc (#414)"
+            },
+            {
+              "SHA": "124635a",
+              "Subject": "Update docs for Ops & Backup (#410)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "1a328fcc",
+              "Subject": "Prepare for release v0.13.0 (#87)"
+            },
+            {
+              "SHA": "5c53d615",
+              "Subject": "Update Google Dependency (#88)"
+            },
+            {
+              "SHA": "9d173a3c",
+              "Subject": "Add Redis Secret Engine (#85)"
+            },
+            {
+              "SHA": "f17e68d9",
+              "Subject": "Update dependencies (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "f8e44cf0",
+              "Subject": "Run GH actions on ubuntu-20.04 (#123)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
