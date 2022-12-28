@@ -1,0 +1,24 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2022.12.28",
+  "release_date": "2022-12-28T09:02:04.781708038Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2022.12.28",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "f8e44cf0",
+              "Subject": "Run GH actions on ubuntu-20.04 (#123)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

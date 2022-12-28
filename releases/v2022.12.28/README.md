@@ -1,0 +1,11 @@
+# KubeVault v2022.12.28 (2022-12-28)
+
+
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.13.0](https://github.com/kubevault/unsealer/releases/tag/v0.13.0)
+
+- [f8e44cf0](https://github.com/kubevault/unsealer/commit/f8e44cf0) Run GH actions on ubuntu-20.04 (#123)
+
+
+
