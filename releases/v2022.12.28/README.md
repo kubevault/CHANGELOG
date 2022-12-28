@@ -17,6 +17,17 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.13.0](https://github.com/kubevault/operator/releases/tag/v0.13.0)
+
+- [1a328fcc](https://github.com/kubevault/operator/commit/1a328fcc) Prepare for release v0.13.0 (#87)
+- [5c53d615](https://github.com/kubevault/operator/commit/5c53d615) Update Google Dependency (#88)
+- [9d173a3c](https://github.com/kubevault/operator/commit/9d173a3c) Add Redis Secret Engine (#85)
+- [f17e68d9](https://github.com/kubevault/operator/commit/f17e68d9) Update dependencies (#86)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.13.0](https://github.com/kubevault/unsealer/releases/tag/v0.13.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T09:11:58.201669657Z",
+  "release_date": "2022-12-28T11:07:51.42804486Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -29,6 +29,32 @@
             {
               "SHA": "85d3fa76",
               "Subject": "Prepare for release v0.13.0 (#169)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "1a328fcc",
+              "Subject": "Prepare for release v0.13.0 (#87)"
+            },
+            {
+              "SHA": "5c53d615",
+              "Subject": "Update Google Dependency (#88)"
+            },
+            {
+              "SHA": "9d173a3c",
+              "Subject": "Add Redis Secret Engine (#85)"
+            },
+            {
+              "SHA": "f17e68d9",
+              "Subject": "Update dependencies (#86)"
             }
           ]
         }
