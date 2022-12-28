@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T11:07:51.42804486Z",
+  "release_date": "2022-12-28T11:32:59.971674001Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -29,6 +29,24 @@
             {
               "SHA": "85d3fa76",
               "Subject": "Prepare for release v0.13.0 (#169)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2022.12.28",
+          "commits": [
+            {
+              "SHA": "6f187f3",
+              "Subject": "Prepare for release v2022.12.28 (#188)"
+            },
+            {
+              "SHA": "de77c42",
+              "Subject": "Add Redis Secret Engine (#187)"
             }
           ]
         }

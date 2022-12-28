@@ -17,6 +17,15 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2022.12.28](https://github.com/kubevault/installer/releases/tag/v2022.12.28)
+
+- [6f187f3](https://github.com/kubevault/installer/commit/6f187f3) Prepare for release v2022.12.28 (#188)
+- [de77c42](https://github.com/kubevault/installer/commit/de77c42) Add Redis Secret Engine (#187)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.13.0](https://github.com/kubevault/operator/releases/tag/v0.13.0)
