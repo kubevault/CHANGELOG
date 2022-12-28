@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T12:38:02.021409371Z",
+  "release_date": "2022-12-28T12:42:56.311055361Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -15,6 +15,20 @@
             {
               "SHA": "3e0d8ee9",
               "Subject": "Add Redis Secret Engine APIs (#72)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2022.12.28",
+          "commits": [
+            {
+              "SHA": "319c4d6",
+              "Subject": "Prepare for release v2022.12.28 (#33)"
             }
           ]
         }

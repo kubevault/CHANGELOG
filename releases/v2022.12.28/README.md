@@ -9,6 +9,14 @@
 
 
 
+## [kubevault/bundles](https://github.com/kubevault/bundles)
+
+### [v2022.12.28](https://github.com/kubevault/bundles/releases/tag/v2022.12.28)
+
+- [319c4d6](https://github.com/kubevault/bundles/commit/319c4d6) Prepare for release v2022.12.28 (#33)
+
+
+
 ## [kubevault/cli](https://github.com/kubevault/cli)
 
 ### [v0.13.0](https://github.com/kubevault/cli/releases/tag/v0.13.0)
