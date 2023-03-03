@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2023.03.03",
-  "release_date": "2023-03-03T21:31:13.57976894Z",
+  "release_date": "2023-03-03T22:00:05.358925212Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2023.03.03",
   "kubernetes_version": "1.20+",
@@ -53,6 +53,40 @@
             {
               "SHA": "8b29d08d",
               "Subject": "Update workflows (Go 1.20, k8s 1.26) (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2023.03.03",
+          "commits": [
+            {
+              "SHA": "f346362",
+              "Subject": "Prepare for release v2023.03.03 (#196)"
+            },
+            {
+              "SHA": "8d001ff",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "a14b739",
+              "Subject": "Add opscenter and grafana-dashboard charts (#194)"
+            },
+            {
+              "SHA": "83a1380",
+              "Subject": "Pass license to kubevault-webhook-server chart"
+            },
+            {
+              "SHA": "559a94e",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#193)"
+            },
+            {
+              "SHA": "af49db4",
+              "Subject": "Add MetricsConfiguration for VaultServer (#190)"
             }
           ]
         }

@@ -23,6 +23,19 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2023.03.03](https://github.com/kubevault/installer/releases/tag/v2023.03.03)
+
+- [f346362](https://github.com/kubevault/installer/commit/f346362) Prepare for release v2023.03.03 (#196)
+- [8d001ff](https://github.com/kubevault/installer/commit/8d001ff) Update Makefile
+- [a14b739](https://github.com/kubevault/installer/commit/a14b739) Add opscenter and grafana-dashboard charts (#194)
+- [83a1380](https://github.com/kubevault/installer/commit/83a1380) Pass license to kubevault-webhook-server chart
+- [559a94e](https://github.com/kubevault/installer/commit/559a94e) Update workflows (Go 1.20, k8s 1.26) (#193)
+- [af49db4](https://github.com/kubevault/installer/commit/af49db4) Add MetricsConfiguration for VaultServer (#190)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.14.0](https://github.com/kubevault/operator/releases/tag/v0.14.0)
