@@ -36,6 +36,14 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2023.03.03](https://github.com/kubevault/kubevault/releases/tag/v2023.03.03)
+
+- [d2a61e0](https://github.com/kubevault/kubevault/commit/d2a61e0) Prepare for release v2023.03.03 (#418)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.14.0](https://github.com/kubevault/operator/releases/tag/v0.14.0)

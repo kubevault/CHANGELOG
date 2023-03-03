@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2023.03.03",
-  "release_date": "2023-03-03T22:00:05.358925212Z",
+  "release_date": "2023-03-03T22:15:11.569837624Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2023.03.03",
   "kubernetes_version": "1.20+",
@@ -87,6 +87,20 @@
             {
               "SHA": "af49db4",
               "Subject": "Add MetricsConfiguration for VaultServer (#190)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2023.03.03",
+          "commits": [
+            {
+              "SHA": "d2a61e0",
+              "Subject": "Prepare for release v2023.03.03 (#418)"
             }
           ]
         }
