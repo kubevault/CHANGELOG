@@ -14,6 +14,15 @@
 
 
 
+## [kubevault/bundles](https://github.com/kubevault/bundles)
+
+### [v2023.03.03](https://github.com/kubevault/bundles/releases/tag/v2023.03.03)
+
+- [a428a1c](https://github.com/kubevault/bundles/commit/a428a1c) Prepare for release v2023.03.03 (#35)
+- [d54df9e](https://github.com/kubevault/bundles/commit/d54df9e) Update wrokflows (Go 1.20, k8s 1.26) (#34)
+
+
+
 ## [kubevault/cli](https://github.com/kubevault/cli)
 
 ### [v0.14.0](https://github.com/kubevault/cli/releases/tag/v0.14.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2023.03.03",
-  "release_date": "2023-03-03T22:15:11.569837624Z",
+  "release_date": "2023-03-03T22:35:13.557858833Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2023.03.03",
   "kubernetes_version": "1.20+",
@@ -35,6 +35,24 @@
             {
               "SHA": "67d27681",
               "Subject": "Add Prometheus Monitoring (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2023.03.03",
+          "commits": [
+            {
+              "SHA": "a428a1c",
+              "Subject": "Prepare for release v2023.03.03 (#35)"
+            },
+            {
+              "SHA": "d54df9e",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#34)"
             }
           ]
         }
