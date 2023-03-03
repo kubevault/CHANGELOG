@@ -14,6 +14,15 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.14.0](https://github.com/kubevault/cli/releases/tag/v0.14.0)
+
+- [d8533125](https://github.com/kubevault/cli/commit/d8533125) Prepare for release v0.14.0 (#172)
+- [8b29d08d](https://github.com/kubevault/cli/commit/8b29d08d) Update workflows (Go 1.20, k8s 1.26) (#171)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.14.0](https://github.com/kubevault/unsealer/releases/tag/v0.14.0)
