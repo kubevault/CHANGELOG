@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2023.05.05",
-  "release_date": "2023-05-05T09:00:07.448135779Z",
+  "release_date": "2023-05-05T16:33:14.070585771Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2023.05.05",
   "kubernetes_version": "1.20+",
@@ -95,6 +95,28 @@
             {
               "SHA": "e246fef",
               "Subject": "Update workflows (Go 1.20, k8s 1.26) (#197)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2023.05.05",
+          "commits": [
+            {
+              "SHA": "db46b65",
+              "Subject": "Prepare for release v2023.05.05 (#421)"
+            },
+            {
+              "SHA": "f98f2bd",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#419)"
+            },
+            {
+              "SHA": "bd48a69",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#417)"
             }
           ]
         }

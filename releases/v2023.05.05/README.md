@@ -38,6 +38,16 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2023.05.05](https://github.com/kubevault/kubevault/releases/tag/v2023.05.05)
+
+- [db46b65](https://github.com/kubevault/kubevault/commit/db46b65) Prepare for release v2023.05.05 (#421)
+- [f98f2bd](https://github.com/kubevault/kubevault/commit/f98f2bd) Update workflows (Go 1.20, k8s 1.26) (#419)
+- [bd48a69](https://github.com/kubevault/kubevault/commit/bd48a69) Update wrokflows (Go 1.20, k8s 1.26) (#417)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.15.0](https://github.com/kubevault/operator/releases/tag/v0.15.0)
