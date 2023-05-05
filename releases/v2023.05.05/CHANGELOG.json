@@ -1,0 +1,32 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2023.05.05",
+  "release_date": "2023-05-05T08:20:56.922427857Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2023.05.05",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "bba14525",
+              "Subject": "Use uid 65534 and test against K8s 1.27.0 (#129)"
+            },
+            {
+              "SHA": "4d994ade",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#128)"
+            },
+            {
+              "SHA": "7a13d331",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#127)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
