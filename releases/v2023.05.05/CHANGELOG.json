@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2023.05.05",
-  "release_date": "2023-05-05T08:47:51.674927679Z",
+  "release_date": "2023-05-05T09:00:07.448135779Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2023.05.05",
   "kubernetes_version": "1.20+",
@@ -57,6 +57,44 @@
             {
               "SHA": "ce2d1f90",
               "Subject": "Update workflows (Go 1.20, k8s 1.26) (#173)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2023.05.05",
+          "commits": [
+            {
+              "SHA": "eb90293",
+              "Subject": "Prepare for release v2023.05.05 (#202)"
+            },
+            {
+              "SHA": "a43f89a",
+              "Subject": "Test against K8s 1.27.1 (#201)"
+            },
+            {
+              "SHA": "10c283c",
+              "Subject": "Use uid 65534 and test against K8s 1.27.0 (#200)"
+            },
+            {
+              "SHA": "a07923e",
+              "Subject": "Use ghcr.io/appscode/gengo (#199)"
+            },
+            {
+              "SHA": "c1d0d8b",
+              "Subject": "Stop publishing to docker hub"
+            },
+            {
+              "SHA": "f66a6cd",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#198)"
+            },
+            {
+              "SHA": "e246fef",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#197)"
             }
           ]
         }

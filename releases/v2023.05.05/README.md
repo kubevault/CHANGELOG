@@ -24,6 +24,20 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2023.05.05](https://github.com/kubevault/installer/releases/tag/v2023.05.05)
+
+- [eb90293](https://github.com/kubevault/installer/commit/eb90293) Prepare for release v2023.05.05 (#202)
+- [a43f89a](https://github.com/kubevault/installer/commit/a43f89a) Test against K8s 1.27.1 (#201)
+- [10c283c](https://github.com/kubevault/installer/commit/10c283c) Use uid 65534 and test against K8s 1.27.0 (#200)
+- [a07923e](https://github.com/kubevault/installer/commit/a07923e) Use ghcr.io/appscode/gengo (#199)
+- [c1d0d8b](https://github.com/kubevault/installer/commit/c1d0d8b) Stop publishing to docker hub
+- [f66a6cd](https://github.com/kubevault/installer/commit/f66a6cd) Use ghcr.io for appscode/golang-dev (#198)
+- [e246fef](https://github.com/kubevault/installer/commit/e246fef) Update workflows (Go 1.20, k8s 1.26) (#197)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.15.0](https://github.com/kubevault/operator/releases/tag/v0.15.0)
