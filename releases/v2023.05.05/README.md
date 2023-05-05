@@ -24,6 +24,20 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.15.0](https://github.com/kubevault/operator/releases/tag/v0.15.0)
+
+- [65c11c92](https://github.com/kubevault/operator/commit/65c11c92) Prepare for release v0.15.0 (#99)
+- [2836dc90](https://github.com/kubevault/operator/commit/2836dc90) Configure enableServiceLinks to pod spec (#98)
+- [6773611a](https://github.com/kubevault/operator/commit/6773611a) Add Random Suffix with Secret Name (#97)
+- [7536eece](https://github.com/kubevault/operator/commit/7536eece) Create SA Token Secret if it does not exist (#96)
+- [53843506](https://github.com/kubevault/operator/commit/53843506) Use uid 65534 and test against K8s 1.27.0 (#95)
+- [fcc21ef1](https://github.com/kubevault/operator/commit/fcc21ef1) Use ghcr.io for appscode/golang-dev (#94)
+- [20b4f38e](https://github.com/kubevault/operator/commit/20b4f38e) Update workflows (Go 1.20, k8s 1.26) (#93)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.15.0](https://github.com/kubevault/unsealer/releases/tag/v0.15.0)
