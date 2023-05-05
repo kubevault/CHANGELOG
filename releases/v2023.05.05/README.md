@@ -14,6 +14,16 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.15.0](https://github.com/kubevault/cli/releases/tag/v0.15.0)
+
+- [139070bf](https://github.com/kubevault/cli/commit/139070bf) Prepare for release v0.15.0 (#175)
+- [86f87a0a](https://github.com/kubevault/cli/commit/86f87a0a) Use ghcr.io for appscode/golang-dev (#174)
+- [ce2d1f90](https://github.com/kubevault/cli/commit/ce2d1f90) Update workflows (Go 1.20, k8s 1.26) (#173)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.15.0](https://github.com/kubevault/unsealer/releases/tag/v0.15.0)
