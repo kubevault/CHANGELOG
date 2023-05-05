@@ -14,6 +14,18 @@
 
 
 
+## [kubevault/bundles](https://github.com/kubevault/bundles)
+
+### [v2023.05.05](https://github.com/kubevault/bundles/releases/tag/v2023.05.05)
+
+- [c53f9fe](https://github.com/kubevault/bundles/commit/c53f9fe) Prepare for release v2023.05.05 (#40)
+- [0236b6a](https://github.com/kubevault/bundles/commit/0236b6a) Test against K8s 1.27.1 (#39)
+- [78c39e1](https://github.com/kubevault/bundles/commit/78c39e1) Use uid 65534 and test against K8s 1.27.0 (#38)
+- [6e9dccc](https://github.com/kubevault/bundles/commit/6e9dccc) Use ghcr.io for appscode/golang-dev (#37)
+- [87a6550](https://github.com/kubevault/bundles/commit/87a6550) Update workflows (Go 1.20, k8s 1.26) (#36)
+
+
+
 ## [kubevault/cli](https://github.com/kubevault/cli)
 
 ### [v0.15.0](https://github.com/kubevault/cli/releases/tag/v0.15.0)
