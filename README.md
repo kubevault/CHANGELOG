@@ -1,6 +1,6 @@
 #  Releases
 
-|  Version | Release Date | User Guide | Changelog | Kubernetes Version |
+|  Version | Release Date | User Guide | Changelog | Kubernetes Versions |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
 | [v2023.05.05](https:/github.com/kubevault/CHANGELOG/releases/tag/v2023.05.05) | 2023-05-05 | [User Guide](https://kubevault.com/docs/v2023.05.05) | [CHANGELOG](/releases/v2023.05.05/README.md) | 1.20+ |
 | [v2023.03.03](https:/github.com/kubevault/CHANGELOG/releases/tag/v2023.03.03) | 2023-03-03 | [User Guide](https://kubevault.com/docs/v2023.03.03) | [CHANGELOG](/releases/v2023.03.03/README.md) | 1.20+ |
