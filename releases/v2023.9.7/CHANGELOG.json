@@ -1,0 +1,36 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2023.9.7",
+  "release_date": "2023-09-07T11:47:55.086977434Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2023.9.7",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "70fe1196",
+              "Subject": "Update Object Ref of Role in SAR Sepc (#86)"
+            },
+            {
+              "SHA": "61c7dec1",
+              "Subject": "Show secret name in SecretAccessRequest"
+            },
+            {
+              "SHA": "fb4e4b83",
+              "Subject": "Update conditions api (#85)"
+            },
+            {
+              "SHA": "d45cf33d",
+              "Subject": "Update license verifier (#84)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
