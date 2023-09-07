@@ -13,6 +13,17 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.16.0](https://github.com/kubevault/cli/releases/tag/v0.16.0)
+
+- [d330e716](https://github.com/kubevault/cli/commit/d330e716) Prepare for release v0.16.0 (#180)
+- [3a4b07e5](https://github.com/kubevault/cli/commit/3a4b07e5) Update deps (#179)
+- [a507b3ee](https://github.com/kubevault/cli/commit/a507b3ee) Update deps
+- [0ea76b7e](https://github.com/kubevault/cli/commit/0ea76b7e) Update license verifier (#177)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.16.0](https://github.com/kubevault/operator/releases/tag/v0.16.0)
