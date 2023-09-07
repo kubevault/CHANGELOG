@@ -1,0 +1,216 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2023.9.7",
+  "release_date": "2023-09-07T16:53:24.253123221Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2023.9.7",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "349e26c3",
+              "Subject": "Update deps (#88)"
+            },
+            {
+              "SHA": "70fe1196",
+              "Subject": "Update Object Ref of Role in SAR Sepc (#86)"
+            },
+            {
+              "SHA": "61c7dec1",
+              "Subject": "Show secret name in SecretAccessRequest"
+            },
+            {
+              "SHA": "fb4e4b83",
+              "Subject": "Update conditions api (#85)"
+            },
+            {
+              "SHA": "d45cf33d",
+              "Subject": "Update license verifier (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2023.9.7",
+          "commits": [
+            {
+              "SHA": "e46b785",
+              "Subject": "Prepare for release v2023.9.7 (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "d330e716",
+              "Subject": "Prepare for release v0.16.0 (#180)"
+            },
+            {
+              "SHA": "3a4b07e5",
+              "Subject": "Update deps (#179)"
+            },
+            {
+              "SHA": "a507b3ee",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "0ea76b7e",
+              "Subject": "Update license verifier (#177)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2023.9.7",
+          "commits": [
+            {
+              "SHA": "2794038",
+              "Subject": "Prepare for release v2023.9.7 (#213)"
+            },
+            {
+              "SHA": "3bbace5",
+              "Subject": "Update deps (#212)"
+            },
+            {
+              "SHA": "25f1bb8",
+              "Subject": "Enable seccompProfile RuntimeDefault for CI (#211)"
+            },
+            {
+              "SHA": "b3d9ee0",
+              "Subject": "Update clusterrole to list namespace (#210)"
+            },
+            {
+              "SHA": "e63f017",
+              "Subject": "Add Vault Version 1.13.3 (#208)"
+            },
+            {
+              "SHA": "22e3460",
+              "Subject": "Remove seccomp profile for charts (#209)"
+            },
+            {
+              "SHA": "b0cb8d3",
+              "Subject": "Use helm repo version"
+            },
+            {
+              "SHA": "57aad9b",
+              "Subject": "Don't mount license vol when both license and licenseSecretName is empty (#207)"
+            },
+            {
+              "SHA": "9c73417",
+              "Subject": "Add licenseSecretName values (#206)"
+            },
+            {
+              "SHA": "5cccbed",
+              "Subject": "Switch to failurePolicy: Ignore by default for webhooks (#205)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2023.9.7",
+          "commits": [
+            {
+              "SHA": "34956ed",
+              "Subject": "Prepare for release v2023.9.7 (#424)"
+            },
+            {
+              "SHA": "07ba4b3",
+              "Subject": "Update docs for kubevault/operator@2809f196 (#423)"
+            },
+            {
+              "SHA": "deba925",
+              "Subject": "Add SecretRoleBinding Docs (#422)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "221a32a0",
+              "Subject": "Prepare for release v0.16.0 (#108)"
+            },
+            {
+              "SHA": "2809f196",
+              "Subject": "Update deps (#107)"
+            },
+            {
+              "SHA": "0ca991a4",
+              "Subject": "Fix Vault CR Deletion when Backend DB deleted (#102)"
+            },
+            {
+              "SHA": "addb895b",
+              "Subject": "Configure seccomp (#106)"
+            },
+            {
+              "SHA": "9e4bb1f6",
+              "Subject": "Add cross namespace secret access request (#105)"
+            },
+            {
+              "SHA": "5c549f84",
+              "Subject": "Update Conditions API (#104)"
+            },
+            {
+              "SHA": "c3be22cd",
+              "Subject": "Use updated conditions api"
+            },
+            {
+              "SHA": "dc8ac8f8",
+              "Subject": "Use restricted pod security label (#103)"
+            },
+            {
+              "SHA": "2de8e148",
+              "Subject": "Update license verifier (#101)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "04800df4",
+              "Subject": "Update deps (#131)"
+            },
+            {
+              "SHA": "f3e89c6f",
+              "Subject": "Update license verifier (#130)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
