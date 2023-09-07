@@ -13,3 +13,12 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.16.0](https://github.com/kubevault/unsealer/releases/tag/v0.16.0)
+
+- [04800df4](https://github.com/kubevault/unsealer/commit/04800df4) Update deps (#131)
+- [f3e89c6f](https://github.com/kubevault/unsealer/commit/f3e89c6f) Update license verifier (#130)
+
+
+

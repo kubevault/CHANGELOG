@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2023.9.7",
-  "release_date": "2023-09-07T12:38:02.581185636Z",
+  "release_date": "2023-09-07T12:38:12.357955832Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2023.9.7",
   "kubernetes_version": "1.20+",
@@ -31,6 +31,24 @@
             {
               "SHA": "d45cf33d",
               "Subject": "Update license verifier (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "04800df4",
+              "Subject": "Update deps (#131)"
+            },
+            {
+              "SHA": "f3e89c6f",
+              "Subject": "Update license verifier (#130)"
             }
           ]
         }
