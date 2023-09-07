@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2023.9.7",
-  "release_date": "2023-09-07T16:44:56.176886451Z",
+  "release_date": "2023-09-07T16:53:24.253123221Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2023.9.7",
   "kubernetes_version": "1.20+",
@@ -31,6 +31,20 @@
             {
               "SHA": "d45cf33d",
               "Subject": "Update license verifier (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2023.9.7",
+          "commits": [
+            {
+              "SHA": "e46b785",
+              "Subject": "Prepare for release v2023.9.7 (#41)"
             }
           ]
         }

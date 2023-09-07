@@ -13,6 +13,14 @@
 
 
 
+## [kubevault/bundles](https://github.com/kubevault/bundles)
+
+### [v2023.9.7](https://github.com/kubevault/bundles/releases/tag/v2023.9.7)
+
+- [e46b785](https://github.com/kubevault/bundles/commit/e46b785) Prepare for release v2023.9.7 (#41)
+
+
+
 ## [kubevault/cli](https://github.com/kubevault/cli)
 
 ### [v0.16.0](https://github.com/kubevault/cli/releases/tag/v0.16.0)
