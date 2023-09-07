@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2023.9.7",
-  "release_date": "2023-09-07T16:27:13.56314348Z",
+  "release_date": "2023-09-07T16:44:56.176886451Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2023.9.7",
   "kubernetes_version": "1.20+",
@@ -107,6 +107,28 @@
             {
               "SHA": "5cccbed",
               "Subject": "Switch to failurePolicy: Ignore by default for webhooks (#205)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2023.9.7",
+          "commits": [
+            {
+              "SHA": "34956ed",
+              "Subject": "Prepare for release v2023.9.7 (#424)"
+            },
+            {
+              "SHA": "07ba4b3",
+              "Subject": "Update docs for kubevault/operator@2809f196 (#423)"
+            },
+            {
+              "SHA": "deba925",
+              "Subject": "Add SecretRoleBinding Docs (#422)"
             }
           ]
         }

@@ -41,6 +41,16 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2023.9.7](https://github.com/kubevault/kubevault/releases/tag/v2023.9.7)
+
+- [34956ed](https://github.com/kubevault/kubevault/commit/34956ed) Prepare for release v2023.9.7 (#424)
+- [07ba4b3](https://github.com/kubevault/kubevault/commit/07ba4b3) Update docs for kubevault/operator@2809f196 (#423)
+- [deba925](https://github.com/kubevault/kubevault/commit/deba925) Add SecretRoleBinding Docs (#422)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.16.0](https://github.com/kubevault/operator/releases/tag/v0.16.0)
