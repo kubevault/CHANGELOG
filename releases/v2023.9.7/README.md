@@ -24,6 +24,23 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2023.9.7](https://github.com/kubevault/installer/releases/tag/v2023.9.7)
+
+- [2794038](https://github.com/kubevault/installer/commit/2794038) Prepare for release v2023.9.7 (#213)
+- [3bbace5](https://github.com/kubevault/installer/commit/3bbace5) Update deps (#212)
+- [25f1bb8](https://github.com/kubevault/installer/commit/25f1bb8) Enable seccompProfile RuntimeDefault for CI (#211)
+- [b3d9ee0](https://github.com/kubevault/installer/commit/b3d9ee0) Update clusterrole to list namespace (#210)
+- [e63f017](https://github.com/kubevault/installer/commit/e63f017) Add Vault Version 1.13.3 (#208)
+- [22e3460](https://github.com/kubevault/installer/commit/22e3460) Remove seccomp profile for charts (#209)
+- [b0cb8d3](https://github.com/kubevault/installer/commit/b0cb8d3) Use helm repo version
+- [57aad9b](https://github.com/kubevault/installer/commit/57aad9b) Don't mount license vol when both license and licenseSecretName is empty (#207)
+- [9c73417](https://github.com/kubevault/installer/commit/9c73417) Add licenseSecretName values (#206)
+- [5cccbed](https://github.com/kubevault/installer/commit/5cccbed) Switch to failurePolicy: Ignore by default for webhooks (#205)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.16.0](https://github.com/kubevault/operator/releases/tag/v0.16.0)

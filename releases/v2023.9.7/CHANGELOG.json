@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2023.9.7",
-  "release_date": "2023-09-07T16:15:05.185666512Z",
+  "release_date": "2023-09-07T16:27:13.56314348Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2023.9.7",
   "kubernetes_version": "1.20+",
@@ -57,6 +57,56 @@
             {
               "SHA": "0ea76b7e",
               "Subject": "Update license verifier (#177)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2023.9.7",
+          "commits": [
+            {
+              "SHA": "2794038",
+              "Subject": "Prepare for release v2023.9.7 (#213)"
+            },
+            {
+              "SHA": "3bbace5",
+              "Subject": "Update deps (#212)"
+            },
+            {
+              "SHA": "25f1bb8",
+              "Subject": "Enable seccompProfile RuntimeDefault for CI (#211)"
+            },
+            {
+              "SHA": "b3d9ee0",
+              "Subject": "Update clusterrole to list namespace (#210)"
+            },
+            {
+              "SHA": "e63f017",
+              "Subject": "Add Vault Version 1.13.3 (#208)"
+            },
+            {
+              "SHA": "22e3460",
+              "Subject": "Remove seccomp profile for charts (#209)"
+            },
+            {
+              "SHA": "b0cb8d3",
+              "Subject": "Use helm repo version"
+            },
+            {
+              "SHA": "57aad9b",
+              "Subject": "Don't mount license vol when both license and licenseSecretName is empty (#207)"
+            },
+            {
+              "SHA": "9c73417",
+              "Subject": "Add licenseSecretName values (#206)"
+            },
+            {
+              "SHA": "5cccbed",
+              "Subject": "Switch to failurePolicy: Ignore by default for webhooks (#205)"
             }
           ]
         }
