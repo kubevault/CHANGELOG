@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2023.9.7",
-  "release_date": "2023-09-07T12:38:12.357955832Z",
+  "release_date": "2023-09-07T16:12:19.622544388Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2023.9.7",
   "kubernetes_version": "1.20+",
@@ -31,6 +31,52 @@
             {
               "SHA": "d45cf33d",
               "Subject": "Update license verifier (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "221a32a0",
+              "Subject": "Prepare for release v0.16.0 (#108)"
+            },
+            {
+              "SHA": "2809f196",
+              "Subject": "Update deps (#107)"
+            },
+            {
+              "SHA": "0ca991a4",
+              "Subject": "Fix Vault CR Deletion when Backend DB deleted (#102)"
+            },
+            {
+              "SHA": "addb895b",
+              "Subject": "Configure seccomp (#106)"
+            },
+            {
+              "SHA": "9e4bb1f6",
+              "Subject": "Add cross namespace secret access request (#105)"
+            },
+            {
+              "SHA": "5c549f84",
+              "Subject": "Update Conditions API (#104)"
+            },
+            {
+              "SHA": "c3be22cd",
+              "Subject": "Use updated conditions api"
+            },
+            {
+              "SHA": "dc8ac8f8",
+              "Subject": "Use restricted pod security label (#103)"
+            },
+            {
+              "SHA": "2de8e148",
+              "Subject": "Update license verifier (#101)"
             }
           ]
         }

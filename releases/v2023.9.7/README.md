@@ -13,6 +13,22 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.16.0](https://github.com/kubevault/operator/releases/tag/v0.16.0)
+
+- [221a32a0](https://github.com/kubevault/operator/commit/221a32a0) Prepare for release v0.16.0 (#108)
+- [2809f196](https://github.com/kubevault/operator/commit/2809f196) Update deps (#107)
+- [0ca991a4](https://github.com/kubevault/operator/commit/0ca991a4) Fix Vault CR Deletion when Backend DB deleted (#102)
+- [addb895b](https://github.com/kubevault/operator/commit/addb895b) Configure seccomp (#106)
+- [9e4bb1f6](https://github.com/kubevault/operator/commit/9e4bb1f6) Add cross namespace secret access request (#105)
+- [5c549f84](https://github.com/kubevault/operator/commit/5c549f84) Update Conditions API (#104)
+- [c3be22cd](https://github.com/kubevault/operator/commit/c3be22cd) Use updated conditions api
+- [dc8ac8f8](https://github.com/kubevault/operator/commit/dc8ac8f8) Use restricted pod security label (#103)
+- [2de8e148](https://github.com/kubevault/operator/commit/2de8e148) Update license verifier (#101)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.16.0](https://github.com/kubevault/unsealer/releases/tag/v0.16.0)
