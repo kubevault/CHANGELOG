@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2023.9.7",
-  "release_date": "2023-09-07T11:47:55.086977434Z",
+  "release_date": "2023-09-07T12:38:02.581185636Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2023.9.7",
   "kubernetes_version": "1.20+",
@@ -12,6 +12,10 @@
         {
           "tag": "v0.16.0",
           "commits": [
+            {
+              "SHA": "349e26c3",
+              "Subject": "Update deps (#88)"
+            },
             {
               "SHA": "70fe1196",
               "Subject": "Update Object Ref of Role in SAR Sepc (#86)"
