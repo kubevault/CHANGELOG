@@ -1,0 +1,32 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2024.1.26-rc.0",
+  "release_date": "2024-01-27T10:33:00.076290229Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2024.1.26-rc.0",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ca33ed7d",
+              "Subject": "Add ConfigureOpenAPI helper (#92)"
+            },
+            {
+              "SHA": "9853d93f",
+              "Subject": "Update crd fuzzer (#91)"
+            },
+            {
+              "SHA": "6c42ed81",
+              "Subject": "Use k8s 1.29 client libs (#90)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
