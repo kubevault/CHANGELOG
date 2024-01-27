@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T10:42:04.692386132Z",
+  "release_date": "2024-01-27T11:12:01.573939912Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -41,6 +41,28 @@
             {
               "SHA": "9c748ba6",
               "Subject": "Use k8s 1.29 client libs (#184)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9e704219",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#115)"
+            },
+            {
+              "SHA": "7005dcc7",
+              "Subject": "Use k8s 1.29 client libs (#114)"
+            },
+            {
+              "SHA": "992f326d",
+              "Subject": "Send hourly audit events (#112)"
             }
           ]
         }
