@@ -20,6 +20,16 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2024.1.26-rc.0](https://github.com/kubevault/installer/releases/tag/v2024.1.26-rc.0)
+
+- [299385d](https://github.com/kubevault/installer/commit/299385d) Prepare for release v2024.1.26-rc.0 (#225)
+- [9e1c356](https://github.com/kubevault/installer/commit/9e1c356) Use k8s 1.29 client libs (#224)
+- [04c5a03](https://github.com/kubevault/installer/commit/04c5a03) Check for image existence (#221)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.17.0-rc.0](https://github.com/kubevault/operator/releases/tag/v0.17.0-rc.0)
