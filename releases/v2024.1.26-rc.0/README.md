@@ -30,6 +30,14 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2024.1.26-rc.0](https://github.com/kubevault/kubevault/releases/tag/v2024.1.26-rc.0)
+
+- [9c7a8b7](https://github.com/kubevault/kubevault/commit/9c7a8b7) Prepare for release v2024.1.26-rc.0 (#427)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.17.0-rc.0](https://github.com/kubevault/operator/releases/tag/v0.17.0-rc.0)

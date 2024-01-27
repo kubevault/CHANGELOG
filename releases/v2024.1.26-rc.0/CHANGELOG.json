@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T11:27:35.507851307Z",
+  "release_date": "2024-01-27T11:38:23.807504746Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -63,6 +63,20 @@
             {
               "SHA": "04c5a03",
               "Subject": "Check for image existence (#221)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2024.1.26-rc.0",
+          "commits": [
+            {
+              "SHA": "9c7a8b7",
+              "Subject": "Prepare for release v2024.1.26-rc.0 (#427)"
             }
           ]
         }
