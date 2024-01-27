@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T11:38:23.807504746Z",
+  "release_date": "2024-01-27T11:43:57.895455861Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -23,6 +23,20 @@
             {
               "SHA": "6c42ed81",
               "Subject": "Use k8s 1.29 client libs (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2024.1.26-rc.0",
+          "commits": [
+            {
+              "SHA": "94a39f2",
+              "Subject": "Prepare for release v2024.1.26-rc.0 (#42)"
             }
           ]
         }
