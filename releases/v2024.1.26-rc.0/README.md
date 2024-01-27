@@ -11,3 +11,12 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.17.0-rc.0](https://github.com/kubevault/unsealer/releases/tag/v0.17.0-rc.0)
+
+- [f46b417e](https://github.com/kubevault/unsealer/commit/f46b417e) Use k8s 1.29 client libs (#133)
+- [46940e31](https://github.com/kubevault/unsealer/commit/46940e31) Use k8s 1.29 client libs (#132)
+
+
+
