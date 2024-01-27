@@ -11,6 +11,15 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.17.0-rc.0](https://github.com/kubevault/cli/releases/tag/v0.17.0-rc.0)
+
+- [d3c67d43](https://github.com/kubevault/cli/commit/d3c67d43) Prepare for release v0.17.0-rc.0 (#185)
+- [9c748ba6](https://github.com/kubevault/cli/commit/9c748ba6) Use k8s 1.29 client libs (#184)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.17.0-rc.0](https://github.com/kubevault/unsealer/releases/tag/v0.17.0-rc.0)
