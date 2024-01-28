@@ -1,0 +1,24 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2024.1.28-rc.1",
+  "release_date": "2024-01-28T11:26:15.732525314Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2024.1.28-rc.1",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.1",
+          "commits": [
+            {
+              "SHA": "c1e6d898",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
