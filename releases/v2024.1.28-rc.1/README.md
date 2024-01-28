@@ -18,6 +18,15 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.17.0-rc.1](https://github.com/kubevault/operator/releases/tag/v0.17.0-rc.1)
+
+- [94a6564a](https://github.com/kubevault/operator/commit/94a6564a) Prepare for release v0.17.0-rc.1 (#117)
+- [fb390cf6](https://github.com/kubevault/operator/commit/fb390cf6) Use deps (#116)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.17.0-rc.1](https://github.com/kubevault/unsealer/releases/tag/v0.17.0-rc.1)
