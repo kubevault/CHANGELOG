@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2024.1.28-rc.1",
-  "release_date": "2024-01-28T11:26:15.732525314Z",
+  "release_date": "2024-01-28T11:26:21.714217954Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2024.1.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -15,6 +15,20 @@
             {
               "SHA": "c1e6d898",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.1",
+          "commits": [
+            {
+              "SHA": "fdbbdc20",
+              "Subject": "Use deps (#134)"
             }
           ]
         }

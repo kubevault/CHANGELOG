@@ -9,3 +9,11 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.17.0-rc.1](https://github.com/kubevault/unsealer/releases/tag/v0.17.0-rc.1)
+
+- [fdbbdc20](https://github.com/kubevault/unsealer/commit/fdbbdc20) Use deps (#134)
+
+
+
