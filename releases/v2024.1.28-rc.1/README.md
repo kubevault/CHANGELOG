@@ -18,6 +18,15 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2024.1.28-rc.1](https://github.com/kubevault/installer/releases/tag/v2024.1.28-rc.1)
+
+- [2f29a5e](https://github.com/kubevault/installer/commit/2f29a5e) Prepare for release v2024.1.28-rc.1 (#227)
+- [bf6ad16](https://github.com/kubevault/installer/commit/bf6ad16) Use deps (#226)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.17.0-rc.1](https://github.com/kubevault/operator/releases/tag/v0.17.0-rc.1)
