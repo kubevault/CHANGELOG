@@ -9,6 +9,15 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.17.0-rc.1](https://github.com/kubevault/cli/releases/tag/v0.17.0-rc.1)
+
+- [18eaa3b5](https://github.com/kubevault/cli/commit/18eaa3b5) Prepare for release v0.17.0-rc.1 (#188)
+- [74190f7c](https://github.com/kubevault/cli/commit/74190f7c) Use deps (#187)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.17.0-rc.1](https://github.com/kubevault/unsealer/releases/tag/v0.17.0-rc.1)
