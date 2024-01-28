@@ -1,0 +1,124 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2024.1.28-rc.1",
+  "release_date": "2024-01-28T12:38:38.516170931Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2024.1.28-rc.1",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.1",
+          "commits": [
+            {
+              "SHA": "c1e6d898",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2024.1.28-rc.1",
+          "commits": [
+            {
+              "SHA": "f7d364a",
+              "Subject": "Prepare for release v2024.1.28-rc.1 (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.1",
+          "commits": [
+            {
+              "SHA": "18eaa3b5",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#188)"
+            },
+            {
+              "SHA": "74190f7c",
+              "Subject": "Use deps (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2024.1.28-rc.1",
+          "commits": [
+            {
+              "SHA": "2f29a5e",
+              "Subject": "Prepare for release v2024.1.28-rc.1 (#227)"
+            },
+            {
+              "SHA": "bf6ad16",
+              "Subject": "Use deps (#226)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2024.1.28-rc.1",
+          "commits": [
+            {
+              "SHA": "d43214b",
+              "Subject": "Prepare for release v2024.1.28-rc.1 (#430)"
+            },
+            {
+              "SHA": "7551594",
+              "Subject": "Update docs for kubevault/cli@d3c67d43 (#426)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.1",
+          "commits": [
+            {
+              "SHA": "94a6564a",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#117)"
+            },
+            {
+              "SHA": "fb390cf6",
+              "Subject": "Use deps (#116)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.1",
+          "commits": [
+            {
+              "SHA": "fdbbdc20",
+              "Subject": "Use deps (#134)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
