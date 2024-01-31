@@ -1,0 +1,228 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2024.1.31",
+  "release_date": "2024-01-31T19:52:28.956443165Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2024.1.31",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "c1e6d898",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "ca33ed7d",
+              "Subject": "Add ConfigureOpenAPI helper (#92)"
+            },
+            {
+              "SHA": "9853d93f",
+              "Subject": "Update crd fuzzer (#91)"
+            },
+            {
+              "SHA": "6c42ed81",
+              "Subject": "Use k8s 1.29 client libs (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2024.1.31",
+          "commits": [
+            {
+              "SHA": "e629a9d",
+              "Subject": "Prepare for release v2024.1.31 (#44)"
+            },
+            {
+              "SHA": "f7d364a",
+              "Subject": "Prepare for release v2024.1.28-rc.1 (#43)"
+            },
+            {
+              "SHA": "94a39f2",
+              "Subject": "Prepare for release v2024.1.26-rc.0 (#42)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "16fc1470",
+              "Subject": "Prepare for release v0.17.0 (#189)"
+            },
+            {
+              "SHA": "18eaa3b5",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#188)"
+            },
+            {
+              "SHA": "74190f7c",
+              "Subject": "Use deps (#187)"
+            },
+            {
+              "SHA": "d3c67d43",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#185)"
+            },
+            {
+              "SHA": "9c748ba6",
+              "Subject": "Use k8s 1.29 client libs (#184)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2024.1.31",
+          "commits": [
+            {
+              "SHA": "fcd744f",
+              "Subject": "Prepare for release v2024.1.31 (#228)"
+            },
+            {
+              "SHA": "2f29a5e",
+              "Subject": "Prepare for release v2024.1.28-rc.1 (#227)"
+            },
+            {
+              "SHA": "bf6ad16",
+              "Subject": "Use deps (#226)"
+            },
+            {
+              "SHA": "299385d",
+              "Subject": "Prepare for release v2024.1.26-rc.0 (#225)"
+            },
+            {
+              "SHA": "9e1c356",
+              "Subject": "Use k8s 1.29 client libs (#224)"
+            },
+            {
+              "SHA": "04c5a03",
+              "Subject": "Check for image existence (#221)"
+            },
+            {
+              "SHA": "1addbed",
+              "Subject": "Fix registry proxy templates"
+            },
+            {
+              "SHA": "036ffa3",
+              "Subject": "Remove k8s 1.19 from CI"
+            },
+            {
+              "SHA": "fbbedff",
+              "Subject": "Prepare release: v2023.10.26-rc.0 (#219)"
+            },
+            {
+              "SHA": "4652480",
+              "Subject": "Update catalog registry templates (#216)"
+            },
+            {
+              "SHA": "8770e07",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2024.1.31",
+          "commits": [
+            {
+              "SHA": "d9defac",
+              "Subject": "Prepare for release v2024.1.31 (#433)"
+            },
+            {
+              "SHA": "d43214b",
+              "Subject": "Prepare for release v2024.1.28-rc.1 (#430)"
+            },
+            {
+              "SHA": "7551594",
+              "Subject": "Update docs for kubevault/cli@d3c67d43 (#426)"
+            },
+            {
+              "SHA": "9c7a8b7",
+              "Subject": "Prepare for release v2024.1.26-rc.0 (#427)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "84268ef1",
+              "Subject": "Prepare for release v0.17.0 (#119)"
+            },
+            {
+              "SHA": "3cfeac7b",
+              "Subject": "Fix Cloud Secret Engines (#118)"
+            },
+            {
+              "SHA": "94a6564a",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#117)"
+            },
+            {
+              "SHA": "fb390cf6",
+              "Subject": "Use deps (#116)"
+            },
+            {
+              "SHA": "9e704219",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#115)"
+            },
+            {
+              "SHA": "7005dcc7",
+              "Subject": "Use k8s 1.29 client libs (#114)"
+            },
+            {
+              "SHA": "992f326d",
+              "Subject": "Send hourly audit events (#112)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "fdbbdc20",
+              "Subject": "Use deps (#134)"
+            },
+            {
+              "SHA": "f46b417e",
+              "Subject": "Use k8s 1.29 client libs (#133)"
+            },
+            {
+              "SHA": "46940e31",
+              "Subject": "Use k8s 1.29 client libs (#132)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
