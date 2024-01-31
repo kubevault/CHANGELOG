@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2024.1.31",
-  "release_date": "2024-01-31T16:45:00.483970182Z",
+  "release_date": "2024-01-31T17:09:50.029092664Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -57,6 +57,60 @@
             {
               "SHA": "9c748ba6",
               "Subject": "Use k8s 1.29 client libs (#184)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2024.1.31",
+          "commits": [
+            {
+              "SHA": "fcd744f",
+              "Subject": "Prepare for release v2024.1.31 (#228)"
+            },
+            {
+              "SHA": "2f29a5e",
+              "Subject": "Prepare for release v2024.1.28-rc.1 (#227)"
+            },
+            {
+              "SHA": "bf6ad16",
+              "Subject": "Use deps (#226)"
+            },
+            {
+              "SHA": "299385d",
+              "Subject": "Prepare for release v2024.1.26-rc.0 (#225)"
+            },
+            {
+              "SHA": "9e1c356",
+              "Subject": "Use k8s 1.29 client libs (#224)"
+            },
+            {
+              "SHA": "04c5a03",
+              "Subject": "Check for image existence (#221)"
+            },
+            {
+              "SHA": "1addbed",
+              "Subject": "Fix registry proxy templates"
+            },
+            {
+              "SHA": "036ffa3",
+              "Subject": "Remove k8s 1.19 from CI"
+            },
+            {
+              "SHA": "fbbedff",
+              "Subject": "Prepare release: v2023.10.26-rc.0 (#219)"
+            },
+            {
+              "SHA": "4652480",
+              "Subject": "Update catalog registry templates (#216)"
+            },
+            {
+              "SHA": "8770e07",
+              "Subject": "Update deps"
             }
           ]
         }

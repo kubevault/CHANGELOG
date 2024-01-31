@@ -24,6 +24,24 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2024.1.31](https://github.com/kubevault/installer/releases/tag/v2024.1.31)
+
+- [fcd744f](https://github.com/kubevault/installer/commit/fcd744f) Prepare for release v2024.1.31 (#228)
+- [2f29a5e](https://github.com/kubevault/installer/commit/2f29a5e) Prepare for release v2024.1.28-rc.1 (#227)
+- [bf6ad16](https://github.com/kubevault/installer/commit/bf6ad16) Use deps (#226)
+- [299385d](https://github.com/kubevault/installer/commit/299385d) Prepare for release v2024.1.26-rc.0 (#225)
+- [9e1c356](https://github.com/kubevault/installer/commit/9e1c356) Use k8s 1.29 client libs (#224)
+- [04c5a03](https://github.com/kubevault/installer/commit/04c5a03) Check for image existence (#221)
+- [1addbed](https://github.com/kubevault/installer/commit/1addbed) Fix registry proxy templates
+- [036ffa3](https://github.com/kubevault/installer/commit/036ffa3) Remove k8s 1.19 from CI
+- [fbbedff](https://github.com/kubevault/installer/commit/fbbedff) Prepare release: v2023.10.26-rc.0 (#219)
+- [4652480](https://github.com/kubevault/installer/commit/4652480) Update catalog registry templates (#216)
+- [8770e07](https://github.com/kubevault/installer/commit/8770e07) Update deps
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.17.0](https://github.com/kubevault/operator/releases/tag/v0.17.0)
