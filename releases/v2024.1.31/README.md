@@ -24,6 +24,20 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.17.0](https://github.com/kubevault/operator/releases/tag/v0.17.0)
+
+- [84268ef1](https://github.com/kubevault/operator/commit/84268ef1) Prepare for release v0.17.0 (#119)
+- [3cfeac7b](https://github.com/kubevault/operator/commit/3cfeac7b) Fix Cloud Secret Engines (#118)
+- [94a6564a](https://github.com/kubevault/operator/commit/94a6564a) Prepare for release v0.17.0-rc.1 (#117)
+- [fb390cf6](https://github.com/kubevault/operator/commit/fb390cf6) Use deps (#116)
+- [9e704219](https://github.com/kubevault/operator/commit/9e704219) Prepare for release v0.17.0-rc.0 (#115)
+- [7005dcc7](https://github.com/kubevault/operator/commit/7005dcc7) Use k8s 1.29 client libs (#114)
+- [992f326d](https://github.com/kubevault/operator/commit/992f326d) Send hourly audit events (#112)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.17.0](https://github.com/kubevault/unsealer/releases/tag/v0.17.0)

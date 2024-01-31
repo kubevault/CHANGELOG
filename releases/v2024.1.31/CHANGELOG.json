@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2024.1.31",
-  "release_date": "2024-01-31T16:00:54.992570269Z",
+  "release_date": "2024-01-31T16:45:00.483970182Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -57,6 +57,44 @@
             {
               "SHA": "9c748ba6",
               "Subject": "Use k8s 1.29 client libs (#184)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "84268ef1",
+              "Subject": "Prepare for release v0.17.0 (#119)"
+            },
+            {
+              "SHA": "3cfeac7b",
+              "Subject": "Fix Cloud Secret Engines (#118)"
+            },
+            {
+              "SHA": "94a6564a",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#117)"
+            },
+            {
+              "SHA": "fb390cf6",
+              "Subject": "Use deps (#116)"
+            },
+            {
+              "SHA": "9e704219",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#115)"
+            },
+            {
+              "SHA": "7005dcc7",
+              "Subject": "Use k8s 1.29 client libs (#114)"
+            },
+            {
+              "SHA": "992f326d",
+              "Subject": "Send hourly audit events (#112)"
             }
           ]
         }
