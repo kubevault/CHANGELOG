@@ -42,6 +42,17 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2024.1.31](https://github.com/kubevault/kubevault/releases/tag/v2024.1.31)
+
+- [d9defac](https://github.com/kubevault/kubevault/commit/d9defac) Prepare for release v2024.1.31 (#433)
+- [d43214b](https://github.com/kubevault/kubevault/commit/d43214b) Prepare for release v2024.1.28-rc.1 (#430)
+- [7551594](https://github.com/kubevault/kubevault/commit/7551594) Update docs for kubevault/cli@d3c67d43 (#426)
+- [9c7a8b7](https://github.com/kubevault/kubevault/commit/9c7a8b7) Prepare for release v2024.1.26-rc.0 (#427)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.17.0](https://github.com/kubevault/operator/releases/tag/v0.17.0)

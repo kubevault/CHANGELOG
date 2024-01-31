@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2024.1.31",
-  "release_date": "2024-01-31T17:09:50.029092664Z",
+  "release_date": "2024-01-31T19:47:45.324119127Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -111,6 +111,32 @@
             {
               "SHA": "8770e07",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2024.1.31",
+          "commits": [
+            {
+              "SHA": "d9defac",
+              "Subject": "Prepare for release v2024.1.31 (#433)"
+            },
+            {
+              "SHA": "d43214b",
+              "Subject": "Prepare for release v2024.1.28-rc.1 (#430)"
+            },
+            {
+              "SHA": "7551594",
+              "Subject": "Update docs for kubevault/cli@d3c67d43 (#426)"
+            },
+            {
+              "SHA": "9c7a8b7",
+              "Subject": "Prepare for release v2024.1.26-rc.0 (#427)"
             }
           ]
         }
