@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2024.1.31",
-  "release_date": "2024-01-31T15:53:46.207255072Z",
+  "release_date": "2024-01-31T15:53:54.618831591Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -27,6 +27,28 @@
             {
               "SHA": "6c42ed81",
               "Subject": "Use k8s 1.29 client libs (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "fdbbdc20",
+              "Subject": "Use deps (#134)"
+            },
+            {
+              "SHA": "f46b417e",
+              "Subject": "Use k8s 1.29 client libs (#133)"
+            },
+            {
+              "SHA": "46940e31",
+              "Subject": "Use k8s 1.29 client libs (#132)"
             }
           ]
         }
