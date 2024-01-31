@@ -12,6 +12,16 @@
 
 
 
+## [kubevault/bundles](https://github.com/kubevault/bundles)
+
+### [v2024.1.31](https://github.com/kubevault/bundles/releases/tag/v2024.1.31)
+
+- [e629a9d](https://github.com/kubevault/bundles/commit/e629a9d) Prepare for release v2024.1.31 (#44)
+- [f7d364a](https://github.com/kubevault/bundles/commit/f7d364a) Prepare for release v2024.1.28-rc.1 (#43)
+- [94a39f2](https://github.com/kubevault/bundles/commit/94a39f2) Prepare for release v2024.1.26-rc.0 (#42)
+
+
+
 ## [kubevault/cli](https://github.com/kubevault/cli)
 
 ### [v0.17.0](https://github.com/kubevault/cli/releases/tag/v0.17.0)
