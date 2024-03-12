@@ -28,6 +28,14 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2024.3.12](https://github.com/kubevault/kubevault/releases/tag/v2024.3.12)
+
+- [a324dda](https://github.com/kubevault/kubevault/commit/a324dda) Prepare for release v2024.3.12 (#436)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.18.0](https://github.com/kubevault/operator/releases/tag/v0.18.0)
