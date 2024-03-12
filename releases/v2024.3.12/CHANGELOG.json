@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2024.3.12",
-  "release_date": "2024-03-12T17:54:24.477070421Z",
+  "release_date": "2024-03-12T17:59:45.313272175Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2024.3.12",
   "kubernetes_version": "1.20+",
@@ -23,6 +23,20 @@
             {
               "SHA": "82677dd7",
               "Subject": "Add PKI API (#93)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2024.3.12",
+          "commits": [
+            {
+              "SHA": "59808ff",
+              "Subject": "Prepare for release v2024.3.12 (#45)"
             }
           ]
         }
