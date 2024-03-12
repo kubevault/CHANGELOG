@@ -1,0 +1,32 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2024.3.12",
+  "release_date": "2024-03-12T16:41:25.310136884Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2024.3.12",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "f7c76e31",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "be8c2cad",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "82677dd7",
+              "Subject": "Add PKI API (#93)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
