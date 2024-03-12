@@ -1,0 +1,119 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2024.3.12",
+  "release_date": "2024-03-12T17:59:45.313272175Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2024.3.12",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "f7c76e31",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "be8c2cad",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "82677dd7",
+              "Subject": "Add PKI API (#93)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/bundles",
+      "releases": [
+        {
+          "tag": "v2024.3.12",
+          "commits": [
+            {
+              "SHA": "59808ff",
+              "Subject": "Prepare for release v2024.3.12 (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "0a26bfb9",
+              "Subject": "Prepare for release v0.18.0 (#190)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2024.3.12",
+          "commits": [
+            {
+              "SHA": "7963d5d",
+              "Subject": "Prepare for release v2024.3.12 (#229)"
+            },
+            {
+              "SHA": "d589023",
+              "Subject": "Fix formatting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2024.3.12",
+          "commits": [
+            {
+              "SHA": "a324dda",
+              "Subject": "Prepare for release v2024.3.12 (#436)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "558194fb",
+              "Subject": "Prepare for release v0.18.0 (#121)"
+            },
+            {
+              "SHA": "67901b68",
+              "Subject": "Add PKI Engine (#120)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": null
+        }
+      ]
+    }
+  ]
+}
