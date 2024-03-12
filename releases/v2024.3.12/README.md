@@ -11,6 +11,15 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.18.0](https://github.com/kubevault/operator/releases/tag/v0.18.0)
+
+- [558194fb](https://github.com/kubevault/operator/commit/558194fb) Prepare for release v0.18.0 (#121)
+- [67901b68](https://github.com/kubevault/operator/commit/67901b68) Add PKI Engine (#120)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.18.0](https://github.com/kubevault/unsealer/releases/tag/v0.18.0)
