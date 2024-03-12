@@ -19,6 +19,15 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2024.3.12](https://github.com/kubevault/installer/releases/tag/v2024.3.12)
+
+- [7963d5d](https://github.com/kubevault/installer/commit/7963d5d) Prepare for release v2024.3.12 (#229)
+- [d589023](https://github.com/kubevault/installer/commit/d589023) Fix formatting
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.18.0](https://github.com/kubevault/operator/releases/tag/v0.18.0)
