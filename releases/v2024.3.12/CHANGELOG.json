@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2024.3.12",
-  "release_date": "2024-03-12T16:41:25.310136884Z",
+  "release_date": "2024-03-12T16:41:32.571587213Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2024.3.12",
   "kubernetes_version": "1.20+",
@@ -25,6 +25,15 @@
               "Subject": "Add PKI API (#93)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": null
         }
       ]
     }
