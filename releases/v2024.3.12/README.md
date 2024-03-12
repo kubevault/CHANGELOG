@@ -11,6 +11,14 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.18.0](https://github.com/kubevault/cli/releases/tag/v0.18.0)
+
+- [0a26bfb9](https://github.com/kubevault/cli/commit/0a26bfb9) Prepare for release v0.18.0 (#190)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.18.0](https://github.com/kubevault/operator/releases/tag/v0.18.0)
