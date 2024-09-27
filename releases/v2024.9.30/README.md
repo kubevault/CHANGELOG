@@ -12,6 +12,15 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.19.0](https://github.com/kubevault/cli/releases/tag/v0.19.0)
+
+- [e9bae879](https://github.com/kubevault/cli/commit/e9bae879) Prepare for release v0.19.0 (#195)
+- [2ae41b88](https://github.com/kubevault/cli/commit/2ae41b88) Use Go 1.23 (#194)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.19.0](https://github.com/kubevault/unsealer/releases/tag/v0.19.0)
