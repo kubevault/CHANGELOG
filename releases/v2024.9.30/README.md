@@ -40,6 +40,19 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2024.9.30](https://github.com/kubevault/kubevault/releases/tag/v2024.9.30)
+
+- [f1d1465](https://github.com/kubevault/kubevault/commit/f1d1465) Prepare for release v2024.9.30 (#441)
+- [e030f3a](https://github.com/kubevault/kubevault/commit/e030f3a) Use KIND v0.24.0 (#440)
+- [b9ff9f7](https://github.com/kubevault/kubevault/commit/b9ff9f7) Use Go 1.23 (#439)
+- [cbade1f](https://github.com/kubevault/kubevault/commit/cbade1f) Fix preview
+- [855d377](https://github.com/kubevault/kubevault/commit/855d377) Update docs for kubevault/operator@5f261077 (#437)
+- [a353294](https://github.com/kubevault/kubevault/commit/a353294) Update docs for kubevault/operator@558194fb (#435)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.19.0](https://github.com/kubevault/operator/releases/tag/v0.19.0)

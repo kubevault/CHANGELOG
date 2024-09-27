@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T05:13:51.792326942Z",
+  "release_date": "2024-09-27T05:25:27.582074212Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -103,6 +103,40 @@
             {
               "SHA": "ecdc628",
               "Subject": "Remove license checks from webhook server (#232)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2024.9.30",
+          "commits": [
+            {
+              "SHA": "f1d1465",
+              "Subject": "Prepare for release v2024.9.30 (#441)"
+            },
+            {
+              "SHA": "e030f3a",
+              "Subject": "Use KIND v0.24.0 (#440)"
+            },
+            {
+              "SHA": "b9ff9f7",
+              "Subject": "Use Go 1.23 (#439)"
+            },
+            {
+              "SHA": "cbade1f",
+              "Subject": "Fix preview"
+            },
+            {
+              "SHA": "855d377",
+              "Subject": "Update docs for kubevault/operator@5f261077 (#437)"
+            },
+            {
+              "SHA": "a353294",
+              "Subject": "Update docs for kubevault/operator@558194fb (#435)"
             }
           ]
         }
