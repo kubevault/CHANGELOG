@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T02:10:49.334335341Z",
+  "release_date": "2024-09-27T02:10:55.342766373Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -27,6 +27,24 @@
             {
               "SHA": "e0f7e2f7",
               "Subject": "Test against k8s 1.31 (#96)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "4ee4d0cd",
+              "Subject": "Use Go 1.23 (#136)"
+            },
+            {
+              "SHA": "2e0d13e5",
+              "Subject": "Use Go 1.23 (#135)"
             }
           ]
         }
