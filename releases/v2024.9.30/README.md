@@ -21,6 +21,16 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.19.0](https://github.com/kubevault/operator/releases/tag/v0.19.0)
+
+- [9094e13f](https://github.com/kubevault/operator/commit/9094e13ff) Update deps
+- [a9ec7f93](https://github.com/kubevault/operator/commit/a9ec7f93e) Use Go 1.23 (#124)
+- [5f261077](https://github.com/kubevault/operator/commit/5f2610774) Remove license checks from the webhook server (#123)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.19.0](https://github.com/kubevault/unsealer/releases/tag/v0.19.0)
