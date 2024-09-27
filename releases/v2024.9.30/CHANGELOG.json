@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T02:59:33.565313087Z",
+  "release_date": "2024-09-27T05:13:51.792326942Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -45,6 +45,64 @@
             {
               "SHA": "2ae41b88",
               "Subject": "Use Go 1.23 (#194)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2024.9.30",
+          "commits": [
+            {
+              "SHA": "e12ee67",
+              "Subject": "Prepare for release v2024.9.30 (#238)"
+            },
+            {
+              "SHA": "f2759e3",
+              "Subject": "Use seccompProfile RuntimeDefault"
+            },
+            {
+              "SHA": "2b61714",
+              "Subject": "Update charts"
+            },
+            {
+              "SHA": "581e7fd",
+              "Subject": "Add imagelist"
+            },
+            {
+              "SHA": "29358ad",
+              "Subject": "Revise metrics config user roles"
+            },
+            {
+              "SHA": "d9a1943",
+              "Subject": "Remove appcatalog user roles"
+            },
+            {
+              "SHA": "58f6616",
+              "Subject": "Revise user roles (#237)"
+            },
+            {
+              "SHA": "f44f881",
+              "Subject": "Use KIND v0.24.0 (#236)"
+            },
+            {
+              "SHA": "1a8a998",
+              "Subject": "Use Go 1.23 (#235)"
+            },
+            {
+              "SHA": "02f56cc",
+              "Subject": "Test against k8s 1.31 (#234)"
+            },
+            {
+              "SHA": "413f44e",
+              "Subject": "Fix ca cert key in service monitor"
+            },
+            {
+              "SHA": "ecdc628",
+              "Subject": "Remove license checks from webhook server (#232)"
             }
           ]
         }
