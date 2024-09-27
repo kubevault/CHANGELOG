@@ -1,0 +1,36 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2024.9.30",
+  "release_date": "2024-09-27T02:10:49.334335341Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2024.9.30",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "223cd4f7",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "ae601415",
+              "Subject": "Use KIND v0.24.0 (#98)"
+            },
+            {
+              "SHA": "f4ffee13",
+              "Subject": "Use Go 1.23 (#97)"
+            },
+            {
+              "SHA": "e0f7e2f7",
+              "Subject": "Test against k8s 1.31 (#96)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
