@@ -16,3 +16,12 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.20.0-rc.0](https://github.com/kubevault/unsealer/releases/tag/v0.20.0-rc.0)
+
+- [45ffd31c](https://github.com/kubevault/unsealer/commit/45ffd31c) Update github action modules (#138)
+- [47945d71](https://github.com/kubevault/unsealer/commit/47945d71) Use debian:12 base image (#137)
+
+
+

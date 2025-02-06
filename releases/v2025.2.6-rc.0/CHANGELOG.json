@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-06T22:01:28.61296069Z",
+  "release_date": "2025-02-06T22:01:35.394365378Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -43,6 +43,24 @@
             {
               "SHA": "b03363cd",
               "Subject": "Use debian:12 base image (#99)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "45ffd31c",
+              "Subject": "Update github action modules (#138)"
+            },
+            {
+              "SHA": "47945d71",
+              "Subject": "Use debian:12 base image (#137)"
             }
           ]
         }
