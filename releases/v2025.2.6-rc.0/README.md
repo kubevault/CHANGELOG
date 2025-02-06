@@ -16,6 +16,15 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.20.0-rc.0](https://github.com/kubevault/cli/releases/tag/v0.20.0-rc.0)
+
+- [6fb84094](https://github.com/kubevault/cli/commit/6fb84094) Prepare for release v0.20.0-rc.0 (#197)
+- [59f2343b](https://github.com/kubevault/cli/commit/59f2343b) Update github action modules (#196)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.20.0-rc.0](https://github.com/kubevault/unsealer/releases/tag/v0.20.0-rc.0)

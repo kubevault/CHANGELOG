@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-06T22:01:35.394365378Z",
+  "release_date": "2025-02-06T22:20:02.825924915Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -43,6 +43,24 @@
             {
               "SHA": "b03363cd",
               "Subject": "Use debian:12 base image (#99)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6fb84094",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#197)"
+            },
+            {
+              "SHA": "59f2343b",
+              "Subject": "Update github action modules (#196)"
             }
           ]
         }
