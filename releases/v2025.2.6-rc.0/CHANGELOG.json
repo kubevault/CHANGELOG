@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-06T22:20:02.825924915Z",
+  "release_date": "2025-02-06T22:50:29.638571399Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -61,6 +61,32 @@
             {
               "SHA": "59f2343b",
               "Subject": "Update github action modules (#196)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "eb1a68e0d",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#128)"
+            },
+            {
+              "SHA": "590382941",
+              "Subject": "Updates for adding `initContainer` in `VaultServerVersion` (#127)"
+            },
+            {
+              "SHA": "4aba3e3d0",
+              "Subject": "Update github action modules (#126)"
+            },
+            {
+              "SHA": "3f72441a0",
+              "Subject": "Use debian:12 base image (#125)"
             }
           ]
         }

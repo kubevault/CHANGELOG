@@ -25,6 +25,17 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.20.0-rc.0](https://github.com/kubevault/operator/releases/tag/v0.20.0-rc.0)
+
+- [eb1a68e0](https://github.com/kubevault/operator/commit/eb1a68e0d) Prepare for release v0.20.0-rc.0 (#128)
+- [59038294](https://github.com/kubevault/operator/commit/590382941) Updates for adding `initContainer` in `VaultServerVersion` (#127)
+- [4aba3e3d](https://github.com/kubevault/operator/commit/4aba3e3d0) Update github action modules (#126)
+- [3f72441a](https://github.com/kubevault/operator/commit/3f72441a0) Use debian:12 base image (#125)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.20.0-rc.0](https://github.com/kubevault/unsealer/releases/tag/v0.20.0-rc.0)
