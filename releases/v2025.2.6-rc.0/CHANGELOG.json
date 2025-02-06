@@ -1,0 +1,52 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2025.2.6-rc.0",
+  "release_date": "2025-02-06T22:01:28.61296069Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2025.2.6-rc.0",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "01a5f6e4",
+              "Subject": "Fix Makefile"
+            },
+            {
+              "SHA": "0b35b1ab",
+              "Subject": "make gen fmt"
+            },
+            {
+              "SHA": "8f4ddb6f",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "38cba2c5",
+              "Subject": "Remove deprecated api calls"
+            },
+            {
+              "SHA": "cd6099c2",
+              "Subject": "Add initContainer config option in VaultServerVersionSpec (#102)"
+            },
+            {
+              "SHA": "41aa54b8",
+              "Subject": "Update github action modules (#101)"
+            },
+            {
+              "SHA": "c8c5b186",
+              "Subject": "Use kind v0.25.0 (#100)"
+            },
+            {
+              "SHA": "b03363cd",
+              "Subject": "Use debian:12 base image (#99)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
