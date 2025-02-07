@@ -17,3 +17,16 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.20.0](https://github.com/kubevault/unsealer/releases/tag/v0.20.0)
+
+- [468d2d2f](https://github.com/kubevault/unsealer/commit/468d2d2f) Fix linter
+- [a79fe02c](https://github.com/kubevault/unsealer/commit/a79fe02c) Remove vulnerable deps
+- [ff793842](https://github.com/kubevault/unsealer/commit/ff793842) Fix CI
+- [ed626e15](https://github.com/kubevault/unsealer/commit/ed626e15) Disable image caching in setup-qemu action (#139)
+- [45ffd31c](https://github.com/kubevault/unsealer/commit/45ffd31c) Update github action modules (#138)
+- [47945d71](https://github.com/kubevault/unsealer/commit/47945d71) Use debian:12 base image (#137)
+
+
+

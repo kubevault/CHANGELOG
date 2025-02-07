@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2025.2.10",
-  "release_date": "2025-02-07T21:33:31.958367875Z",
+  "release_date": "2025-02-07T21:33:39.942456595Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2025.2.10",
   "kubernetes_version": "1.26+",
@@ -47,6 +47,40 @@
             {
               "SHA": "b03363cd",
               "Subject": "Use debian:12 base image (#99)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "468d2d2f",
+              "Subject": "Fix linter"
+            },
+            {
+              "SHA": "a79fe02c",
+              "Subject": "Remove vulnerable deps"
+            },
+            {
+              "SHA": "ff793842",
+              "Subject": "Fix CI"
+            },
+            {
+              "SHA": "ed626e15",
+              "Subject": "Disable image caching in setup-qemu action (#139)"
+            },
+            {
+              "SHA": "45ffd31c",
+              "Subject": "Update github action modules (#138)"
+            },
+            {
+              "SHA": "47945d71",
+              "Subject": "Use debian:12 base image (#137)"
             }
           ]
         }
