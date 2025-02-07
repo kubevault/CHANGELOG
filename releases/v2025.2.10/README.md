@@ -29,6 +29,20 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.20.0](https://github.com/kubevault/operator/releases/tag/v0.20.0)
+
+- [57c35a6e](https://github.com/kubevault/operator/commit/57c35a6e8) Prepare for release v0.20.0 (#130)
+- [197e55a8](https://github.com/kubevault/operator/commit/197e55a88) Update deps
+- [f0ba5db1](https://github.com/kubevault/operator/commit/f0ba5db1d) Disable image caching in setup-qemu action (#129)
+- [eb1a68e0](https://github.com/kubevault/operator/commit/eb1a68e0d) Prepare for release v0.20.0-rc.0 (#128)
+- [59038294](https://github.com/kubevault/operator/commit/590382941) Updates for adding `initContainer` in `VaultServerVersion` (#127)
+- [4aba3e3d](https://github.com/kubevault/operator/commit/4aba3e3d0) Update github action modules (#126)
+- [3f72441a](https://github.com/kubevault/operator/commit/3f72441a0) Use debian:12 base image (#125)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.20.0](https://github.com/kubevault/unsealer/releases/tag/v0.20.0)
