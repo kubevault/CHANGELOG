@@ -1,0 +1,342 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2025.2.10",
+  "release_date": "2025-02-07T22:40:21.121869364Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2025.2.10",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "1da800c2",
+              "Subject": "Disable image caching in setup-qemu action (#103)"
+            },
+            {
+              "SHA": "01a5f6e4",
+              "Subject": "Fix Makefile"
+            },
+            {
+              "SHA": "0b35b1ab",
+              "Subject": "make gen fmt"
+            },
+            {
+              "SHA": "8f4ddb6f",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "38cba2c5",
+              "Subject": "Remove deprecated api calls"
+            },
+            {
+              "SHA": "cd6099c2",
+              "Subject": "Add initContainer config option in VaultServerVersionSpec (#102)"
+            },
+            {
+              "SHA": "41aa54b8",
+              "Subject": "Update github action modules (#101)"
+            },
+            {
+              "SHA": "c8c5b186",
+              "Subject": "Use kind v0.25.0 (#100)"
+            },
+            {
+              "SHA": "b03363cd",
+              "Subject": "Use debian:12 base image (#99)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "002b17cf",
+              "Subject": "Prepare for release v0.20.0 (#199)"
+            },
+            {
+              "SHA": "64bdb08f",
+              "Subject": "Remove vulnerable deps"
+            },
+            {
+              "SHA": "2b5d4b6f",
+              "Subject": "Disable image caching in setup-qemu action (#198)"
+            },
+            {
+              "SHA": "6fb84094",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#197)"
+            },
+            {
+              "SHA": "59f2343b",
+              "Subject": "Update github action modules (#196)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2025.2.10",
+          "commits": [
+            {
+              "SHA": "e57d3ef0",
+              "Subject": "Prepare for release v2025.2.10 (#274)"
+            },
+            {
+              "SHA": "4050f8e5",
+              "Subject": "Update cve report (#273)"
+            },
+            {
+              "SHA": "2e9bd15e",
+              "Subject": "Disable image caching in setup-qemu action (#272)"
+            },
+            {
+              "SHA": "b4dd8b56",
+              "Subject": "Prepare for release v2025.2.6-rc.0 (#271)"
+            },
+            {
+              "SHA": "6ea74978",
+              "Subject": "Updates for adding `initContainer` in `VaultServerVersion` (#268)"
+            },
+            {
+              "SHA": "fe0a13ff",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "329f0555",
+              "Subject": "Move user roles to ace-user-roles chart (#269)"
+            },
+            {
+              "SHA": "f88df2d9",
+              "Subject": "Update cve report (#267)"
+            },
+            {
+              "SHA": "ca21ddc8",
+              "Subject": "Update cve report (#266)"
+            },
+            {
+              "SHA": "0d75cf2b",
+              "Subject": "Update github action modules (#265)"
+            },
+            {
+              "SHA": "be2d6b21",
+              "Subject": "Update github action modules (#263)"
+            },
+            {
+              "SHA": "6c9fce2b",
+              "Subject": "Update cve report (#262)"
+            },
+            {
+              "SHA": "b9d25d3c",
+              "Subject": "Update cve report (#261)"
+            },
+            {
+              "SHA": "698f50e7",
+              "Subject": "Update cve report (#260)"
+            },
+            {
+              "SHA": "bcf43d56",
+              "Subject": "Update cve report (#259)"
+            },
+            {
+              "SHA": "aaadf533",
+              "Subject": "Check image arch (#258)"
+            },
+            {
+              "SHA": "9d6d3754",
+              "Subject": "Update cve report (#257)"
+            },
+            {
+              "SHA": "9dbe35f9",
+              "Subject": "Update cve report (#256)"
+            },
+            {
+              "SHA": "cd329618",
+              "Subject": "Update cve report (#255)"
+            },
+            {
+              "SHA": "d79a7249",
+              "Subject": "Use kind v0.25.0 (#254)"
+            },
+            {
+              "SHA": "3a304090",
+              "Subject": "Update cve report (#253)"
+            },
+            {
+              "SHA": "622a78fe",
+              "Subject": "Update cve report (#252)"
+            },
+            {
+              "SHA": "3c5f4197",
+              "Subject": "Update cve report (#251)"
+            },
+            {
+              "SHA": "220f1634",
+              "Subject": "Update cve report (#250)"
+            },
+            {
+              "SHA": "4f10b560",
+              "Subject": "Update cve report (#249)"
+            },
+            {
+              "SHA": "a284ab49",
+              "Subject": "Update cve report (#248)"
+            },
+            {
+              "SHA": "7606fb0d",
+              "Subject": "Update cve report (#247)"
+            },
+            {
+              "SHA": "2d1c6d81",
+              "Subject": "Update cve report (#246)"
+            },
+            {
+              "SHA": "c76eacb0",
+              "Subject": "Update cve report (#245)"
+            },
+            {
+              "SHA": "2ba380d5",
+              "Subject": "Update cve report (#244)"
+            },
+            {
+              "SHA": "c2cb5f45",
+              "Subject": "Update cve report (#243)"
+            },
+            {
+              "SHA": "ab6bb819",
+              "Subject": "Update cve report (#242)"
+            },
+            {
+              "SHA": "3641fdc6",
+              "Subject": "Update cve report (#241)"
+            },
+            {
+              "SHA": "f0c1ce0e",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "c71863a2",
+              "Subject": "Update cve report 2024-10-24 (#240)"
+            },
+            {
+              "SHA": "28418aa8",
+              "Subject": "Generate cve report"
+            },
+            {
+              "SHA": "7461a4b7",
+              "Subject": "Use debian:12 base image (#239)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2025.2.10",
+          "commits": [
+            {
+              "SHA": "a9f9b9d",
+              "Subject": "Prepare for release v2025.2.10 (#445)"
+            },
+            {
+              "SHA": "520cfce",
+              "Subject": "Prepare for release v2025.2.6-rc.0 (#444)"
+            },
+            {
+              "SHA": "65aa2b9",
+              "Subject": "Update github action modules (#443)"
+            },
+            {
+              "SHA": "9b61617",
+              "Subject": "Use kind v0.25.0 (#442)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "57c35a6e8",
+              "Subject": "Prepare for release v0.20.0 (#130)"
+            },
+            {
+              "SHA": "197e55a88",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "f0ba5db1d",
+              "Subject": "Disable image caching in setup-qemu action (#129)"
+            },
+            {
+              "SHA": "eb1a68e0d",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#128)"
+            },
+            {
+              "SHA": "590382941",
+              "Subject": "Updates for adding `initContainer` in `VaultServerVersion` (#127)"
+            },
+            {
+              "SHA": "4aba3e3d0",
+              "Subject": "Update github action modules (#126)"
+            },
+            {
+              "SHA": "3f72441a0",
+              "Subject": "Use debian:12 base image (#125)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "468d2d2f",
+              "Subject": "Fix linter"
+            },
+            {
+              "SHA": "a79fe02c",
+              "Subject": "Remove vulnerable deps"
+            },
+            {
+              "SHA": "ff793842",
+              "Subject": "Fix CI"
+            },
+            {
+              "SHA": "ed626e15",
+              "Subject": "Disable image caching in setup-qemu action (#139)"
+            },
+            {
+              "SHA": "45ffd31c",
+              "Subject": "Update github action modules (#138)"
+            },
+            {
+              "SHA": "47945d71",
+              "Subject": "Use debian:12 base image (#137)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
