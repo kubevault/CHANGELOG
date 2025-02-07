@@ -73,6 +73,17 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2025.2.10](https://github.com/kubevault/kubevault/releases/tag/v2025.2.10)
+
+- [a9f9b9d](https://github.com/kubevault/kubevault/commit/a9f9b9d) Prepare for release v2025.2.10 (#445)
+- [520cfce](https://github.com/kubevault/kubevault/commit/520cfce) Prepare for release v2025.2.6-rc.0 (#444)
+- [65aa2b9](https://github.com/kubevault/kubevault/commit/65aa2b9) Update github action modules (#443)
+- [9b61617](https://github.com/kubevault/kubevault/commit/9b61617) Use kind v0.25.0 (#442)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.20.0](https://github.com/kubevault/operator/releases/tag/v0.20.0)
