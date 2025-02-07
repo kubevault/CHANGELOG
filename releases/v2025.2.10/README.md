@@ -17,6 +17,18 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.20.0](https://github.com/kubevault/cli/releases/tag/v0.20.0)
+
+- [002b17cf](https://github.com/kubevault/cli/commit/002b17cf) Prepare for release v0.20.0 (#199)
+- [64bdb08f](https://github.com/kubevault/cli/commit/64bdb08f) Remove vulnerable deps
+- [2b5d4b6f](https://github.com/kubevault/cli/commit/2b5d4b6f) Disable image caching in setup-qemu action (#198)
+- [6fb84094](https://github.com/kubevault/cli/commit/6fb84094) Prepare for release v0.20.0-rc.0 (#197)
+- [59f2343b](https://github.com/kubevault/cli/commit/59f2343b) Update github action modules (#196)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.20.0](https://github.com/kubevault/unsealer/releases/tag/v0.20.0)
