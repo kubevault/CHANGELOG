@@ -25,6 +25,16 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.21.0](https://github.com/kubevault/operator/releases/tag/v0.21.0)
+
+- [195b7bf3](https://github.com/kubevault/operator/commit/195b7bf30) Prepare for release v0.21.0 (#136)
+- [93d5cfa2](https://github.com/kubevault/operator/commit/93d5cfa20) Use k8s 1.32 client libs (#135)
+- [094ca87c](https://github.com/kubevault/operator/commit/094ca87c7) make fmt (#134)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.21.0](https://github.com/kubevault/unsealer/releases/tag/v0.21.0)

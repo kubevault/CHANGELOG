@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2025.5.26",
-  "release_date": "2025-05-25T16:57:37.833782207Z",
+  "release_date": "2025-05-25T17:09:52.65923802Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2025.5.26",
   "kubernetes_version": "1.26+",
@@ -61,6 +61,28 @@
             {
               "SHA": "11b40eef",
               "Subject": "Use Go 1.24 (#200)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "195b7bf30",
+              "Subject": "Prepare for release v0.21.0 (#136)"
+            },
+            {
+              "SHA": "93d5cfa20",
+              "Subject": "Use k8s 1.32 client libs (#135)"
+            },
+            {
+              "SHA": "094ca87c7",
+              "Subject": "make fmt (#134)"
             }
           ]
         }
