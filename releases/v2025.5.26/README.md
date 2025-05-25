@@ -15,3 +15,12 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.21.0](https://github.com/kubevault/unsealer/releases/tag/v0.21.0)
+
+- [6a870669](https://github.com/kubevault/unsealer/commit/6a870669) Use k8s 1.32 client libs (#141)
+- [7037b619](https://github.com/kubevault/unsealer/commit/7037b619) Use Go 1.24 (#140)
+
+
+
