@@ -1,0 +1,48 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2025.5.26",
+  "release_date": "2025-05-25T16:48:20.166734268Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2025.5.26",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "6afe114b",
+              "Subject": "Use k8s 1.32"
+            },
+            {
+              "SHA": "2c22f1c1",
+              "Subject": "Test against k8s 1.32 (#109)"
+            },
+            {
+              "SHA": "35becfa4",
+              "Subject": "Test against k8s 1.32 (#108)"
+            },
+            {
+              "SHA": "7e13a0f6",
+              "Subject": "Test against k8s 1.32 (#107)"
+            },
+            {
+              "SHA": "986b66bc",
+              "Subject": "Test against k8s 1.32 (#106)"
+            },
+            {
+              "SHA": "c43e3784",
+              "Subject": "Test against k8s 1.32 (#105)"
+            },
+            {
+              "SHA": "3aec0d8c",
+              "Subject": "Use Go 1.24 (#104)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
