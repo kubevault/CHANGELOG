@@ -15,6 +15,16 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.21.0](https://github.com/kubevault/cli/releases/tag/v0.21.0)
+
+- [d3c3cf7c](https://github.com/kubevault/cli/commit/d3c3cf7c) Prepare for release v0.21.0 (#207)
+- [aa8b8f31](https://github.com/kubevault/cli/commit/aa8b8f31) Use k8s 1.32 client libs (#206)
+- [11b40eef](https://github.com/kubevault/cli/commit/11b40eef) Use Go 1.24 (#200)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.21.0](https://github.com/kubevault/unsealer/releases/tag/v0.21.0)
