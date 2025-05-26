@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2025.5.26",
-  "release_date": "2025-05-25T17:09:52.65923802Z",
+  "release_date": "2025-05-26T02:19:54.503046305Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2025.5.26",
   "kubernetes_version": "1.26+",
@@ -61,6 +61,100 @@
             {
               "SHA": "11b40eef",
               "Subject": "Use Go 1.24 (#200)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2025.5.26",
+          "commits": [
+            {
+              "SHA": "a9d9a42e",
+              "Subject": "Prepare for release v2025.5.26 (#309)"
+            },
+            {
+              "SHA": "23a0bde6",
+              "Subject": "Use k8s 1.32 (#308)"
+            },
+            {
+              "SHA": "4970f5d2",
+              "Subject": "Add option to pass priorityclass name to operator pod (#307)"
+            },
+            {
+              "SHA": "e1e3a454",
+              "Subject": "Update cve report (#306)"
+            },
+            {
+              "SHA": "8e529009",
+              "Subject": "Update cve report (#305)"
+            },
+            {
+              "SHA": "56c75c24",
+              "Subject": "Update cve report (#304)"
+            },
+            {
+              "SHA": "2cb5d594",
+              "Subject": "Update cve report (#303)"
+            },
+            {
+              "SHA": "dfe16fd7",
+              "Subject": "Update cve report (#302)"
+            },
+            {
+              "SHA": "c86852c8",
+              "Subject": "Update cve report (#300)"
+            },
+            {
+              "SHA": "8650f0a9",
+              "Subject": "Update cve report (#298)"
+            },
+            {
+              "SHA": "fc69aedf",
+              "Subject": "Update cve report (#297)"
+            },
+            {
+              "SHA": "fdbd2dc1",
+              "Subject": "Update cve report (#296)"
+            },
+            {
+              "SHA": "9b45640b",
+              "Subject": "Update cve report (#295)"
+            },
+            {
+              "SHA": "fb9ea5a4",
+              "Subject": "Update cve report (#294)"
+            },
+            {
+              "SHA": "2d93c3c0",
+              "Subject": "Update cve report (#293)"
+            },
+            {
+              "SHA": "5c39aab3",
+              "Subject": "Update ace-user-roles"
+            },
+            {
+              "SHA": "86245f71",
+              "Subject": "Test against k8s 1.32 (#291)"
+            },
+            {
+              "SHA": "e3f0678d",
+              "Subject": "Update cve report (#290)"
+            },
+            {
+              "SHA": "0193897e",
+              "Subject": "Test against k8s 1.32 (#289)"
+            },
+            {
+              "SHA": "ab39ac08",
+              "Subject": "Update cve report (#288)"
+            },
+            {
+              "SHA": "dbc9f752",
+              "Subject": "Update cve report (#287)"
             }
           ]
         }
