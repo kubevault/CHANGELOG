@@ -53,6 +53,16 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2025.5.26](https://github.com/kubevault/kubevault/releases/tag/v2025.5.26)
+
+- [2aa07cb](https://github.com/kubevault/kubevault/commit/2aa07cb) Prepare for release v2025.5.26 (#450)
+- [823b5bf](https://github.com/kubevault/kubevault/commit/823b5bf) Test against k8s 1.32 (#447)
+- [13d8a70](https://github.com/kubevault/kubevault/commit/13d8a70) Use Go 1.24 (#446)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.21.0](https://github.com/kubevault/operator/releases/tag/v0.21.0)
