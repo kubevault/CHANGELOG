@@ -1,0 +1,226 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2025.5.26",
+  "release_date": "2025-05-26T03:06:04.008116273Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2025.5.26",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "6afe114b",
+              "Subject": "Use k8s 1.32"
+            },
+            {
+              "SHA": "2c22f1c1",
+              "Subject": "Test against k8s 1.32 (#109)"
+            },
+            {
+              "SHA": "35becfa4",
+              "Subject": "Test against k8s 1.32 (#108)"
+            },
+            {
+              "SHA": "7e13a0f6",
+              "Subject": "Test against k8s 1.32 (#107)"
+            },
+            {
+              "SHA": "986b66bc",
+              "Subject": "Test against k8s 1.32 (#106)"
+            },
+            {
+              "SHA": "c43e3784",
+              "Subject": "Test against k8s 1.32 (#105)"
+            },
+            {
+              "SHA": "3aec0d8c",
+              "Subject": "Use Go 1.24 (#104)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "d3c3cf7c",
+              "Subject": "Prepare for release v0.21.0 (#207)"
+            },
+            {
+              "SHA": "aa8b8f31",
+              "Subject": "Use k8s 1.32 client libs (#206)"
+            },
+            {
+              "SHA": "11b40eef",
+              "Subject": "Use Go 1.24 (#200)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2025.5.26",
+          "commits": [
+            {
+              "SHA": "a9d9a42e",
+              "Subject": "Prepare for release v2025.5.26 (#309)"
+            },
+            {
+              "SHA": "23a0bde6",
+              "Subject": "Use k8s 1.32 (#308)"
+            },
+            {
+              "SHA": "4970f5d2",
+              "Subject": "Add option to pass priorityclass name to operator pod (#307)"
+            },
+            {
+              "SHA": "e1e3a454",
+              "Subject": "Update cve report (#306)"
+            },
+            {
+              "SHA": "8e529009",
+              "Subject": "Update cve report (#305)"
+            },
+            {
+              "SHA": "56c75c24",
+              "Subject": "Update cve report (#304)"
+            },
+            {
+              "SHA": "2cb5d594",
+              "Subject": "Update cve report (#303)"
+            },
+            {
+              "SHA": "dfe16fd7",
+              "Subject": "Update cve report (#302)"
+            },
+            {
+              "SHA": "c86852c8",
+              "Subject": "Update cve report (#300)"
+            },
+            {
+              "SHA": "8650f0a9",
+              "Subject": "Update cve report (#298)"
+            },
+            {
+              "SHA": "fc69aedf",
+              "Subject": "Update cve report (#297)"
+            },
+            {
+              "SHA": "fdbd2dc1",
+              "Subject": "Update cve report (#296)"
+            },
+            {
+              "SHA": "9b45640b",
+              "Subject": "Update cve report (#295)"
+            },
+            {
+              "SHA": "fb9ea5a4",
+              "Subject": "Update cve report (#294)"
+            },
+            {
+              "SHA": "2d93c3c0",
+              "Subject": "Update cve report (#293)"
+            },
+            {
+              "SHA": "5c39aab3",
+              "Subject": "Update ace-user-roles"
+            },
+            {
+              "SHA": "86245f71",
+              "Subject": "Test against k8s 1.32 (#291)"
+            },
+            {
+              "SHA": "e3f0678d",
+              "Subject": "Update cve report (#290)"
+            },
+            {
+              "SHA": "0193897e",
+              "Subject": "Test against k8s 1.32 (#289)"
+            },
+            {
+              "SHA": "ab39ac08",
+              "Subject": "Update cve report (#288)"
+            },
+            {
+              "SHA": "dbc9f752",
+              "Subject": "Update cve report (#287)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2025.5.26",
+          "commits": [
+            {
+              "SHA": "2aa07cb",
+              "Subject": "Prepare for release v2025.5.26 (#450)"
+            },
+            {
+              "SHA": "823b5bf",
+              "Subject": "Test against k8s 1.32 (#447)"
+            },
+            {
+              "SHA": "13d8a70",
+              "Subject": "Use Go 1.24 (#446)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "195b7bf30",
+              "Subject": "Prepare for release v0.21.0 (#136)"
+            },
+            {
+              "SHA": "93d5cfa20",
+              "Subject": "Use k8s 1.32 client libs (#135)"
+            },
+            {
+              "SHA": "094ca87c7",
+              "Subject": "make fmt (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "6a870669",
+              "Subject": "Use k8s 1.32 client libs (#141)"
+            },
+            {
+              "SHA": "7037b619",
+              "Subject": "Use Go 1.24 (#140)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
