@@ -1,0 +1,24 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2025.5.30",
+  "release_date": "2025-05-29T07:25:33.010257Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2025.5.30",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "380e0e7d",
+              "Subject": "Clean up api (#110)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
