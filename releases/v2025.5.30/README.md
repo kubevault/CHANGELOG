@@ -9,6 +9,14 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.22.0](https://github.com/kubevault/cli/releases/tag/v0.22.0)
+
+- [52f7e854](https://github.com/kubevault/cli/commit/52f7e854) Prepare for release v0.22.0 (#208)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.22.0](https://github.com/kubevault/unsealer/releases/tag/v0.22.0)
