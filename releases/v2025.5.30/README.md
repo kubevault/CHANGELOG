@@ -25,6 +25,16 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2025.5.30](https://github.com/kubevault/kubevault/releases/tag/v2025.5.30)
+
+- [01f2a71](https://github.com/kubevault/kubevault/commit/01f2a71) Prepare for release v2025.5.30 (#451)
+- [8dee84d](https://github.com/kubevault/kubevault/commit/8dee84d) Update PKI doc (#438)
+- [645a36e](https://github.com/kubevault/kubevault/commit/645a36e) Update docs for kubevault/operator@195b7bf3 (#449)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.22.0](https://github.com/kubevault/operator/releases/tag/v0.22.0)

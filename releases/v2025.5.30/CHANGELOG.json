@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2025.5.30",
-  "release_date": "2025-05-29T08:09:35.76533348Z",
+  "release_date": "2025-05-29T08:25:47.609987214Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -43,6 +43,28 @@
             {
               "SHA": "ba60e56b",
               "Subject": "Prepare for release v2025.5.30 (#311)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2025.5.30",
+          "commits": [
+            {
+              "SHA": "01f2a71",
+              "Subject": "Prepare for release v2025.5.30 (#451)"
+            },
+            {
+              "SHA": "8dee84d",
+              "Subject": "Update PKI doc (#438)"
+            },
+            {
+              "SHA": "645a36e",
+              "Subject": "Update docs for kubevault/operator@195b7bf3 (#449)"
             }
           ]
         }
