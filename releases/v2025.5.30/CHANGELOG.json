@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2025.5.30",
-  "release_date": "2025-05-29T07:37:22.473074856Z",
+  "release_date": "2025-05-29T07:59:05.964114935Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -29,6 +29,24 @@
             {
               "SHA": "52f7e854",
               "Subject": "Prepare for release v0.22.0 (#208)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "1774969e8",
+              "Subject": "Prepare for release v0.22.0 (#138)"
+            },
+            {
+              "SHA": "ffbeb738f",
+              "Subject": "Clean up es api (#137)"
             }
           ]
         }
