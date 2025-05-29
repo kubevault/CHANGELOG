@@ -17,6 +17,14 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2025.5.30](https://github.com/kubevault/installer/releases/tag/v2025.5.30)
+
+- [ba60e56b](https://github.com/kubevault/installer/commit/ba60e56b) Prepare for release v2025.5.30 (#311)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.22.0](https://github.com/kubevault/operator/releases/tag/v0.22.0)
