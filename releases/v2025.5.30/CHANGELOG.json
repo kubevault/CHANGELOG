@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2025.5.30",
-  "release_date": "2025-05-29T07:25:33.010257Z",
+  "release_date": "2025-05-29T07:25:40.323454379Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -17,6 +17,15 @@
               "Subject": "Clean up api (#110)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": null
         }
       ]
     }
