@@ -16,3 +16,11 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.23.0](https://github.com/kubevault/unsealer/releases/tag/v0.23.0)
+
+- [8c906389](https://github.com/kubevault/unsealer/commit/8c906389) Use Go 1.25 (#142)
+
+
+
