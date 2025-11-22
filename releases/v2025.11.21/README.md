@@ -1,4 +1,4 @@
-# KubeVault v2025.11.21 (2025-11-21)
+# KubeVault v2025.11.21 (2025-11-22)
 
 
 ## [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
@@ -22,6 +22,16 @@
 
 - [17a9298e](https://github.com/kubevault/cli/commit/17a9298e) Prepare for release v0.23.0 (#211)
 - [dbacdc87](https://github.com/kubevault/cli/commit/dbacdc87) Use Go 1.25 (#209)
+
+
+
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.23.0](https://github.com/kubevault/operator/releases/tag/v0.23.0)
+
+- [93c89049](https://github.com/kubevault/operator/commit/93c890490) Prepare for release v0.23.0 (#142)
+- [ba29892f](https://github.com/kubevault/operator/commit/ba29892f3) Raft Backend Health Check Issue Fix (#141)
+- [d6bde03c](https://github.com/kubevault/operator/commit/d6bde03c1) Use Go 1.25 (#140)
 
 
 

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2025.11.21",
-  "release_date": "2025-11-21T17:31:35.014071095Z",
+  "release_date": "2025-11-22T20:40:42.721338816Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2025.11.21",
   "kubernetes_version": "1.26+",
@@ -61,6 +61,28 @@
             {
               "SHA": "dbacdc87",
               "Subject": "Use Go 1.25 (#209)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "93c890490",
+              "Subject": "Prepare for release v0.23.0 (#142)"
+            },
+            {
+              "SHA": "ba29892f3",
+              "Subject": "Raft Backend Health Check Issue Fix (#141)"
+            },
+            {
+              "SHA": "d6bde03c1",
+              "Subject": "Use Go 1.25 (#140)"
             }
           ]
         }
