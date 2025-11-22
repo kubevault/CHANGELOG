@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2025.11.21",
-  "release_date": "2025-11-22T20:40:42.721338816Z",
+  "release_date": "2025-11-22T20:58:56.108114708Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2025.11.21",
   "kubernetes_version": "1.26+",
@@ -61,6 +61,160 @@
             {
               "SHA": "dbacdc87",
               "Subject": "Use Go 1.25 (#209)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2025.11.21",
+          "commits": [
+            {
+              "SHA": "3379ccf5",
+              "Subject": "Prepare for release v2025.11.21 (#351)"
+            },
+            {
+              "SHA": "a2bcbb7f",
+              "Subject": "Add OpenBao Version 2.4.3 (#350)"
+            },
+            {
+              "SHA": "d9df50d9",
+              "Subject": "Update cve report (#347)"
+            },
+            {
+              "SHA": "818ff121",
+              "Subject": "Update cve report (#346)"
+            },
+            {
+              "SHA": "e88d675b",
+              "Subject": "Update cve report (#345)"
+            },
+            {
+              "SHA": "0f9b04a7",
+              "Subject": "Update cve report (#344)"
+            },
+            {
+              "SHA": "f67e4d69",
+              "Subject": "Update cve report (#343)"
+            },
+            {
+              "SHA": "3b9d98cd",
+              "Subject": "Update cve report (#342)"
+            },
+            {
+              "SHA": "4013f85f",
+              "Subject": "Update cve report (#341)"
+            },
+            {
+              "SHA": "30118eb2",
+              "Subject": "Update cve report (#340)"
+            },
+            {
+              "SHA": "673221f6",
+              "Subject": "Update cve report (#339)"
+            },
+            {
+              "SHA": "6cb11666",
+              "Subject": "Update cve report (#338)"
+            },
+            {
+              "SHA": "96a9858f",
+              "Subject": "Update cve report (#337)"
+            },
+            {
+              "SHA": "cb1e18d2",
+              "Subject": "Update cve report (#336)"
+            },
+            {
+              "SHA": "fd591fc1",
+              "Subject": "Update cve report (#335)"
+            },
+            {
+              "SHA": "557914a6",
+              "Subject": "Test against k8s 1.34 (#334)"
+            },
+            {
+              "SHA": "06c88834",
+              "Subject": "Update cve report (#333)"
+            },
+            {
+              "SHA": "11d005b8",
+              "Subject": "Update cve report (#332)"
+            },
+            {
+              "SHA": "5af36a6f",
+              "Subject": "Update cve report (#331)"
+            },
+            {
+              "SHA": "ba48cd3b",
+              "Subject": "Update cve report (#330)"
+            },
+            {
+              "SHA": "89472c18",
+              "Subject": "Use Go 1.25 (#329)"
+            },
+            {
+              "SHA": "635e6b12",
+              "Subject": "Test against k8s 1.33.2 (#328)"
+            },
+            {
+              "SHA": "20649874",
+              "Subject": "Test against k8s 1.33.2 (#327)"
+            },
+            {
+              "SHA": "a86ac8f1",
+              "Subject": "Update cve report (#326)"
+            },
+            {
+              "SHA": "254497cd",
+              "Subject": "Update cve report (#325)"
+            },
+            {
+              "SHA": "18d95b77",
+              "Subject": "Update cve report (#324)"
+            },
+            {
+              "SHA": "8f4e5a9b",
+              "Subject": "Update cve report (#323)"
+            },
+            {
+              "SHA": "53176a40",
+              "Subject": "Update cve report (#322)"
+            },
+            {
+              "SHA": "b8ff6c9b",
+              "Subject": "Test against k8s 1.33 (#321)"
+            },
+            {
+              "SHA": "31a3827e",
+              "Subject": "Update cve report (#320)"
+            },
+            {
+              "SHA": "4f655e5b",
+              "Subject": "Update cve report (#319)"
+            },
+            {
+              "SHA": "da53639f",
+              "Subject": "Update cve report (#318)"
+            },
+            {
+              "SHA": "dd39a213",
+              "Subject": "Update cve report (#317)"
+            },
+            {
+              "SHA": "236cbe6e",
+              "Subject": "Update cve report (#316)"
+            },
+            {
+              "SHA": "9fb1a7a2",
+              "Subject": "Update cve report (#315)"
+            },
+            {
+              "SHA": "87fd2781",
+              "Subject": "Update cve report (#314)"
             }
           ]
         }
