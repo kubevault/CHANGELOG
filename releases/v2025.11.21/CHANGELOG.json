@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2025.11.21",
-  "release_date": "2025-11-22T20:58:56.108114708Z",
+  "release_date": "2025-11-23T18:39:30.619272392Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2025.11.21",
   "kubernetes_version": "1.26+",
@@ -215,6 +215,28 @@
             {
               "SHA": "87fd2781",
               "Subject": "Update cve report (#314)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2025.11.21",
+          "commits": [
+            {
+              "SHA": "218f6c7",
+              "Subject": "Prepare for release v2025.11.21 (#454)"
+            },
+            {
+              "SHA": "0edfbee",
+              "Subject": "Use Go 1.25 (#453)"
+            },
+            {
+              "SHA": "9416b07",
+              "Subject": "Test against k8s 1.33 (#452)"
             }
           ]
         }

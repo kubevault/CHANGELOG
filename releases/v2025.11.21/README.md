@@ -1,4 +1,4 @@
-# KubeVault v2025.11.21 (2025-11-22)
+# KubeVault v2025.11.21 (2025-11-23)
 
 
 ## [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
@@ -65,6 +65,16 @@
 - [236cbe6e](https://github.com/kubevault/installer/commit/236cbe6e) Update cve report (#316)
 - [9fb1a7a2](https://github.com/kubevault/installer/commit/9fb1a7a2) Update cve report (#315)
 - [87fd2781](https://github.com/kubevault/installer/commit/87fd2781) Update cve report (#314)
+
+
+
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2025.11.21](https://github.com/kubevault/kubevault/releases/tag/v2025.11.21)
+
+- [218f6c7](https://github.com/kubevault/kubevault/commit/218f6c7) Prepare for release v2025.11.21 (#454)
+- [0edfbee](https://github.com/kubevault/kubevault/commit/0edfbee) Use Go 1.25 (#453)
+- [9416b07](https://github.com/kubevault/kubevault/commit/9416b07) Test against k8s 1.33 (#452)
 
 
 
