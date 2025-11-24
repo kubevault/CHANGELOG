@@ -1,0 +1,282 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2025.11.21",
+  "release_date": "2025-11-23T18:39:30.619272392Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2025.11.21",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "97f01df8",
+              "Subject": "Openbao -> OpenBao (#118)"
+            },
+            {
+              "SHA": "d110956b",
+              "Subject": "Add distribution field (#117)"
+            },
+            {
+              "SHA": "9ed3817b",
+              "Subject": "Fix Raft Backend Health Issue Check (#116)"
+            },
+            {
+              "SHA": "a934f8d9",
+              "Subject": "Test against k8s 1.34 (#115)"
+            },
+            {
+              "SHA": "a1658e08",
+              "Subject": "Use Go 1.25 (#114)"
+            },
+            {
+              "SHA": "8692e07b",
+              "Subject": "Test against k8s 1.33.2 (#113)"
+            },
+            {
+              "SHA": "db6e0908",
+              "Subject": "Test against k8s 1.33.2 (#112)"
+            },
+            {
+              "SHA": "de8dc724",
+              "Subject": "Test against k8s 1.33 (#111)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "17a9298e",
+              "Subject": "Prepare for release v0.23.0 (#211)"
+            },
+            {
+              "SHA": "dbacdc87",
+              "Subject": "Use Go 1.25 (#209)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2025.11.21",
+          "commits": [
+            {
+              "SHA": "3379ccf5",
+              "Subject": "Prepare for release v2025.11.21 (#351)"
+            },
+            {
+              "SHA": "a2bcbb7f",
+              "Subject": "Add OpenBao Version 2.4.3 (#350)"
+            },
+            {
+              "SHA": "d9df50d9",
+              "Subject": "Update cve report (#347)"
+            },
+            {
+              "SHA": "818ff121",
+              "Subject": "Update cve report (#346)"
+            },
+            {
+              "SHA": "e88d675b",
+              "Subject": "Update cve report (#345)"
+            },
+            {
+              "SHA": "0f9b04a7",
+              "Subject": "Update cve report (#344)"
+            },
+            {
+              "SHA": "f67e4d69",
+              "Subject": "Update cve report (#343)"
+            },
+            {
+              "SHA": "3b9d98cd",
+              "Subject": "Update cve report (#342)"
+            },
+            {
+              "SHA": "4013f85f",
+              "Subject": "Update cve report (#341)"
+            },
+            {
+              "SHA": "30118eb2",
+              "Subject": "Update cve report (#340)"
+            },
+            {
+              "SHA": "673221f6",
+              "Subject": "Update cve report (#339)"
+            },
+            {
+              "SHA": "6cb11666",
+              "Subject": "Update cve report (#338)"
+            },
+            {
+              "SHA": "96a9858f",
+              "Subject": "Update cve report (#337)"
+            },
+            {
+              "SHA": "cb1e18d2",
+              "Subject": "Update cve report (#336)"
+            },
+            {
+              "SHA": "fd591fc1",
+              "Subject": "Update cve report (#335)"
+            },
+            {
+              "SHA": "557914a6",
+              "Subject": "Test against k8s 1.34 (#334)"
+            },
+            {
+              "SHA": "06c88834",
+              "Subject": "Update cve report (#333)"
+            },
+            {
+              "SHA": "11d005b8",
+              "Subject": "Update cve report (#332)"
+            },
+            {
+              "SHA": "5af36a6f",
+              "Subject": "Update cve report (#331)"
+            },
+            {
+              "SHA": "ba48cd3b",
+              "Subject": "Update cve report (#330)"
+            },
+            {
+              "SHA": "89472c18",
+              "Subject": "Use Go 1.25 (#329)"
+            },
+            {
+              "SHA": "635e6b12",
+              "Subject": "Test against k8s 1.33.2 (#328)"
+            },
+            {
+              "SHA": "20649874",
+              "Subject": "Test against k8s 1.33.2 (#327)"
+            },
+            {
+              "SHA": "a86ac8f1",
+              "Subject": "Update cve report (#326)"
+            },
+            {
+              "SHA": "254497cd",
+              "Subject": "Update cve report (#325)"
+            },
+            {
+              "SHA": "18d95b77",
+              "Subject": "Update cve report (#324)"
+            },
+            {
+              "SHA": "8f4e5a9b",
+              "Subject": "Update cve report (#323)"
+            },
+            {
+              "SHA": "53176a40",
+              "Subject": "Update cve report (#322)"
+            },
+            {
+              "SHA": "b8ff6c9b",
+              "Subject": "Test against k8s 1.33 (#321)"
+            },
+            {
+              "SHA": "31a3827e",
+              "Subject": "Update cve report (#320)"
+            },
+            {
+              "SHA": "4f655e5b",
+              "Subject": "Update cve report (#319)"
+            },
+            {
+              "SHA": "da53639f",
+              "Subject": "Update cve report (#318)"
+            },
+            {
+              "SHA": "dd39a213",
+              "Subject": "Update cve report (#317)"
+            },
+            {
+              "SHA": "236cbe6e",
+              "Subject": "Update cve report (#316)"
+            },
+            {
+              "SHA": "9fb1a7a2",
+              "Subject": "Update cve report (#315)"
+            },
+            {
+              "SHA": "87fd2781",
+              "Subject": "Update cve report (#314)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2025.11.21",
+          "commits": [
+            {
+              "SHA": "218f6c7",
+              "Subject": "Prepare for release v2025.11.21 (#454)"
+            },
+            {
+              "SHA": "0edfbee",
+              "Subject": "Use Go 1.25 (#453)"
+            },
+            {
+              "SHA": "9416b07",
+              "Subject": "Test against k8s 1.33 (#452)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "93c890490",
+              "Subject": "Prepare for release v0.23.0 (#142)"
+            },
+            {
+              "SHA": "ba29892f3",
+              "Subject": "Raft Backend Health Check Issue Fix (#141)"
+            },
+            {
+              "SHA": "d6bde03c1",
+              "Subject": "Use Go 1.25 (#140)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "8c906389",
+              "Subject": "Use Go 1.25 (#142)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
