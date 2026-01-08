@@ -1,0 +1,214 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2026.1.8-rc.0",
+  "release_date": "2026-01-08T14:08:04.715718812Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2026.1.8-rc.0",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "65b12c14",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "d7d9d09f",
+              "Subject": "Use k8s 1.34 client libs (#121)"
+            },
+            {
+              "SHA": "042c5da6",
+              "Subject": "Test against k8s 1.35 (#120)"
+            },
+            {
+              "SHA": "c3bdb5a1",
+              "Subject": "Linter fix (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ac7d443b",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#214)"
+            },
+            {
+              "SHA": "4c703966",
+              "Subject": "Use k8s 1.34 client libs (#213)"
+            },
+            {
+              "SHA": "bbd02e74",
+              "Subject": "Linter fix (#212)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2026.1.8-rc.0",
+          "commits": [
+            {
+              "SHA": "0aca3303",
+              "Subject": "Prepare for release v2026.1.8-rc.0 (#369)"
+            },
+            {
+              "SHA": "7a0ae6dd",
+              "Subject": "Update kubevault certified chart (#368)"
+            },
+            {
+              "SHA": "063328e6",
+              "Subject": "Add test to kubevault chart (#367)"
+            },
+            {
+              "SHA": "2a270112",
+              "Subject": "Support ubi mode for catalog chart (#366)"
+            },
+            {
+              "SHA": "8c7a333d",
+              "Subject": "Use k8s 1.34 client libs (#365)"
+            },
+            {
+              "SHA": "f0bc858c",
+              "Subject": "Update certified chart readme"
+            },
+            {
+              "SHA": "ea54c793",
+              "Subject": "Fix Ci workflow"
+            },
+            {
+              "SHA": "5ac0d332",
+              "Subject": "Generate certified and certified-crds charts (#363)"
+            },
+            {
+              "SHA": "335cda51",
+              "Subject": "Test against k8s 1.35 (#362)"
+            },
+            {
+              "SHA": "6098cfc9",
+              "Subject": "Fix operator.ubi and catalog.ubi templates"
+            },
+            {
+              "SHA": "1c8dbf55",
+              "Subject": "Test for ubi images (#360)"
+            },
+            {
+              "SHA": "ded44442",
+              "Subject": "Add OpenShift support (#359)"
+            },
+            {
+              "SHA": "140656b0",
+              "Subject": "Use ghcr.io/kubevault/vault-unsealer"
+            },
+            {
+              "SHA": "cd4689b5",
+              "Subject": "Update cve report (#358)"
+            },
+            {
+              "SHA": "892545b5",
+              "Subject": "Update cve report (#356)"
+            },
+            {
+              "SHA": "e09bbcbf",
+              "Subject": "Use golangci-lint 2.x (#357)"
+            },
+            {
+              "SHA": "ee2f887b",
+              "Subject": "Update cve report (#355)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2026.1.8-rc.0",
+          "commits": [
+            {
+              "SHA": "10b9424",
+              "Subject": "Prepare for release v2026.1.8-rc.0 (#456)"
+            },
+            {
+              "SHA": "5b07869",
+              "Subject": "Test against k8s 1.35 (#455)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "06822f36e",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#149)"
+            },
+            {
+              "SHA": "cd1804bd3",
+              "Subject": "Use k8s 1.34 client libs (#148)"
+            },
+            {
+              "SHA": "b204a5c64",
+              "Subject": "Fix makefile indentation (#147)"
+            },
+            {
+              "SHA": "816fa4d1a",
+              "Subject": "Publish Image for Redhat software certification (#145)"
+            },
+            {
+              "SHA": "00403e685",
+              "Subject": "Build ubi image (#144)"
+            },
+            {
+              "SHA": "fbd8a3c07",
+              "Subject": "Linter fix (#143)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "aac7ce6c",
+              "Subject": "Use k8s 1.34 client libs (#144)"
+            },
+            {
+              "SHA": "46d1f17f",
+              "Subject": "Build ubi image"
+            },
+            {
+              "SHA": "70e103a9",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "8a708cc9",
+              "Subject": "Linter fix (#143)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
