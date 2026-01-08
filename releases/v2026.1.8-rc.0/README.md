@@ -46,6 +46,15 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2026.1.8-rc.0](https://github.com/kubevault/kubevault/releases/tag/v2026.1.8-rc.0)
+
+- [10b9424](https://github.com/kubevault/kubevault/commit/10b9424) Prepare for release v2026.1.8-rc.0 (#456)
+- [5b07869](https://github.com/kubevault/kubevault/commit/5b07869) Test against k8s 1.35 (#455)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.24.0-rc.0](https://github.com/kubevault/operator/releases/tag/v0.24.0-rc.0)

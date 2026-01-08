@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.1.8-rc.0",
-  "release_date": "2026-01-08T13:52:24.196310668Z",
+  "release_date": "2026-01-08T14:08:04.715718812Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.1.8-rc.0",
   "kubernetes_version": "1.28+",
@@ -127,6 +127,24 @@
             {
               "SHA": "ee2f887b",
               "Subject": "Update cve report (#355)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2026.1.8-rc.0",
+          "commits": [
+            {
+              "SHA": "10b9424",
+              "Subject": "Prepare for release v2026.1.8-rc.0 (#456)"
+            },
+            {
+              "SHA": "5b07869",
+              "Subject": "Test against k8s 1.35 (#455)"
             }
           ]
         }
