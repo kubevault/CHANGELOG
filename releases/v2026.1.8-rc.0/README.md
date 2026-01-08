@@ -22,6 +22,30 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2026.1.8-rc.0](https://github.com/kubevault/installer/releases/tag/v2026.1.8-rc.0)
+
+- [0aca3303](https://github.com/kubevault/installer/commit/0aca3303) Prepare for release v2026.1.8-rc.0 (#369)
+- [7a0ae6dd](https://github.com/kubevault/installer/commit/7a0ae6dd) Update kubevault certified chart (#368)
+- [063328e6](https://github.com/kubevault/installer/commit/063328e6) Add test to kubevault chart (#367)
+- [2a270112](https://github.com/kubevault/installer/commit/2a270112) Support ubi mode for catalog chart (#366)
+- [8c7a333d](https://github.com/kubevault/installer/commit/8c7a333d) Use k8s 1.34 client libs (#365)
+- [f0bc858c](https://github.com/kubevault/installer/commit/f0bc858c) Update certified chart readme
+- [ea54c793](https://github.com/kubevault/installer/commit/ea54c793) Fix Ci workflow
+- [5ac0d332](https://github.com/kubevault/installer/commit/5ac0d332) Generate certified and certified-crds charts (#363)
+- [335cda51](https://github.com/kubevault/installer/commit/335cda51) Test against k8s 1.35 (#362)
+- [6098cfc9](https://github.com/kubevault/installer/commit/6098cfc9) Fix operator.ubi and catalog.ubi templates
+- [1c8dbf55](https://github.com/kubevault/installer/commit/1c8dbf55) Test for ubi images (#360)
+- [ded44442](https://github.com/kubevault/installer/commit/ded44442) Add OpenShift support (#359)
+- [140656b0](https://github.com/kubevault/installer/commit/140656b0) Use ghcr.io/kubevault/vault-unsealer
+- [cd4689b5](https://github.com/kubevault/installer/commit/cd4689b5) Update cve report (#358)
+- [892545b5](https://github.com/kubevault/installer/commit/892545b5) Update cve report (#356)
+- [e09bbcbf](https://github.com/kubevault/installer/commit/e09bbcbf) Use golangci-lint 2.x (#357)
+- [ee2f887b](https://github.com/kubevault/installer/commit/ee2f887b) Update cve report (#355)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.24.0-rc.0](https://github.com/kubevault/operator/releases/tag/v0.24.0-rc.0)
