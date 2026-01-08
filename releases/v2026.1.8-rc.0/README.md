@@ -12,3 +12,14 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.24.0-rc.0](https://github.com/kubevault/unsealer/releases/tag/v0.24.0-rc.0)
+
+- [aac7ce6c](https://github.com/kubevault/unsealer/commit/aac7ce6c) Use k8s 1.34 client libs (#144)
+- [46d1f17f](https://github.com/kubevault/unsealer/commit/46d1f17f) Build ubi image
+- [70e103a9](https://github.com/kubevault/unsealer/commit/70e103a9) Update deps
+- [8a708cc9](https://github.com/kubevault/unsealer/commit/8a708cc9) Linter fix (#143)
+
+
+
