@@ -12,6 +12,16 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.24.0-rc.0](https://github.com/kubevault/cli/releases/tag/v0.24.0-rc.0)
+
+- [ac7d443b](https://github.com/kubevault/cli/commit/ac7d443b) Prepare for release v0.24.0-rc.0 (#214)
+- [4c703966](https://github.com/kubevault/cli/commit/4c703966) Use k8s 1.34 client libs (#213)
+- [bbd02e74](https://github.com/kubevault/cli/commit/bbd02e74) Linter fix (#212)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.24.0-rc.0](https://github.com/kubevault/unsealer/releases/tag/v0.24.0-rc.0)
