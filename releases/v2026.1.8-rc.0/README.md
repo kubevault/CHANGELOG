@@ -22,6 +22,19 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.24.0-rc.0](https://github.com/kubevault/operator/releases/tag/v0.24.0-rc.0)
+
+- [06822f36](https://github.com/kubevault/operator/commit/06822f36e) Prepare for release v0.24.0-rc.0 (#149)
+- [cd1804bd](https://github.com/kubevault/operator/commit/cd1804bd3) Use k8s 1.34 client libs (#148)
+- [b204a5c6](https://github.com/kubevault/operator/commit/b204a5c64) Fix makefile indentation (#147)
+- [816fa4d1](https://github.com/kubevault/operator/commit/816fa4d1a) Publish Image for Redhat software certification (#145)
+- [00403e68](https://github.com/kubevault/operator/commit/00403e685) Build ubi image (#144)
+- [fbd8a3c0](https://github.com/kubevault/operator/commit/fbd8a3c07) Linter fix (#143)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.24.0-rc.0](https://github.com/kubevault/unsealer/releases/tag/v0.24.0-rc.0)

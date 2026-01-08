@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.1.8-rc.0",
-  "release_date": "2026-01-08T09:57:10.795003301Z",
+  "release_date": "2026-01-08T10:55:04.908805159Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.1.8-rc.0",
   "kubernetes_version": "1.28+",
@@ -49,6 +49,40 @@
             {
               "SHA": "bbd02e74",
               "Subject": "Linter fix (#212)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "06822f36e",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#149)"
+            },
+            {
+              "SHA": "cd1804bd3",
+              "Subject": "Use k8s 1.34 client libs (#148)"
+            },
+            {
+              "SHA": "b204a5c64",
+              "Subject": "Fix makefile indentation (#147)"
+            },
+            {
+              "SHA": "816fa4d1a",
+              "Subject": "Publish Image for Redhat software certification (#145)"
+            },
+            {
+              "SHA": "00403e685",
+              "Subject": "Build ubi image (#144)"
+            },
+            {
+              "SHA": "fbd8a3c07",
+              "Subject": "Linter fix (#143)"
             }
           ]
         }
