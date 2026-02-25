@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.2.27",
-  "release_date": "2026-02-25T19:15:56.048388468Z",
+  "release_date": "2026-02-25T20:09:30.809833875Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -67,6 +67,15 @@
               "Subject": "Linter fix (#212)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": null
         }
       ]
     },

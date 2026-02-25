@@ -26,6 +26,13 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.24.0](https://github.com/kubevault/operator/releases/tag/v0.24.0)
+
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.24.0](https://github.com/kubevault/unsealer/releases/tag/v0.24.0)
