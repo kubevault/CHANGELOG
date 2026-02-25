@@ -1,0 +1,321 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2026.2.27",
+  "release_date": "2026-02-25T22:01:17.5244078Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2026.2.27",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "f87d19a3",
+              "Subject": "Report features in site info"
+            },
+            {
+              "SHA": "b6894698",
+              "Subject": "Fix CVE (#124)"
+            },
+            {
+              "SHA": "3d7b4914",
+              "Subject": "Add Namespace Support (MySQL)"
+            },
+            {
+              "SHA": "65b12c14",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "d7d9d09f",
+              "Subject": "Use k8s 1.34 client libs (#121)"
+            },
+            {
+              "SHA": "042c5da6",
+              "Subject": "Test against k8s 1.35 (#120)"
+            },
+            {
+              "SHA": "c3bdb5a1",
+              "Subject": "Linter fix (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "9c9278a9",
+              "Subject": "Prepare for release v0.24.0 (#216)"
+            },
+            {
+              "SHA": "ac7d443b",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#214)"
+            },
+            {
+              "SHA": "4c703966",
+              "Subject": "Use k8s 1.34 client libs (#213)"
+            },
+            {
+              "SHA": "bbd02e74",
+              "Subject": "Linter fix (#212)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2026.2.27",
+          "commits": [
+            {
+              "SHA": "dc22a8cf",
+              "Subject": "Prepare for release v2026.2.27 (#396)"
+            },
+            {
+              "SHA": "0d183094",
+              "Subject": "Update cve report (#395)"
+            },
+            {
+              "SHA": "bdcb522d",
+              "Subject": "Update cve report (#394)"
+            },
+            {
+              "SHA": "a3c219b9",
+              "Subject": "Add permission to report cluster features (#393)"
+            },
+            {
+              "SHA": "73f9f08d",
+              "Subject": "Update cve report (#392)"
+            },
+            {
+              "SHA": "5556c096",
+              "Subject": "Add storageClass list permission for audit (#391)"
+            },
+            {
+              "SHA": "fbbd8a0c",
+              "Subject": "Update cve report (#390)"
+            },
+            {
+              "SHA": "45646776",
+              "Subject": "Update cve report (#389)"
+            },
+            {
+              "SHA": "d932ef6a",
+              "Subject": "Update cve report (#388)"
+            },
+            {
+              "SHA": "aad22173",
+              "Subject": "Update cve report (#387)"
+            },
+            {
+              "SHA": "776d2e97",
+              "Subject": "Update cve report (#385)"
+            },
+            {
+              "SHA": "5dbef9e9",
+              "Subject": "Update chart version for EKS (#386)"
+            },
+            {
+              "SHA": "f050f8d7",
+              "Subject": "Update cve report (#384)"
+            },
+            {
+              "SHA": "48abccc3",
+              "Subject": "Update cve report (#383)"
+            },
+            {
+              "SHA": "4c01697b",
+              "Subject": "Update cve report (#382)"
+            },
+            {
+              "SHA": "f35f34ac",
+              "Subject": "Update cve report (#381)"
+            },
+            {
+              "SHA": "a2e339da",
+              "Subject": "Update cve report (#380)"
+            },
+            {
+              "SHA": "e28c5699",
+              "Subject": "Update cve report (#379)"
+            },
+            {
+              "SHA": "44af4759",
+              "Subject": "Update certified charts (#378)"
+            },
+            {
+              "SHA": "59cf07b3",
+              "Subject": "Add values schema (#376)"
+            },
+            {
+              "SHA": "f91eec91",
+              "Subject": "Update cve report (#375)"
+            },
+            {
+              "SHA": "f8c98cd5",
+              "Subject": "Use strict semver version for certified charts (#374)"
+            },
+            {
+              "SHA": "89d78343",
+              "Subject": "Update cve report (#373)"
+            },
+            {
+              "SHA": "93eba10f",
+              "Subject": "Use kubectl 1.34 (#372)"
+            },
+            {
+              "SHA": "00cd7518",
+              "Subject": "Update cve report (#371)"
+            },
+            {
+              "SHA": "63f97fb3",
+              "Subject": "Update cve report (#370)"
+            },
+            {
+              "SHA": "fa9d1350",
+              "Subject": "Update cve report (#364)"
+            },
+            {
+              "SHA": "0aca3303",
+              "Subject": "Prepare for release v2026.1.8-rc.0 (#369)"
+            },
+            {
+              "SHA": "7a0ae6dd",
+              "Subject": "Update kubevault certified chart (#368)"
+            },
+            {
+              "SHA": "063328e6",
+              "Subject": "Add test to kubevault chart (#367)"
+            },
+            {
+              "SHA": "2a270112",
+              "Subject": "Support ubi mode for catalog chart (#366)"
+            },
+            {
+              "SHA": "8c7a333d",
+              "Subject": "Use k8s 1.34 client libs (#365)"
+            },
+            {
+              "SHA": "f0bc858c",
+              "Subject": "Update certified chart readme"
+            },
+            {
+              "SHA": "ea54c793",
+              "Subject": "Fix Ci workflow"
+            },
+            {
+              "SHA": "5ac0d332",
+              "Subject": "Generate certified and certified-crds charts (#363)"
+            },
+            {
+              "SHA": "335cda51",
+              "Subject": "Test against k8s 1.35 (#362)"
+            },
+            {
+              "SHA": "6098cfc9",
+              "Subject": "Fix operator.ubi and catalog.ubi templates"
+            },
+            {
+              "SHA": "1c8dbf55",
+              "Subject": "Test for ubi images (#360)"
+            },
+            {
+              "SHA": "ded44442",
+              "Subject": "Add OpenShift support (#359)"
+            },
+            {
+              "SHA": "140656b0",
+              "Subject": "Use ghcr.io/kubevault/vault-unsealer"
+            },
+            {
+              "SHA": "cd4689b5",
+              "Subject": "Update cve report (#358)"
+            },
+            {
+              "SHA": "892545b5",
+              "Subject": "Update cve report (#356)"
+            },
+            {
+              "SHA": "e09bbcbf",
+              "Subject": "Use golangci-lint 2.x (#357)"
+            },
+            {
+              "SHA": "ee2f887b",
+              "Subject": "Update cve report (#355)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2026.2.27",
+          "commits": [
+            {
+              "SHA": "f42ec6c",
+              "Subject": "Prepare for release v2026.2.27 (#457)"
+            },
+            {
+              "SHA": "10b9424",
+              "Subject": "Prepare for release v2026.1.8-rc.0 (#456)"
+            },
+            {
+              "SHA": "5b07869",
+              "Subject": "Test against k8s 1.35 (#455)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "17eb23ab",
+              "Subject": "Remove linux/arm build (#145)"
+            },
+            {
+              "SHA": "aac7ce6c",
+              "Subject": "Use k8s 1.34 client libs (#144)"
+            },
+            {
+              "SHA": "46d1f17f",
+              "Subject": "Build ubi image"
+            },
+            {
+              "SHA": "70e103a9",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "8a708cc9",
+              "Subject": "Linter fix (#143)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
