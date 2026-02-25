@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.2.27",
-  "release_date": "2026-02-25T19:06:54.6139131Z",
+  "release_date": "2026-02-25T19:07:00.92692902Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -39,6 +39,36 @@
             {
               "SHA": "c3bdb5a1",
               "Subject": "Linter fix (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "17eb23ab",
+              "Subject": "Remove linux/arm build (#145)"
+            },
+            {
+              "SHA": "aac7ce6c",
+              "Subject": "Use k8s 1.34 client libs (#144)"
+            },
+            {
+              "SHA": "46d1f17f",
+              "Subject": "Build ubi image"
+            },
+            {
+              "SHA": "70e103a9",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "8a708cc9",
+              "Subject": "Linter fix (#143)"
             }
           ]
         }
