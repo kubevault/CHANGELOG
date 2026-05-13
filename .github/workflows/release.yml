@@ -11,10 +11,15 @@ jobs:
       github.event.issue.pull_request != null &&
       startsWith(github.event.issue.title, 'Release:') &&
       !contains(github.event.issue.labels.*.name, 'locked') &&
-      contains(fromJSON('["OWNER", "MEMBER"]'), github.event.comment.author_association)
+      (
+        contains(fromJSON('["OWNER", "MEMBER"]'), github.event.comment.author_association) ||
+        github.event.comment.user.login == '1gtm-app[bot]'
+      )
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+        with:
+          persist-credentials: false
 
       - name: Generate LGTM App token
         id: lgtm-app-token
@@ -23,7 +28,6 @@ jobs:
           client-id: ${{ secrets.LGTM_APP_CLIENT_ID }}
           private-key: ${{ secrets.LGTM_APP_PRIVATE_KEY }}
           owner: ${{ github.repository_owner }}
-          repositories: CHANGELOG
           permission-contents: write
           permission-issues: write
           permission-pull-requests: write
@@ -90,9 +94,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ steps.lgtm-app-token.outputs.token }}
         run: |
-          git config --global user.name "lgtm-app[bot]"
-          git config --global user.email "264684964+lgtm-app[bot]@users.noreply.github.com"
-          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git config --global user.name "1gtm-app[bot]"
+          git config --global user.email "3686661+1gtm-app[bot]@users.noreply.github.com"
+          git config --global \
+            url."https://x-access-token:${GITHUB_TOKEN}@github.com".insteadOf \
+            "https://github.com"
+          # git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 
       - name: Verify PR is from same repo (not a fork)
         env:
@@ -108,6 +115,7 @@ jobs:
 
       - name: Release
         env:
+          GITHUB_USER: x-access-token
           GITHUB_TOKEN: ${{ steps.lgtm-app-token.outputs.token }}
           RELEASE_TRACKER: ${{ github.event.issue.html_url }}
           PR_TITLE: ${{ github.event.issue.title }}
