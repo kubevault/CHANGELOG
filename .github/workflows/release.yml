@@ -88,12 +88,11 @@ jobs:
 
       - name: Prepare git
         env:
-          GITHUB_USER: ${{ github.actor }}
           GITHUB_TOKEN: ${{ steps.lgtm-app-token.outputs.token }}
         run: |
           git config --global user.name "lgtm-app[bot]"
           git config --global user.email "264684964+lgtm-app[bot]@users.noreply.github.com"
-          git remote set-url origin "https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 
       - name: Verify PR is from same repo (not a fork)
         env:
@@ -109,7 +108,6 @@ jobs:
 
       - name: Release
         env:
-          GITHUB_USER: ${{ github.actor }}
           GITHUB_TOKEN: ${{ steps.lgtm-app-token.outputs.token }}
           RELEASE_TRACKER: ${{ github.event.issue.html_url }}
           PR_TITLE: ${{ github.event.issue.title }}
