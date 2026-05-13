@@ -86,10 +86,9 @@ jobs:
           GITHUB_USER: ${{ github.actor }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          set -x
           git config --global user.name "1gtm"
           git config --global user.email "1gtm@appscode.com"
-          git remote set-url origin https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+          git remote set-url origin "https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 
       - name: Verify PR is from same repo (not a fork)
         env:
@@ -110,7 +109,7 @@ jobs:
           RELEASE_TRACKER: ${{ github.event.issue.html_url }}
           PR_TITLE: ${{ github.event.issue.title }}
         run: |
-          title="${{ github.event.issue.title }}"
+          title="$PR_TITLE"
           while IFS=$': \r\t' read -r marker v ignored; do
               case $marker in
                   Release)
