@@ -1,0 +1,36 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2026.5.14-rc.0",
+  "release_date": "2026-05-13T18:32:31.679479467Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2026.5.14-rc.0",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "87ceec47",
+              "Subject": "Cleanup cves (#152)"
+            },
+            {
+              "SHA": "5989ad61",
+              "Subject": "Use GitHub App token for release tracker comments (#151)"
+            },
+            {
+              "SHA": "4f672af9",
+              "Subject": "Harden CI workflows (#150)"
+            },
+            {
+              "SHA": "e283b0fb",
+              "Subject": "Configure dependabot refresh schedule (#148)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
