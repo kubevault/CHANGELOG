@@ -13,6 +13,40 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2026.5.14-rc.0](https://github.com/kubevault/installer/releases/tag/v2026.5.14-rc.0)
+
+- [2bb52809](https://github.com/kubevault/installer/commit/2bb52809) Prepare for release v2026.5.14-rc.0 (#437)
+- [81043cc4](https://github.com/kubevault/installer/commit/81043cc4) Pin docker/login-action to v4.1.0 (#439)
+- [7420547c](https://github.com/kubevault/installer/commit/7420547c) Harden CI workflows (#438)
+- [cbe0e016](https://github.com/kubevault/installer/commit/cbe0e016) Cleanup cves (#435)
+- [4bf42d14](https://github.com/kubevault/installer/commit/4bf42d14) Harden CI workflows (#434)
+- [a1e1f7bf](https://github.com/kubevault/installer/commit/a1e1f7bf) Update cve report (#431)
+- [1471293b](https://github.com/kubevault/installer/commit/1471293b) Update cve report (#430)
+- [b1076760](https://github.com/kubevault/installer/commit/b1076760) Update cve report (#429)
+- [3a063b0d](https://github.com/kubevault/installer/commit/3a063b0d) Update cve report (#428)
+- [bad352e3](https://github.com/kubevault/installer/commit/bad352e3) Update cve report (#427)
+- [258774cc](https://github.com/kubevault/installer/commit/258774cc) Configure dependabot refresh schedule (#426)
+- [3739ecf2](https://github.com/kubevault/installer/commit/3739ecf2) Update cve report (#425)
+- [e2ead60b](https://github.com/kubevault/installer/commit/e2ead60b) Update cve report (#424)
+- [7e7140a7](https://github.com/kubevault/installer/commit/7e7140a7) Update cve report (#423)
+- [e58673ae](https://github.com/kubevault/installer/commit/e58673ae) Update cve report (#422)
+- [45567a96](https://github.com/kubevault/installer/commit/45567a96) Update cve report (#421)
+- [da65b37e](https://github.com/kubevault/installer/commit/da65b37e) Update cve report (#420)
+- [9eee7121](https://github.com/kubevault/installer/commit/9eee7121) Update cve report (#419)
+- [001cb34c](https://github.com/kubevault/installer/commit/001cb34c) Update cve report (#418)
+- [0e330ac2](https://github.com/kubevault/installer/commit/0e330ac2) Update cve report (#417)
+- [4022b1f1](https://github.com/kubevault/installer/commit/4022b1f1) Update cve report (#416)
+- [072f7834](https://github.com/kubevault/installer/commit/072f7834) Update cve report (#415)
+- [41bc426a](https://github.com/kubevault/installer/commit/41bc426a) Update cve report (#414)
+- [3e830d6a](https://github.com/kubevault/installer/commit/3e830d6a) Update cve report (#413)
+- [46f7442d](https://github.com/kubevault/installer/commit/46f7442d) Update cve report (#412)
+- [8c32d070](https://github.com/kubevault/installer/commit/8c32d070) Update cve report (#411)
+- [26480eea](https://github.com/kubevault/installer/commit/26480eea) Update cve report (#410)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.25.0-rc.0](https://github.com/kubevault/operator/releases/tag/v0.25.0-rc.0)
