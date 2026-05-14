@@ -13,6 +13,23 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.25.0-rc.0](https://github.com/kubevault/operator/releases/tag/v0.25.0-rc.0)
+
+- [5a1522f2](https://github.com/kubevault/operator/commit/5a1522f26) Prepare for release v0.25.0-rc.0 (#168)
+- [ae69e2d1](https://github.com/kubevault/operator/commit/ae69e2d1c) Cleanup cves (#167)
+- [7c4b7a9a](https://github.com/kubevault/operator/commit/7c4b7a9a0) Harden CI workflows (#166)
+- [eea0fa0c](https://github.com/kubevault/operator/commit/eea0fa0c7) Configure dependabot refresh schedule (#164)
+- [9c99b26e](https://github.com/kubevault/operator/commit/9c99b26ea) fix(policybinding): handle openbao version prefix in semver parsing (#162)
+- [9420ab34](https://github.com/kubevault/operator/commit/9420ab34c) Prepare for release v0.24.0 (#154)
+- [4cdd3749](https://github.com/kubevault/operator/commit/4cdd37495) Add Namespace Support (Postgres, MariDB, Redis) (#153)
+- [fe57e32e](https://github.com/kubevault/operator/commit/fe57e32e3) Apply go fixes
+- [0cb7c133](https://github.com/kubevault/operator/commit/0cb7c133a) Add Namespace Support (MySQL) (#150)
+- [daa2ccf3](https://github.com/kubevault/operator/commit/daa2ccf3a) Remove ownerRef from clusterrole (#151)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.25.0-rc.0](https://github.com/kubevault/unsealer/releases/tag/v0.25.0-rc.0)

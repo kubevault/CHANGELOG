@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.5.14-rc.0",
-  "release_date": "2026-05-14T04:03:12.852399848Z",
+  "release_date": "2026-05-14T04:07:55.228175222Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.5.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -31,6 +31,56 @@
             {
               "SHA": "9c9278a9",
               "Subject": "Prepare for release v0.24.0 (#216)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5a1522f26",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#168)"
+            },
+            {
+              "SHA": "ae69e2d1c",
+              "Subject": "Cleanup cves (#167)"
+            },
+            {
+              "SHA": "7c4b7a9a0",
+              "Subject": "Harden CI workflows (#166)"
+            },
+            {
+              "SHA": "eea0fa0c7",
+              "Subject": "Configure dependabot refresh schedule (#164)"
+            },
+            {
+              "SHA": "9c99b26ea",
+              "Subject": "fix(policybinding): handle openbao version prefix in semver parsing (#162)"
+            },
+            {
+              "SHA": "9420ab34c",
+              "Subject": "Prepare for release v0.24.0 (#154)"
+            },
+            {
+              "SHA": "4cdd37495",
+              "Subject": "Add Namespace Support (Postgres, MariDB, Redis) (#153)"
+            },
+            {
+              "SHA": "fe57e32e3",
+              "Subject": "Apply go fixes"
+            },
+            {
+              "SHA": "0cb7c133a",
+              "Subject": "Add Namespace Support (MySQL) (#150)"
+            },
+            {
+              "SHA": "daa2ccf3a",
+              "Subject": "Remove ownerRef from clusterrole (#151)"
             }
           ]
         }
