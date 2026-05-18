@@ -1,0 +1,158 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2026.5.18-rc.1",
+  "release_date": "2026-05-18T13:38:58.34231845Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2026.5.18-rc.1",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.1",
+          "commits": [
+            {
+              "SHA": "d03a6c7c",
+              "Subject": "Add AGENTS.md (#133)"
+            },
+            {
+              "SHA": "075c9c56",
+              "Subject": "Add 1gtm-app[bot] to kodiak auto_approve_usernames (#132)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.1",
+          "commits": [
+            {
+              "SHA": "61d31fd8",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#227)"
+            },
+            {
+              "SHA": "ca45ac56",
+              "Subject": "Add AGENTS.md (#226)"
+            },
+            {
+              "SHA": "4ed7b9d5",
+              "Subject": "Harden CI workflows (#225)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2026.5.18-rc.1",
+          "commits": [
+            {
+              "SHA": "ad0ee4fa",
+              "Subject": "Prepare for release v2026.5.18-rc.1 (#443)"
+            },
+            {
+              "SHA": "14ccba08",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "4e8a272d",
+              "Subject": "Add AGENTS.md (#442)"
+            },
+            {
+              "SHA": "80830cdf",
+              "Subject": "publish-oci.yml: replace GHCRX app token with LGTM_GITHUB_TOKEN (#441)"
+            },
+            {
+              "SHA": "a7636bb6",
+              "Subject": "Remove bzr install from workflows (#440)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2026.5.18-rc.1",
+          "commits": [
+            {
+              "SHA": "fb8d26c",
+              "Subject": "Prepare for release v2026.5.18-rc.1 (#466)"
+            },
+            {
+              "SHA": "abec4ba",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "69d50f7",
+              "Subject": "Add 1gtm-app[bot] to kodiak auto_approve_usernames (#464)"
+            },
+            {
+              "SHA": "31bafc8",
+              "Subject": "Prepare for release v2026.5.14-rc.0 (#465)"
+            },
+            {
+              "SHA": "2901eb2",
+              "Subject": "Use node-version: '22' in setup-node steps (#463)"
+            },
+            {
+              "SHA": "6f9e602",
+              "Subject": "Harden CI workflows (#462)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.1",
+          "commits": [
+            {
+              "SHA": "9418ad4b7",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "593dd1ee6",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#174)"
+            },
+            {
+              "SHA": "ecd004413",
+              "Subject": "Add AGENTS.md (#173)"
+            },
+            {
+              "SHA": "eb6ba1574",
+              "Subject": "Pin git user to 1gtm in update-crds/update-docs workflows (#172)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.1",
+          "commits": [
+            {
+              "SHA": "aa6de2ae",
+              "Subject": "Add AGENTS.md (#158)"
+            },
+            {
+              "SHA": "a7096a5a",
+              "Subject": "Pin git user to 1gtm in update-crds/update-docs workflows (#157)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
