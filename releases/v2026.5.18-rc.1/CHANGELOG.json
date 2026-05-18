@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.5.18-rc.1",
-  "release_date": "2026-05-18T12:41:40.64459116Z",
+  "release_date": "2026-05-18T13:10:07.753379047Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.5.18-rc.1",
   "kubernetes_version": "1.28+",
@@ -41,6 +41,36 @@
             {
               "SHA": "4ed7b9d5",
               "Subject": "Harden CI workflows (#225)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2026.5.18-rc.1",
+          "commits": [
+            {
+              "SHA": "ad0ee4fa",
+              "Subject": "Prepare for release v2026.5.18-rc.1 (#443)"
+            },
+            {
+              "SHA": "14ccba08",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "4e8a272d",
+              "Subject": "Add AGENTS.md (#442)"
+            },
+            {
+              "SHA": "80830cdf",
+              "Subject": "publish-oci.yml: replace GHCRX app token with LGTM_GITHUB_TOKEN (#441)"
+            },
+            {
+              "SHA": "a7636bb6",
+              "Subject": "Remove bzr install from workflows (#440)"
             }
           ]
         }

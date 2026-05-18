@@ -20,6 +20,18 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2026.5.18-rc.1](https://github.com/kubevault/installer/releases/tag/v2026.5.18-rc.1)
+
+- [ad0ee4fa](https://github.com/kubevault/installer/commit/ad0ee4fa) Prepare for release v2026.5.18-rc.1 (#443)
+- [14ccba08](https://github.com/kubevault/installer/commit/14ccba08) Fix release tracker workflow
+- [4e8a272d](https://github.com/kubevault/installer/commit/4e8a272d) Add AGENTS.md (#442)
+- [80830cdf](https://github.com/kubevault/installer/commit/80830cdf) publish-oci.yml: replace GHCRX app token with LGTM_GITHUB_TOKEN (#441)
+- [a7636bb6](https://github.com/kubevault/installer/commit/a7636bb6) Remove bzr install from workflows (#440)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.25.0-rc.1](https://github.com/kubevault/operator/releases/tag/v0.25.0-rc.1)
