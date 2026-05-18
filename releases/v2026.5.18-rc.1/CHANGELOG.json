@@ -1,0 +1,28 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2026.5.18-rc.1",
+  "release_date": "2026-05-18T12:05:22.744126051Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2026.5.18-rc.1",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.1",
+          "commits": [
+            {
+              "SHA": "aa6de2ae",
+              "Subject": "Add AGENTS.md (#158)"
+            },
+            {
+              "SHA": "a7096a5a",
+              "Subject": "Pin git user to 1gtm in update-crds/update-docs workflows (#157)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
