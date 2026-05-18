@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.5.18-rc.1",
-  "release_date": "2026-05-18T12:05:32.423042592Z",
+  "release_date": "2026-05-18T12:41:31.817862248Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.5.18-rc.1",
   "kubernetes_version": "1.28+",
@@ -19,6 +19,28 @@
             {
               "SHA": "075c9c56",
               "Subject": "Add 1gtm-app[bot] to kodiak auto_approve_usernames (#132)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.1",
+          "commits": [
+            {
+              "SHA": "61d31fd8",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#227)"
+            },
+            {
+              "SHA": "ca45ac56",
+              "Subject": "Add AGENTS.md (#226)"
+            },
+            {
+              "SHA": "4ed7b9d5",
+              "Subject": "Harden CI workflows (#225)"
             }
           ]
         }

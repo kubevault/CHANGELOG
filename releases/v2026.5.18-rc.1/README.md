@@ -10,6 +10,16 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.25.0-rc.1](https://github.com/kubevault/cli/releases/tag/v0.25.0-rc.1)
+
+- [61d31fd8](https://github.com/kubevault/cli/commit/61d31fd8) Prepare for release v0.25.0-rc.1 (#227)
+- [ca45ac56](https://github.com/kubevault/cli/commit/ca45ac56) Add AGENTS.md (#226)
+- [4ed7b9d5](https://github.com/kubevault/cli/commit/4ed7b9d5) Harden CI workflows (#225)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.25.0-rc.1](https://github.com/kubevault/unsealer/releases/tag/v0.25.0-rc.1)
