@@ -1,0 +1,234 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2026.5.14-rc.0",
+  "release_date": "2026-05-14T12:59:45.507274019Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2026.5.14-rc.0",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b42d2b9b",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#224)"
+            },
+            {
+              "SHA": "c0234062",
+              "Subject": "Cleanup cves (#223)"
+            },
+            {
+              "SHA": "00b5938d",
+              "Subject": "Harden CI workflows (#222)"
+            },
+            {
+              "SHA": "289a185b",
+              "Subject": "Configure dependabot refresh schedule (#220)"
+            },
+            {
+              "SHA": "9c9278a9",
+              "Subject": "Prepare for release v0.24.0 (#216)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2026.5.14-rc.0",
+          "commits": [
+            {
+              "SHA": "2bb52809",
+              "Subject": "Prepare for release v2026.5.14-rc.0 (#437)"
+            },
+            {
+              "SHA": "81043cc4",
+              "Subject": "Pin docker/login-action to v4.1.0 (#439)"
+            },
+            {
+              "SHA": "7420547c",
+              "Subject": "Harden CI workflows (#438)"
+            },
+            {
+              "SHA": "cbe0e016",
+              "Subject": "Cleanup cves (#435)"
+            },
+            {
+              "SHA": "4bf42d14",
+              "Subject": "Harden CI workflows (#434)"
+            },
+            {
+              "SHA": "a1e1f7bf",
+              "Subject": "Update cve report (#431)"
+            },
+            {
+              "SHA": "1471293b",
+              "Subject": "Update cve report (#430)"
+            },
+            {
+              "SHA": "b1076760",
+              "Subject": "Update cve report (#429)"
+            },
+            {
+              "SHA": "3a063b0d",
+              "Subject": "Update cve report (#428)"
+            },
+            {
+              "SHA": "bad352e3",
+              "Subject": "Update cve report (#427)"
+            },
+            {
+              "SHA": "258774cc",
+              "Subject": "Configure dependabot refresh schedule (#426)"
+            },
+            {
+              "SHA": "3739ecf2",
+              "Subject": "Update cve report (#425)"
+            },
+            {
+              "SHA": "e2ead60b",
+              "Subject": "Update cve report (#424)"
+            },
+            {
+              "SHA": "7e7140a7",
+              "Subject": "Update cve report (#423)"
+            },
+            {
+              "SHA": "e58673ae",
+              "Subject": "Update cve report (#422)"
+            },
+            {
+              "SHA": "45567a96",
+              "Subject": "Update cve report (#421)"
+            },
+            {
+              "SHA": "da65b37e",
+              "Subject": "Update cve report (#420)"
+            },
+            {
+              "SHA": "9eee7121",
+              "Subject": "Update cve report (#419)"
+            },
+            {
+              "SHA": "001cb34c",
+              "Subject": "Update cve report (#418)"
+            },
+            {
+              "SHA": "0e330ac2",
+              "Subject": "Update cve report (#417)"
+            },
+            {
+              "SHA": "4022b1f1",
+              "Subject": "Update cve report (#416)"
+            },
+            {
+              "SHA": "072f7834",
+              "Subject": "Update cve report (#415)"
+            },
+            {
+              "SHA": "41bc426a",
+              "Subject": "Update cve report (#414)"
+            },
+            {
+              "SHA": "3e830d6a",
+              "Subject": "Update cve report (#413)"
+            },
+            {
+              "SHA": "46f7442d",
+              "Subject": "Update cve report (#412)"
+            },
+            {
+              "SHA": "8c32d070",
+              "Subject": "Update cve report (#411)"
+            },
+            {
+              "SHA": "26480eea",
+              "Subject": "Update cve report (#410)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5a1522f26",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#168)"
+            },
+            {
+              "SHA": "ae69e2d1c",
+              "Subject": "Cleanup cves (#167)"
+            },
+            {
+              "SHA": "7c4b7a9a0",
+              "Subject": "Harden CI workflows (#166)"
+            },
+            {
+              "SHA": "eea0fa0c7",
+              "Subject": "Configure dependabot refresh schedule (#164)"
+            },
+            {
+              "SHA": "9c99b26ea",
+              "Subject": "fix(policybinding): handle openbao version prefix in semver parsing (#162)"
+            },
+            {
+              "SHA": "9420ab34c",
+              "Subject": "Prepare for release v0.24.0 (#154)"
+            },
+            {
+              "SHA": "4cdd37495",
+              "Subject": "Add Namespace Support (Postgres, MariDB, Redis) (#153)"
+            },
+            {
+              "SHA": "fe57e32e3",
+              "Subject": "Apply go fixes"
+            },
+            {
+              "SHA": "0cb7c133a",
+              "Subject": "Add Namespace Support (MySQL) (#150)"
+            },
+            {
+              "SHA": "daa2ccf3a",
+              "Subject": "Remove ownerRef from clusterrole (#151)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "87ceec47",
+              "Subject": "Cleanup cves (#152)"
+            },
+            {
+              "SHA": "5989ad61",
+              "Subject": "Use GitHub App token for release tracker comments (#151)"
+            },
+            {
+              "SHA": "4f672af9",
+              "Subject": "Harden CI workflows (#150)"
+            },
+            {
+              "SHA": "e283b0fb",
+              "Subject": "Configure dependabot refresh schedule (#148)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
