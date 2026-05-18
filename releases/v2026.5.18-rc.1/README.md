@@ -32,6 +32,19 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2026.5.18-rc.1](https://github.com/kubevault/kubevault/releases/tag/v2026.5.18-rc.1)
+
+- [fb8d26c](https://github.com/kubevault/kubevault/commit/fb8d26c) Prepare for release v2026.5.18-rc.1 (#466)
+- [abec4ba](https://github.com/kubevault/kubevault/commit/abec4ba) Fix release tracker workflow
+- [69d50f7](https://github.com/kubevault/kubevault/commit/69d50f7) Add 1gtm-app[bot] to kodiak auto_approve_usernames (#464)
+- [31bafc8](https://github.com/kubevault/kubevault/commit/31bafc8) Prepare for release v2026.5.14-rc.0 (#465)
+- [2901eb2](https://github.com/kubevault/kubevault/commit/2901eb2) Use node-version: '22' in setup-node steps (#463)
+- [6f9e602](https://github.com/kubevault/kubevault/commit/6f9e602) Harden CI workflows (#462)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.25.0-rc.1](https://github.com/kubevault/operator/releases/tag/v0.25.0-rc.1)

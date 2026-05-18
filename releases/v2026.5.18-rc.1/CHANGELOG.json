@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.5.18-rc.1",
-  "release_date": "2026-05-18T13:10:07.753379047Z",
+  "release_date": "2026-05-18T13:38:58.34231845Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.5.18-rc.1",
   "kubernetes_version": "1.28+",
@@ -71,6 +71,40 @@
             {
               "SHA": "a7636bb6",
               "Subject": "Remove bzr install from workflows (#440)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2026.5.18-rc.1",
+          "commits": [
+            {
+              "SHA": "fb8d26c",
+              "Subject": "Prepare for release v2026.5.18-rc.1 (#466)"
+            },
+            {
+              "SHA": "abec4ba",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "69d50f7",
+              "Subject": "Add 1gtm-app[bot] to kodiak auto_approve_usernames (#464)"
+            },
+            {
+              "SHA": "31bafc8",
+              "Subject": "Prepare for release v2026.5.14-rc.0 (#465)"
+            },
+            {
+              "SHA": "2901eb2",
+              "Subject": "Use node-version: '22' in setup-node steps (#463)"
+            },
+            {
+              "SHA": "6f9e602",
+              "Subject": "Harden CI workflows (#462)"
             }
           ]
         }
