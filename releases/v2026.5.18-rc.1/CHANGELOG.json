@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.5.18-rc.1",
-  "release_date": "2026-05-18T12:41:31.817862248Z",
+  "release_date": "2026-05-18T12:41:40.64459116Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.5.18-rc.1",
   "kubernetes_version": "1.28+",
@@ -41,6 +41,32 @@
             {
               "SHA": "4ed7b9d5",
               "Subject": "Harden CI workflows (#225)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.1",
+          "commits": [
+            {
+              "SHA": "9418ad4b7",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "593dd1ee6",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#174)"
+            },
+            {
+              "SHA": "ecd004413",
+              "Subject": "Add AGENTS.md (#173)"
+            },
+            {
+              "SHA": "eb6ba1574",
+              "Subject": "Pin git user to 1gtm in update-crds/update-docs workflows (#172)"
             }
           ]
         }

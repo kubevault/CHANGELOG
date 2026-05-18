@@ -20,6 +20,17 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.25.0-rc.1](https://github.com/kubevault/operator/releases/tag/v0.25.0-rc.1)
+
+- [9418ad4b](https://github.com/kubevault/operator/commit/9418ad4b7) Fix release tracker workflow
+- [593dd1ee](https://github.com/kubevault/operator/commit/593dd1ee6) Prepare for release v0.25.0-rc.1 (#174)
+- [ecd00441](https://github.com/kubevault/operator/commit/ecd004413) Add AGENTS.md (#173)
+- [eb6ba157](https://github.com/kubevault/operator/commit/eb6ba1574) Pin git user to 1gtm in update-crds/update-docs workflows (#172)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.25.0-rc.1](https://github.com/kubevault/unsealer/releases/tag/v0.25.0-rc.1)
