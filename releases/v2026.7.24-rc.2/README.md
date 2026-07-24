@@ -32,6 +32,14 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.25.0-rc.2](https://github.com/kubevault/operator/releases/tag/v0.25.0-rc.2)
+
+- [5b9c0ed9](https://github.com/kubevault/operator/commit/5b9c0ed90) Merge commit '2fcebcc9b329cba16769d030cd5e5bc666b35b75' into release-0.25
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.25.0-rc.2](https://github.com/kubevault/unsealer/releases/tag/v0.25.0-rc.2)

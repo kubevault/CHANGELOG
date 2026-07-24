@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.7.24-rc.2",
-  "release_date": "2026-07-24T08:54:27.108794138Z",
+  "release_date": "2026-07-24T09:21:12.127234054Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.7.24-rc.2",
   "kubernetes_version": "1.28+",
@@ -89,6 +89,20 @@
             {
               "SHA": "4839a579",
               "Subject": "Fix release tracker workflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.2",
+          "commits": [
+            {
+              "SHA": "5b9c0ed90",
+              "Subject": "Merge commit '2fcebcc9b329cba16769d030cd5e5bc666b35b75' into release-0.25"
             }
           ]
         }
