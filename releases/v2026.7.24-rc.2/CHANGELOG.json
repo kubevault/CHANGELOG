@@ -1,0 +1,68 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2026.7.24-rc.2",
+  "release_date": "2026-07-24T08:36:42.909201909Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2026.7.24-rc.2",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.2",
+          "commits": [
+            {
+              "SHA": "9506b557",
+              "Subject": "Add tenant-namespace API for automatic OpenBao namespaces (#156)"
+            },
+            {
+              "SHA": "ba64406c",
+              "Subject": "Add spec.exposePrimary and the ClientTrafficPinned condition (#164)"
+            },
+            {
+              "SHA": "aecac0c3",
+              "Subject": "Modernize golangci-lint config (#162)"
+            },
+            {
+              "SHA": "0f322b76",
+              "Subject": "Rename Vault Agent Leftovers (#161)"
+            },
+            {
+              "SHA": "db14309e",
+              "Subject": "Use vr as shortname for VaultRelay"
+            },
+            {
+              "SHA": "19e335e6",
+              "Subject": "Rename VaultAgent CRD to VaultRelay (agent->relay) (#158)"
+            },
+            {
+              "SHA": "c2df818e",
+              "Subject": "Name the spoke kubernetes-auth role k8s-<cluster>-<vs> (#155)"
+            },
+            {
+              "SHA": "e584cf38",
+              "Subject": "Add VaultAgent and OCM agent placement API to VaultServer (#137)"
+            },
+            {
+              "SHA": "b177c3ef",
+              "Subject": "Bump go.bytebuilders.dev/audit to v0.0.52 (#135)"
+            },
+            {
+              "SHA": "50440b1b",
+              "Subject": "Update go.bytebuilders.dev/audit to v0.0.51 (#134)"
+            },
+            {
+              "SHA": "3b2e0d05",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "258f03b3",
+              "Subject": "Fix release tracker workflow"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
