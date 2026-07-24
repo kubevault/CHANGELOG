@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.7.24-rc.2",
-  "release_date": "2026-07-24T08:36:42.909201909Z",
+  "release_date": "2026-07-24T08:36:49.806446976Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.7.24-rc.2",
   "kubernetes_version": "1.28+",
@@ -58,6 +58,36 @@
             },
             {
               "SHA": "258f03b3",
+              "Subject": "Fix release tracker workflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.2",
+          "commits": [
+            {
+              "SHA": "0f6a92ca",
+              "Subject": "Modernize golangci-lint config (#162)"
+            },
+            {
+              "SHA": "d2717085",
+              "Subject": "add namespace policy (#161)"
+            },
+            {
+              "SHA": "a34e6891",
+              "Subject": "Grant policy-controller the relay/* backend paths (hub-spoke placement) (#160)"
+            },
+            {
+              "SHA": "a7fe869a",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "3b5bf9c4",
               "Subject": "Fix release tracker workflow"
             }
           ]

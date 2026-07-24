@@ -20,3 +20,15 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.25.0-rc.2](https://github.com/kubevault/unsealer/releases/tag/v0.25.0-rc.2)
+
+- [0f6a92ca](https://github.com/kubevault/unsealer/commit/0f6a92ca) Modernize golangci-lint config (#162)
+- [d2717085](https://github.com/kubevault/unsealer/commit/d2717085) add namespace policy (#161)
+- [a34e6891](https://github.com/kubevault/unsealer/commit/a34e6891) Grant policy-controller the relay/* backend paths (hub-spoke placement) (#160)
+- [a7fe869a](https://github.com/kubevault/unsealer/commit/a7fe869a) Add CLAUDE.md pointing to AGENTS.md
+- [3b5bf9c4](https://github.com/kubevault/unsealer/commit/3b5bf9c4) Fix release tracker workflow
+
+
+
