@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.7.24-rc.2",
-  "release_date": "2026-07-24T08:36:49.806446976Z",
+  "release_date": "2026-07-24T08:54:27.108794138Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.7.24-rc.2",
   "kubernetes_version": "1.28+",
@@ -58,6 +58,36 @@
             },
             {
               "SHA": "258f03b3",
+              "Subject": "Fix release tracker workflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.2",
+          "commits": [
+            {
+              "SHA": "5461dc81",
+              "Subject": "Prepare for release v0.25.0-rc.2 (#230)"
+            },
+            {
+              "SHA": "7866f7d3",
+              "Subject": "Modernize golangci-lint config (#229)"
+            },
+            {
+              "SHA": "0f49286d",
+              "Subject": "Drop kubevault.dev/apimachinery/client dependency (#228)"
+            },
+            {
+              "SHA": "3832c2fc",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "4839a579",
               "Subject": "Fix release tracker workflow"
             }
           ]

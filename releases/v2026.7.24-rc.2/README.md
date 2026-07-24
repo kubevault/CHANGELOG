@@ -20,6 +20,18 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.25.0-rc.2](https://github.com/kubevault/cli/releases/tag/v0.25.0-rc.2)
+
+- [5461dc81](https://github.com/kubevault/cli/commit/5461dc81) Prepare for release v0.25.0-rc.2 (#230)
+- [7866f7d3](https://github.com/kubevault/cli/commit/7866f7d3) Modernize golangci-lint config (#229)
+- [0f49286d](https://github.com/kubevault/cli/commit/0f49286d) Drop kubevault.dev/apimachinery/client dependency (#228)
+- [3832c2fc](https://github.com/kubevault/cli/commit/3832c2fc) Add CLAUDE.md pointing to AGENTS.md
+- [4839a579](https://github.com/kubevault/cli/commit/4839a579) Fix release tracker workflow
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.25.0-rc.2](https://github.com/kubevault/unsealer/releases/tag/v0.25.0-rc.2)
