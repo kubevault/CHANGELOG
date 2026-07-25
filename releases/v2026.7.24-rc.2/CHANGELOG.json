@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.7.24-rc.2",
-  "release_date": "2026-07-25T05:28:40.8243311Z",
+  "release_date": "2026-07-25T05:52:16.360566798Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.7.24-rc.2",
   "kubernetes_version": "1.28+",
@@ -183,6 +183,44 @@
             {
               "SHA": "82acef9e",
               "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2026.7.24-rc.2",
+          "commits": [
+            {
+              "SHA": "f49a47d",
+              "Subject": "Prepare for release v2026.7.24-rc.2 (#491)"
+            },
+            {
+              "SHA": "e32decc",
+              "Subject": "docs: Tenant Isolation with OpenBao Namespaces (#488)"
+            },
+            {
+              "SHA": "f77eb0d",
+              "Subject": "docs: document spec.exposePrimary and the primary service alias (#490)"
+            },
+            {
+              "SHA": "1d6b481",
+              "Subject": "docs: rename agent to relay (VaultAgent->VaultRelay) (#489)"
+            },
+            {
+              "SHA": "b6aae63",
+              "Subject": "Document the hub-spoke (VaultAgent) deployment model (#486)"
+            },
+            {
+              "SHA": "a66ad97",
+              "Subject": "Pin Node to 22.22.3 to fix firebase tools auth"
+            },
+            {
+              "SHA": "30e5848",
+              "Subject": "Replace liche with lychee for link checking (#487)"
             }
           ]
         }

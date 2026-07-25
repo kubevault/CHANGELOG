@@ -60,6 +60,20 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2026.7.24-rc.2](https://github.com/kubevault/kubevault/releases/tag/v2026.7.24-rc.2)
+
+- [f49a47d](https://github.com/kubevault/kubevault/commit/f49a47d) Prepare for release v2026.7.24-rc.2 (#491)
+- [e32decc](https://github.com/kubevault/kubevault/commit/e32decc) docs: Tenant Isolation with OpenBao Namespaces (#488)
+- [f77eb0d](https://github.com/kubevault/kubevault/commit/f77eb0d) docs: document spec.exposePrimary and the primary service alias (#490)
+- [1d6b481](https://github.com/kubevault/kubevault/commit/1d6b481) docs: rename agent to relay (VaultAgent->VaultRelay) (#489)
+- [b6aae63](https://github.com/kubevault/kubevault/commit/b6aae63) Document the hub-spoke (VaultAgent) deployment model (#486)
+- [a66ad97](https://github.com/kubevault/kubevault/commit/a66ad97) Pin Node to 22.22.3 to fix firebase tools auth
+- [30e5848](https://github.com/kubevault/kubevault/commit/30e5848) Replace liche with lychee for link checking (#487)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.25.0-rc.2](https://github.com/kubevault/operator/releases/tag/v0.25.0-rc.2)
