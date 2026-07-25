@@ -2,7 +2,7 @@
 
 |  Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
-| [v2026.7.24-rc.2](https:/github.com/kubevault/CHANGELOG/releases/tag/v2026.7.24-rc.2) | 2026-07-24 | [User Guide](https://kubevault.com/docs/v2026.7.24-rc.2) | [CHANGELOG](/releases/v2026.7.24-rc.2/README.md) | 1.28+ |
+| [v2026.7.24-rc.2](https:/github.com/kubevault/CHANGELOG/releases/tag/v2026.7.24-rc.2) | 2026-07-25 | [User Guide](https://kubevault.com/docs/v2026.7.24-rc.2) | [CHANGELOG](/releases/v2026.7.24-rc.2/README.md) | 1.28+ |
 | [v2026.5.18-rc.1](https:/github.com/kubevault/CHANGELOG/releases/tag/v2026.5.18-rc.1) | 2026-05-18 | [User Guide](https://kubevault.com/docs/v2026.5.18-rc.1) | [CHANGELOG](/releases/v2026.5.18-rc.1/README.md) | 1.28+ |
 | [v2026.5.14-rc.0](https:/github.com/kubevault/CHANGELOG/releases/tag/v2026.5.14-rc.0) | 2026-05-14 | [User Guide](https://kubevault.com/docs/v2026.5.14-rc.0) | [CHANGELOG](/releases/v2026.5.14-rc.0/README.md) | 1.28+ |
 | [v2026.2.27](https:/github.com/kubevault/CHANGELOG/releases/tag/v2026.2.27) | 2026-02-25 | [User Guide](https://kubevault.com/docs/v2026.2.27) | [CHANGELOG](/releases/v2026.2.27/README.md) | 1.28+ |
