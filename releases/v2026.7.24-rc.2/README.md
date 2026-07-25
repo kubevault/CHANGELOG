@@ -1,4 +1,4 @@
-# KubeVault v2026.7.24-rc.2 (2026-07-24)
+# KubeVault v2026.7.24-rc.2 (2026-07-25)
 
 
 ## [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
@@ -29,6 +29,34 @@
 - [0f49286d](https://github.com/kubevault/cli/commit/0f49286d) Drop kubevault.dev/apimachinery/client dependency (#228)
 - [3832c2fc](https://github.com/kubevault/cli/commit/3832c2fc) Add CLAUDE.md pointing to AGENTS.md
 - [4839a579](https://github.com/kubevault/cli/commit/4839a579) Fix release tracker workflow
+
+
+
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2026.7.24-rc.2](https://github.com/kubevault/installer/releases/tag/v2026.7.24-rc.2)
+
+- [49c7e5fe](https://github.com/kubevault/installer/commit/49c7e5fe) Prepare for release v2026.7.24-rc.2 (#464)
+- [f3fb56eb](https://github.com/kubevault/installer/commit/f3fb56eb) Remove update command for kubevault-certified chart (#463)
+- [9e4e586d](https://github.com/kubevault/installer/commit/9e4e586d) Fetch kubevault-certified chart dependencies before regenerating it; add OpenShift chart-verify script (#462)
+- [1564d541](https://github.com/kubevault/installer/commit/1564d541) Sync CRDs for tenant isolation (spec.isolateTenants, NamespaceSlice) (#461)
+- [87362390](https://github.com/kubevault/installer/commit/87362390) Sync vaultserver CRDs for spec.exposePrimary and fix the pods-patch comment (#460)
+- [f35219c6](https://github.com/kubevault/installer/commit/f35219c6) Add make refresh target and require it before opening a PR (#459)
+- [b8a96caa](https://github.com/kubevault/installer/commit/b8a96caa) Grant the operator pods patch for role labeling (#458)
+- [761ddb47](https://github.com/kubevault/installer/commit/761ddb47) Clean up cves
+- [62c8c74b](https://github.com/kubevault/installer/commit/62c8c74b) Build kubevault-certified dependencies in update-chart-dependencies.sh (#457)
+- [f2fff71b](https://github.com/kubevault/installer/commit/f2fff71b) Add reproducible make targets for catalog and certified charts (#456)
+- [33f8eca6](https://github.com/kubevault/installer/commit/33f8eca6) Modernize golangci-lint config (#455)
+- [64741473](https://github.com/kubevault/installer/commit/64741473) Add Additional Rules in Cluster Role  (#454)
+- [42ae5979](https://github.com/kubevault/installer/commit/42ae5979) Rename VaultAgent to VaultRelay in charts/CRDs (agent->relay) (#452)
+- [4e174433](https://github.com/kubevault/installer/commit/4e174433) Support OCM hub-driven VaultAgent placement in operator charts (#449)
+- [3ed9e4bb](https://github.com/kubevault/installer/commit/3ed9e4bb) catalog: mark pre-1.10 Vault versions as deprecated (#451)
+- [39b17213](https://github.com/kubevault/installer/commit/39b17213) Add audit-token-requester ClusterRoleBinding to charts (#450)
+- [7a88fdf7](https://github.com/kubevault/installer/commit/7a88fdf7) Fix charts (#448)
+- [b35a72b6](https://github.com/kubevault/installer/commit/b35a72b6) feat(charts): Phase 7 webhook host + --register-crds + VaultServer conversion webhook (#444)
+- [5d791450](https://github.com/kubevault/installer/commit/5d791450) Use ace-user-roles v2026.6.12 with audit cluster role (#446)
+- [ef9df4ab](https://github.com/kubevault/installer/commit/ef9df4ab) Add docker.io prefix to Docker Hub images (#447)
+- [82acef9e](https://github.com/kubevault/installer/commit/82acef9e) Add CLAUDE.md pointing to AGENTS.md
 
 
 

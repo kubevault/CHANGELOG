@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.7.24-rc.2",
-  "release_date": "2026-07-24T09:21:12.127234054Z",
+  "release_date": "2026-07-25T05:28:40.8243311Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.7.24-rc.2",
   "kubernetes_version": "1.28+",
@@ -89,6 +89,100 @@
             {
               "SHA": "4839a579",
               "Subject": "Fix release tracker workflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2026.7.24-rc.2",
+          "commits": [
+            {
+              "SHA": "49c7e5fe",
+              "Subject": "Prepare for release v2026.7.24-rc.2 (#464)"
+            },
+            {
+              "SHA": "f3fb56eb",
+              "Subject": "Remove update command for kubevault-certified chart (#463)"
+            },
+            {
+              "SHA": "9e4e586d",
+              "Subject": "Fetch kubevault-certified chart dependencies before regenerating it; add OpenShift chart-verify script (#462)"
+            },
+            {
+              "SHA": "1564d541",
+              "Subject": "Sync CRDs for tenant isolation (spec.isolateTenants, NamespaceSlice) (#461)"
+            },
+            {
+              "SHA": "87362390",
+              "Subject": "Sync vaultserver CRDs for spec.exposePrimary and fix the pods-patch comment (#460)"
+            },
+            {
+              "SHA": "f35219c6",
+              "Subject": "Add make refresh target and require it before opening a PR (#459)"
+            },
+            {
+              "SHA": "b8a96caa",
+              "Subject": "Grant the operator pods patch for role labeling (#458)"
+            },
+            {
+              "SHA": "761ddb47",
+              "Subject": "Clean up cves"
+            },
+            {
+              "SHA": "62c8c74b",
+              "Subject": "Build kubevault-certified dependencies in update-chart-dependencies.sh (#457)"
+            },
+            {
+              "SHA": "f2fff71b",
+              "Subject": "Add reproducible make targets for catalog and certified charts (#456)"
+            },
+            {
+              "SHA": "33f8eca6",
+              "Subject": "Modernize golangci-lint config (#455)"
+            },
+            {
+              "SHA": "64741473",
+              "Subject": "Add Additional Rules in Cluster Role  (#454)"
+            },
+            {
+              "SHA": "42ae5979",
+              "Subject": "Rename VaultAgent to VaultRelay in charts/CRDs (agent->relay) (#452)"
+            },
+            {
+              "SHA": "4e174433",
+              "Subject": "Support OCM hub-driven VaultAgent placement in operator charts (#449)"
+            },
+            {
+              "SHA": "3ed9e4bb",
+              "Subject": "catalog: mark pre-1.10 Vault versions as deprecated (#451)"
+            },
+            {
+              "SHA": "39b17213",
+              "Subject": "Add audit-token-requester ClusterRoleBinding to charts (#450)"
+            },
+            {
+              "SHA": "7a88fdf7",
+              "Subject": "Fix charts (#448)"
+            },
+            {
+              "SHA": "b35a72b6",
+              "Subject": "feat(charts): Phase 7 webhook host + --register-crds + VaultServer conversion webhook (#444)"
+            },
+            {
+              "SHA": "5d791450",
+              "Subject": "Use ace-user-roles v2026.6.12 with audit cluster role (#446)"
+            },
+            {
+              "SHA": "ef9df4ab",
+              "Subject": "Add docker.io prefix to Docker Hub images (#447)"
+            },
+            {
+              "SHA": "82acef9e",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
             }
           ]
         }
