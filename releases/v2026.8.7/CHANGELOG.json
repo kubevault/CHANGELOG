@@ -1,0 +1,104 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2026.8.7",
+  "release_date": "2026-08-07T11:28:18.750277398Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2026.8.7",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "599a2bed",
+              "Subject": "chore(deps): go mod tidy && go mod vendor (#168)"
+            },
+            {
+              "SHA": "1a0e4147",
+              "Subject": "Add Sigilr as an OpenBao-derivative Vault distro (#167)"
+            },
+            {
+              "SHA": "4efa732f",
+              "Subject": "Remove VaultRelay.spec.image; resolve it from the hub AppBinding's spec.version (#166)"
+            },
+            {
+              "SHA": "a4f10f8d",
+              "Subject": "Add Namespace Slice Helpers (#165)"
+            },
+            {
+              "SHA": "9506b557",
+              "Subject": "Add tenant-namespace API for automatic OpenBao namespaces (#156)"
+            },
+            {
+              "SHA": "ba64406c",
+              "Subject": "Add spec.exposePrimary and the ClientTrafficPinned condition (#164)"
+            },
+            {
+              "SHA": "aecac0c3",
+              "Subject": "Modernize golangci-lint config (#162)"
+            },
+            {
+              "SHA": "0f322b76",
+              "Subject": "Rename Vault Agent Leftovers (#161)"
+            },
+            {
+              "SHA": "db14309e",
+              "Subject": "Use vr as shortname for VaultRelay"
+            },
+            {
+              "SHA": "19e335e6",
+              "Subject": "Rename VaultAgent CRD to VaultRelay (agent->relay) (#158)"
+            },
+            {
+              "SHA": "c2df818e",
+              "Subject": "Name the spoke kubernetes-auth role k8s-<cluster>-<vs> (#155)"
+            },
+            {
+              "SHA": "e584cf38",
+              "Subject": "Add VaultAgent and OCM agent placement API to VaultServer (#137)"
+            },
+            {
+              "SHA": "b177c3ef",
+              "Subject": "Bump go.bytebuilders.dev/audit to v0.0.52 (#135)"
+            },
+            {
+              "SHA": "50440b1b",
+              "Subject": "Update go.bytebuilders.dev/audit to v0.0.51 (#134)"
+            },
+            {
+              "SHA": "3b2e0d05",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "258f03b3",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "d03a6c7c",
+              "Subject": "Add AGENTS.md (#133)"
+            },
+            {
+              "SHA": "075c9c56",
+              "Subject": "Add 1gtm-app[bot] to kodiak auto_approve_usernames (#132)"
+            },
+            {
+              "SHA": "3eac0dd1",
+              "Subject": "Cleanup cves (#131)"
+            },
+            {
+              "SHA": "a1a8b7b2",
+              "Subject": "Harden CI workflows (#130)"
+            },
+            {
+              "SHA": "7e04d17f",
+              "Subject": "Configure dependabot refresh schedule (#128)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
