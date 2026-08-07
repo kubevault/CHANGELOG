@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.8.7",
-  "release_date": "2026-08-07T11:28:28.78507289Z",
+  "release_date": "2026-08-07T11:38:24.777126527Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.8.7",
   "kubernetes_version": "1.28+",
@@ -95,6 +95,72 @@
             {
               "SHA": "7e04d17f",
               "Subject": "Configure dependabot refresh schedule (#128)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "a64b70d8",
+              "Subject": "Prepare for release v0.25.0 (#231)"
+            },
+            {
+              "SHA": "f6bcff38",
+              "Subject": "Clean up deps"
+            },
+            {
+              "SHA": "5461dc81",
+              "Subject": "Prepare for release v0.25.0-rc.2 (#230)"
+            },
+            {
+              "SHA": "7866f7d3",
+              "Subject": "Modernize golangci-lint config (#229)"
+            },
+            {
+              "SHA": "0f49286d",
+              "Subject": "Drop kubevault.dev/apimachinery/client dependency (#228)"
+            },
+            {
+              "SHA": "3832c2fc",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "4839a579",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "61d31fd8",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#227)"
+            },
+            {
+              "SHA": "ca45ac56",
+              "Subject": "Add AGENTS.md (#226)"
+            },
+            {
+              "SHA": "4ed7b9d5",
+              "Subject": "Harden CI workflows (#225)"
+            },
+            {
+              "SHA": "b42d2b9b",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#224)"
+            },
+            {
+              "SHA": "c0234062",
+              "Subject": "Cleanup cves (#223)"
+            },
+            {
+              "SHA": "00b5938d",
+              "Subject": "Harden CI workflows (#222)"
+            },
+            {
+              "SHA": "289a185b",
+              "Subject": "Configure dependabot refresh schedule (#220)"
             }
           ]
         }

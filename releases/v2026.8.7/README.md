@@ -29,6 +29,27 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.25.0](https://github.com/kubevault/cli/releases/tag/v0.25.0)
+
+- [a64b70d8](https://github.com/kubevault/cli/commit/a64b70d8) Prepare for release v0.25.0 (#231)
+- [f6bcff38](https://github.com/kubevault/cli/commit/f6bcff38) Clean up deps
+- [5461dc81](https://github.com/kubevault/cli/commit/5461dc81) Prepare for release v0.25.0-rc.2 (#230)
+- [7866f7d3](https://github.com/kubevault/cli/commit/7866f7d3) Modernize golangci-lint config (#229)
+- [0f49286d](https://github.com/kubevault/cli/commit/0f49286d) Drop kubevault.dev/apimachinery/client dependency (#228)
+- [3832c2fc](https://github.com/kubevault/cli/commit/3832c2fc) Add CLAUDE.md pointing to AGENTS.md
+- [4839a579](https://github.com/kubevault/cli/commit/4839a579) Fix release tracker workflow
+- [61d31fd8](https://github.com/kubevault/cli/commit/61d31fd8) Prepare for release v0.25.0-rc.1 (#227)
+- [ca45ac56](https://github.com/kubevault/cli/commit/ca45ac56) Add AGENTS.md (#226)
+- [4ed7b9d5](https://github.com/kubevault/cli/commit/4ed7b9d5) Harden CI workflows (#225)
+- [b42d2b9b](https://github.com/kubevault/cli/commit/b42d2b9b) Prepare for release v0.25.0-rc.0 (#224)
+- [c0234062](https://github.com/kubevault/cli/commit/c0234062) Cleanup cves (#223)
+- [00b5938d](https://github.com/kubevault/cli/commit/00b5938d) Harden CI workflows (#222)
+- [289a185b](https://github.com/kubevault/cli/commit/289a185b) Configure dependabot refresh schedule (#220)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.25.0](https://github.com/kubevault/unsealer/releases/tag/v0.25.0)
