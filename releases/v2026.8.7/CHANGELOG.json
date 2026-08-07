@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.8.7",
-  "release_date": "2026-08-07T11:28:18.750277398Z",
+  "release_date": "2026-08-07T11:28:28.78507289Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.8.7",
   "kubernetes_version": "1.28+",
@@ -95,6 +95,80 @@
             {
               "SHA": "7e04d17f",
               "Subject": "Configure dependabot refresh schedule (#128)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "bcce8ad3",
+              "Subject": "Cleanup deps"
+            },
+            {
+              "SHA": "0f6a92ca",
+              "Subject": "Modernize golangci-lint config (#162)"
+            },
+            {
+              "SHA": "d2717085",
+              "Subject": "add namespace policy (#161)"
+            },
+            {
+              "SHA": "a34e6891",
+              "Subject": "Grant policy-controller the relay/* backend paths (hub-spoke placement) (#160)"
+            },
+            {
+              "SHA": "a7fe869a",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "3b5bf9c4",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "aa6de2ae",
+              "Subject": "Add AGENTS.md (#158)"
+            },
+            {
+              "SHA": "a7096a5a",
+              "Subject": "Pin git user to 1gtm in update-crds/update-docs workflows (#157)"
+            },
+            {
+              "SHA": "c92ce049",
+              "Subject": "Pin docker/login-action to v4.1.0 (#156)"
+            },
+            {
+              "SHA": "97e4d369",
+              "Subject": "Add 1gtm-app[bot] to kodiak auto_approve_usernames (#155)"
+            },
+            {
+              "SHA": "8dda08bf",
+              "Subject": "Use docker/login-action instead of docker login command (#154)"
+            },
+            {
+              "SHA": "50ce5684",
+              "Subject": "Normalize Prepare git user, fetch-depth, drop permission-issues (#153)"
+            },
+            {
+              "SHA": "87ceec47",
+              "Subject": "Cleanup cves (#152)"
+            },
+            {
+              "SHA": "5989ad61",
+              "Subject": "Use GitHub App token for release tracker comments (#151)"
+            },
+            {
+              "SHA": "4f672af9",
+              "Subject": "Harden CI workflows (#150)"
+            },
+            {
+              "SHA": "e283b0fb",
+              "Subject": "Configure dependabot refresh schedule (#148)"
             }
           ]
         }

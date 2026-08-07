@@ -29,3 +29,26 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.25.0](https://github.com/kubevault/unsealer/releases/tag/v0.25.0)
+
+- [bcce8ad3](https://github.com/kubevault/unsealer/commit/bcce8ad3) Cleanup deps
+- [0f6a92ca](https://github.com/kubevault/unsealer/commit/0f6a92ca) Modernize golangci-lint config (#162)
+- [d2717085](https://github.com/kubevault/unsealer/commit/d2717085) add namespace policy (#161)
+- [a34e6891](https://github.com/kubevault/unsealer/commit/a34e6891) Grant policy-controller the relay/* backend paths (hub-spoke placement) (#160)
+- [a7fe869a](https://github.com/kubevault/unsealer/commit/a7fe869a) Add CLAUDE.md pointing to AGENTS.md
+- [3b5bf9c4](https://github.com/kubevault/unsealer/commit/3b5bf9c4) Fix release tracker workflow
+- [aa6de2ae](https://github.com/kubevault/unsealer/commit/aa6de2ae) Add AGENTS.md (#158)
+- [a7096a5a](https://github.com/kubevault/unsealer/commit/a7096a5a) Pin git user to 1gtm in update-crds/update-docs workflows (#157)
+- [c92ce049](https://github.com/kubevault/unsealer/commit/c92ce049) Pin docker/login-action to v4.1.0 (#156)
+- [97e4d369](https://github.com/kubevault/unsealer/commit/97e4d369) Add 1gtm-app[bot] to kodiak auto_approve_usernames (#155)
+- [8dda08bf](https://github.com/kubevault/unsealer/commit/8dda08bf) Use docker/login-action instead of docker login command (#154)
+- [50ce5684](https://github.com/kubevault/unsealer/commit/50ce5684) Normalize Prepare git user, fetch-depth, drop permission-issues (#153)
+- [87ceec47](https://github.com/kubevault/unsealer/commit/87ceec47) Cleanup cves (#152)
+- [5989ad61](https://github.com/kubevault/unsealer/commit/5989ad61) Use GitHub App token for release tracker comments (#151)
+- [4f672af9](https://github.com/kubevault/unsealer/commit/4f672af9) Harden CI workflows (#150)
+- [e283b0fb](https://github.com/kubevault/unsealer/commit/e283b0fb) Configure dependabot refresh schedule (#148)
+
+
+
