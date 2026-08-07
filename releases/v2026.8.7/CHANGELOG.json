@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.8.7",
-  "release_date": "2026-08-07T11:38:24.777126527Z",
+  "release_date": "2026-08-07T12:00:40.050530161Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.8.7",
   "kubernetes_version": "1.28+",
@@ -161,6 +161,144 @@
             {
               "SHA": "289a185b",
               "Subject": "Configure dependabot refresh schedule (#220)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "fc6afdce9",
+              "Subject": "Merge commit 'f63c2452e679487c11e6addd77f07e973c0aca5a' into release-0.25"
+            },
+            {
+              "SHA": "f63c2452e",
+              "Subject": "Prepare for release v0.25.0 (#228)"
+            },
+            {
+              "SHA": "d1338690b",
+              "Subject": "Refactor Vault namespace/relay code and fix relay-image & migration correctness bugs (#224)"
+            },
+            {
+              "SHA": "4402f8d6e",
+              "Subject": "Support Sigilr as an OpenBao-derivative distribution (#227)"
+            },
+            {
+              "SHA": "2fc4269ce",
+              "Subject": "Resolve VaultRelay's container image from the hub AppBinding's spec.version (#225)"
+            },
+            {
+              "SHA": "0e659db1a",
+              "Subject": "Ensure Namespace Slice CRD, Add ClusterID to Webhook (#223)"
+            },
+            {
+              "SHA": "5b9c0ed90",
+              "Subject": "Merge commit '2fcebcc9b329cba16769d030cd5e5bc666b35b75' into release-0.25"
+            },
+            {
+              "SHA": "2fcebcc9b",
+              "Subject": "Prepare for release v0.25.0-rc.2 (#222)"
+            },
+            {
+              "SHA": "6a93d458d",
+              "Subject": "Automatic OpenBao namespaces for KubeDB Platform tenants (#213)"
+            },
+            {
+              "SHA": "1706fa88e",
+              "Subject": "design: tenant isolation on the OCM hub-spoke model (#214)"
+            },
+            {
+              "SHA": "fe6784605",
+              "Subject": "Pin client traffic to the Vault primary (spec.exposePrimary) (#220)"
+            },
+            {
+              "SHA": "f76a21646",
+              "Subject": "Modernize golangci-lint config (#218)"
+            },
+            {
+              "SHA": "400d7789f",
+              "Subject": "Rename VaultAgent to VaultRelay; agentbackend -> relaybackend (agent->relay) (#217)"
+            },
+            {
+              "SHA": "e3abfcbf3",
+              "Subject": "Remove nul file (#212)"
+            },
+            {
+              "SHA": "11af48777",
+              "Subject": "design: automatic OpenBao namespaces for KubeDB Platform tenants (#210)"
+            },
+            {
+              "SHA": "b937d1d66",
+              "Subject": "Fix errcheck lint: check fmt.Fprintf return in vault_test (#211)"
+            },
+            {
+              "SHA": "8d8afcdeb",
+              "Subject": "VaultAgent: hub-spoke deployment across OCM-managed clusters (#191)"
+            },
+            {
+              "SHA": "8e259c108",
+              "Subject": "Fix e2e workflows (#190)"
+            },
+            {
+              "SHA": "a09d5f2ea",
+              "Subject": "feat: Migrate operator to kubebuilder/controller-runtime style (#175)"
+            },
+            {
+              "SHA": "83b7774f0",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "3d90749d1",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "9418ad4b7",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "593dd1ee6",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#174)"
+            },
+            {
+              "SHA": "ecd004413",
+              "Subject": "Add AGENTS.md (#173)"
+            },
+            {
+              "SHA": "eb6ba1574",
+              "Subject": "Pin git user to 1gtm in update-crds/update-docs workflows (#172)"
+            },
+            {
+              "SHA": "294182359",
+              "Subject": "Pin docker/login-action to v4.1.0 (#171)"
+            },
+            {
+              "SHA": "545de7ef7",
+              "Subject": "Use docker/login-action instead of docker login command (#170)"
+            },
+            {
+              "SHA": "402f21bc4",
+              "Subject": "Harden CI workflows (#169)"
+            },
+            {
+              "SHA": "5a1522f26",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#168)"
+            },
+            {
+              "SHA": "ae69e2d1c",
+              "Subject": "Cleanup cves (#167)"
+            },
+            {
+              "SHA": "7c4b7a9a0",
+              "Subject": "Harden CI workflows (#166)"
+            },
+            {
+              "SHA": "eea0fa0c7",
+              "Subject": "Configure dependabot refresh schedule (#164)"
             }
           ]
         }
