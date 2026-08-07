@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.8.7",
-  "release_date": "2026-08-07T12:32:53.931760584Z",
+  "release_date": "2026-08-07T13:27:40.939427903Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.8.7",
   "kubernetes_version": "1.28+",
@@ -391,6 +391,76 @@
             {
               "SHA": "26480eea",
               "Subject": "Update cve report (#410)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2026.8.7",
+          "commits": [
+            {
+              "SHA": "c63459b",
+              "Subject": "Prepare for release v2026.8.7 (#497)"
+            },
+            {
+              "SHA": "425d95a",
+              "Subject": "docs: remove stale VaultRelay/VaultRelayTemplate spec.image references (#494)"
+            },
+            {
+              "SHA": "f49a47d",
+              "Subject": "Prepare for release v2026.7.24-rc.2 (#491)"
+            },
+            {
+              "SHA": "e32decc",
+              "Subject": "docs: Tenant Isolation with OpenBao Namespaces (#488)"
+            },
+            {
+              "SHA": "f77eb0d",
+              "Subject": "docs: document spec.exposePrimary and the primary service alias (#490)"
+            },
+            {
+              "SHA": "1d6b481",
+              "Subject": "docs: rename agent to relay (VaultAgent->VaultRelay) (#489)"
+            },
+            {
+              "SHA": "b6aae63",
+              "Subject": "Document the hub-spoke (VaultAgent) deployment model (#486)"
+            },
+            {
+              "SHA": "a66ad97",
+              "Subject": "Pin Node to 22.22.3 to fix firebase tools auth"
+            },
+            {
+              "SHA": "30e5848",
+              "Subject": "Replace liche with lychee for link checking (#487)"
+            },
+            {
+              "SHA": "fb8d26c",
+              "Subject": "Prepare for release v2026.5.18-rc.1 (#466)"
+            },
+            {
+              "SHA": "abec4ba",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "69d50f7",
+              "Subject": "Add 1gtm-app[bot] to kodiak auto_approve_usernames (#464)"
+            },
+            {
+              "SHA": "31bafc8",
+              "Subject": "Prepare for release v2026.5.14-rc.0 (#465)"
+            },
+            {
+              "SHA": "2901eb2",
+              "Subject": "Use node-version: '22' in setup-node steps (#463)"
+            },
+            {
+              "SHA": "6f9e602",
+              "Subject": "Harden CI workflows (#462)"
             }
           ]
         }

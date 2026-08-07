@@ -112,6 +112,28 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2026.8.7](https://github.com/kubevault/kubevault/releases/tag/v2026.8.7)
+
+- [c63459b](https://github.com/kubevault/kubevault/commit/c63459b) Prepare for release v2026.8.7 (#497)
+- [425d95a](https://github.com/kubevault/kubevault/commit/425d95a) docs: remove stale VaultRelay/VaultRelayTemplate spec.image references (#494)
+- [f49a47d](https://github.com/kubevault/kubevault/commit/f49a47d) Prepare for release v2026.7.24-rc.2 (#491)
+- [e32decc](https://github.com/kubevault/kubevault/commit/e32decc) docs: Tenant Isolation with OpenBao Namespaces (#488)
+- [f77eb0d](https://github.com/kubevault/kubevault/commit/f77eb0d) docs: document spec.exposePrimary and the primary service alias (#490)
+- [1d6b481](https://github.com/kubevault/kubevault/commit/1d6b481) docs: rename agent to relay (VaultAgent->VaultRelay) (#489)
+- [b6aae63](https://github.com/kubevault/kubevault/commit/b6aae63) Document the hub-spoke (VaultAgent) deployment model (#486)
+- [a66ad97](https://github.com/kubevault/kubevault/commit/a66ad97) Pin Node to 22.22.3 to fix firebase tools auth
+- [30e5848](https://github.com/kubevault/kubevault/commit/30e5848) Replace liche with lychee for link checking (#487)
+- [fb8d26c](https://github.com/kubevault/kubevault/commit/fb8d26c) Prepare for release v2026.5.18-rc.1 (#466)
+- [abec4ba](https://github.com/kubevault/kubevault/commit/abec4ba) Fix release tracker workflow
+- [69d50f7](https://github.com/kubevault/kubevault/commit/69d50f7) Add 1gtm-app[bot] to kodiak auto_approve_usernames (#464)
+- [31bafc8](https://github.com/kubevault/kubevault/commit/31bafc8) Prepare for release v2026.5.14-rc.0 (#465)
+- [2901eb2](https://github.com/kubevault/kubevault/commit/2901eb2) Use node-version: '22' in setup-node steps (#463)
+- [6f9e602](https://github.com/kubevault/kubevault/commit/6f9e602) Harden CI workflows (#462)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.25.0](https://github.com/kubevault/operator/releases/tag/v0.25.0)
