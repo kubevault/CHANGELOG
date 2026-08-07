@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.8.7",
-  "release_date": "2026-08-07T12:00:40.050530161Z",
+  "release_date": "2026-08-07T12:32:53.931760584Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.8.7",
   "kubernetes_version": "1.28+",
@@ -161,6 +161,236 @@
             {
               "SHA": "289a185b",
               "Subject": "Configure dependabot refresh schedule (#220)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2026.8.7",
+          "commits": [
+            {
+              "SHA": "31143fe9",
+              "Subject": "Prepare for release v2026.8.7 (#467)"
+            },
+            {
+              "SHA": "ef9f89db",
+              "Subject": "Add OpenBao Version 2.6.1 (#466)"
+            },
+            {
+              "SHA": "49c7e5fe",
+              "Subject": "Prepare for release v2026.7.24-rc.2 (#464)"
+            },
+            {
+              "SHA": "f3fb56eb",
+              "Subject": "Remove update command for kubevault-certified chart (#463)"
+            },
+            {
+              "SHA": "9e4e586d",
+              "Subject": "Fetch kubevault-certified chart dependencies before regenerating it; add OpenShift chart-verify script (#462)"
+            },
+            {
+              "SHA": "1564d541",
+              "Subject": "Sync CRDs for tenant isolation (spec.isolateTenants, NamespaceSlice) (#461)"
+            },
+            {
+              "SHA": "87362390",
+              "Subject": "Sync vaultserver CRDs for spec.exposePrimary and fix the pods-patch comment (#460)"
+            },
+            {
+              "SHA": "f35219c6",
+              "Subject": "Add make refresh target and require it before opening a PR (#459)"
+            },
+            {
+              "SHA": "b8a96caa",
+              "Subject": "Grant the operator pods patch for role labeling (#458)"
+            },
+            {
+              "SHA": "761ddb47",
+              "Subject": "Clean up cves"
+            },
+            {
+              "SHA": "62c8c74b",
+              "Subject": "Build kubevault-certified dependencies in update-chart-dependencies.sh (#457)"
+            },
+            {
+              "SHA": "f2fff71b",
+              "Subject": "Add reproducible make targets for catalog and certified charts (#456)"
+            },
+            {
+              "SHA": "33f8eca6",
+              "Subject": "Modernize golangci-lint config (#455)"
+            },
+            {
+              "SHA": "64741473",
+              "Subject": "Add Additional Rules in Cluster Role  (#454)"
+            },
+            {
+              "SHA": "42ae5979",
+              "Subject": "Rename VaultAgent to VaultRelay in charts/CRDs (agent->relay) (#452)"
+            },
+            {
+              "SHA": "4e174433",
+              "Subject": "Support OCM hub-driven VaultAgent placement in operator charts (#449)"
+            },
+            {
+              "SHA": "3ed9e4bb",
+              "Subject": "catalog: mark pre-1.10 Vault versions as deprecated (#451)"
+            },
+            {
+              "SHA": "39b17213",
+              "Subject": "Add audit-token-requester ClusterRoleBinding to charts (#450)"
+            },
+            {
+              "SHA": "7a88fdf7",
+              "Subject": "Fix charts (#448)"
+            },
+            {
+              "SHA": "b35a72b6",
+              "Subject": "feat(charts): Phase 7 webhook host + --register-crds + VaultServer conversion webhook (#444)"
+            },
+            {
+              "SHA": "5d791450",
+              "Subject": "Use ace-user-roles v2026.6.12 with audit cluster role (#446)"
+            },
+            {
+              "SHA": "ef9df4ab",
+              "Subject": "Add docker.io prefix to Docker Hub images (#447)"
+            },
+            {
+              "SHA": "82acef9e",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "ad0ee4fa",
+              "Subject": "Prepare for release v2026.5.18-rc.1 (#443)"
+            },
+            {
+              "SHA": "14ccba08",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "4e8a272d",
+              "Subject": "Add AGENTS.md (#442)"
+            },
+            {
+              "SHA": "80830cdf",
+              "Subject": "publish-oci.yml: replace GHCRX app token with LGTM_GITHUB_TOKEN (#441)"
+            },
+            {
+              "SHA": "a7636bb6",
+              "Subject": "Remove bzr install from workflows (#440)"
+            },
+            {
+              "SHA": "2bb52809",
+              "Subject": "Prepare for release v2026.5.14-rc.0 (#437)"
+            },
+            {
+              "SHA": "81043cc4",
+              "Subject": "Pin docker/login-action to v4.1.0 (#439)"
+            },
+            {
+              "SHA": "7420547c",
+              "Subject": "Harden CI workflows (#438)"
+            },
+            {
+              "SHA": "cbe0e016",
+              "Subject": "Cleanup cves (#435)"
+            },
+            {
+              "SHA": "4bf42d14",
+              "Subject": "Harden CI workflows (#434)"
+            },
+            {
+              "SHA": "a1e1f7bf",
+              "Subject": "Update cve report (#431)"
+            },
+            {
+              "SHA": "1471293b",
+              "Subject": "Update cve report (#430)"
+            },
+            {
+              "SHA": "b1076760",
+              "Subject": "Update cve report (#429)"
+            },
+            {
+              "SHA": "3a063b0d",
+              "Subject": "Update cve report (#428)"
+            },
+            {
+              "SHA": "bad352e3",
+              "Subject": "Update cve report (#427)"
+            },
+            {
+              "SHA": "258774cc",
+              "Subject": "Configure dependabot refresh schedule (#426)"
+            },
+            {
+              "SHA": "3739ecf2",
+              "Subject": "Update cve report (#425)"
+            },
+            {
+              "SHA": "e2ead60b",
+              "Subject": "Update cve report (#424)"
+            },
+            {
+              "SHA": "7e7140a7",
+              "Subject": "Update cve report (#423)"
+            },
+            {
+              "SHA": "e58673ae",
+              "Subject": "Update cve report (#422)"
+            },
+            {
+              "SHA": "45567a96",
+              "Subject": "Update cve report (#421)"
+            },
+            {
+              "SHA": "da65b37e",
+              "Subject": "Update cve report (#420)"
+            },
+            {
+              "SHA": "9eee7121",
+              "Subject": "Update cve report (#419)"
+            },
+            {
+              "SHA": "001cb34c",
+              "Subject": "Update cve report (#418)"
+            },
+            {
+              "SHA": "0e330ac2",
+              "Subject": "Update cve report (#417)"
+            },
+            {
+              "SHA": "4022b1f1",
+              "Subject": "Update cve report (#416)"
+            },
+            {
+              "SHA": "072f7834",
+              "Subject": "Update cve report (#415)"
+            },
+            {
+              "SHA": "41bc426a",
+              "Subject": "Update cve report (#414)"
+            },
+            {
+              "SHA": "3e830d6a",
+              "Subject": "Update cve report (#413)"
+            },
+            {
+              "SHA": "46f7442d",
+              "Subject": "Update cve report (#412)"
+            },
+            {
+              "SHA": "8c32d070",
+              "Subject": "Update cve report (#411)"
+            },
+            {
+              "SHA": "26480eea",
+              "Subject": "Update cve report (#410)"
             }
           ]
         }

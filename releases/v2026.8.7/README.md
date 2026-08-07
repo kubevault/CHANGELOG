@@ -50,6 +50,68 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2026.8.7](https://github.com/kubevault/installer/releases/tag/v2026.8.7)
+
+- [31143fe9](https://github.com/kubevault/installer/commit/31143fe9) Prepare for release v2026.8.7 (#467)
+- [ef9f89db](https://github.com/kubevault/installer/commit/ef9f89db) Add OpenBao Version 2.6.1 (#466)
+- [49c7e5fe](https://github.com/kubevault/installer/commit/49c7e5fe) Prepare for release v2026.7.24-rc.2 (#464)
+- [f3fb56eb](https://github.com/kubevault/installer/commit/f3fb56eb) Remove update command for kubevault-certified chart (#463)
+- [9e4e586d](https://github.com/kubevault/installer/commit/9e4e586d) Fetch kubevault-certified chart dependencies before regenerating it; add OpenShift chart-verify script (#462)
+- [1564d541](https://github.com/kubevault/installer/commit/1564d541) Sync CRDs for tenant isolation (spec.isolateTenants, NamespaceSlice) (#461)
+- [87362390](https://github.com/kubevault/installer/commit/87362390) Sync vaultserver CRDs for spec.exposePrimary and fix the pods-patch comment (#460)
+- [f35219c6](https://github.com/kubevault/installer/commit/f35219c6) Add make refresh target and require it before opening a PR (#459)
+- [b8a96caa](https://github.com/kubevault/installer/commit/b8a96caa) Grant the operator pods patch for role labeling (#458)
+- [761ddb47](https://github.com/kubevault/installer/commit/761ddb47) Clean up cves
+- [62c8c74b](https://github.com/kubevault/installer/commit/62c8c74b) Build kubevault-certified dependencies in update-chart-dependencies.sh (#457)
+- [f2fff71b](https://github.com/kubevault/installer/commit/f2fff71b) Add reproducible make targets for catalog and certified charts (#456)
+- [33f8eca6](https://github.com/kubevault/installer/commit/33f8eca6) Modernize golangci-lint config (#455)
+- [64741473](https://github.com/kubevault/installer/commit/64741473) Add Additional Rules in Cluster Role  (#454)
+- [42ae5979](https://github.com/kubevault/installer/commit/42ae5979) Rename VaultAgent to VaultRelay in charts/CRDs (agent->relay) (#452)
+- [4e174433](https://github.com/kubevault/installer/commit/4e174433) Support OCM hub-driven VaultAgent placement in operator charts (#449)
+- [3ed9e4bb](https://github.com/kubevault/installer/commit/3ed9e4bb) catalog: mark pre-1.10 Vault versions as deprecated (#451)
+- [39b17213](https://github.com/kubevault/installer/commit/39b17213) Add audit-token-requester ClusterRoleBinding to charts (#450)
+- [7a88fdf7](https://github.com/kubevault/installer/commit/7a88fdf7) Fix charts (#448)
+- [b35a72b6](https://github.com/kubevault/installer/commit/b35a72b6) feat(charts): Phase 7 webhook host + --register-crds + VaultServer conversion webhook (#444)
+- [5d791450](https://github.com/kubevault/installer/commit/5d791450) Use ace-user-roles v2026.6.12 with audit cluster role (#446)
+- [ef9df4ab](https://github.com/kubevault/installer/commit/ef9df4ab) Add docker.io prefix to Docker Hub images (#447)
+- [82acef9e](https://github.com/kubevault/installer/commit/82acef9e) Add CLAUDE.md pointing to AGENTS.md
+- [ad0ee4fa](https://github.com/kubevault/installer/commit/ad0ee4fa) Prepare for release v2026.5.18-rc.1 (#443)
+- [14ccba08](https://github.com/kubevault/installer/commit/14ccba08) Fix release tracker workflow
+- [4e8a272d](https://github.com/kubevault/installer/commit/4e8a272d) Add AGENTS.md (#442)
+- [80830cdf](https://github.com/kubevault/installer/commit/80830cdf) publish-oci.yml: replace GHCRX app token with LGTM_GITHUB_TOKEN (#441)
+- [a7636bb6](https://github.com/kubevault/installer/commit/a7636bb6) Remove bzr install from workflows (#440)
+- [2bb52809](https://github.com/kubevault/installer/commit/2bb52809) Prepare for release v2026.5.14-rc.0 (#437)
+- [81043cc4](https://github.com/kubevault/installer/commit/81043cc4) Pin docker/login-action to v4.1.0 (#439)
+- [7420547c](https://github.com/kubevault/installer/commit/7420547c) Harden CI workflows (#438)
+- [cbe0e016](https://github.com/kubevault/installer/commit/cbe0e016) Cleanup cves (#435)
+- [4bf42d14](https://github.com/kubevault/installer/commit/4bf42d14) Harden CI workflows (#434)
+- [a1e1f7bf](https://github.com/kubevault/installer/commit/a1e1f7bf) Update cve report (#431)
+- [1471293b](https://github.com/kubevault/installer/commit/1471293b) Update cve report (#430)
+- [b1076760](https://github.com/kubevault/installer/commit/b1076760) Update cve report (#429)
+- [3a063b0d](https://github.com/kubevault/installer/commit/3a063b0d) Update cve report (#428)
+- [bad352e3](https://github.com/kubevault/installer/commit/bad352e3) Update cve report (#427)
+- [258774cc](https://github.com/kubevault/installer/commit/258774cc) Configure dependabot refresh schedule (#426)
+- [3739ecf2](https://github.com/kubevault/installer/commit/3739ecf2) Update cve report (#425)
+- [e2ead60b](https://github.com/kubevault/installer/commit/e2ead60b) Update cve report (#424)
+- [7e7140a7](https://github.com/kubevault/installer/commit/7e7140a7) Update cve report (#423)
+- [e58673ae](https://github.com/kubevault/installer/commit/e58673ae) Update cve report (#422)
+- [45567a96](https://github.com/kubevault/installer/commit/45567a96) Update cve report (#421)
+- [da65b37e](https://github.com/kubevault/installer/commit/da65b37e) Update cve report (#420)
+- [9eee7121](https://github.com/kubevault/installer/commit/9eee7121) Update cve report (#419)
+- [001cb34c](https://github.com/kubevault/installer/commit/001cb34c) Update cve report (#418)
+- [0e330ac2](https://github.com/kubevault/installer/commit/0e330ac2) Update cve report (#417)
+- [4022b1f1](https://github.com/kubevault/installer/commit/4022b1f1) Update cve report (#416)
+- [072f7834](https://github.com/kubevault/installer/commit/072f7834) Update cve report (#415)
+- [41bc426a](https://github.com/kubevault/installer/commit/41bc426a) Update cve report (#414)
+- [3e830d6a](https://github.com/kubevault/installer/commit/3e830d6a) Update cve report (#413)
+- [46f7442d](https://github.com/kubevault/installer/commit/46f7442d) Update cve report (#412)
+- [8c32d070](https://github.com/kubevault/installer/commit/8c32d070) Update cve report (#411)
+- [26480eea](https://github.com/kubevault/installer/commit/26480eea) Update cve report (#410)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.25.0](https://github.com/kubevault/operator/releases/tag/v0.25.0)
