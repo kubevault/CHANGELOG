@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T08:46:12.84343256Z",
+  "release_date": "2026-10-11T08:46:19.820255907Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -123,6 +123,20 @@
             {
               "SHA": "716791b9",
               "Subject": "engine/v1alpha1: add DB2Role + DB2Configuration CRDs (#138)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "6aa0c59a",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#165)"
             }
           ]
         }

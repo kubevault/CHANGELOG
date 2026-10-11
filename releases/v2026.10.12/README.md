@@ -36,3 +36,11 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.26.0](https://github.com/kubevault/unsealer/releases/tag/v0.26.0)
+
+- [6aa0c59a](https://github.com/kubevault/unsealer/commit/6aa0c59a) Use Go 1.27, k8s 1.37 & debian:13 (#165)
+
+
+
