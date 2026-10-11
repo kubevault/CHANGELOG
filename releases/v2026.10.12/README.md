@@ -36,6 +36,15 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.26.0](https://github.com/kubevault/cli/releases/tag/v0.26.0)
+
+- [2ab37914](https://github.com/kubevault/cli/commit/2ab37914) Prepare for release v0.26.0 (#234)
+- [d4cd42cc](https://github.com/kubevault/cli/commit/d4cd42cc) Use Go 1.27, k8s 1.37 & debian:13 (#233)
+
+
+
 ## [kubevault/crd-manager](https://github.com/kubevault/crd-manager)
 
 ### [v0.2.0](https://github.com/kubevault/crd-manager/releases/tag/v0.2.0)
