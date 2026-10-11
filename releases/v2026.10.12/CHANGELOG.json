@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T08:46:19.820255907Z",
+  "release_date": "2026-10-11T10:13:22.118219993Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -123,6 +123,44 @@
             {
               "SHA": "716791b9",
               "Subject": "engine/v1alpha1: add DB2Role + DB2Configuration CRDs (#138)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "4aa48a1",
+              "Subject": "Prepare for release v0.2.0 (#4)"
+            },
+            {
+              "SHA": "4c52981",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#3)"
+            },
+            {
+              "SHA": "aee9142",
+              "Subject": "Remove Unsupported Database Secret Engines"
+            },
+            {
+              "SHA": "b8373de",
+              "Subject": "vendor: bump kubevault.dev/apimachinery, add EnsureEtcdRoleCRDs"
+            },
+            {
+              "SHA": "0edf993",
+              "Subject": "vendor: bump kubevault.dev/apimachinery for default-enabled Postgres/MySQL"
+            },
+            {
+              "SHA": "0257b2d",
+              "Subject": "Add CI/release workflows, hack scripts, and Makefile targets"
+            },
+            {
+              "SHA": "0bcbf54",
+              "Subject": "Add README"
             }
           ]
         }

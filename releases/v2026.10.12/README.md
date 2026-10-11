@@ -36,6 +36,20 @@
 
 
 
+## [kubevault/crd-manager](https://github.com/kubevault/crd-manager)
+
+### [v0.2.0](https://github.com/kubevault/crd-manager/releases/tag/v0.2.0)
+
+- [4aa48a1](https://github.com/kubevault/crd-manager/commit/4aa48a1) Prepare for release v0.2.0 (#4)
+- [4c52981](https://github.com/kubevault/crd-manager/commit/4c52981) Use Go 1.27, k8s 1.37 & debian:13 (#3)
+- [aee9142](https://github.com/kubevault/crd-manager/commit/aee9142) Remove Unsupported Database Secret Engines
+- [b8373de](https://github.com/kubevault/crd-manager/commit/b8373de) vendor: bump kubevault.dev/apimachinery, add EnsureEtcdRoleCRDs
+- [0edf993](https://github.com/kubevault/crd-manager/commit/0edf993) vendor: bump kubevault.dev/apimachinery for default-enabled Postgres/MySQL
+- [0257b2d](https://github.com/kubevault/crd-manager/commit/0257b2d) Add CI/release workflows, hack scripts, and Makefile targets
+- [0bcbf54](https://github.com/kubevault/crd-manager/commit/0bcbf54) Add README
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.26.0](https://github.com/kubevault/unsealer/releases/tag/v0.26.0)
