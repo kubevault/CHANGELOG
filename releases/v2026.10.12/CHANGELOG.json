@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T10:23:00.881698656Z",
+  "release_date": "2026-10-11T14:06:42.249895252Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -181,6 +181,15 @@
               "Subject": "Add README"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": null
         }
       ]
     },
