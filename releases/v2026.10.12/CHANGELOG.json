@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T14:06:42.249895252Z",
+  "release_date": "2026-10-11T21:26:28.445270213Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -179,6 +179,48 @@
             {
               "SHA": "0bcbf54",
               "Subject": "Add README"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": [
+            {
+              "SHA": "7899f13a",
+              "Subject": "Prepare for release v2026.10.12 (#477)"
+            },
+            {
+              "SHA": "cb142eec",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#476)"
+            },
+            {
+              "SHA": "94a5ab9c",
+              "Subject": "Remove Unsupported Database Secret Engines"
+            },
+            {
+              "SHA": "07e03749",
+              "Subject": "charts: add Etcd to featureGates defaults"
+            },
+            {
+              "SHA": "6aef3965",
+              "Subject": "Add kubevault-crd-manager chart, remove Role CRDs from kubevault-operator (#471)"
+            },
+            {
+              "SHA": "7cef6388",
+              "Subject": "Makefile: use update-codegen.sh bundled in the gengo-builder image, bump image to release-1.34 (#472)"
+            },
+            {
+              "SHA": "d0e844f6",
+              "Subject": "crds: sync bundled CRDs from kubevault/apimachinery@master (#470)"
+            },
+            {
+              "SHA": "ccaf55ab",
+              "Subject": "Support overriding kubevault-catalog dir via flag (#469)"
             }
           ]
         }

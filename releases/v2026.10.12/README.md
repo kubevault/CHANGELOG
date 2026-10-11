@@ -59,6 +59,21 @@
 
 
 
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2026.10.12](https://github.com/kubevault/installer/releases/tag/v2026.10.12)
+
+- [7899f13a](https://github.com/kubevault/installer/commit/7899f13a) Prepare for release v2026.10.12 (#477)
+- [cb142eec](https://github.com/kubevault/installer/commit/cb142eec) Use Go 1.27, k8s 1.37 & debian:13 (#476)
+- [94a5ab9c](https://github.com/kubevault/installer/commit/94a5ab9c) Remove Unsupported Database Secret Engines
+- [07e03749](https://github.com/kubevault/installer/commit/07e03749) charts: add Etcd to featureGates defaults
+- [6aef3965](https://github.com/kubevault/installer/commit/6aef3965) Add kubevault-crd-manager chart, remove Role CRDs from kubevault-operator (#471)
+- [7cef6388](https://github.com/kubevault/installer/commit/7cef6388) Makefile: use update-codegen.sh bundled in the gengo-builder image, bump image to release-1.34 (#472)
+- [d0e844f6](https://github.com/kubevault/installer/commit/d0e844f6) crds: sync bundled CRDs from kubevault/apimachinery@master (#470)
+- [ccaf55ab](https://github.com/kubevault/installer/commit/ccaf55ab) Support overriding kubevault-catalog dir via flag (#469)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.26.0](https://github.com/kubevault/operator/releases/tag/v0.26.0)
