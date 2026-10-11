@@ -1,0 +1,132 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2026.10.12",
+  "release_date": "2026-10-11T08:46:12.84343256Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2026.10.12",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "02e3e47e",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#183)"
+            },
+            {
+              "SHA": "a293630d",
+              "Subject": "Cleanup cves (#182)"
+            },
+            {
+              "SHA": "43b8761b",
+              "Subject": "Remove Unsupported Database Secret Engines"
+            },
+            {
+              "SHA": "aa85ded2",
+              "Subject": "engine/v1alpha1: add EtcdRole + EtcdConfiguration CRDs"
+            },
+            {
+              "SHA": "a38185a6",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "55dfece2",
+              "Subject": "pkg/features: add feature-gate registry for database secret engines (#173)"
+            },
+            {
+              "SHA": "343e4250",
+              "Subject": "Add Weaviate and Qdrant Creation Statement  (#176)"
+            },
+            {
+              "SHA": "61150d2b",
+              "Subject": "Migrate code generation to kube_codegen.sh (#174)"
+            },
+            {
+              "SHA": "05fc38eb",
+              "Subject": "Align RabbitMQ Secret Engine with Other Secret Engines (#172)"
+            },
+            {
+              "SHA": "96eef3ae",
+              "Subject": "engine/v1alpha1: fix RabbitMQConfiguration connection_uri field name + add mutual-TLS support (#170)"
+            },
+            {
+              "SHA": "ed8f4361",
+              "Subject": "engine/v1alpha1: sort database-engine switch cases; revert DocumentDB CRDs (#169)"
+            },
+            {
+              "SHA": "71f28bc6",
+              "Subject": "engine/v1alpha1: add ZooKeeperRole + ZooKeeperConfiguration CRDs (#154)"
+            },
+            {
+              "SHA": "3b3b49c2",
+              "Subject": "engine/v1alpha1: add WeaviateRole + WeaviateConfiguration CRDs (#153)"
+            },
+            {
+              "SHA": "d938c06c",
+              "Subject": "engine/v1alpha1: add SolrRole + SolrConfiguration CRDs (#152)"
+            },
+            {
+              "SHA": "4390e2bd",
+              "Subject": "engine/v1alpha1: add RabbitMQRole + RabbitMQConfiguration CRDs (#151)"
+            },
+            {
+              "SHA": "a98fca2e",
+              "Subject": "engine/v1alpha1: add QdrantRole + QdrantConfiguration CRDs (#150)"
+            },
+            {
+              "SHA": "3199e5a4",
+              "Subject": "engine/v1alpha1: add OracleRole + OracleConfiguration CRDs (#149)"
+            },
+            {
+              "SHA": "c49e7a39",
+              "Subject": "engine/v1alpha1: add Neo4jRole + Neo4jConfiguration CRDs (#148)"
+            },
+            {
+              "SHA": "6215c9ff",
+              "Subject": "engine/v1alpha1: add MSSQLServerRole + MSSQLServerConfiguration CRDs (#147)"
+            },
+            {
+              "SHA": "c43b2db8",
+              "Subject": "engine/v1alpha1: add MilvusRole + MilvusConfiguration CRDs (#146)"
+            },
+            {
+              "SHA": "3812dbed",
+              "Subject": "engine/v1alpha1: add MemcachedRole + MemcachedConfiguration CRDs (#145)"
+            },
+            {
+              "SHA": "efc9f8ab",
+              "Subject": "engine/v1alpha1: add KafkaRole + KafkaConfiguration CRDs (#144)"
+            },
+            {
+              "SHA": "31674255",
+              "Subject": "engine/v1alpha1: add IgniteRole + IgniteConfiguration CRDs (#143)"
+            },
+            {
+              "SHA": "6cdd790b",
+              "Subject": "engine/v1alpha1: add HazelcastRole + HazelcastConfiguration CRDs (#142)"
+            },
+            {
+              "SHA": "24ba2f0b",
+              "Subject": "engine/v1alpha1: add HanaDBRole + HanaDBConfiguration CRDs (#141)"
+            },
+            {
+              "SHA": "3d8376d1",
+              "Subject": "engine/v1alpha1: add DruidRole + DruidConfiguration CRDs (#140)"
+            },
+            {
+              "SHA": "d9686e5e",
+              "Subject": "engine/v1alpha1: add DocumentDBRole + DocumentDBConfiguration CRDs (#139)"
+            },
+            {
+              "SHA": "716791b9",
+              "Subject": "engine/v1alpha1: add DB2Role + DB2Configuration CRDs (#138)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
