@@ -1,0 +1,343 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2026.10.12",
+  "release_date": "2026-10-12T03:03:51.104869764Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2026.10.12",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "02e3e47e",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#183)"
+            },
+            {
+              "SHA": "a293630d",
+              "Subject": "Cleanup cves (#182)"
+            },
+            {
+              "SHA": "43b8761b",
+              "Subject": "Remove Unsupported Database Secret Engines"
+            },
+            {
+              "SHA": "aa85ded2",
+              "Subject": "engine/v1alpha1: add EtcdRole + EtcdConfiguration CRDs"
+            },
+            {
+              "SHA": "a38185a6",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "55dfece2",
+              "Subject": "pkg/features: add feature-gate registry for database secret engines (#173)"
+            },
+            {
+              "SHA": "343e4250",
+              "Subject": "Add Weaviate and Qdrant Creation Statement  (#176)"
+            },
+            {
+              "SHA": "61150d2b",
+              "Subject": "Migrate code generation to kube_codegen.sh (#174)"
+            },
+            {
+              "SHA": "05fc38eb",
+              "Subject": "Align RabbitMQ Secret Engine with Other Secret Engines (#172)"
+            },
+            {
+              "SHA": "96eef3ae",
+              "Subject": "engine/v1alpha1: fix RabbitMQConfiguration connection_uri field name + add mutual-TLS support (#170)"
+            },
+            {
+              "SHA": "ed8f4361",
+              "Subject": "engine/v1alpha1: sort database-engine switch cases; revert DocumentDB CRDs (#169)"
+            },
+            {
+              "SHA": "71f28bc6",
+              "Subject": "engine/v1alpha1: add ZooKeeperRole + ZooKeeperConfiguration CRDs (#154)"
+            },
+            {
+              "SHA": "3b3b49c2",
+              "Subject": "engine/v1alpha1: add WeaviateRole + WeaviateConfiguration CRDs (#153)"
+            },
+            {
+              "SHA": "d938c06c",
+              "Subject": "engine/v1alpha1: add SolrRole + SolrConfiguration CRDs (#152)"
+            },
+            {
+              "SHA": "4390e2bd",
+              "Subject": "engine/v1alpha1: add RabbitMQRole + RabbitMQConfiguration CRDs (#151)"
+            },
+            {
+              "SHA": "a98fca2e",
+              "Subject": "engine/v1alpha1: add QdrantRole + QdrantConfiguration CRDs (#150)"
+            },
+            {
+              "SHA": "3199e5a4",
+              "Subject": "engine/v1alpha1: add OracleRole + OracleConfiguration CRDs (#149)"
+            },
+            {
+              "SHA": "c49e7a39",
+              "Subject": "engine/v1alpha1: add Neo4jRole + Neo4jConfiguration CRDs (#148)"
+            },
+            {
+              "SHA": "6215c9ff",
+              "Subject": "engine/v1alpha1: add MSSQLServerRole + MSSQLServerConfiguration CRDs (#147)"
+            },
+            {
+              "SHA": "c43b2db8",
+              "Subject": "engine/v1alpha1: add MilvusRole + MilvusConfiguration CRDs (#146)"
+            },
+            {
+              "SHA": "3812dbed",
+              "Subject": "engine/v1alpha1: add MemcachedRole + MemcachedConfiguration CRDs (#145)"
+            },
+            {
+              "SHA": "efc9f8ab",
+              "Subject": "engine/v1alpha1: add KafkaRole + KafkaConfiguration CRDs (#144)"
+            },
+            {
+              "SHA": "31674255",
+              "Subject": "engine/v1alpha1: add IgniteRole + IgniteConfiguration CRDs (#143)"
+            },
+            {
+              "SHA": "6cdd790b",
+              "Subject": "engine/v1alpha1: add HazelcastRole + HazelcastConfiguration CRDs (#142)"
+            },
+            {
+              "SHA": "24ba2f0b",
+              "Subject": "engine/v1alpha1: add HanaDBRole + HanaDBConfiguration CRDs (#141)"
+            },
+            {
+              "SHA": "3d8376d1",
+              "Subject": "engine/v1alpha1: add DruidRole + DruidConfiguration CRDs (#140)"
+            },
+            {
+              "SHA": "d9686e5e",
+              "Subject": "engine/v1alpha1: add DocumentDBRole + DocumentDBConfiguration CRDs (#139)"
+            },
+            {
+              "SHA": "716791b9",
+              "Subject": "engine/v1alpha1: add DB2Role + DB2Configuration CRDs (#138)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "2ab37914",
+              "Subject": "Prepare for release v0.26.0 (#234)"
+            },
+            {
+              "SHA": "d4cd42cc",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#233)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "4aa48a1",
+              "Subject": "Prepare for release v0.2.0 (#4)"
+            },
+            {
+              "SHA": "4c52981",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#3)"
+            },
+            {
+              "SHA": "aee9142",
+              "Subject": "Remove Unsupported Database Secret Engines"
+            },
+            {
+              "SHA": "b8373de",
+              "Subject": "vendor: bump kubevault.dev/apimachinery, add EnsureEtcdRoleCRDs"
+            },
+            {
+              "SHA": "0edf993",
+              "Subject": "vendor: bump kubevault.dev/apimachinery for default-enabled Postgres/MySQL"
+            },
+            {
+              "SHA": "0257b2d",
+              "Subject": "Add CI/release workflows, hack scripts, and Makefile targets"
+            },
+            {
+              "SHA": "0bcbf54",
+              "Subject": "Add README"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": [
+            {
+              "SHA": "7899f13a",
+              "Subject": "Prepare for release v2026.10.12 (#477)"
+            },
+            {
+              "SHA": "cb142eec",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#476)"
+            },
+            {
+              "SHA": "94a5ab9c",
+              "Subject": "Remove Unsupported Database Secret Engines"
+            },
+            {
+              "SHA": "07e03749",
+              "Subject": "charts: add Etcd to featureGates defaults"
+            },
+            {
+              "SHA": "6aef3965",
+              "Subject": "Add kubevault-crd-manager chart, remove Role CRDs from kubevault-operator (#471)"
+            },
+            {
+              "SHA": "7cef6388",
+              "Subject": "Makefile: use update-codegen.sh bundled in the gengo-builder image, bump image to release-1.34 (#472)"
+            },
+            {
+              "SHA": "d0e844f6",
+              "Subject": "crds: sync bundled CRDs from kubevault/apimachinery@master (#470)"
+            },
+            {
+              "SHA": "ccaf55ab",
+              "Subject": "Support overriding kubevault-catalog dir via flag (#469)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": [
+            {
+              "SHA": "1e2227a",
+              "Subject": "Prepare for release v2026.10.12 (#523)"
+            },
+            {
+              "SHA": "5ef378c",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#519)"
+            },
+            {
+              "SHA": "1da5e31",
+              "Subject": "Add Custom Roles for Etcd Secret Engine"
+            },
+            {
+              "SHA": "e6dafe0",
+              "Subject": "docs/guides: add etcd secret engine guide (#514)"
+            },
+            {
+              "SHA": "853ee65",
+              "Subject": "docs/guides: add Weaviate secret engine guide (#484)"
+            },
+            {
+              "SHA": "b3c2b20",
+              "Subject": "docs/guides: add Apache Solr secret engine guide (#483)"
+            },
+            {
+              "SHA": "c877148",
+              "Subject": "docs/qdrant: add missing subjects field to SecretAccessRequest example (#512)"
+            },
+            {
+              "SHA": "df4ed9d",
+              "Subject": "docs/guides: add Qdrant secret engine guide (#481)"
+            },
+            {
+              "SHA": "0b587a0",
+              "Subject": "docs/guides: add Neo4j secret engine guide (#479)"
+            },
+            {
+              "SHA": "3ce376f",
+              "Subject": "docs/guides: add Milvus secret engine guide (#477)"
+            },
+            {
+              "SHA": "84795bf",
+              "Subject": "docs/guides: add Apache Kafka secret engine guide (#475)"
+            },
+            {
+              "SHA": "e732477",
+              "Subject": "Update docs for kubevault/operator@921b77b9 (#511)"
+            },
+            {
+              "SHA": "1c427ee",
+              "Subject": "docs/guides: add Apache Ignite secret engine guide (#474)"
+            },
+            {
+              "SHA": "61fa59c",
+              "Subject": "docs/guides: add SAP HANA secret engine guide (#472)"
+            },
+            {
+              "SHA": "934b586",
+              "Subject": "docs/guides: add Apache Druid secret engine guide (#471)"
+            },
+            {
+              "SHA": "d1f55c3",
+              "Subject": "docs/guides: add RabbitMQ secret engine guide (#482)"
+            },
+            {
+              "SHA": "0c69e7a",
+              "Subject": "docs/guides: add Oracle Database secret engine guide (#480)"
+            },
+            {
+              "SHA": "240f87a",
+              "Subject": "docs/guides: add Microsoft SQL Server secret engine guide (#478)"
+            },
+            {
+              "SHA": "f5d7a61",
+              "Subject": "docs: fix invalid partial SecretEngine snippet in tenant-isolation guide (#498)"
+            },
+            {
+              "SHA": "48ae96d",
+              "Subject": "Update docs for kubevault/operator@f63c2452 (#496)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "6aa0c59a",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#165)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
