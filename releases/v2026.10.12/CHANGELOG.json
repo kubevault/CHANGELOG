@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T21:26:28.445270213Z",
+  "release_date": "2026-10-12T03:03:51.104869764Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -221,6 +221,96 @@
             {
               "SHA": "ccaf55ab",
               "Subject": "Support overriding kubevault-catalog dir via flag (#469)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": [
+            {
+              "SHA": "1e2227a",
+              "Subject": "Prepare for release v2026.10.12 (#523)"
+            },
+            {
+              "SHA": "5ef378c",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#519)"
+            },
+            {
+              "SHA": "1da5e31",
+              "Subject": "Add Custom Roles for Etcd Secret Engine"
+            },
+            {
+              "SHA": "e6dafe0",
+              "Subject": "docs/guides: add etcd secret engine guide (#514)"
+            },
+            {
+              "SHA": "853ee65",
+              "Subject": "docs/guides: add Weaviate secret engine guide (#484)"
+            },
+            {
+              "SHA": "b3c2b20",
+              "Subject": "docs/guides: add Apache Solr secret engine guide (#483)"
+            },
+            {
+              "SHA": "c877148",
+              "Subject": "docs/qdrant: add missing subjects field to SecretAccessRequest example (#512)"
+            },
+            {
+              "SHA": "df4ed9d",
+              "Subject": "docs/guides: add Qdrant secret engine guide (#481)"
+            },
+            {
+              "SHA": "0b587a0",
+              "Subject": "docs/guides: add Neo4j secret engine guide (#479)"
+            },
+            {
+              "SHA": "3ce376f",
+              "Subject": "docs/guides: add Milvus secret engine guide (#477)"
+            },
+            {
+              "SHA": "84795bf",
+              "Subject": "docs/guides: add Apache Kafka secret engine guide (#475)"
+            },
+            {
+              "SHA": "e732477",
+              "Subject": "Update docs for kubevault/operator@921b77b9 (#511)"
+            },
+            {
+              "SHA": "1c427ee",
+              "Subject": "docs/guides: add Apache Ignite secret engine guide (#474)"
+            },
+            {
+              "SHA": "61fa59c",
+              "Subject": "docs/guides: add SAP HANA secret engine guide (#472)"
+            },
+            {
+              "SHA": "934b586",
+              "Subject": "docs/guides: add Apache Druid secret engine guide (#471)"
+            },
+            {
+              "SHA": "d1f55c3",
+              "Subject": "docs/guides: add RabbitMQ secret engine guide (#482)"
+            },
+            {
+              "SHA": "0c69e7a",
+              "Subject": "docs/guides: add Oracle Database secret engine guide (#480)"
+            },
+            {
+              "SHA": "240f87a",
+              "Subject": "docs/guides: add Microsoft SQL Server secret engine guide (#478)"
+            },
+            {
+              "SHA": "f5d7a61",
+              "Subject": "docs: fix invalid partial SecretEngine snippet in tenant-isolation guide (#498)"
+            },
+            {
+              "SHA": "48ae96d",
+              "Subject": "Update docs for kubevault/operator@f63c2452 (#496)"
             }
           ]
         }

@@ -1,4 +1,4 @@
-# KubeVault v2026.10.12 (2026-10-11)
+# KubeVault v2026.10.12 (2026-10-12)
 
 
 ## [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
@@ -71,6 +71,33 @@
 - [7cef6388](https://github.com/kubevault/installer/commit/7cef6388) Makefile: use update-codegen.sh bundled in the gengo-builder image, bump image to release-1.34 (#472)
 - [d0e844f6](https://github.com/kubevault/installer/commit/d0e844f6) crds: sync bundled CRDs from kubevault/apimachinery@master (#470)
 - [ccaf55ab](https://github.com/kubevault/installer/commit/ccaf55ab) Support overriding kubevault-catalog dir via flag (#469)
+
+
+
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2026.10.12](https://github.com/kubevault/kubevault/releases/tag/v2026.10.12)
+
+- [1e2227a](https://github.com/kubevault/kubevault/commit/1e2227a) Prepare for release v2026.10.12 (#523)
+- [5ef378c](https://github.com/kubevault/kubevault/commit/5ef378c) Use Go 1.27, k8s 1.37 & debian:13 (#519)
+- [1da5e31](https://github.com/kubevault/kubevault/commit/1da5e31) Add Custom Roles for Etcd Secret Engine
+- [e6dafe0](https://github.com/kubevault/kubevault/commit/e6dafe0) docs/guides: add etcd secret engine guide (#514)
+- [853ee65](https://github.com/kubevault/kubevault/commit/853ee65) docs/guides: add Weaviate secret engine guide (#484)
+- [b3c2b20](https://github.com/kubevault/kubevault/commit/b3c2b20) docs/guides: add Apache Solr secret engine guide (#483)
+- [c877148](https://github.com/kubevault/kubevault/commit/c877148) docs/qdrant: add missing subjects field to SecretAccessRequest example (#512)
+- [df4ed9d](https://github.com/kubevault/kubevault/commit/df4ed9d) docs/guides: add Qdrant secret engine guide (#481)
+- [0b587a0](https://github.com/kubevault/kubevault/commit/0b587a0) docs/guides: add Neo4j secret engine guide (#479)
+- [3ce376f](https://github.com/kubevault/kubevault/commit/3ce376f) docs/guides: add Milvus secret engine guide (#477)
+- [84795bf](https://github.com/kubevault/kubevault/commit/84795bf) docs/guides: add Apache Kafka secret engine guide (#475)
+- [e732477](https://github.com/kubevault/kubevault/commit/e732477) Update docs for kubevault/operator@921b77b9 (#511)
+- [1c427ee](https://github.com/kubevault/kubevault/commit/1c427ee) docs/guides: add Apache Ignite secret engine guide (#474)
+- [61fa59c](https://github.com/kubevault/kubevault/commit/61fa59c) docs/guides: add SAP HANA secret engine guide (#472)
+- [934b586](https://github.com/kubevault/kubevault/commit/934b586) docs/guides: add Apache Druid secret engine guide (#471)
+- [d1f55c3](https://github.com/kubevault/kubevault/commit/d1f55c3) docs/guides: add RabbitMQ secret engine guide (#482)
+- [0c69e7a](https://github.com/kubevault/kubevault/commit/0c69e7a) docs/guides: add Oracle Database secret engine guide (#480)
+- [240f87a](https://github.com/kubevault/kubevault/commit/240f87a) docs/guides: add Microsoft SQL Server secret engine guide (#478)
+- [f5d7a61](https://github.com/kubevault/kubevault/commit/f5d7a61) docs: fix invalid partial SecretEngine snippet in tenant-isolation guide (#498)
+- [48ae96d](https://github.com/kubevault/kubevault/commit/48ae96d) Update docs for kubevault/operator@f63c2452 (#496)
 
 
 
