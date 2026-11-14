@@ -26,6 +26,15 @@
 
 
 
+## [kubevault/operator](https://github.com/kubevault/operator)
+
+### [v0.27.0](https://github.com/kubevault/operator/releases/tag/v0.27.0)
+
+- [467247ab](https://github.com/kubevault/operator/commit/467247ab0) Prepare for release v0.27.0 (#248)
+- [fd1dc8e1](https://github.com/kubevault/operator/commit/fd1dc8e1f) Add support for 9 additional VaultServer storage backends (#229)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.27.0](https://github.com/kubevault/unsealer/releases/tag/v0.27.0)
