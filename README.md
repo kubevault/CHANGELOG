@@ -2,6 +2,7 @@
 
 |  Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
+| [v2026.11.15](https:/github.com/kubevault/CHANGELOG/releases/tag/v2026.11.15) | 2026-11-14 | [User Guide](https://kubevault.com/docs/v2026.11.15) | [CHANGELOG](/releases/v2026.11.15/README.md) | 1.28+ |
 | [v2026.10.12](https:/github.com/kubevault/CHANGELOG/releases/tag/v2026.10.12) | 2026-10-12 | [User Guide](https://kubevault.com/docs/v2026.10.12) | [CHANGELOG](/releases/v2026.10.12/README.md) | 1.28+ |
 | [v2026.8.7](https:/github.com/kubevault/CHANGELOG/releases/tag/v2026.8.7) | 2026-08-07 | [User Guide](https://kubevault.com/docs/v2026.8.7) | [CHANGELOG](/releases/v2026.8.7/README.md) | 1.28+ |
 | [v2026.7.24-rc.2](https:/github.com/kubevault/CHANGELOG/releases/tag/v2026.7.24-rc.2) | 2026-07-25 | [User Guide](https://kubevault.com/docs/v2026.7.24-rc.2) | [CHANGELOG](/releases/v2026.7.24-rc.2/README.md) | 1.28+ |
