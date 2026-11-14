@@ -10,6 +10,14 @@
 
 
 
+## [kubevault/cli](https://github.com/kubevault/cli)
+
+### [v0.27.0](https://github.com/kubevault/cli/releases/tag/v0.27.0)
+
+- [a92932ab](https://github.com/kubevault/cli/commit/a92932ab) Prepare for release v0.27.0 (#238)
+
+
+
 ## [kubevault/crd-manager](https://github.com/kubevault/crd-manager)
 
 ### [v0.3.0](https://github.com/kubevault/crd-manager/releases/tag/v0.3.0)
