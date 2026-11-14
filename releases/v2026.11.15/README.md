@@ -10,6 +10,14 @@
 
 
 
+## [kubevault/crd-manager](https://github.com/kubevault/crd-manager)
+
+### [v0.3.0](https://github.com/kubevault/crd-manager/releases/tag/v0.3.0)
+
+- [fc5c4de](https://github.com/kubevault/crd-manager/commit/fc5c4de) Prepare for release v0.3.0 (#6)
+
+
+
 ## [kubevault/unsealer](https://github.com/kubevault/unsealer)
 
 ### [v0.27.0](https://github.com/kubevault/unsealer/releases/tag/v0.27.0)

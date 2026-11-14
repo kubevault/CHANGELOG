@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.11.15",
-  "release_date": "2026-11-14T07:19:21.04123969Z",
+  "release_date": "2026-11-14T07:43:37.963284253Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -19,6 +19,20 @@
             {
               "SHA": "e4a7ad21",
               "Subject": "apis/kubevault/v1alpha2: add 9 more VaultServer storage backends (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "fc5c4de",
+              "Subject": "Prepare for release v0.3.0 (#6)"
             }
           ]
         }
