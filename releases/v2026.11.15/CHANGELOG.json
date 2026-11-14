@@ -1,0 +1,28 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2026.11.15",
+  "release_date": "2026-11-14T07:19:06.988214726Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2026.11.15",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "fe59d67d",
+              "Subject": "Clean up deps"
+            },
+            {
+              "SHA": "e4a7ad21",
+              "Subject": "apis/kubevault/v1alpha2: add 9 more VaultServer storage backends (#171)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
