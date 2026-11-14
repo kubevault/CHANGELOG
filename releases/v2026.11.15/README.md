@@ -10,3 +10,10 @@
 
 
 
+## [kubevault/unsealer](https://github.com/kubevault/unsealer)
+
+### [v0.27.0](https://github.com/kubevault/unsealer/releases/tag/v0.27.0)
+
+
+
+

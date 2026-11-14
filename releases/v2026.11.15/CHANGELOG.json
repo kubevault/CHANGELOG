@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.11.15",
-  "release_date": "2026-11-14T07:19:06.988214726Z",
+  "release_date": "2026-11-14T07:19:21.04123969Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -21,6 +21,15 @@
               "Subject": "apis/kubevault/v1alpha2: add 9 more VaultServer storage backends (#171)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": null
         }
       ]
     }
