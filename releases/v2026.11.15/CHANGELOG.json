@@ -1,0 +1,111 @@
+{
+  "product_line": "KubeVault",
+  "release": "v2026.11.15",
+  "release_date": "2026-11-15T02:24:23.181376453Z",
+  "release_project_url": "https://github.com/kubevault/CHANGELOG",
+  "docs_url": "https://kubevault.com/docs/v2026.11.15",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubevault/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "fe59d67d",
+              "Subject": "Clean up deps"
+            },
+            {
+              "SHA": "e4a7ad21",
+              "Subject": "apis/kubevault/v1alpha2: add 9 more VaultServer storage backends (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/cli",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "a92932ab",
+              "Subject": "Prepare for release v0.27.0 (#238)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "fc5c4de",
+              "Subject": "Prepare for release v0.3.0 (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2026.11.15",
+          "commits": [
+            {
+              "SHA": "c2663e2f",
+              "Subject": "Prepare for release v2026.11.15 (#482)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/kubevault",
+      "releases": [
+        {
+          "tag": "v2026.11.15",
+          "commits": [
+            {
+              "SHA": "2a55197",
+              "Subject": "Prepare for release v2026.11.15 (#525)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/operator",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "467247ab0",
+              "Subject": "Prepare for release v0.27.0 (#248)"
+            },
+            {
+              "SHA": "fd1dc8e1f",
+              "Subject": "Add support for 9 additional VaultServer storage backends (#229)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/unsealer",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": null
+        }
+      ]
+    }
+  ]
+}
