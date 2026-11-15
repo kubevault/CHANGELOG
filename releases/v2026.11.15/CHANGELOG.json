@@ -1,7 +1,7 @@
 {
   "product_line": "KubeVault",
   "release": "v2026.11.15",
-  "release_date": "2026-11-14T08:38:40.899325214Z",
+  "release_date": "2026-11-15T02:00:31.516654177Z",
   "release_project_url": "https://github.com/kubevault/CHANGELOG",
   "docs_url": "https://kubevault.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -47,6 +47,20 @@
             {
               "SHA": "fc5c4de",
               "Subject": "Prepare for release v0.3.0 (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubevault/installer",
+      "releases": [
+        {
+          "tag": "v2026.11.15",
+          "commits": [
+            {
+              "SHA": "c2663e2f",
+              "Subject": "Prepare for release v2026.11.15 (#482)"
             }
           ]
         }

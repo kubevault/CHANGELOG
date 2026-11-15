@@ -1,4 +1,4 @@
-# KubeVault v2026.11.15 (2026-11-14)
+# KubeVault v2026.11.15 (2026-11-15)
 
 
 ## [kubevault/apimachinery](https://github.com/kubevault/apimachinery)
@@ -23,6 +23,14 @@
 ### [v0.3.0](https://github.com/kubevault/crd-manager/releases/tag/v0.3.0)
 
 - [fc5c4de](https://github.com/kubevault/crd-manager/commit/fc5c4de) Prepare for release v0.3.0 (#6)
+
+
+
+## [kubevault/installer](https://github.com/kubevault/installer)
+
+### [v2026.11.15](https://github.com/kubevault/installer/releases/tag/v2026.11.15)
+
+- [c2663e2f](https://github.com/kubevault/installer/commit/c2663e2f) Prepare for release v2026.11.15 (#482)
 
 
 
