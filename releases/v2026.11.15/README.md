@@ -34,6 +34,14 @@
 
 
 
+## [kubevault/kubevault](https://github.com/kubevault/kubevault)
+
+### [v2026.11.15](https://github.com/kubevault/kubevault/releases/tag/v2026.11.15)
+
+- [2a55197](https://github.com/kubevault/kubevault/commit/2a55197) Prepare for release v2026.11.15 (#525)
+
+
+
 ## [kubevault/operator](https://github.com/kubevault/operator)
 
 ### [v0.27.0](https://github.com/kubevault/operator/releases/tag/v0.27.0)
